@@ -275,7 +275,7 @@ function App() {
 
       {/* ===== TITLE ===== */}
       <section ref={titleRef} className="flex flex-col items-center justify-center py-16 md:py-20">
-        <p className="mb-6 md:mb-8 text-sm sm:text-base md:text-lg tracking-[0.4em] uppercase font-light" style={{ opacity: Math.max(0, (titleEased - 0.3) / 0.7) * 0.6, transform: `translateY(${Math.max(0, 1 - titleEased) * 20}px)`, color: "#fff", willChange: "opacity, transform" }}>
+        <p className="mb-6 md:mb-8 text-base sm:text-lg md:text-xl tracking-[0.5em] uppercase font-normal" style={{ opacity: Math.max(0, (titleEased - 0.3) / 0.7) * 0.6, transform: `translateY(${Math.max(0, 1 - titleEased) * 20}px)`, color: "#fff", willChange: "opacity, transform" }}>
           HCAM-120
         </p>
         <h1 className="text-5xl sm:text-6xl md:text-6xl lg:text-8xl font-medium tracking-[0.2em] md:tracking-[0.3em] uppercase px-4" style={{ opacity: titleEased * 0.9, transform: `translateY(${(1 - titleEased) * 30}px)`, color: "#fff", textShadow: titleEased > 0.3 ? `0 0 ${50 * titleEased}px rgba(100,180,255,${titleEased * 0.15})` : "none", willChange: "opacity, transform" }}>
