@@ -278,7 +278,7 @@ function App() {
         <p className="mb-6 md:mb-8 text-xs sm:text-sm md:text-base tracking-[0.4em] uppercase font-light" style={{ opacity: Math.max(0, (titleEased - 0.3) / 0.7) * 0.6, transform: `translateY(${Math.max(0, 1 - titleEased) * 20}px)`, color: "#fff", willChange: "opacity, transform" }}>
           HCAM-120 · For en positiv fremtid
         </p>
-        <h1 className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-medium tracking-[0.3em] uppercase" style={{ opacity: titleEased * 0.9, transform: `translateY(${(1 - titleEased) * 30}px)`, color: "#fff", textShadow: titleEased > 0.3 ? `0 0 ${50 * titleEased}px rgba(100,180,255,${titleEased * 0.15})` : "none", willChange: "opacity, transform" }}>
+        <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-8xl font-medium tracking-[0.2em] md:tracking-[0.3em] uppercase px-4" style={{ opacity: titleEased * 0.9, transform: `translateY(${(1 - titleEased) * 30}px)`, color: "#fff", textShadow: titleEased > 0.3 ? `0 0 ${50 * titleEased}px rgba(100,180,255,${titleEased * 0.15})` : "none", willChange: "opacity, transform" }}>
           Animatus
         </h1>
       </section>
@@ -298,7 +298,7 @@ function App() {
 
       {/* ===== FEATURE GRID ===== */}
       <section className="px-6 md:px-16 lg:px-24 py-12 md:py-16 text-center border-t border-b border-white/[0.06]">
-        <div className="max-w-[1100px] mx-auto grid grid-cols-2 md:grid-cols-4 gap-12 md:gap-8">
+        <div className="max-w-[1100px] mx-auto grid grid-cols-2 lg:grid-cols-4 gap-10 md:gap-8">
           <FeatureIcon
             icon={<svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}><path d="M7.5 8.25h9m-9 3H12m-9.75 1.51c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.076-4.076a1.526 1.526 0 011.037-.443 48.282 48.282 0 005.68-.494c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0012 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018z" /></svg>}
             title="Samtale"
@@ -342,7 +342,7 @@ function App() {
           />
           <div className="w-full"><VideoBlock src="/video-1.mp4" label="Watch Video" /></div>
 
-          <div className="w-full grid grid-cols-1 md:grid-cols-3 gap-10 mt-20">
+          <div className="w-full grid grid-cols-1 sm:grid-cols-3 gap-10 mt-20">
             <FeatureIcon
               icon={<svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}><path d="M18 18.72a9.094 9.094 0 003.741-.479 3 3 0 00-4.682-2.72m.94 3.198l.001.031c0 .225-.012.447-.037.666A11.944 11.944 0 0112 21c-2.17 0-4.207-.576-5.963-1.584A6.062 6.062 0 016 18.719m12 0a5.971 5.971 0 00-.941-3.197m0 0A5.995 5.995 0 0012 12.75a5.995 5.995 0 00-5.058 2.772m0 0a3 3 0 00-4.681 2.72 8.986 8.986 0 003.74.477m.94-3.197a5.971 5.971 0 00-.94 3.197M15 6.75a3 3 0 11-6 0 3 3 0 016 0zm6 3a2.25 2.25 0 11-4.5 0 2.25 2.25 0 014.5 0zm-13.5 0a2.25 2.25 0 11-4.5 0 2.25 2.25 0 014.5 0z" /></svg>}
               title="Lytter"
