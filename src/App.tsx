@@ -278,7 +278,7 @@ function App() {
         <p className="mb-6 md:mb-8 text-xs sm:text-sm md:text-base tracking-[0.4em] uppercase font-light" style={{ opacity: Math.max(0, (titleEased - 0.3) / 0.7) * 0.6, transform: `translateY(${Math.max(0, 1 - titleEased) * 20}px)`, color: "#fff", willChange: "opacity, transform" }}>
           HCAM-120
         </p>
-        <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-8xl font-medium tracking-[0.2em] md:tracking-[0.3em] uppercase px-4" style={{ opacity: titleEased * 0.9, transform: `translateY(${(1 - titleEased) * 30}px)`, color: "#fff", textShadow: titleEased > 0.3 ? `0 0 ${50 * titleEased}px rgba(100,180,255,${titleEased * 0.15})` : "none", willChange: "opacity, transform" }}>
+        <h1 className="text-5xl sm:text-6xl md:text-6xl lg:text-8xl font-medium tracking-[0.2em] md:tracking-[0.3em] uppercase px-4" style={{ opacity: titleEased * 0.9, transform: `translateY(${(1 - titleEased) * 30}px)`, color: "#fff", textShadow: titleEased > 0.3 ? `0 0 ${50 * titleEased}px rgba(100,180,255,${titleEased * 0.15})` : "none", willChange: "opacity, transform" }}>
           Animatus
         </h1>
       </section>
@@ -302,7 +302,7 @@ function App() {
           <FeatureIcon
             icon={<svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}><path d="M7.5 8.25h9m-9 3H12m-9.75 1.51c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.076-4.076a1.526 1.526 0 011.037-.443 48.282 48.282 0 005.68-.494c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0012 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018z" /></svg>}
             title="Samtale"
-            description="Snakker i sanntid. Lytter, forstår, svarer — med humor, varme og en stemme som er hennes egen."
+            description="Snakker i sanntid. Lytter, forstår, svarer — med humor, varme og en egen stemme."
           />
           <FeatureIcon
             icon={<svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}><path d="M21 7.5l-2.25-1.313M21 7.5v2.25m0-2.25l-2.25 1.313M3 7.5l2.25-1.313M3 7.5l2.25 1.313M3 7.5v2.25m9 3l2.25-1.313M12 12.75l-2.25-1.313M12 12.75V15m0 6.75l2.25-1.313M12 21.75V19.5m0 2.25l-2.25-1.313m0-16.875L12 2.25l2.25 1.313M21 14.25v2.25l-2.25 1.313m-13.5 0L3 16.5v-2.25" /></svg>}
@@ -326,7 +326,7 @@ function App() {
       <section className="px-6 md:px-16 lg:px-24 py-12 md:py-16 text-center">
         <div className="max-w-[1100px] mx-auto flex flex-col items-center">
           <SectionHeading
-            title="Et kunstprosjekt, ikke et produkt"
+            title="Teknologi med intensjon"
             description="Animatus utforsker grensen mellom design, kunstig intelligens og menneskelig kontakt. Hva betyr det å gi en maskin sjel? Hvordan bør teknologi føles når den møter oss ansikt til ansikt? Prosjektet er initiert av Alkemist og utvikles i samarbeid med kunstnere, forskere og kulturinstitusjoner."
           />
           <div className="w-full"><VideoBlock src="/video-2-short.mp4" fullSrc="/video-2.mp4" label="Watch Video" /></div>
@@ -356,7 +356,7 @@ function App() {
             <FeatureIcon
               icon={<svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}><path d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09z" /></svg>}
               title="Lever"
-              description="Hver samtale former hvem hun blir. Roboten du møter i dag er ikke den du møter i morgen."
+              description="Hver samtale former hvem den blir. Roboten du møter i dag er ikke den du møter i morgen."
             />
           </div>
         </div>
