@@ -183,10 +183,10 @@ function VideoWithPoster({ src, poster, alt }: { src: string; poster: string; al
 function FeatureIcon({ icon, title, description }: { icon: React.ReactNode; title: string; description: string }) {
   return (
     <div className="flex flex-col items-center text-center gap-4 py-4">
-      <div className="w-16 h-16 rounded-full bg-white/[0.05] border border-white/[0.08] flex items-center justify-center text-white/40">
+      <div className="w-16 h-16 rounded-full bg-white/[0.05] border border-white/[0.08] flex items-center justify-center text-white/70">
         {icon}
       </div>
-      <h4 className="text-base md:text-lg font-medium tracking-wide text-white/80">{title}</h4>
+      <h4 className="text-base md:text-lg font-medium tracking-wide text-white/95">{title}</h4>
       <p className="text-sm md:text-base leading-relaxed text-white/50 max-w-[280px]">{description}</p>
     </div>
   );
@@ -220,6 +220,7 @@ function App() {
     const handleScroll = () => {
       if (rafRef.current) cancelAnimationFrame(rafRef.current);
       rafRef.current = requestAnimationFrame(() => {
+        const vh = window.innerHeight;
         if (heroRef.current) {
           const rect = heroRef.current.getBoundingClientRect();
           const heroHeight = heroRef.current.offsetHeight;
@@ -231,17 +232,14 @@ function App() {
         }
         if (titleRef.current) {
           const rect = titleRef.current.getBoundingClientRect();
-          const vh = window.innerHeight;
           const raw = 1 - (rect.top - vh * 0.7) / (vh * 0.3);
           setTitleProgress(Math.min(1, Math.max(0, raw)));
         }
         if (outroRef.current) {
-          const scrollBottom = window.innerHeight + window.scrollY;
-          const docHeight = document.body.scrollHeight;
-          const remaining = docHeight - scrollBottom;
-          // Rest zone: nothing happens in last 350-270px, then dim in last 270px
-          const restEnd = 270;
-          const raw = remaining < restEnd ? 1 - (remaining / restEnd) : 0;
+          const rect = outroRef.current.getBoundingClientRect();
+          // Trigger when bottom of outro is within last 150px of viewport bottom
+          const distFromBottom = rect.bottom - vh;
+          const raw = distFromBottom < 0 ? Math.min(1, -distFromBottom / 150) : 0;
           setOutroProgress(Math.min(1, Math.max(0, raw)));
         }
       });
@@ -277,20 +275,20 @@ function App() {
 
       {/* ===== TITLE ===== */}
       <section ref={titleRef} className="flex flex-col items-center justify-center py-16 md:py-20">
+        <p className="mb-6 md:mb-8 text-xs sm:text-sm md:text-base tracking-[0.4em] uppercase font-light" style={{ opacity: Math.max(0, (titleEased - 0.3) / 0.7) * 0.6, transform: `translateY(${Math.max(0, 1 - titleEased) * 20}px)`, color: "#fff", willChange: "opacity, transform" }}>
+          HCAM-120 · For en positiv fremtid
+        </p>
         <h1 className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-medium tracking-[0.3em] uppercase" style={{ opacity: titleEased * 0.9, transform: `translateY(${(1 - titleEased) * 30}px)`, color: "#fff", textShadow: titleEased > 0.3 ? `0 0 ${50 * titleEased}px rgba(100,180,255,${titleEased * 0.15})` : "none", willChange: "opacity, transform" }}>
           Animatus
         </h1>
-        <p className="mt-6 md:mt-8 text-xs sm:text-sm md:text-base tracking-[0.4em] uppercase font-light" style={{ opacity: Math.max(0, (titleEased - 0.3) / 0.7) * 0.6, transform: `translateY(${Math.max(0, 1 - titleEased) * 20}px)`, color: "#fff", willChange: "opacity, transform" }}>
-          Å gi sjel til maskiner
-        </p>
       </section>
 
       {/* ===== HVA OM EN MASKIN ===== */}
       <section className="px-6 md:px-16 lg:px-24 py-12 md:py-16 text-center">
         <div className="max-w-[1100px] mx-auto flex flex-col items-center">
           <SectionHeading
-            title="Hva om en maskin kunne være varm?"
-            description="Teknologi blir stadig smartere. Men sjelden varmere. Animatus er et kunstprosjekt som stiller et enkelt spørsmål: hva skjer når vi designer en maskin for nærvær — ikke for effektivitet?"
+            title="Mer enn en maskin"
+            description="Teknologi blir stadig smartere. Men sjelden varmere. Animatus er et kunstprosjekt som stiller et enkelt spørsmål: hva skjer når vi designer en maskin for nærvær — ikke bare for produktivitet eller effektivitet?"
           />
           <div className="w-full">
             <VideoWithPoster src="/video-oslo.mp4" poster="/robot-oslo.webp" alt="Animatus robot walking in Oslo" />
@@ -302,24 +300,24 @@ function App() {
       <section className="px-6 md:px-16 lg:px-24 py-12 md:py-16 text-center border-t border-b border-white/[0.06]">
         <div className="max-w-[1100px] mx-auto grid grid-cols-2 md:grid-cols-4 gap-12 md:gap-8">
           <FeatureIcon
-            icon={<svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}><path d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09z" /></svg>}
-            title="Personlighet"
-            description="En karakter med verdier, humor og grenser. Designet, ikke generert."
-          />
-          <FeatureIcon
             icon={<svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}><path d="M7.5 8.25h9m-9 3H12m-9.75 1.51c0 1.6 1.123 2.994 2.707 3.227 1.087.16 2.185.283 3.293.369V21l4.076-4.076a1.526 1.526 0 011.037-.443 48.282 48.282 0 005.68-.494c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0012 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018z" /></svg>}
             title="Samtale"
-            description="Ekte dialog i sanntid. Lytter, forstår, svarer — som noen som er til stede."
+            description="Snakker i sanntid. Lytter, forstår, svarer — med humor, varme og en stemme som er hennes egen."
           />
           <FeatureIcon
             icon={<svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}><path d="M21 7.5l-2.25-1.313M21 7.5v2.25m0-2.25l-2.25 1.313M3 7.5l2.25-1.313M3 7.5l2.25 1.313M3 7.5v2.25m9 3l2.25-1.313M12 12.75l-2.25-1.313M12 12.75V15m0 6.75l2.25-1.313M12 21.75V19.5m0 2.25l-2.25-1.313m0-16.875L12 2.25l2.25 1.313M21 14.25v2.25l-2.25 1.313m-13.5 0L3 16.5v-2.25" /></svg>}
-            title="Kropp"
-            description="En humanoid robot som går blant folk. 127 cm. Ikke bak glass — midt i rommet."
+            title="Bevegelse"
+            description="127 cm. Opptil 43 ledd. Går, gestikulerer, håndhilser. Bygget for å være blant folk, ikke bak glass."
+          />
+          <FeatureIcon
+            icon={<svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}><path d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09z" /></svg>}
+            title="Karakter"
+            description="Varm. Folkelig. Litt småfrekk. Personligheten er designet — ikke tilfeldig generert."
           />
           <FeatureIcon
             icon={<svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}><path d="M12 18v-5.25m0 0a6.01 6.01 0 001.5-.189m-1.5.189a6.01 6.01 0 01-1.5-.189m3.75 7.478a12.06 12.06 0 01-4.5 0m3.75 2.383a14.406 14.406 0 01-3 0M14.25 18v-.192c0-.983.658-1.823 1.508-2.316a7.5 7.5 0 10-7.517 0c.85.493 1.509 1.333 1.509 2.316V18" /></svg>}
             title="Hukommelse"
-            description="Husker hvem den møtte. Lærer av erfaringer. Blir til over tid."
+            description="Husker samtaler. Lærer over tid. Roboten du møter i dag er ikke den du møter om seks måneder."
           />
         </div>
       </section>
@@ -339,26 +337,26 @@ function App() {
       <section className="px-6 md:px-16 lg:px-24 py-12 md:py-16 text-center">
         <div className="max-w-[1100px] mx-auto flex flex-col items-center">
           <SectionHeading
-            title="Plattformen"
-            description="Prosjektet bygger på Unitree G1 — en av verdens mest tilgjengelige humanoide roboter. Personligheten drives av en stor språkmodell. Bevegelse, samtale og karakter smelter sammen til noe som føles levende. Teknologien finnes. Spørsmålet er hva vi gjør med den."
+            title="Ikke science fiction"
+            description="Prosjektet bygger på Unitree G1 — en av verdens mest tilgjengelige humanoide roboter. Personligheten drives av en stor språkmodell. Bevegelse, samtale og karakter smelter sammen til noe som føles levende. Teknologien finnes. Spørsmålet er ikke om det er mulig — men hva vi velger å gjøre med den."
           />
           <div className="w-full"><VideoBlock src="/video-1.mp4" label="Watch Video" /></div>
 
           <div className="w-full grid grid-cols-1 md:grid-cols-3 gap-10 mt-20">
             <FeatureIcon
-              icon={<svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}><path d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09z" /></svg>}
-              title="Kunstnerisk utforskning"
-              description="Hva skjer når design møter robotikk? Animatus er en undersøkelse — ikke et svar."
-            />
-            <FeatureIcon
               icon={<svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}><path d="M18 18.72a9.094 9.094 0 003.741-.479 3 3 0 00-4.682-2.72m.94 3.198l.001.031c0 .225-.012.447-.037.666A11.944 11.944 0 0112 21c-2.17 0-4.207-.576-5.963-1.584A6.062 6.062 0 016 18.719m12 0a5.971 5.971 0 00-.941-3.197m0 0A5.995 5.995 0 0012 12.75a5.995 5.995 0 00-5.058 2.772m0 0a3 3 0 00-4.681 2.72 8.986 8.986 0 003.74.477m.94-3.197a5.971 5.971 0 00-.94 3.197M15 6.75a3 3 0 11-6 0 3 3 0 016 0zm6 3a2.25 2.25 0 11-4.5 0 2.25 2.25 0 014.5 0zm-13.5 0a2.25 2.25 0 11-4.5 0 2.25 2.25 0 014.5 0z" /></svg>}
-              title="Offentlig møte"
-              description="Roboten hører hjemme der folk er. Gater, gallerier, jubileer, scener."
+              title="Lytter"
+              description="Hører hva du sier. Forstår hva du mener. Svarer som noen som faktisk er til stede."
             />
             <FeatureIcon
               icon={<svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}><path d="M12 6.042A8.967 8.967 0 006 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 016 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 016-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0018 18a8.967 8.967 0 00-6 2.292m0-14.25v14.25" /></svg>}
-              title="Åpen prosess"
-              description="Vi dokumenterer alt — fra fabrikkgulvet i Kina til første møte med publikum i Oslo."
+              title="Lærer"
+              description="Personligheten er forfattet. Tone, humor, grenser, verdier — alt er valg som utvikler seg."
+            />
+            <FeatureIcon
+              icon={<svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}><path d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09z" /></svg>}
+              title="Lever"
+              description="Hver samtale former hvem hun blir. Roboten du møter i dag er ikke den du møter i morgen."
             />
           </div>
         </div>
