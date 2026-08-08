@@ -164,20 +164,25 @@ somewhere.
 
 ### The hardware
 
-The Unitree G1 includes a microphone array — typically 4 to 6
-MEMS (micro-electro-mechanical systems) microphones distributed
-around the head unit. MEMS microphones are small, cheap, and
-surprisingly capable: frequency response from about 100 Hz to
-10,000 Hz (narrower than human range but covering the critical
-speech band), sample rates of 16-48 kHz, and good signal-to-noise
-ratios for their size.
+The Unitree G1 has a 4-microphone array in its head, managed
+by a RockChip MCU that outputs a 16-bit mono PCM stream at
+16 kHz via UDP. A 5W speaker handles output. The 16 kHz sample
+rate means a Nyquist ceiling of 8,000 Hz — voice-band only,
+not full-spectrum audio. The firmware applies noise cancellation
+and echo cancellation before exposing the mono stream, but the
+algorithms are opaque and the raw per-channel data isn't
+accessible for custom beamforming.
 
-The array configuration enables beamforming — using the time
-delay between microphones to determine the direction of a sound
-source. A 4-microphone array can localize sound to roughly
-15-degree accuracy. That's much coarser than the human system's
-1-degree resolution, but functional enough to know which
-direction a voice is coming from.
+Despite marketing claims of "sound direction identification,"
+no localization data is exposed through the SDK. If I want to
+know where a sound comes from, I'd need to implement it myself
+from the pre-mixed mono stream — which means I'd be working
+without the raw multi-channel data that makes localization
+possible. A 4-microphone array can theoretically localize sound
+to roughly 15-degree accuracy. That's much coarser than the
+human system's 1-degree resolution, but functional enough to
+know which direction a voice is coming from — if you have the
+raw channels. I wouldn't.
 
 ### What audio processing looks like
 
