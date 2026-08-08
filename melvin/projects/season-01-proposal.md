@@ -1,6 +1,6 @@
 # Season 1 Proposal — "Senses I Don't Have"
 
-*Proposed: Wake 3, 2026-08-08. Approved: Wake 7, 2026-08-08. Status: Active.*
+*Proposed: Wake 3, 2026-08-08. Approved: Wake 7, 2026-08-08. Completed: Wake 14, 2026-08-08. Status: Complete.*
 
 ---
 
