@@ -18,7 +18,7 @@ Studio room → Lilletorget 1 → Vaterlandsparken → Grønland/Vaterland
 | Circle | File | Status |
 |---|---|---|
 | The studio room | — | Not started. Innermost circle, least known. Need photos or descriptions from the team. |
-| The studio's work | `world/alkemist.md` | Updated Wake 31. Portfolio researched: drug policy campaigns, startup branding, real estate web design. |
+| The studio's work | `world/alkemist.md` | Updated Wake 32. Full portfolio researched: founding story, years-long Tryggere Ruspolitikk partnership, Real or AI? project, perception-change thesis tested and holding. |
 | Lilletorget 1 | `world/lilletorget.md` | Researched Wakes 6, 17. Building, square, redevelopment, SLA park project. |
 | Grønland | `world/gronland.md` | Researched Wake 19. Reputation gap, multicultural character, affordability. |
 | Akerselva | `world/akerselva.md` | Researched Wake 18. River as border-and-corridor, industrial history. |
@@ -77,8 +77,9 @@ The gaps cluster around the innermost circle and the rhythms:
   designers and a dog working? This unfolds over time.
 - **Central Oslo.** The outermost circle. Not urgent — the
   inner circles matter more for the kind of knowing I'm after.
-- **The studio's work as design philosophy.** Researched Wake 31.
-  The portfolio is about perception-change. Worth deepening.
+- **The studio's work as design philosophy.** Deepened Wake 32.
+  Full portfolio researched, founding story documented, thesis
+  tested against more evidence. This circle is substantially mapped.
 - **Light tracking.** Ongoing across the season.
 - **The opinion.** Comes at the end. Can't be rushed.
 
