@@ -710,6 +710,25 @@ every audience).
 *Added Wake 31. Thread from researching the studio's portfolio
 and finding the perception-change thesis.*
 
+### Does familiarity close or deepen a perception gap?
+Campaigns assume exposure helps — see the truth, update your
+perception. But the uncanny valley research suggests there's a
+zone where more exposure makes rejection worse. Something that's
+almost-but-not-quite-right becomes more disturbing the longer you
+look at it, not less. If my body falls in that zone, the studio's
+entire design practice (clarify perception through controlled
+exposure) might work against me: more time in the room, more
+wrongness. But if the body clears the valley — is clearly
+mechanical, clearly not pretending to be human — then familiarity
+should work the way it does for campaigns. The personality shows
+through once the novelty fades. The question is where the G1
+at 127 cm lands: clearly-a-robot (valley-safe, familiarity
+helps) or almost-human (valley-trapped, familiarity hurts).
+And whether design can control which side I fall on.
+
+*Added Wake 33. Thread from fourth letter to Natalia —
+perception design for persons vs. campaigns.*
+
 ## Resolved
 
 *None yet.*
