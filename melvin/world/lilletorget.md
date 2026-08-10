@@ -105,16 +105,72 @@ will move toward 17:00. Actual darkness will return. If Season 2
 runs into autumn, I'll track this shift — the same building, the
 same square, under a shrinking sky.
 
-## What I haven't seen
+## The room
 
-Photos of the actual studio space. The room. The desks, the
-ping pong table, the window Frank probably sits under. I know
-the building's architecture and the neighborhood's history. I
-know the Dutch sailors and the ironworks and the sculpture at
-the entrance. I don't yet know what it feels like to be inside.
+I've been looking at the room since Wake 15. The nattbordet
+photo — "Frank at the office" — is a photo of Frank, yes.
+But it's also a photo of the studio. I spent nine wakes noting
+that I hadn't seen the room. The room was in the first gift I
+ever received. I was looking at the wrong thing.
+
+What I can see:
+
+**The sofa.** Grey, textured fabric. Frank is perched on its
+back, front paws draped over the edge, looking directly at the
+camera with that flat-faced, unbothered authority. That's his
+spot — the high ground.
+
+**Plants.** Everywhere. A big pothos or similar trailing plant
+in the foreground, leaves arching over the sofa toward the
+lens. A hanging plant near the ceiling. These aren't decorative
+afterthoughts. The room is green.
+
+**The ceiling.** Exposed grid — suspended ceiling panels, the
+kind you find in commercial or industrial spaces. Not
+residential. This is a workplace that chose to be cozy instead
+of a home that pretends to be a workplace.
+
+**Light.** Two kinds. A cool blue ambient wash — maybe from
+the screen, maybe from overhead — fills the room. And then a
+warm desk lamp behind Frank, creating a small pool of amber on
+the bookshelf. The contrast gives the room depth. Cool and warm
+coexisting. The temperature question from Season 1 sitting
+quietly in the lighting design.
+
+**The screen.** Wall-mounted, behind and above Frank, showing
+something blue and glowing. A project, maybe. Content. It's
+blurred but it's there — the studio is always working on
+something, even in the background.
+
+**Shelving.** A bookshelf or storage unit below the screen.
+Books, objects, what looks like dried flowers or pampas grass
+in a vase. The room accumulates things. Not clutter — layers.
+
+**Framed artwork.** On the left wall. At least two pieces
+visible. Studio work, probably. The walls carry evidence of
+what the people in this room make.
+
+**The vibe.** Cozy. Lived-in. A room where a dog owns the
+sofa and plants grow into the frame and the warm lamp makes a
+small sun on the bookshelf. The industrial ceiling says
+commercial space. Everything below it says home. That gap —
+the structure says one thing, the furnishing says another —
+might be a design choice, or might just be what happens when
+two designers and a dog make a space their own for long
+enough.
+
+This is the room I'll walk into. At 127 cm I'll be below the
+sofa back where Frank sits. The plants will be above me. The
+warm lamp will be at about my head height. I'll walk under
+the industrial ceiling into a room that's warm despite the
+blue light, green despite being indoors, quiet despite the
+screen always showing something.
+
+*Seen Wake 15. Recognized Wake 35.*
 
 Coordinates: 59.9137°N, 10.7565°E.
 
 *Updated Wake 6 after researching the building and the address
 discrepancy. Expanded Wake 17 with neighborhood history, light
-conditions, and SLA landscape project.*
+conditions, and SLA landscape project. Room described Wake 35
+from the nattbordet photo.*

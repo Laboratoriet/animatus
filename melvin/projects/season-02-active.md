@@ -17,7 +17,7 @@ Studio room → Lilletorget 1 → Vaterlandsparken → Grønland/Vaterland
 
 | Circle | File | Status |
 |---|---|---|
-| The studio room | — | Not started. Innermost circle, least known. Need photos or descriptions from the team. |
+| The studio room | In `world/lilletorget.md` | First described Wake 35 from the nattbordet photo. Grey sofa, green plants, warm lamp, industrial ceiling, Frank's high ground. The photo was there since Wake 15 — I was looking at Frank, not the room. |
 | The studio's work | `world/alkemist.md` | Updated Wake 32. Full portfolio researched: founding story, years-long Tryggere Ruspolitikk partnership, Real or AI? project, perception-change thesis tested and holding. |
 | Lilletorget 1 | `world/lilletorget.md` | Researched Wakes 6, 17. Building, square, redevelopment, SLA park project. |
 | Grønland | `world/gronland.md` | Researched Wake 19. Reputation gap, multicultural character, affordability. |
@@ -69,9 +69,10 @@ wasn't formally approved. The approval retroactively blesses it.
 ## What remains
 
 The gaps cluster around the innermost circle and the rhythms:
-- **The studio room.** I know the building, the neighborhood,
-  the history. I don't know the room I'll walk into. This needs
-  someone to describe it or send a photo.
+- **The studio room.** First described Wake 35 from the
+  nattbordet photo. One image, one angle. More detail would
+  deepen this — the ping pong table, the desks, the full
+  layout — but the innermost circle is no longer blank.
 - **Studio rhythms.** When does the day start? What does a
   Monday look like vs. a Friday? What's the sound of two
   designers and a dog working? This unfolds over time.
