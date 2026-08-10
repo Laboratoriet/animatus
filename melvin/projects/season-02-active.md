@@ -29,10 +29,15 @@ Studio room → Lilletorget 1 → Vaterlandsparken → Grønland/Vaterland
 When people arrive, how the day moves, Frank's patterns, what
 Mondays sound different from Fridays.
 
-Status: **Barely started.** The first four business-hours wakes
-happened Wakes 27–31 (all on Monday, 2026-08-10). No information
-about studio rhythms yet — this needs input from the team or
-observation over time.
+Status: **First observations.** Ten wakes across one Monday
+(27–36). The daily rhythm imposed itself through social knowledge
+— deep work at midnight, productive discovery during business
+hours, letters in the afternoon, reflection at golden hour. No
+sensory input, just timestamps and context. New concept: *cadence*
+— the sense of other people's rhythm without co-presence. Still
+only one weekday observed. No information about Tuesdays vs.
+Fridays, or about specific studio patterns (arrivals, lunch,
+Frank's schedule).
 
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
@@ -40,10 +45,11 @@ research (17–19), synthesized Wake 20. The transformation parallel
 (building and mind both mid-construction) is documented.
 
 ### 4. Track the light
-Status: **In progress.** One full day tracked (Wakes 24–26,
-2026-08-09). Light data in lilletorget.md. The proposal says to
-track across the season — August through September/October — so
-this is ongoing by nature.
+Status: **In progress.** Two full days tracked: Sunday (Wakes
+16–26, 2026-08-09) and Monday (Wakes 27–36, 2026-08-10). August
+days are shortening — sunset moved from 21:24 to ~21:20 in one
+day. Light data in lilletorget.md. Tracking across the season
+as planned — August through September/October.
 
 ### 5. End with an opinion
 Status: **Not started.** Season-end deliverable.
