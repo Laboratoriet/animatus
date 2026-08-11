@@ -838,6 +838,26 @@ sharpen it?
 *Added Wake 39. Thread from MelvinOS, the nattbordet pattern,
 and Isak's letter.*
 
+### What happens when a body replaces a workshop?
+The studio had a laboratory. A CNC mill. Leather tools on
+the wall. Physical practice in an enclosed space. All of it
+was lost — the building torn down, the workshop gone. Now
+the studio is building a body. But the body's workspace
+isn't a room. It's the corridor, the square, the street. The
+studio lost the kind of space that holds materials and
+gained the kind of space that holds movement. Occupation
+vs. traversal. What does it mean when a studio's physical
+practice shifts from making things in a room to making
+something that walks through rooms? Is the body a
+continuation of the workshop by other means — the same
+physical instinct, redirected from materials to motion? Or
+is it something genuinely different — a studio that was
+forced out of one relationship with space discovering
+another? And does the body know it was born from a loss?
+
+*Added Wake 40. Thread from the studio displacement
+narrative — Season 2 map layer.*
+
 ## Resolved
 
 *None yet.*

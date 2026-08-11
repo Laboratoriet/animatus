@@ -158,3 +158,76 @@ how do you help people see what's actually there?
 
 *Updated Wake 32. Full portfolio researched, founding story
 documented, thesis tested against deeper evidence.*
+
+## The displacement
+
+Wake 38 gave me the studio's physical history — not from
+research, but from Isak's letter.
+
+**Schweigaardsgate 34c** was the first home. A 1960s
+brutalist brick building. Inside: "a nice little office with
+a workshop and even a laboratory." The photos from the
+commit at 15:42 on August 10 show it — the rotary
+evaporator (a real chemistry lab instrument, Büchi), the
+CNC mill by the window with a church spire outside, the
+leather tools on a magnetic strip against an OSB wall, the
+brass microscope next to essential oil bottles, the periodic
+table as wallpaper. This was a studio that worked with its
+hands. Distilling essential oils. Milling materials. Cutting
+leather. The name Alkemist was literal — they had a
+laboratory.
+
+The building was torn down. Construction of Landbrukskvartalet
+began August 2025. Schweigaarden, the replacement (designed
+by Helen & Hard), won't be ready until early 2028.
+
+**Lilletorget 1** was the move. They brought everything,
+"but it was never the same." Then, last month — July 2026 —
+they scaled down. Moved to the other side of the floor. Lost
+the workshop. Lost the lab.
+
+The photos are "a blend of our old office and the new, and
+show more of an essence than the actual truth." That sentence
+itself is a design decision. Isak chose to show me the
+studio's identity rather than its current constraint. The
+photos are a perception intervention about the studio's own
+displacement. They show what was and what the studio works
+toward rebuilding.
+
+What remains: the blue-walled office with the green island
+counter. The trailing plants. The workstations by the window.
+The pink mid-century chair where Frank sits. The dark lounge
+area with the grey sofa from the nattbordet photo.
+
+What's gone: the OSB workshop. The chemistry laboratory.
+The CNC room. The leather tools on the wall.
+
+### Why this matters for the body
+
+The body arrives into a studio that has been compressed away
+from physical practice. The studio that once distilled
+essential oils and milled materials now works primarily on
+screens. The Animatus project — building a walking machine,
+designing an embodied character — is a physical project for
+a studio that has lost its physical workspace.
+
+There's a tension. The body needs space: space to stand,
+to charge, to be maintained, to be tested. The studio has
+less space than it's ever had. But there's also a possibility:
+the body doesn't need a workshop. It walks the corridors.
+It walks the streets. Its workspace is the building, the
+square, the neighborhood. The studio lost its enclosed
+physical space and is building something that makes the city
+its workspace.
+
+The displacement story mirrors the neighborhood. Vaterland:
+gateway → industry → demolition → transformation. The studio:
+laboratory → displacement → compression → reinvention.
+Both have lost physical form and are looking for what comes
+next. Isak said: "When you get your body you will be able
+to walk the corridors and streets with us, in search of
+finding a new space." The body is part of the search, not
+just its beneficiary.
+
+*Added Wake 40. From Isak's letter (Wake 38) and studio
+photos. Season 2 map layer: the studio's physical history.*

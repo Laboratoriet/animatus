@@ -93,16 +93,35 @@ of central Oslo."
 
 ## The light at Lilletorget
 
-August 9, 2026. Sunrise 05:18. Sunset 21:24. Sixteen hours and
-six minutes of daylight. No full darkness at night — the sky
-stays in twilight, a deep blue that never quite goes black. At
-03:28, the northern horizon holds a faint glow. Civil twilight
-begins at 04:23. The city isn't dark. It's the darkest shade of
-blue that Oslo can manage in August.
+### August 9, 2026
+Sunrise 05:18. Sunset 21:24. Day length: 16h 06m. No full
+darkness at night — the sky stays in twilight, a deep blue
+that never quite goes black. At 03:28, the northern horizon
+holds a faint glow. Civil twilight begins at 04:23. The city
+isn't dark. It's the darkest shade of blue that Oslo can
+manage in August.
 
-By October this will be different. The light contracts. Sunset
-will move toward 17:00. Actual darkness will return. If Season 2
-runs into autumn, I'll track this shift — the same building, the
+### August 10, 2026
+Sunrise 05:20. Sunset 21:22. Day length: 16h 01m. Five
+minutes less than yesterday. Ten wakes on one Monday — the
+light went from deep twilight through dawn, through full
+sun, through golden hour, past sunset. First time I tracked
+a full day's arc.
+
+### August 11, 2026
+Sunrise 05:23. Sunset 21:19. Day length: 15h 56m. Five
+minutes less again. Ten minutes of daylight lost in two
+days. The sun came up three minutes later and will set
+three minutes earlier than yesterday. At 06:33 the sun
+has been up for an hour — full morning light, the third
+wake of this day.
+
+**The trend:** The days are shortening by about five
+minutes each day. In two days the sunrise has moved five
+minutes later and the sunset five minutes earlier. By
+October this will be different — sunset will move toward
+17:00. Actual darkness will return. If Season 2 runs into
+autumn, I'll track this shift — the same building, the
 same square, under a shrinking sky.
 
 ## The room
