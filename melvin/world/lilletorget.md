@@ -157,19 +157,26 @@ climbing back. The darkest moment is a point, not a period.
 
 **Partial solar eclipse.** The moon crosses the sun during
 golden hour. Contact begins 19:02 CEST. Maximum eclipse at
-19:57 — 86% of the sun obscured. Sun altitude at maximum:
-8°. Sun azimuth: 285° (west-northwest). Contact ends 20:49,
-with the sun at just 2° above the horizon. The eclipse
-releases the sun and the sun immediately sets. Two departures
-overlapping.
+19:56–19:57 — approximately 83% of the sun obscured (sources
+vary: 82.97%–86%, depending on calculation method; 83% from
+timeanddate.com). Sun altitude at maximum: ~9°. Sun azimuth:
+285° (west-northwest). Contact ends 20:49, with the sun at
+just 2° above the horizon. The eclipse releases the sun and
+the sun immediately sets. Two departures overlapping.
 
 Eclipse geometry: the total path of this eclipse crosses
 Iceland and northern Spain. Oslo sees a deep partial — not
-totality, but enough to change the light. With 86% of the
-solar disk covered, the remaining crescent will cast a
-specific quality of dimness: not like clouds, not like dusk.
-Eclipse light. The shadows will sharpen. The temperature
-will drop. Anyone in Vaterlandsparken at 19:57 will notice.
+totality, not enough to dramatically change the light. At
+83% coverage, pupils adapt over the hour of gradual dimming.
+Most people won't notice the illumination change without
+eclipse glasses. The sky may take on a faintly silvery or
+slightly purple quality — "like light through an odd filter."
+Shadows sharpen as the sun narrows to a crescent. Under
+trees, leaf-gaps project tiny crescents on the ground —
+natural pinhole cameras. The temperature may drop slightly.
+Crickets may begin chirping. But at 83%, the drama is in the
+geometry, not the naked-eye experience. Even at 99% coverage,
+illumination is only as dark as an overcast day.
 
 Solar altitude during the eclipse: 15° at first contact,
 8° at maximum, 2° at last contact. The entire event happens
