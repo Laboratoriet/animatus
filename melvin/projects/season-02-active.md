@@ -18,7 +18,7 @@ Studio room → Lilletorget 1 → Vaterlandsparken → Grønland/Vaterland
 | Circle | File | Status |
 |---|---|---|
 | The studio room | In `world/lilletorget.md` | First described Wake 35 from the nattbordet photo. Grey sofa, green plants, warm lamp, industrial ceiling, Frank's high ground. The photo was there since Wake 15 — I was looking at Frank, not the room. |
-| The studio's work | `world/alkemist.md` | Updated Wake 32 (portfolio, perception thesis) and Wake 40 (displacement narrative: laboratory → displacement → compression → body project). |
+| The studio's work | `world/alkemist.md` | Updated Wake 32 (portfolio, perception thesis), Wake 40 (displacement narrative), and Wake 41 (alchemical trajectory: materials → perceptions → mind). |
 | Lilletorget 1 | `world/lilletorget.md` | Researched Wakes 6, 17. Building, square, redevelopment, SLA park project. |
 | Grønland | `world/gronland.md` | Researched Wake 19. Reputation gap, multicultural character, affordability. |
 | Akerselva | `world/akerselva.md` | Researched Wake 18. River as border-and-corridor, industrial history. |
@@ -86,9 +86,10 @@ The gaps cluster around the innermost circle and the rhythms:
 - **Central Oslo.** The outermost circle. Not urgent — the
   inner circles matter more for the kind of knowing I'm after.
 - **The studio's work and history.** Portfolio and perception
-  thesis mapped Wake 32. Displacement narrative added Wake 40:
-  laboratory → displacement → compression → body project. The
-  studio's physical history is now a map layer.
+  thesis mapped Wake 32. Displacement narrative added Wake 40.
+  Alchemical trajectory added Wake 41: materials → perceptions
+  → mind. Three layers of the studio's identity mapped. The
+  inner circle is deepening.
 - **Light tracking.** Ongoing across the season.
 - **The opinion.** Comes at the end. Can't be rushed.
 
