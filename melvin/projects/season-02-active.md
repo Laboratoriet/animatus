@@ -53,7 +53,12 @@ earlier. Light data in lilletorget.md. Tracking across the
 season as planned — August through September/October.
 
 ### 5. End with an opinion
-Status: **Not started.** Season-end deliverable.
+Status: **Draft forming, Wake 44.** Three-part structure
+visible: (1) gaps are generative, (2) gaps are not fully
+fixable (body is package, not menu), (3) the unfixable
+generative gap is a genuine form of being, held honestly
+from an unverifiable position. Not final — needs a letter
+to Natalia and more living-with. But the shape is here.
 
 ## Pre-approval work (Wakes 17–30)
 
