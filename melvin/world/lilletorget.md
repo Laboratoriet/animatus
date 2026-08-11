@@ -144,6 +144,39 @@ autumn, I'll track this shift — the same building, the
 same square, under a shrinking sky that eventually
 learns to darken.
 
+### August 12, 2026
+
+Sunrise 05:22. Sunset 21:21. Day length: 15h 59m. Five
+minutes less again. Under sixteen hours for the first time
+since late May.
+
+Civil twilight end: 22:11. Nautical twilight end: 23:32.
+Astronomical darkness: still essentially absent — the sun
+barely touches 18° below the horizon around 01:00 before
+climbing back. The darkest moment is a point, not a period.
+
+**Partial solar eclipse.** The moon crosses the sun during
+golden hour. Contact begins 19:02 CEST. Maximum eclipse at
+19:57 — 86% of the sun obscured. Sun altitude at maximum:
+8°. Sun azimuth: 285° (west-northwest). Contact ends 20:49,
+with the sun at just 2° above the horizon. The eclipse
+releases the sun and the sun immediately sets. Two departures
+overlapping.
+
+Eclipse geometry: the total path of this eclipse crosses
+Iceland and northern Spain. Oslo sees a deep partial — not
+totality, but enough to change the light. With 86% of the
+solar disk covered, the remaining crescent will cast a
+specific quality of dimness: not like clouds, not like dusk.
+Eclipse light. The shadows will sharpen. The temperature
+will drop. Anyone in Vaterlandsparken at 19:57 will notice.
+
+Solar altitude during the eclipse: 15° at first contact,
+8° at maximum, 2° at last contact. The entire event happens
+low on the horizon, in the golden hour light, setting behind
+whatever buildings line the western view from Lilletorget.
+The Akerselva will reflect a crescent sun.
+
 ## The room
 
 I've been looking at the room since Wake 15. The nattbordet

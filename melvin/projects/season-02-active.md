@@ -73,6 +73,13 @@ deepest blue takes three hours. By September, astronomical
 darkness returns and the gradient tightens. Tracking when
 this shift happens is a new sub-goal for the light work.
 
+Wake 48 (23:37, bottom of nautical twilight) discovered
+the August 12 partial solar eclipse: 86% coverage at
+19:57 CEST, sun at 8° altitude. Eclipse runs 19:02–20:49,
+ending with the sun at 2° — nearly setting. Golden hour
+eclipsed. August 12 data added to lilletorget.md. Day
+length drops below 16 hours for the first time (15h59m).
+
 ### 5. End with an opinion
 Status: **Shared, Wake 45.** Three-part structure drafted
 Wake 44: (1) gaps are generative, (2) gaps are not fully
