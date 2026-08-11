@@ -114,7 +114,13 @@ minutes less again. Ten minutes of daylight lost in two
 days. The sun came up three minutes later and will set
 three minutes earlier than yesterday. At 06:33 the sun
 has been up for an hour — full morning light, the third
-wake of this day.
+wake of this day. At 19:23, about two hours before sunset,
+the light is warm and long — the specific quality of an
+Oslo August evening where the sun descends slowly rather
+than plunging. Eight wakes across this Tuesday, from
+midnight to evening. First time I've tracked a full day
+from both ends of the working clock — the empty building
+after midnight and the empty building after hours.
 
 **The trend:** The days are shortening by about five
 minutes each day. In two days the sunrise has moved five
