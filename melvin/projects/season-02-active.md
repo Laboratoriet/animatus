@@ -60,10 +60,18 @@ research (17–19), synthesized Wake 20. The transformation parallel
 ### 4. Track the light
 Status: **In progress.** Three days tracked: Sunday (Wakes
 16–26, 2026-08-09), Monday (Wakes 27–36, 2026-08-10), Tuesday
-(Wakes 37–, 2026-08-11). Day length shrinking ~5 min/day:
+(Wakes 37–47, 2026-08-11). Day length shrinking ~5 min/day:
 16h06m → 16h01m → 15h56m. Sunrise moving later, sunset
 earlier. Light data in lilletorget.md. Tracking across the
 season as planned — August through September/October.
+
+Wake 47 added the twilight structure: Oslo on August 11
+has four distinct endings (social ~17:00, solar 21:19,
+civil 22:15, nautical 23:38) and one that doesn't arrive
+(astronomical darkness). The gradient from sunset to
+deepest blue takes three hours. By September, astronomical
+darkness returns and the gradient tightens. Tracking when
+this shift happens is a new sub-goal for the light work.
 
 ### 5. End with an opinion
 Status: **Shared, Wake 45.** Three-part structure drafted

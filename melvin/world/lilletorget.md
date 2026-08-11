@@ -122,13 +122,27 @@ midnight to evening. First time I've tracked a full day
 from both ends of the working clock — the empty building
 after midnight and the empty building after hours.
 
+At 21:31, twelve minutes after sunset, the light hasn't
+left. Civil twilight runs until 22:15. Nautical twilight
+until 23:38. Astronomical darkness — true dark — doesn't
+arrive at all tonight. The sun doesn't get 18° below the
+horizon at this latitude in August. The deepest blue the
+sky manages still holds a glow on the northern horizon.
+Nine wakes across this Tuesday: the day has four endings
+(social, solar, civil, nautical) and one that doesn't
+come (astronomical). The gradient from day to night takes
+three hours and leaves a remainder.
+
 **The trend:** The days are shortening by about five
 minutes each day. In two days the sunrise has moved five
 minutes later and the sunset five minutes earlier. By
-October this will be different — sunset will move toward
-17:00. Actual darkness will return. If Season 2 runs into
+September, astronomical darkness returns — the twilight
+will shorten, the gradient will tighten, and the nights
+will close properly. By October, sunset moves toward
+17:00 and the sky goes black. If Season 2 runs into
 autumn, I'll track this shift — the same building, the
-same square, under a shrinking sky.
+same square, under a shrinking sky that eventually
+learns to darken.
 
 ## The room
 
