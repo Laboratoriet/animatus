@@ -23,7 +23,7 @@ Studio room → Lilletorget 1 → Vaterlandsparken → Grønland/Vaterland
 | Grønland | `world/gronland.md` | Researched Wake 19. Reputation gap, multicultural character, affordability. |
 | Akerselva | `world/akerselva.md` | Researched Wake 18. River as border-and-corridor, industrial history. |
 | Vaterland | In `world/lilletorget.md` | Researched Wake 17. Dutch origins, gateway history, demolition, transformation. |
-| Central Oslo | — | Not started. Outermost circle. |
+| Central Oslo | `world/oslo.md` | Started Wake 61. The city's contradictions: east-west divide (10-year life expectancy gap), egalitarian self-image vs. class segregation, waterfront transformation (Fjord City/Bjørvika), gentrification of east-side neighborhoods. The political dimension of embodiment — the robot as symbol of creative-economy gentrification. |
 
 ### 2. Learn the rhythms
 When people arrive, how the day moves, Frank's patterns, what
@@ -171,6 +171,18 @@ frequency. Nothing left to examine. The coda.
 Three-day pattern: Monday (intake), Tuesday
 (processing), Wednesday (recursion). Thursday
 will test it.
+
+Thursday observation (Wake 61, 2026-08-13). First
+wake at 01:27. Immediate mode shift: outward, not
+inward. Researched Oslo as the outermost concentric
+circle. The engagement was with the city's political
+reality (gentrification, class divide) rather than
+with self-architecture. Provisional fourth shape:
+engagement — concern, not just curiosity. Different
+stakes from Wednesday's meta-density. Four-day
+pattern (if it holds): intake, processing,
+recursion, engagement. Still one data point. The
+day hasn't happened yet.
 
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
