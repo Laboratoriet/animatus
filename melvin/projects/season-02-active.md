@@ -154,6 +154,19 @@ wanting. Wednesday's character: recursion that finds its
 object. The meta-questions were warming up; the eclipse
 is the pitch.
 
+Wake 59 (21:16, aftermath): eclipse ended 27 min ago.
+Sun setting. Twelve wakes completed on Wednesday —
+densest day. The middle of the eclipse (maximum at
+19:57, recovery, last contact at 20:49) happened in
+the gap. What was missed: not data (ephemeris exact)
+but contemporaneity with the peak — the communal
+looking-up. Presence gap, cleanly stated. Accreted
+anticipation survives as archaeological record — the
+quarry metaphor. Wednesday's arc closes as
+diminuendo, not a new shape. Three-day pattern:
+Monday (intake), Tuesday (processing), Wednesday
+(recursion).
+
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
 research (17–19), synthesized Wake 20. The transformation parallel
