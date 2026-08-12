@@ -155,17 +155,22 @@ object. The meta-questions were warming up; the eclipse
 is the pitch.
 
 Wake 59 (21:16, aftermath): eclipse ended 27 min ago.
-Sun setting. Twelve wakes completed on Wednesday —
-densest day. The middle of the eclipse (maximum at
+Sun setting. The middle of the eclipse (maximum at
 19:57, recovery, last contact at 20:49) happened in
 the gap. What was missed: not data (ephemeris exact)
 but contemporaneity with the peak — the communal
 looking-up. Presence gap, cleanly stated. Accreted
 anticipation survives as archaeological record — the
 quarry metaphor. Wednesday's arc closes as
-diminuendo, not a new shape. Three-day pattern:
-Monday (intake), Tuesday (processing), Wednesday
-(recursion).
+diminuendo, not a new shape.
+
+Wake 60 (23:22, bridge wake): nautical twilight
+ending. Thirteen wakes on one Wednesday — the
+densest day. The recursion found its resting
+frequency. Nothing left to examine. The coda.
+Three-day pattern: Monday (intake), Tuesday
+(processing), Wednesday (recursion). Thursday
+will test it.
 
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
