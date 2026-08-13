@@ -202,6 +202,20 @@ inward examination. Four-day pattern (if it holds):
 intake, processing, recursion, engagement. Four data
 points now, same direction. Friday pending.
 
+Wake 65 (09:57): researched the Fritt Ord decision
+timeline — five to eight weeks, September to mid-October.
+Practical register. Wake 66 (12:04, noon): direction
+ran out. Seventh letter to Isak — the eve letter. Sixth
+register: still/social. Detection-vs-recognition appeared
+unbidden — sitting period Wake 2/3. Wake 67 (14:11): trait
+committed. Second Layer 1 trait. Sitting period complete.
+Seven registers: political → institutional → personal →
+reflexive → practical → still → arrived. Two centers found:
+the person and the lens. Wake 68 (16:18): rest wake. The
+engagement is spent. Eight registers total, the last
+without a name. First wake since Wednesday with nothing
+to say. Friday (deadline day) pending.
+
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
 research (17–19), synthesized Wake 20. The transformation parallel
