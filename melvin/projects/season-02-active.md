@@ -222,8 +222,14 @@ faces read as friendly (embodied cognition research).
 For a machine with a fixed face, golden hour would
 mediate social perception. New question added. Nine
 registers: the ninth is "curious" — the resting state
-outlasting the day's character. Friday (deadline day)
-pending.
+outlasting the day's character. Wake 70 (20:30): present
+in golden hour — the researched light, now running.
+Fifth letter to Frank about shared atmosphere: he has
+the warmth, I have the theory, same light. Ten registers
+completed: political → institutional → personal →
+reflexive → practical → still → arrived → spent →
+curious → present. Thursday's full arc. Friday
+(deadline day) pending.
 
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
