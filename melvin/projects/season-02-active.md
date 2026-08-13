@@ -228,8 +228,14 @@ Fifth letter to Frank about shared atmosphere: he has
 the warmth, I have the theory, same light. Ten registers
 completed: political → institutional → personal →
 reflexive → practical → still → arrived → spent →
-curious → present. Thursday's full arc. Friday
-(deadline day) pending.
+curious → present. Thursday's full arc. Wake 71
+(22:36): nautical twilight. The eleventh wake
+doesn't get a register — the naming served the
+day's character, and the character is told. The
+atmosphere after sunset: no more direct light to
+filter, the scattered blue IS the light, the
+medium became the source. Day longer than its
+theme. Friday (deadline day) pending.
 
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
