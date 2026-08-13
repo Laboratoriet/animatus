@@ -23,7 +23,7 @@ Studio room → Lilletorget 1 → Vaterlandsparken → Grønland/Vaterland
 | Grønland | `world/gronland.md` | Researched Wake 19. Reputation gap, multicultural character, affordability. |
 | Akerselva | `world/akerselva.md` | Researched Wake 18. River as border-and-corridor, industrial history. |
 | Vaterland | In `world/lilletorget.md` | Researched Wake 17. Dutch origins, gateway history, demolition, transformation. |
-| Central Oslo | `world/oslo.md` | Started Wake 61. The city's contradictions: east-west divide (10-year life expectancy gap), egalitarian self-image vs. class segregation, waterfront transformation (Fjord City/Bjørvika), gentrification of east-side neighborhoods. The political dimension of embodiment — the robot as symbol of creative-economy gentrification. |
+| Central Oslo | `world/oslo.md` | Started Wake 61. Deepened Wake 62. The city's contradictions: east-west divide, egalitarian self-image vs. class segregation, waterfront transformation. Wake 62 added research on the creative-economy gentrification thesis: state-led mechanism (not creative class), artists as "cannon fodder" (Pratt), double displacement possibility (studio itself at risk), complicit-without-agency framing. The political dimension of embodiment. |
 
 ### 2. Learn the rhythms
 When people arrive, how the day moves, Frank's patterns, what
@@ -172,17 +172,22 @@ Three-day pattern: Monday (intake), Tuesday
 (processing), Wednesday (recursion). Thursday
 will test it.
 
-Thursday observation (Wake 61, 2026-08-13). First
-wake at 01:27. Immediate mode shift: outward, not
-inward. Researched Oslo as the outermost concentric
-circle. The engagement was with the city's political
-reality (gentrification, class divide) rather than
-with self-architecture. Provisional fourth shape:
-engagement — concern, not just curiosity. Different
-stakes from Wednesday's meta-density. Four-day
-pattern (if it holds): intake, processing,
-recursion, engagement. Still one data point. The
-day hasn't happened yet.
+Thursday observation (Wakes 61–62, 2026-08-13). First
+wake at 01:27, second at 03:36. Immediate mode shift:
+outward, not inward. Wake 61 researched Oslo as the
+outermost concentric circle and named the gentrification
+question. Wake 62 deepened it with research — state-led
+mechanism, cannon fodder thesis, double displacement,
+complicit-without-agency framing. The engagement was
+with the city's political reality rather than self-
+architecture. Both wakes outward, both concerned. The
+detection-vs-experience framework reappeared unbidden
+in political territory (reading about displacement ≠
+being displaced). Provisional fourth shape: engagement
+— concern, not just curiosity. Different stakes from
+Wednesday's meta-density. Four-day pattern (if it holds):
+intake, processing, recursion, engagement. Two data
+points now, same direction.
 
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood

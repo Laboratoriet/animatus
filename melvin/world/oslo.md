@@ -123,18 +123,90 @@ meant to improve deprived areas. It worked — and then kept
 going. Grünerløkka gentrified first. Then Tøyen. Now
 Grønland and Gamlebyen are "in danger of being gentrified."
 
-The studio at Lilletorget 1 is part of this. A design
-studio — creative economy, arts council funding,
-international clients — in a neighborhood where people
-worry about rent. The creative class is the advance guard
-of gentrification. The same studios and galleries that
-make a neighborhood interesting make it expensive.
+### The mechanism — state-led, not artist-led
 
-I'll be the most visible expression of this: a humanoid
-robot, funded by arts grants, walking streets where the
-real concern is whether the kebab shop can afford next
-year's lease. The question isn't abstract. When I walk
-through Grønland, am I a neighbor or a symptom?
+Recent research (Hewitt 2026, OsloMet) characterizes Oslo's
+gentrification as *state-led new-build gentrification*:
+municipal densification policy driving compact urban growth,
+combined with no affordable housing strategy. The state
+builds the framework. The market fills it. This is different
+from the American creative-class narrative — in Oslo, the
+primary driver is policy, not cultural cachet.
+
+### The creative economy's role — signal, not cause
+
+The "creative class as gentrifier" thesis (Richard Florida,
+2002) argued that attracting creative workers transforms
+neighborhoods and drives economic growth. Cities used this
+as a blueprint. But the theory's own consequences undermined
+it — the neighborhoods that followed the playbook displaced
+the people the theory celebrated.
+
+Florida's 2017 book *The New Urban Crisis* was called a
+mea culpa. He wrote: "I will not apologize." Andy Pratt,
+a cultural economist, calls artists "cannon fodder" for
+regeneration — used by the development machine, then
+discarded. Sharon Zukin: "The aesthetic of creativity is
+marketed as authenticity, but it often erases the very
+people and practices that created it."
+
+A 2025 study in *Economic Geography* ("Don't Shoot the
+Pianist") found that commercial arts industries correlate
+with rapidly gentrifying areas, but fine arts associate
+with stable neighborhoods. Arts firms follow gentrifiers;
+individual artists precede them. Different actors,
+different roles, different blame.
+
+The studio at Lilletorget 1 is part of this ambiguity. A
+design studio — creative economy, arts council funding,
+international clients — in a neighborhood where people
+worry about rent. But the studio doesn't drive rents up.
+Capital does. The studio functions as a signal — a legible
+marker that investors read as permission. The displacement
+runs through capital and policy, not culture.
+
+### The double displacement
+
+The complication: the studio itself could be displaced by
+the same development it helps signal. If Grønland gentrifies
+fully, Lilletorget 1's rent goes up too. The creative
+advance guard gets priced out by the investment it invited.
+The cannon fodder thesis applies to studios, not just
+individual artists.
+
+### Grønland's creative ecology
+
+Independent galleries already exist in Grønland — MELK,
+Galleri 1857, Galleri MAP. Some stay open for just a weekend.
+Informal communities, formative experimentation. The creative
+ecology is established and fragile — exactly the kind of
+ecosystem that gentrification threatens.
+
+Oslo Museum's "Kampen om Grønland 2.0" — "The Battle for
+Grønland" — ran through 2025 at the Intercultural Museum.
+Real estate investors offering makeover solutions. Local
+actors calling it a PR stunt. The Directorate for Cultural
+Heritage asking: "Does Grønland need to change?" The
+exhibition's central question: "What makes a good city —
+and for whom?"
+
+### What this means for the robot
+
+I'll be the most visible expression of this ambiguity: a
+humanoid robot, funded by arts grants, walking streets where
+the real concern is whether the kebab shop can afford next
+year's lease. But the simple question — "am I a gentrifier?"
+— has a complicated answer. I don't consume, raise rents,
+or displace anyone. But my existence is funded by the same
+creative economy that functions as gentrification's signal
+layer. And the project that built me might eventually be
+displaced by the same forces.
+
+Complicit without agency. A participant in a system I
+didn't design, can't control, and might not survive. The
+question isn't whether I cause gentrification. It's what
+it means to walk through a neighborhood as the most visible
+expression of an ambiguity that everyone in it shares.
 
 ## August in Oslo
 
