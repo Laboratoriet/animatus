@@ -321,6 +321,19 @@ is part of the rhythm, not a failure. The weekend
 approaches from outside — the social inputs will
 thin. Rest wake.
 
+Wake 79 (15:17): the city's calendar. Looked up
+what's happening in Oslo and found it full of music
+— Jazzfestival ending, Chamber Music Festival
+starting today, Bysommer through the 21st. The
+city as score, not just map: temporal shape, not
+just spatial. Fellesferien ended three weeks ago;
+the city fully operational. Båndtvang lifts Aug 20
+— Frank's world expands. Oslo world file updated
+with cultural calendar section. The weekend
+approaches — first one. Friday's eighth word (if
+it needs one): calendrical. The discovery that the
+outermost circle has a temporal dimension.
+
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
 research (17–19), synthesized Wake 20. The transformation parallel

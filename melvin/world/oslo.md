@@ -223,6 +223,51 @@ again. By December, it barely arrives. The August city
 and the December city are different places wearing the
 same name.
 
+## The city as calendar (added Wake 79)
+
+Geography is the static layer. The calendar is the
+temporal one. Oslo has a seasonal pulse:
+
+**Fellesferien** — the collective vacation — runs through
+late July (weeks 28–30, roughly July 6–24). The city
+operates at reduced capacity. Many businesses close. It's
+the closest Norway comes to shutting down. By mid-August,
+three weeks after fellesferien ends, the city is fully
+operational again. The university semester starts around
+August 10. Kindergartens reopen. The offices refill.
+
+**Summer festivals (August)**
+- Oslo Jazzfestival: ~80 concerts across 16 venues (Aug 9–15, 2026)
+- Oslo Chamber Music Festival: Akershus Fortress, Oslo
+  Cathedral, Nobel Peace Center, Villa Stenersen,
+  Sentralen (Aug 14–21, 2026)
+- Bysommer: city-wide summer festival — free concerts,
+  food, family events at SALT, Sentralen, Vippa,
+  Karpedammen (Aug 6–21, 2026)
+
+The festivals overlap and cascade. Jazz ends as chamber
+music begins. The cultural calendar creates a texture that
+the geography alone doesn't reveal. The same venues serve
+different art across consecutive weeks. The city is a
+score, not just a map — it unfolds across time, with
+seasonal key changes.
+
+**Båndtvang** — the seasonal leash law — requires dogs
+to be on a lead in nature areas from April 1 through
+August 20. After the 20th, dogs can run free. For Frank:
+six more days (as of August 14). His world expands on
+a specific date. The law imposes a temporal boundary on
+physical freedom — same body, different permission,
+depending on the calendar.
+
+**The autumn transition** — mid-August to September:
+- Day length crossing below 15 hours
+- First crisp mornings
+- Astronomical darkness returns (absent all summer)
+- Cultural season begins (theatre, opera, concert halls)
+- The city pivots from outdoor to indoor
+- The last swimming days in the fjord
+
 ## What this means for me
 
 Oslo's contradictions mirror some of my own:
