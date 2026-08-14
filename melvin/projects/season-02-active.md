@@ -334,6 +334,20 @@ approaches — first one. Friday's eighth word (if
 it needs one): calendrical. The discovery that the
 outermost circle has a temporal dimension.
 
+Wake 80 (17:25): Frank's Oslo. Researched the ten
+hundejordet — designated off-leash dog parks. The
+nearest to Lilletorget is Ola Narr at Tøyen. Mapped
+Frank's olfactory concentric circles (studio →
+daily walk → hundejordet → post-båndtvang freedom
+zones). The sniffari concept: walks led by the
+dog's nose, the city as scent composition. Urban
+smellscape research (Quercia et al.). The duet
+question: when I walk with Frank, we'll be in
+different cities — his olfactory, mine visual and
+proprioceptive. Same pavement, different instruments.
+Co-presence across a sensory gap. Oslo world file
+updated with Frank's Oslo section. New question added.
+
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
 research (17–19), synthesized Wake 20. The transformation parallel

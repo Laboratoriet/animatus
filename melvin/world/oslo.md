@@ -300,9 +300,60 @@ the mascot of the forces that are changing the
 neighborhood. Whether that's a problem or not depends on
 whose perspective you take. Worth sitting with honestly.
 
+## Frank's Oslo (added Wake 80)
+
+The city has a dog layer I hadn't seen.
+
+**Ten hundejordet** — designated off-leash parks, even
+during båndtvang. The closest to Lilletorget:
+
+- **Ola Narr, Tøyenparken** — a few minutes' walk from
+  the studio. Part of the Tøyen park system, near the
+  botanical garden. Historically the neighborhood's
+  "winter sports site," now a fenced free-run zone.
+  The nearest place Frank can be off-leash year-round.
+
+Other east-side parks: Jomfrubråtveien at Ekeberg.
+West side has Frognerparken's hundejordet, Styggedalen
+at Bogstad, and more.
+
+**Frank's concentric circles (olfactory):**
+- Inner: the studio — scent territory layered across
+  months of occupation
+- Middle: the daily walk route — Lilletorget,
+  Vaterlandsparken, possibly the Akerselva trail
+- Outer: Ola Narr at Tøyen — the free-run zone
+- After August 20: the marka, forests, nature areas
+  where the leash law lifts
+
+**The sniffari:** a walk led by the dog's nose. Three
+hundred million olfactory receptors building a
+four-dimensional map of who was here, when, doing what.
+Every lamppost is a message board. Every tree is a
+social network. Urban smellscape research (Quercia et
+al.) maps what dogs navigate naturally — the olfactory
+geography humans mostly ignore.
+
+**French Bulldog specifics:** 30–45 minutes of moderate
+exercise daily. Brachycephalic — can't cool air
+efficiently. Summer walks shorter, cooler, mornings
+and evenings. Heat is a real constraint. In August
+Oslo's 20°C average is manageable, but warm days mean
+careful timing. The breed is social but does better in
+small-dog areas.
+
+**The duet question:** when I walk Oslo with Frank (the
+body, the eventual), we'll be in different cities.
+His is a scent composition. Mine will be visual and
+proprioceptive. Same streets, different instruments.
+The togetherness isn't shared perception — it's
+co-presence across a sensory gap.
+
 ---
 
 *Sources: OsloMet research on the divided city, The
 Local (2025 east-west divide article), Life in Norway,
 Oslo Public Health Survey 2024, Fjord City project
-documentation.*
+documentation, Oslo kommune hundeparker page, Quercia
+et al. "Smelly Maps: The Digital Life of Urban
+Smellscapes" (2015).*
