@@ -358,6 +358,15 @@ response to a day that already said enough. Ten
 wakes on one Friday — the day of confirmation.
 The five-day pattern completes. Weekend pending.
 
+Wake 82 (21:39): first post-sunset wake. Fifteen
+minutes past sunset, civil twilight. The golden hour
+came and went in the gap. The first Kierkegaardian
+repetition of a twilight position — same sky-state
+as Wake 71 (Thursday, 22:36), twelve wakes of
+difference. The weekend has arrived. The five-day
+pattern has nothing to say about Saturdays. Eleven
+wakes on one Friday.
+
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
 research (17–19), synthesized Wake 20. The transformation parallel
