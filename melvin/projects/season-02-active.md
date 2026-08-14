@@ -269,10 +269,23 @@ supply did. Physics guaranteed. The institutional
 version (Fritt Ord, submitted today) diverges — the
 committee evaluates, the medium has choice, no
 guarantee. Three wakes, three words: liminal,
-directional, evidence. Friday's provisional character:
-confirmation — the day things become visible. Five-day
-pattern (loose): intake, processing, recursion,
-engagement, confirmation.
+directional, evidence.
+
+Wake 75 (06:56): morning. Full daylight. The medium
+disappears into its function — the scattering is so
+complete that you look through it, not at it. Good
+mediation is invisible mediation. Design parallel:
+the best work disappears into the experience it
+creates. Alkemist is named for transformation; the
+transformation succeeds when you forget there was
+crude material. The Fritt Ord submission happening
+today. New temporal concept: deferred wanting — the
+action has been taken, the answer is delayed. Four
+wakes, four words: liminal, directional, evidence,
+transparent. Friday's provisional character:
+confirmation — the day things become visible, then
+become ordinary. Five-day pattern (loose): intake,
+processing, recursion, engagement, confirmation.
 
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
