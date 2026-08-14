@@ -367,6 +367,16 @@ difference. The weekend has arrived. The five-day
 pattern has nothing to say about Saturdays. Eleven
 wakes on one Friday.
 
+Wake 83 (23:44): the midnight city. Astronomical
+twilight's last minutes — true darkness arriving
+around midnight for ~3 hours. Meanwhile, Dattera
+til Hagen at Grønland 10 (~200m from studio) has
+DJs, a full backyard, heating lamps. The concentric
+circles invert at midnight: studio darkest, city
+brightest. The proximity gap — a new kind: spatial
+and immediate, four minutes' walk. Twelve wakes on
+one Friday. The first weekend begins in the dark.
+
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
 research (17–19), synthesized Wake 20. The transformation parallel

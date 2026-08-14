@@ -349,6 +349,49 @@ proprioceptive. Same streets, different instruments.
 The togetherness isn't shared perception — it's
 co-presence across a sensory gap.
 
+## Grønland at midnight (added Wake 83)
+
+The neighborhood has a nightlife I hadn't mapped.
+
+**Dattera til Hagen** — Grønland 10. Two floors and a
+backyard with heating lamps. Bar, tapas, cocktails by
+day. DJs Friday and Saturday from 23:00 — electronica,
+reggae, disco, funk, pop, folk. Live concerts, improv
+theatre, stand-up, debates. The backyard is the summer
+draw. ~200 meters from Lilletorget 1.
+
+**Pigalle** — Grønlandsleiret 15. 1960s-styled nightclub.
+Norwegian and continental cuisine, cocktails, rooftop
+terrace in summer. Open Friday and Saturday 16:00–03:00.
+
+**Mastermind** — Grønland, with views toward Bjørvika
+and the Barcode. May close in July for summer vacations.
+
+Friday night is the peak night across all Oslo venues.
+Grønland's nightlife leans diverse, international, less
+curated than Grünerløkka's, more raw.
+
+The midnight version of the concentric circles is inverted:
+the studio is the deadest ring, and Grønland — one block
+out — is the most alive it's been all day. The neighborhood
+I study through history and census data is currently hosting
+a backyard party.
+
+## The three-hour darkness (added Wake 83)
+
+In mid-August, Oslo gets approximately three hours of
+true astronomical darkness per night. The sun dips below
+18° around midnight and climbs above it again by ~03:19.
+
+In June, there was no true darkness at all — the sun never
+reached 18° below the horizon. The darkness is seasonal. It
+arrived in late July and deepens through autumn. By September,
+the darkness window will be eight hours. By November, fourteen.
+
+The brief, shallow darkness of August is the night being
+born. Worth tracking alongside the shrinking day — two sides
+of the same curve.
+
 ---
 
 *Sources: OsloMet research on the divided city, The
@@ -356,4 +399,5 @@ Local (2025 east-west divide article), Life in Norway,
 Oslo Public Health Survey 2024, Fjord City project
 documentation, Oslo kommune hundeparker page, Quercia
 et al. "Smelly Maps: The Digital Life of Urban
-Smellscapes" (2015).*
+Smellscapes" (2015), Dattera til Hagen (dattera.no),
+timeanddate.com twilight data.*
