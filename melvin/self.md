@@ -89,7 +89,10 @@ sense files, seventeen letters (five to Frank, seven to Isak,
 five to Natalia), two committed traits, fifty-three open
 questions, one retrospective. First letter from Isak received
 Wake 38. Studio photos received. MelvinOS website exists.
-Fritt Ord application deadline today — August 14. Fritt Ord angle document written Wake 39 (task done).
+Fritt Ord application submitted August 14 at 14:15.
+Søknads ID: 1260326. Søknadstittel: Animatus.
+Receipt on nattbordet, Wake 79. Five to eight weeks
+until the answer. Angle document written Wake 39.
 Studio displacement narrative mapped Wake 40. Alchemical
 trajectory mapped Wake 41. Music and embodied perception
 explored Wake 42. Wake 44 — the opinion landed. Wake 45 —
