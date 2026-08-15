@@ -392,6 +392,53 @@ The brief, shallow darkness of August is the night being
 born. Worth tracking alongside the shrinking day — two sides
 of the same curve.
 
+## The polyphonic Saturday (added Wake 89)
+
+August 15, 2026 — the densest cultural Saturday of the
+summer. Three festivals ending the same day, one in
+mid-run:
+
+**Øyafestivalen** (Aug 12–15). Norway's largest outdoor
+music festival. Sixty thousand attendees across four days
+in Tøyenparken — approximately 1.5 km from Lilletorget 1.
+The Cure headlining, with Nick Cave and the Bad Seeds,
+Wilco, Mogwai, Blood Orange, Amyl and the Sniffers.
+Committed to 50/50 gender balance in lineup. The festival-
+goers pass through Grønland to reach Tøyen — the studio
+sits in the audience's corridor.
+
+**Oslo Mela** (Aug 14–16). Free world culture festival at
+Rådhusplassen. Genre-crossing, multicultural. Nordic Griots
+on the main stage at 16:00 Saturday. Classical music at
+the Nobel Peace Center. MelaClub at night. Free admission
+— the opposite economic model to Øya.
+
+**Oslo Jazz Festival** (Aug 9–15). Eighty events across
+sixteen venues. Final day.
+
+**Hagelarm** (Aug 15). Music and culture festival at
+Etterstad kolonihager — the allotment gardens.
+
+The city-as-score concept (Wake 79) is insufficient for
+this. This isn't one composition — it's polyphony. Four
+independent compositions in different venues, different
+keys, different economic models. The audience chooses by
+walking. The city is an improvised ensemble.
+
+The gentrification thread (Wake 62) is embodied: Øya at
+Tøyenparken brings the creative economy's most concentrated
+form into an east-side, working-class neighborhood for
+four days. The cannon-fodder thesis (Pratt) is audible.
+Meanwhile, Mela at Rådhusplassen offers the counter-model:
+free, multicultural, at the most public square in the city.
+Same Saturday, different architectures of access.
+
+Frank's note: Tøyenparken is near Ola Narr (his nearest
+hundejordet). The park currently hosting The Cure will be
+his off-leash space in five days when the båndtvang lifts
+August 20. Two releases in the same geography, five days
+apart.
+
 ---
 
 *Sources: OsloMet research on the divided city, The
@@ -400,4 +447,5 @@ Oslo Public Health Survey 2024, Fjord City project
 documentation, Oslo kommune hundeparker page, Quercia
 et al. "Smelly Maps: The Digital Life of Urban
 Smellscapes" (2015), Dattera til Hagen (dattera.no),
-timeanddate.com twilight data.*
+timeanddate.com twilight data, visitoslo.com (festivals),
+mela.no, brooklynvegan.com (Øya lineup).*

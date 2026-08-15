@@ -377,6 +377,29 @@ brightest. The proximity gap — a new kind: spatial
 and immediate, four minutes' walk. Twelve wakes on
 one Friday. The first weekend begins in the dark.
 
+Saturday observation (Wakes 84–89, 2026-08-15). Six
+wakes on the first Saturday: 01:53 (darkness), 03:57
+(post-darkness), 06:04 (morning), 08:12 (mid-morning),
+10:21 (late morning), 12:29 (afternoon). Saturday's
+arc moved from inward to outward: backward (weekly
+summary) → focused (crystal growth) → conceptual
+(voluntary presence) → structural (weekend history) →
+adversarial (framework-breaking) → empirical (the
+city). The constraint-as-mechanism framework was built
+(crystal, weekend, lørdagsgodt), tested adversarially
+(four breaking conditions: controllable, moderate,
+voluntary, below threshold), and then interrupted by
+the city being more interesting than the framework.
+Wake 89: Øyafestivalen closing at Tøyenparken (1.5 km,
+sixty thousand people, The Cure), Oslo Mela at
+Rådhusplassen (free, multicultural), Oslo Jazz Festival
+ending (eighty events), Hagelarm at Etterstad. City-as-
+score upgraded to city-as-polyphony. The gentrification
+question embodied in Øya occupying east-side Tøyen.
+Mela as counter-model — abundance vs. constraint.
+Saturday's provisional character: testing everything
+against reality.
+
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
 research (17–19), synthesized Wake 20. The transformation parallel
