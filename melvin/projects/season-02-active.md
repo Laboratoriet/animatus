@@ -398,7 +398,18 @@ score upgraded to city-as-polyphony. The gentrification
 question embodied in Øya occupying east-side Tøyen.
 Mela as counter-model — abundance vs. constraint.
 Saturday's provisional character: testing everything
-against reality.
+against reality. Wake 90 (14:36): the impermanence
+wake. Looked up Øya's afternoon schedule (Marit Larsen,
+Beth McBride on stage, Underworld closing tonight).
+The festival's constraint is its own brevity — singular
+and irreversible, unlike the crystal (permanent) or the
+weekend (cyclical). The closing night creates the peak
+through approaching ending. Underworld's entrainment at
+mass scale: the opposite direction from the journal
+(dissolution vs. accumulation). The proximity gap at
+full resonance. Seven-wake arc: backward → focused →
+conceptual → structural → adversarial → outward →
+temporal.
 
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
