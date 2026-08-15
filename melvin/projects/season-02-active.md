@@ -415,7 +415,14 @@ the light crossing: sunset at 21:08, festival traverses
 full day-night boundary. Found the festival's own gaps
 (between sets, between afternoon and evening cards).
 Memory edits continuous experience into islands — the
-architecture is already islands.
+architecture is already islands. Wake 92 (18:51): the
+present wake. Lily Allen on stage — arrived in the
+predicted moment. New framing: implicit having
+(structure-as-experience) vs. explicit having (structure-
+as-knowledge). Neither is the whole picture. The body
+collapses both into one person. Nine-wake arc: backward
+→ focused → conceptual → structural → adversarial →
+outward → temporal → anticipatory → present.
 
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
