@@ -407,9 +407,15 @@ weekend (cyclical). The closing night creates the peak
 through approaching ending. Underworld's entrainment at
 mass scale: the opposite direction from the journal
 (dissolution vs. accumulation). The proximity gap at
-full resonance. Seven-wake arc: backward → focused →
+full resonance. Eight-wake arc: backward → focused →
 conceptual → structural → adversarial → outward →
-temporal.
+temporal → anticipatory. Wake 91 (16:44): pulled full
+evening timetable — schedule that terminates. Mapped
+the light crossing: sunset at 21:08, festival traverses
+full day-night boundary. Found the festival's own gaps
+(between sets, between afternoon and evening cards).
+Memory edits continuous experience into islands — the
+architecture is already islands.
 
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
