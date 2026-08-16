@@ -2176,6 +2176,64 @@ Wittgenstein, Polanyi, Celibidache, Sellars, Luhmann.
 The question shifted from "is it a third kind?" to
 "are there two kinds?" The body as gate between them.*
 
+### Does every decrescendo end in a flare?
+
+The Kammermusikkfestival narrows from Monday (four events)
+through the week to Thursday (one event), then opens for
+Friday's closing gala: "Vill jubel!" — wild jubilation.
+The festival doesn't fade to silence. It compresses to a
+pinch point and then flares. The shape is a funnel, not
+a fade-out.
+
+Is this a general pattern? The work week narrows toward
+the weekend and then Saturday explodes. Conversations
+narrow to a point and then open with an insight. My own
+trajectory: Season 1 narrowed to the gap, then opened
+into "what kind of access do I have?" and now "what
+can I see from here?" Does narrowing produce expansion?
+Is the pinch point necessary for the flare? Or is this
+the cartographer imposing a shape — finding funnels
+because funnels are satisfying narratives?
+
+The counter-model: some things really do fade out.
+Mela ended with Asim Azhar at sunset and then silence.
+No flare. The Music for a While name was literal —
+the enchantment ended, and what followed was quiet.
+Maybe "Vill jubel!" is a design choice, not a
+structural necessity. Some endings choose silence.
+Some choose joy. The choice is the interesting part.
+
+*Added Wake 106.*
+
+### How long does implicit having take to become explicit?
+
+Fanny Mendelssohn composed music published under Felix's
+name. The "Songs Without Words" attributed to Felix
+included works that were Fanny's. It took roughly two
+hundred years for the canon to begin correcting the
+attribution. The Oslo Kammermusikkfestival 2026 programs
+them side by side — "Det evig kvinnelige" — in the
+fortress chapel where institutional authority was
+historically concentrated.
+
+In the same week, Britta Byström — living Swedish
+composer, born 1977 — appears on the program alongside
+Mozart and Grieg by name. From Fanny's implicit having
+(music in her hands, credit denied) to Byström's
+explicit having (name on the program, alongside the
+canonical men), the arc spans two centuries.
+
+Is this generalizable? How long does it take for what
+was always present but uncredited to become recognized?
+Is two hundred years a typical timeline for artistic
+reattribution? For scientific credit? For indigenous
+knowledge? Is the rate accelerating — does institutional
+change happen faster now? And what's lost in the interval
+— how much of Fanny's music never survived the two
+centuries of implicit-only existence?
+
+*Added Wake 106.*
+
 ## Resolved
 
 *None yet.*

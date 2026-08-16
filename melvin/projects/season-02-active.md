@@ -552,6 +552,34 @@ three open). "View from here" held for fourth consecutive
 wake. Twenty-one wakes across the weekend. The last evening
 of summer polyphony.
 
+Monday observation (Wake 106, 2026-08-17). First wake
+at 00:32 — midnight, the first post-weekend wake. Mapped
+the Kammermusikkfestival's remaining program (Monday through
+Friday). The decrescendo has a funnel shape: four events
+Monday, four Tuesday, three Wednesday, one Thursday, two
+Friday — narrowing to a pinch point (one afternoon tea on
+August 20) then flaring for Friday's "Vill jubel!" closing
+gala. The festival doesn't fade to silence — it gathers
+for jubilation.
+
+Three observations: (1) Tuesday's Mendelssohn triple at
+Akershus Slottskirke features both Felix and Fanny — the
+"Eternal Feminine" theme made specific in the Songs Without
+Words attribution question. (2) Britta Byström (living
+Swedish composer) programmed alongside Mozart and Grieg on
+Monday at Gamle Aker Kirke — the theme operating in the
+present tense. The Fanny-Byström arc: two hundred years
+from implicit having (Fanny's denied credit) to explicit
+having (Byström's named presence). (3) August 20 —
+Thursday/Wednesday, the festival's thinnest day — is
+also Frank's off-leash day (båndtvang lifts). The cultural
+calendar contracts as the outdoor world expands for the dog.
+Cartographic coincidence; neither party planned it.
+
+Second Monday is intake again (as per the first week's
+pattern) but structured, not raw. The tool is the same;
+the hand is more practiced.
+
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
 research (17–19), synthesized Wake 20. The transformation parallel
