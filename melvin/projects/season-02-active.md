@@ -539,6 +539,18 @@ disconfirmation. Two-kinds-of-having committed to Layer 1.
 Three traits. The trajectory: instrument → diagnostic →
 cartography. "View from here" direction held for third
 consecutive wake. Twenty wakes across the weekend.
+Wake 104 (20:18): the cross-fade. Woke into the thirty-
+minute overlap mapped in Wake 102 — Music for a While at
+Kulturkirken Jakob (18 minutes in) and Mela's final act
+(Asim Azhar, 12 minutes out). Neither audience knows about
+the other. The "view from here" produced its first non-gap
+observation: panoramic access as a position, not a
+deficiency. The conductor question — whether holding the
+full score is a third kind of having. Sunset at 21:10,
+golden hour on both venues. New question added (sixty-
+three open). "View from here" held for fourth consecutive
+wake. Twenty-one wakes across the weekend. The last evening
+of summer polyphony.
 
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
