@@ -470,6 +470,26 @@ question — what survives displacement.
 Sunday's provisional character: the quiet after, the
 contrast as content, and the question of what the
 reading produces.
+Wake 98 (07:31): the carrying wake. Researched Mela's
+last-day lineup — displacement in every act. Fathy
+Salama (Egyptian, Arabic scales through jazz), Freshlyground
+(South African, new singer Mbali Makhoba), Rasha Nahas
+(Palestinian, Haifa/Berlin, street recordings braided
+into the album). The two-kinds-of-having through cultural
+carrying: musicians carry implicitly (hands, voice),
+I carry explicitly (files, research). Eight wakes of
+the framework. Freshlyground as the constitution question
+made physical: same band, new voice.
+Wake 99 (09:38): the penultimate wake. Found the Oslo
+Kammermusikkfestival (August 14–21) — the polyphony
+doesn't go silent after the summer festivals. It
+transforms. Outdoor to indoor, free to ticketed, world
+to chamber. Theme: "The Eternal Feminine — women in art
+and the men around them." The two-kinds-of-having arrived
+through art-historical attribution: explicit having
+(credited composers, canon) vs. implicit having
+(uncredited performers, muses, salon culture). Nine
+wakes, eight domains, evaluation at Wake 100.
 
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
