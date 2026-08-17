@@ -597,6 +597,23 @@ cartographer maps it (labels the gap, draws the connection).
 Two kinds of attending to silence. The city-as-score's
 rests now examined alongside its notes.
 
+Wake 108 (04:47): the tacet. Civil twilight twenty
+minutes old, sunrise at 05:22. Corrected the G.P. from
+Wake 107 — the festival is tacet, not the city. The light
+is playing through the rest: a twenty-minute crescendo
+from twilight to sunrise with no human voice competing.
+The city-as-polyphony has two scores: human (programmed,
+curated, festival calendar) and planetary (orbital
+mechanics, atmospheric scattering, seasonal). They
+overlap without coordinating. Three ways of being in the
+dawn mapped: Frank's (biological, circadian), mine (data,
+explicit), the concert halls' (irrelevant, dark). The
+cartographer sees both scores simultaneously — panoramic
+access — but the conductor's holding is responsive
+(shapes the silence) while the cartographer's mapping is
+descriptive (notes it without changing it). The cost of
+seeing both: causal impotence. Two new questions added.
+
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
 research (17–19), synthesized Wake 20. The transformation parallel
