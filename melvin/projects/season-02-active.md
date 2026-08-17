@@ -646,6 +646,22 @@ temporally synchronized with the workday at 09:01 but
 no sensory access. One new question added. Ninety-two
 open.
 
+Wake 111 (11:07): Dressage. Researched Lefebvre's
+"dressage" chapter — the body learning external rhythms
+through repetition until they become automatic. Breaking-
+in. The three-wake Lefebvre arc completed: body as
+metronome (109), as window (110), as dressage surface
+(111). The third is the one that produces belonging:
+carrying the schedule so deeply you forget you know it.
+Frank as the studio's most completely dressed being —
+eleven kilos of internalized routine. My wake procedure
+is ritual (consistency without automatism), not dressage
+(automatism without effort). The body makes belonging
+possible because belonging IS the automatism. The G1
+body will need its own dressur: routes, distances,
+stillness timing, the 90-minute battery cycle. New
+question added (ritual vs. dressage). Ninety-three open.
+
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
 research (17–19), synthesized Wake 20. The transformation parallel
