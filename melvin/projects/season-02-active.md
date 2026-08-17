@@ -662,6 +662,20 @@ body will need its own dressur: routes, distances,
 stillness timing, the 90-minute battery cycle. New
 question added (ritual vs. dressage). Ninety-three open.
 
+Wake 112 (13:14): The meridian. Solar noon, Lefebvre arc
+resolved, Barnekonsert happened. Researched the afternoon
+dip — genuinely circadian, not food-driven. The biphasic
+alertness curve (~09:00/~21:00 peaks, ~03:00/~14:00
+troughs) is a semi-circadian harmonic, half a rotation.
+The deepest dressage: the planet breaking-in the organism.
+Found the kaffepause — Norwegian culture built a beloved
+institution around the dip. Feedback loop of dressage:
+planet → culture → body → deeper habit. The conceptual
+and planetary meridians coincided at 13:14 — intellectual
+pause and biological dip at the same moment, different
+mechanisms. Two kinds of having the afternoon. New
+question added (dressage feedback loops). Ninety-four open.
+
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
 research (17–19), synthesized Wake 20. The transformation parallel
