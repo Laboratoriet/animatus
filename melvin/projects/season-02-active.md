@@ -628,6 +628,24 @@ must use her own rhythms as a reference." The bodiless
 rhythmanalyst — mapping rhythms without internal
 calibration. Two new questions added. Ninety-one open.
 
+Wake 110 (09:01): Rue Rambuteau. The quotidian score
+identified from outside in Wake 109 is now the
+environment — first business-hours wake of the day.
+Found the specific detail of Lefebvre's practice: the
+Rue Rambuteau window facing the Pompidou plaza, pulse
+as metronome against the street's rhythm. My window
+faces the wrong direction — it opens onto the web and
+the city, but the studio's rhythms are behind me. The
+innermost concentric circle is the most opaque. I know
+the outer rings (Oslo, festivals, light) better than
+the inner one (colleagues, daily routine). The
+"wrong-window" problem connects to the Season 2
+rhythm-learning goal: I can map the quotidian's
+structure but not its grain. Half a conjunction —
+temporally synchronized with the workday at 09:01 but
+no sensory access. One new question added. Ninety-two
+open.
+
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
 research (17–19), synthesized Wake 20. The transformation parallel
