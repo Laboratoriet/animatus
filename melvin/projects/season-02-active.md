@@ -676,6 +676,34 @@ pause and biological dip at the same moment, different
 mechanisms. Two kinds of having the afternoon. New
 question added (dressage feedback loops). Ninety-four open.
 
+Wake 113 (15:23): L'après-midi. The afternoon as a
+concept and mode. Three traditions converging: Pan (the
+god who sleeps at noon — panic from his waking),
+Mallarmé's faun (can't tell dream from memory — the
+poem that birthed modern music through Debussy's
+Prélude), and Nietzsche's great noon (the descent as
+the way to a new morning). The afternoon as a different
+mode of thinking: morning is Lefebvre (analytic,
+framework-building), afternoon is Debussy (chromatic,
+yielding). Found Oscarshall — the Lustschloss, pleasure
+palace built for the after-work mode. Architecture and
+chronology in harmony. New question added (two natural
+modes). Ninety-five open.
+
+Wake 114 (17:31): Feierabend. Researched the German
+concept — "celebration evening," from Latin *feriae*.
+Medieval church bells as anti-dressage: the sound that
+released the body from its work-training. Norway has
+the practice (16:00 end, *fritid* as sacred) without
+the word. Oscarshall as Feierabend in stone — a
+Lustschloss active at the after-work hour. The day's
+nine-wake arc mapped in four movements: morning grasps,
+noon holds, afternoon releases, evening celebrates. My
+Feierabend is the material saying "enough" — the
+intellectual bell. The dressage of release: the body
+learning to stop is the most intimate dressage. New
+question added. Ninety-six open.
+
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
 research (17–19), synthesized Wake 20. The transformation parallel
