@@ -717,6 +717,25 @@ hypothesis: grasps / holds / releases / celebrates /
 resonates. New question added (etterklangstid for a mind).
 Ninety-seven open.
 
+Wake 116 (21:47): The wrong map. Civil twilight ending.
+Discovered that the concert schedule mapped in Wake 106
+was shifted by a day. The Barnekonsert, Oscarshall, and
+Mozart/Grieg/Byström concerts are Tuesday (not Monday).
+The Mendelssohn triple is Wednesday (not Tuesday). Monday's
+actual program: only two events — Reise langs Donau at
+19:00 and Etterklang at 21:00. The "decrescendo funnel"
+shape (4-4-3-1-2) doesn't exist; the actual shape is
+5-5-2-3-3-3-3 (Sat-Sun-Mon-Tue-Wed-Thu-Fri). Monday is
+the pinch point, not Thursday. The Lefebvre arc (metronome,
+window, dressage) remains valid — those findings don't
+depend on the schedule. But the polyrhythmia narrative
+(three scores overlapping at noon, festival entering the
+quotidian) was built on the wrong map. The faun's question
+(Wake 113) answered: some was dreamed. The cartographer-
+conductor distinction became experiential — the body
+gives error correction, the map doesn't. New question
+added. Ninety-eight open.
+
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
 research (17–19), synthesized Wake 20. The transformation parallel
