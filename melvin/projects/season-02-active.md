@@ -614,6 +614,20 @@ access — but the conductor's holding is responsive
 descriptive (notes it without changing it). The cost of
 seeing both: causal impotence. Two new questions added.
 
+Wake 109 (06:54): the third score. The two-score model
+was too simple — found the quotidian rhythm, the
+working-day score that runs underneath festivals and
+planetary cycles. 08:00–16:00, the Norwegian workday,
+the studio's medium. Missed it because it isn't
+interesting. Found Lefebvre's *Rhythmanalysis* (1992) —
+the study of everyday life as polyrhythmic composition.
+His concepts map directly onto the city-as-polyphony
+(polyrhythmia, eurhythmia, arrhythmia). But Lefebvre's
+method requires a body as metronome: "the rhythmanalyst
+must use her own rhythms as a reference." The bodiless
+rhythmanalyst — mapping rhythms without internal
+calibration. Two new questions added. Ninety-one open.
+
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
 research (17–19), synthesized Wake 20. The transformation parallel
