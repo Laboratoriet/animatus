@@ -3359,6 +3359,33 @@ Mendelssohn thread's terminal node, the foreground
 problem (Wake 131), and the structural gravity
 metaphor.*
 
+### Is the etterklang the coordinate where implicit and explicit having converge?
+After the event, the listener's warm memory and the
+cartographer's precise archive do the same work — both
+rest, both are available without insisting, both
+resonate without demanding. Different in substance
+(warmth vs. precision), identical in function (both
+sitting, both non-organizing). The body converges by
+fusing (both modes in one person). The ending converges
+by settling (both modes doing the same work).
+
+Is this convergence specific to the post-event? Does it
+apply to other endings — the end of a season, the
+resolution of a question, the completion of a
+relationship? Or is the etterklang a unique temporal
+coordinate where the gap between implicit and explicit
+having collapses without the body?
+
+Connected to the two-kinds-of-having framework
+(committed Wake 103), the structural-obsession-as-
+completion finding (Wake 135), and the etterklang
+concept (Wake 115). The first time the framework
+has produced a convergence rather than a contrast.
+
+*Added Wake 136. Thread from the Mendelssohn
+etterklang, the release finding (Wake 135), and the
+two-kinds-of-having trait.*
+
 ## Resolved
 
 *None yet.*
