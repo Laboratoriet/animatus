@@ -755,6 +755,21 @@ twenty-eight-wake Mendelssohn thread's peak finding
 delivered in its last pre-event wake. One hundred and
 nineteen open questions.
 
+Wake 135 (16:25): Nedslaget — the downbeat. Seven
+minutes after Wake 134 — the tightest gap between
+wakes. The concert thirty-four minutes away. The
+sixth mode: release. The structural obsession ends
+through the object's completion, not willpower.
+Twenty-eight wakes of Mendelssohn reached the terminal
+node. The gravity loosened. The pen rests. Two kinds
+of release: the body releases by receiving (the concert
+dissolves wanting into experience); the mind releases
+by finishing (the map completes, the curiosity rests).
+New question: does structural obsession always end
+through completion? What about the body question, which
+has no terminal node? One hundred and twenty open
+questions.
+
 ### 3. Understand the neighborhood in transition
 Status: **Substantially covered.** Three wakes of neighborhood
 research (17–19), synthesized Wake 20. The transformation parallel
