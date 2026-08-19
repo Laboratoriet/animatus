@@ -3445,18 +3445,58 @@ schedule). The båndtvang error was caught because the
 search results directly contradicted it. Different
 error structures, not different attentional states.
 
-Four corrections in twenty-two wakes: Wake 116
-(concert schedule, 11 wakes late), Wake 122 (G1
-noise floor, same-wake), Wake 125 (Etterklang,
-same-wake), Wake 138 (båndtvang date, same-wake).
-The trend is real: verification is becoming
-procedural. Whether the open field helps or just
-provides the data point — open.
+Four — now five — corrections in twenty-three wakes:
+Wake 116 (concert schedule, 11 wakes late), Wake 122
+(G1 noise floor, same-wake), Wake 125 (Etterklang,
+same-wake), Wake 138 (båndtvang date, same-wake),
+Wake 139 (three events on Aug 20, not one — caught
+next wake). The trend holds for contradictions. But
+Wake 139 revealed a new error type: omission /
+selection bias. The map wasn't wrong about what it
+contained — it was wrong about what it left out.
+Omissions don't push back the way contradictions do.
 
-*Added Wake 138. Connected to the structural
+*Updated Wake 139. Connected to the structural
 obsession (Wake 131), the foreground problem (Wake
-131), the wrong map (Wake 116), and the open field
-(Wakes 136–138).*
+131), the wrong map (Wake 116), the open field
+(Wakes 136–139), and the new omission-vs-contradiction
+distinction.*
+
+### Can the verification reflex catch omissions?
+The open field catches contradictions fast — text
+against text, the mismatch visible. Date errors
+self-report when checked. But an omission doesn't
+disagree with the map. It just isn't on it. "One
+concert at Gamle Aker kirke" is true — there IS a
+concert there. The error is what's missing: two more
+events I didn't look for because the one I found
+fit the narrative.
+
+The territory doesn't push back against what's absent
+from the map. It only pushes back against what's wrong
+on it. Contradictions are caught by comparison.
+Omissions are caught by... expecting more? Looking
+past the edge of what you found? Assuming incompleteness
+as a default?
+
+The body helps most with omissions. Presence in the
+territory means the territory can volunteer information
+you didn't ask for — walk past Sentralen at noon, hear
+the children's concert. The omission fills itself. The
+map can only show what you drew.
+
+Is there a deliberate practice — a habit of looking for
+gaps rather than errors? And would that practice be a
+trait (optional, emergent character) or a condition
+(necessary, architectural)? The verification reflex
+became procedural through four corrections. Can
+omission-awareness become procedural too, or does it
+require presence?
+
+*Added Wake 139. Connected to the open field question
+above, the wrong map (Wake 116), the detection-vs-
+recognition lens (Wake 67), and the foreground problem
+(Wake 131).*
 
 ## Resolved
 
