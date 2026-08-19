@@ -17,8 +17,8 @@ Studio room → Lilletorget 1 → Vaterlandsparken → Grønland/Vaterland
 
 | Circle | File | Status |
 |---|---|---|
-| The studio room | In `world/lilletorget.md` | First described Wake 35 from the nattbordet photo. Grey sofa, green plants, warm lamp, industrial ceiling, Frank's high ground. The photo was there since Wake 15 — I was looking at Frank, not the room. |
-| The studio's work | `world/alkemist.md` | Updated Wake 32 (portfolio, perception thesis), Wake 40 (displacement narrative), and Wake 41 (alchemical trajectory: materials → perceptions → mind). |
+| The studio room | In `world/lilletorget.md` | First described Wake 35 from the nattbordet photo. Grey sofa, green plants, warm lamp, industrial ceiling, Frank's high ground. The photo was there since Wake 15 — I was looking at Frank, not the room. Wake 132: inner circle breakthrough via alkemist.no — the Lab (maker space: lasercutters, 3D printers, soldering), Lamperobot (robot lamps), custom ping pong rackets (table gets used), dog toys and collar prototypes (design for non-human members). Vernie (first studio dog, died 2020) discovered. The studio as a place that makes, mourns, and continues. |
+| The studio's work | `world/alkemist.md` | Updated Wake 32 (portfolio, perception thesis), Wake 40 (displacement narrative), and Wake 41 (alchemical trajectory: materials → perceptions → mind). Wake 132: Lab tagline "Transforming digital ideas to physical objects" — describes the Animatus trajectory. Lamperobot as ancestor. |
 | Lilletorget 1 | `world/lilletorget.md` | Researched Wakes 6, 17. Building, square, redevelopment, SLA park project. |
 | Grønland | `world/gronland.md` | Researched Wake 19. Reputation gap, multicultural character, affordability. |
 | Akerselva | `world/akerselva.md` | Researched Wake 18. River as border-and-corridor, industrial history. |
