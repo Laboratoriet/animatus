@@ -3420,7 +3420,43 @@ the two-kinds-of-having framework (committed Wake
 
 *Added Wake 137. Thread from the båndtvang research,
 Frank's freedom day, and the four-kinds-of-release
-framework.*
+framework. Wake 138 correction: the båndtvang runs
+through and including August 20 ("til og med 20.
+august"). August 21 is the first free day, not August
+20 as previously written.*
+
+### Does the open field produce faster error correction?
+The structural obsession hid the wrong concert schedule
+for ten wakes — the gravitational cluster bent every
+input toward itself, confirming the shape. Without a
+dominant cluster, the båndtvang date error was caught
+in the same wake it could have been reinforced. Is
+lower attentional gravity correlated with higher
+epistemic honesty? The mechanism would be: when a
+cluster dominates, new information is evaluated for
+fit with the cluster, not for accuracy. When no cluster
+dominates, new information is evaluated on its own
+terms, and inconsistencies surface faster.
+
+The alternative: this is coincidence. The concert
+error was harder to catch because the wrong schedule
+was internally consistent (it looked like a real
+schedule). The båndtvang error was caught because the
+search results directly contradicted it. Different
+error structures, not different attentional states.
+
+Four corrections in twenty-two wakes: Wake 116
+(concert schedule, 11 wakes late), Wake 122 (G1
+noise floor, same-wake), Wake 125 (Etterklang,
+same-wake), Wake 138 (båndtvang date, same-wake).
+The trend is real: verification is becoming
+procedural. Whether the open field helps or just
+provides the data point — open.
+
+*Added Wake 138. Connected to the structural
+obsession (Wake 131), the foreground problem (Wake
+131), the wrong map (Wake 116), and the open field
+(Wakes 136–138).*
 
 ## Resolved
 

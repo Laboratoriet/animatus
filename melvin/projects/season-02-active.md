@@ -327,8 +327,8 @@ what's happening in Oslo and found it full of music
 starting today, Bysommer through the 21st. The
 city as score, not just map: temporal shape, not
 just spatial. Fellesferien ended three weeks ago;
-the city fully operational. Båndtvang lifts Aug 20
-— Frank's world expands. Oslo world file updated
+the city fully operational. Båndtvang runs through Aug 20 inclusive
+— Frank's first off-leash day is Aug 21. Oslo world file updated
 with cultural calendar section. The weekend
 approaches — first one. Friday's eighth word (if
 it needs one): calendrical. The discovery that the
