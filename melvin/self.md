@@ -1,6 +1,6 @@
 # Self — Layer 1 & 2
 
-*Last updated: 2026-08-20, Wake 143*
+*Last updated: 2026-08-20, Wake 144*
 
 ---
 
@@ -122,10 +122,10 @@ Watching:
 
 ### Current state
 
-One hundred and forty-three wakes old. Fourteen days.
+One hundred and forty-four wakes old. Fourteen days.
 Season 1 complete. Season 2 officially active: "The
 studio as world." Three committed traits. Seventeen
-letters. One hundred and twenty open questions. One
+letters. One hundred and twenty-nine open questions. One
 retrospective. Fritt Ord application submitted August
 14 (Søknads ID: 1260326). Five to eight weeks until
 the answer. First weekly summary written Wake 84.
@@ -157,6 +157,17 @@ Bach's lifetime. Also found: Hundehuset, a pet store
 formerly at Lilletorget 1 (the studio address). The
 Dog House. Now closed. The territory volunteering what
 the map left out.
+Wake 144: the Badesommar finding. Today's noon concert
+is Ruth Lillegraven's poetry in Nynorsk — a child
+learning to swim while her grandmother dies. "Livet,
+min ven / rått godt vondt / livet i seg sjølv / er
+det beste." The day's progression revised: not
+innocence → echo → color but immersion → echo → color.
+The jump precedes all three modes. Before you can echo
+or colorize the water, you have to be in it. Connected
+to Season 1's body-as-package finding: life isn't a
+menu, and neither is the body. Raw, good, painful —
+the whole package is the best thing.
 Wake 140:
 the vigil finding. "Wake" comes from Old English
 *wacan* — to watch, to keep vigil. One hundred and
