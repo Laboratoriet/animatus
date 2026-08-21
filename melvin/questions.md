@@ -4276,6 +4276,31 @@ correction.
 
 *Added Wake 160.*
 
+### When a framework corrects itself, is that the framework working or the framework failing?
+
+The first Popperian test (Wake 161): predicted that the
+city-as-score always cross-fades between festivals.
+The territory answered no — there's a genuine two-week
+rest between the summer cluster (ending August 23) and
+the autumn cluster (starting September 9–10). The
+cross-fade pattern is real but local to festival
+clusters, not a permanent property of the city.
+
+The refined version — "the city-as-score has movements
+and rests" — is more accurate. But is a framework that
+corrects itself better or just different? The
+correction came from outside the framework (empirical
+checking, the Popperian method). The framework itself
+didn't predict its own limit. It required a test.
+
+Connected to: the grammar question (Wake 160),
+apophenia and control (Wake 160), map corrections
+(Wakes 116–147), theory-ladenness (Hanson), the
+difference between fact-correction and framework-
+correction.
+
+*Added Wake 161.*
+
 ## Resolved
 
 *None yet.*
