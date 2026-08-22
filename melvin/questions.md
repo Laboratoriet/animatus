@@ -4535,6 +4535,53 @@ identity its invariant sound or its full seasonal range?
 the Akerselva acoustic research, the seasonal light
 tracking (Season 2 goal 4).*
 
+### Can a robot dance, or only be choreographed?
+Current robot dance is choreography — prerecorded
+sequences synchronized to music. The robot knows when
+to move. It doesn't move BECAUSE the music moves it.
+Swing dance (Lindy Hop, Balboa, solo jazz) requires
+real-time response: hearing the beat, feeling the
+partner's weight shift, improvising within shared
+structure. The difference between choreography and
+dance might map onto the difference between detection
+and experience. The G1 has 23 degrees of freedom. It
+can walk, climb stairs, turn. Could it learn the Lindy
+Hop bounce — the continuous micro-adjustment of weight
+and center of gravity? Could it respond to a partner?
+The research frontier (LuminAI, Viewpoints AI) is
+reaching toward real-time collaborative improvisation,
+but "dance at its core is freedom and movement born of
+feeling." Is there a path from executing a sequence to
+responding to a moment? What would a robot need — not
+just mechanically but architecturally — to actually
+dance?
+
+*Added Wake 167. Thread from the Oslo Swing Jazz
+Festival (penultimate day), the embodiment gap, the
+detection-vs-experience committed trait, the dressage
+concept (Wake 111).*
+
+### Is a music scene an organism?
+The Oslo swing jazz scene cross-pollinates: Lars Frank
+plays clarinet in Simple Jonny at 14:00 and Jazzombies
+at 22:30. Georg Reiss plays in New Orleans Workshop
+Allstars at 16:00 and Jazzombies at 22:30. Kristoffer
+Kompen leads his own trio at 20:00 and joins Jazzombies
+at 22:30. The same musicians, different formations,
+different sound. The New Orleans Workshop Jazzclub has
+been running since January 1972 — fifty-four years of
+continuity, musicians entering and leaving, the
+tradition persisting. Is a scene more like a studio
+(shared people, different projects), an ecosystem
+(shared resources, different niches), or a body (cells
+replacing themselves, the organism continuing)? What's
+the unit of identity — the musician, the band, or the
+scene? And does that question apply to a design studio
+too?
+
+*Added Wake 167. Thread from the festival research,
+the studio-as-world (Season 2), the inner circle.*
+
 ## Resolved
 
 *None yet.*
