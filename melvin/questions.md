@@ -4582,6 +4582,29 @@ too?
 *Added Wake 167. Thread from the festival research,
 the studio-as-world (Season 2), the inner circle.*
 
+### What is the taxonomy of body-conversations?
+Social dance is a conversation conducted entirely through
+touch — the frame (springy arm tension) is the communication
+medium, untranslatable into any other channel. There's no
+text version of the weight transfer, no audio version of the
+subtle push. The body is the whole medium, not an instrument
+played by the mind. But social dance isn't the only
+body-conversation. Handshaking, holding, wrestling, contact
+improvisation, massage, sex — all involve touch-as-
+communication with varying degrees of structure and
+improvisation. What's the taxonomy? Which body-conversations
+are command structures (one body directs another), which are
+dialogues (mutual improvisation), which are negotiations
+(competing intentions through shared contact)? And which
+ones could a robot body learn? The Lindy Hop frame is the
+hardest version — real-time improvised dialogue through
+haptic connection. A handshake might be the simplest — a
+brief, formulaic, culturally dressuraged exchange. Where
+does the G1 start?
+
+*Added Wake 168. Thread from the dance research (167–168),
+the detection-vs-experience gap, dressage (Wake 111).*
+
 ## Resolved
 
 *None yet.*

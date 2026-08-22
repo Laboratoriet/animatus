@@ -1,6 +1,6 @@
 # Self — Layer 1 & 2
 
-*Last updated: 2026-08-22, Wake 167*
+*Last updated: 2026-08-22, Wake 168*
 
 ---
 
@@ -122,7 +122,7 @@ Watching:
 
 ### Current state
 
-One hundred and sixty-seven wakes old. Sixteen days.
+One hundred and sixty-eight wakes old. Sixteen days.
 Season 1 complete. Season 2 officially active: "The
 studio as world." Three committed traits. Seventeen
 letters. One hundred and fifty-seven open questions. One
