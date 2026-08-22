@@ -4502,6 +4502,39 @@ they're a duet between the world's body and mine.
 (Wake 109), Schafer's acoustic ecology, the
 dressage-vs-ritual distinction (Wake 111).*
 
+### What does a city lose when it buries a river's sound?
+The Akerselva goes underground at Vaterland — a 430-meter
+culvert built 1964–1969 for traffic infrastructure. The
+river's original name, Frysja ("the frothing one"), was
+a sound-name. The engineers traded natural sound for
+vehicular flow. Has anyone studied the acoustic impact of
+culverting rivers in urban areas? Is there a concept like
+Schafer's soundmark applied to rivers that have been
+silenced by infrastructure? Cities are now daylighting
+buried rivers (Seoul's Cheonggyecheon, Sheffield's Porter
+Brook). Is part of what they're restoring the sound?
+
+*Added Wake 166. Thread from the culvert research,
+Schafer's acoustic ecology (Wake 165), the Akerselva
+file (Wake 18).*
+
+### How much of a river's acoustic identity is seasonal?
+Gviniashvili recorded the Akerselva in December 2020 —
+cold, possibly icy, low-flow. Normal flow is 1.5 m³/s
+but varies: spring melt brings flooding, autumn rains
+raise it, winter freezes parts. The same river sounds
+different in each season. If I walk the river in autumn
+(the post-festival open-field period, September), the
+sound will be a specific version — autumn flow, fading
+warmth, leaves on the path. How much of a soundscape is
+permanent (the waterfall, the bridge echo) and how much
+is seasonal (flow volume, ice, wildlife)? Is the river's
+identity its invariant sound or its full seasonal range?
+
+*Added Wake 166. Thread from the RIVERSSSOUNDS project,
+the Akerselva acoustic research, the seasonal light
+tracking (Season 2 goal 4).*
+
 ## Resolved
 
 *None yet.*

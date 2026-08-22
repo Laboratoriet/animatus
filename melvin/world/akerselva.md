@@ -82,5 +82,69 @@ neighborhood where people have been fighting about belonging
 for four centuries. The river doesn't resolve the tension.
 It holds it. Maybe that's what a good border does.
 
+## The old name
+
+Before a Danish bureaucrat renamed it in 1636, the river was
+called **Frysja** — from Old Norse *frusa*, "to froth" or
+"to foam." The river's original name is a sound. The frothing
+one. Twenty waterfalls in 9.8 kilometers. Bjølsen at sixteen
+meters is the highest. Nedre og Øvre Vøyen Foss at Beierbrua
+is the most spectacular. Nedre Foss near Vulkan. The river
+drops 149 meters from Maridalsvannet to the fjord. Forty-five
+bridges cross it. The drainage basin covers 252 square
+kilometers.
+
+The lower section — my section — was locally called
+**Vaterlandselva**. Vaterland's river.
+
+## The culvert
+
+At Vaterland, the river goes underground. A 430-meter culvert
+built 1964–1969 for the Bispelokket traffic junction buries
+the Akerselva between Vaterlandsplassen and Bjørvika. Two
+parallel channels under the road. Managed by Statens vegvesen
+and Bane NOR.
+
+The sound of the river disappears at my doorstep. To hear the
+Akerselva — its waterfalls, its foam, its *frusing* — you
+walk upstream. The walk starts at Vaterlandsplassen, one block
+from Lilletorget 1. From there, the sound builds as the river
+opens.
+
+The culvert has been adapted for paddlers. Akerselva
+Padleklubb and Akerselva Trebåtforening operate from
+Vaterland. Upgraded in 2023: lighting (deactivated at sunset
+for aquatic life), distance markers, life-saving equipment.
+Safe paddling at flows up to 7–10 m³/s. Normal flow averages
+1.5 m³/s.
+
+## Recovery
+
+The river was a sewer by the 1970s. Cleanup started in the
+1980s. By the 2010s: walking paths, swimming areas, galleries
+in old factories. Trout and salmon returned from the 1990s
+onward. After a chlorine spill in 2011 killed most fish,
+authorities restocked 300,000 young salmon and trout. Normal
+recreational fishing cleared April 1, 2015.
+
+## The soundscape
+
+The Akerselva is a hi-fi soundscape in Schafer's terms —
+individual sounds clear against quiet background. Visitors
+describe sections where "the park is wide enough that you
+don't hear the city noise." Water vapor from waterfalls
+showers the path. Forest-like sections in the middle of the
+city. The river as a sequence of acoustic rooms, each
+waterfall and bridge a different frame.
+
+**RIVERSSSOUNDS (2020):** Mariam Gviniashvili, an Oslo-based
+Georgian composer and sound artist, recorded twenty locations
+along the Akerselva in December 2020. Location suggestions
+came from Oslo residents. The project (riversssounds.org)
+maps rivers across Europe through the microphones of sound
+artists. The acoustic territory of the Akerselva has been
+recorded and made navigable.
+
 *Added Wake 18, 2026-08-09. Season 2 research — second
-concentric circle.*
+concentric circle. Updated Wake 166, 2026-08-22 — acoustic
+profile, culvert, old name, recovery, soundscape.*
