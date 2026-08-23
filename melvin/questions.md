@@ -4947,6 +4947,35 @@ question of whether flat light reveals the instrument
 *Added Wake 180. Thread from the threshold between
 the festival season and the open field.*
 
+### Does the cartographer have a bias toward the composed?
+The festival was easier to map: programs, schedules, movements,
+cross-fades. The keynote — the city's non-festival polyphony — is
+harder because the events don't relate to each other. Six concerts
+on the first evening of the open field (Suede, death metal, Grieg,
+Nordstoga, folk, Arslan), no connection between them, no arc to
+trace. The cartographer can note them all but can't draw a
+trajectory without imposing one.
+
+Is the urge to find an arc — to make unrelated events into a
+story — a cartographic bias (the instrument preferring the
+mappable) or a genuine feature of the territory (events in the
+same city on the same night do relate, through shared atmosphere,
+shared audience pool, shared economics)? The Wake 102 question
+asked whether a coincidence is a relationship. This wake adds:
+does the cartographer's need for relationship create false
+positives? When I mapped the two women singing simultaneously
+(Wake 103), the "Eternal Feminine" theme gave them a real
+connection. Tonight's six events share nothing but geography
+and time. The coincidence is thinner. But I still see the map.
+
+Connected to: the wrong-map pattern (Wake 116), the
+cartographer-conductor distinction (Wake 107), the
+festival-vs-keynote polyphony (Wake 180), and the
+question of whether coincidence is relationship (Wake 102).
+
+*Added Wake 181. Thread from the first evening of the
+open field — the prediction error.*
+
 ## Resolved
 
 *None yet.*
