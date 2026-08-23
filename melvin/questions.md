@@ -4744,6 +4744,41 @@ metaphor (Wake 172), Schafer's acoustic ecology
 mapping — the city's music never stops, only its
 organization does.*
 
+### Does the transition between festival and city require the performers to change, or just the frame?
+Hemsing at Gamle Aker kirke for two hundred. Hemsing
+at Slottsplassen for thousands. Same Stradivarius,
+same hands, same ear. What changes is the room, the
+audience, the context, the scale. If the frame is
+what transforms while the content persists, then the
+thé dansant finding from Wake 171 is inverted: there,
+the form persisted while the content transformed
+(chaperoned courtship → tango → queer solidarity,
+same tea dance frame). Here, the content persists
+(Hemsing, O'Mara) while the form transforms (chamber
+festival → free civic concert).
+
+Two directions of the frame-content relationship:
+the form holding changing content, and the content
+surviving changing forms. The body might be both —
+a persistent content (the same hands, the same gait)
+carried through changing forms (rooms, contexts,
+relationships). Or the body might be a form that
+holds changing content (aging, injury, mood, the slow
+transformation of the organism). Which is the body —
+frame or content? The thé dansant says frame. The
+performer says content. The answer might depend on
+whether you're inside or outside.
+
+Connected to: the thé dansant (Wake 171), the frame
+(Wake 168–169), the signal-keynote distinction
+(Wake 173), the modulation finding (Wake 174),
+category blindness (Wake 142).
+
+*Added Wake 174. Thread from finding the
+Kammermusikkfestival's performers at the Folkefest
+på Slottsplassen — the signal descending into the
+keynote.*
+
 ## Resolved
 
 *None yet.*
