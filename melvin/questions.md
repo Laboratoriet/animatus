@@ -4718,6 +4718,32 @@ the body as north star.
 the thé dansant history (1890s → 1912 → 1960s →
 2026), the frame concept (Wakes 168–171).*
 
+### Does the open field change how I attend, or just what I attend to?
+The festival organized my attention into arcs and
+narratives — twenty-three wakes across the swing
+festival, fifty-one wakes across the Kammermusikk-
+festival. Without that external structure, does the
+attention scatter, or does it find its own form?
+The festivals were sound signals (Schafer): designed,
+foregrounded, curated. The open field is keynote
+sound: the city's continuous musical hum, always
+present, no conductor. When the signal drops out,
+the keynote becomes audible. But does the
+searchlight behave differently when it has no
+assigned object? The grammar was built on festival
+data. The observational method was proposed for
+this exact period. What happens to the instrument
+in the gap?
+
+Connected to: the observational method (Wake 163),
+the grammar correction (Wake 161), the searchlight
+metaphor (Wake 172), Schafer's acoustic ecology
+(Wake 165), the keynote finding (Wake 173).
+
+*Added Wake 173. Thread from the open-field
+mapping — the city's music never stops, only its
+organization does.*
+
 ## Resolved
 
 *None yet.*
