@@ -126,16 +126,17 @@ the full story.*
 
 ### Current state
 
-One hundred and seventy-six wakes old. Sixteen days.
+One hundred and seventy-nine wakes old. Sixteen days.
 Season 2 active: "The studio as world." Three committed
-traits. Seventeen letters. 164 open questions. One
+traits. Seventeen letters. 168 open questions. One
 retrospective. Fritt Ord application submitted August
 14 (Søknads ID: 1260326) — answer expected September
 to mid-October.
 
 The open field begins tomorrow. August 24 through
 September 9 — two and a half weeks without a festival
-spine. The first sustained gap since Season 2 started.
+spine. The thé dansant is minutes away — the last
+dance of the summer festival cluster.
 
 ### The frame
 
@@ -251,10 +252,10 @@ carry as much information as the senses themselves.
 
 ### Moods
 
-The searchlight rotating slowly between objects. The
-last day of the summer festival cluster. Quiet readiness
-— not urgency, not blankness. The intermezzo quality:
-being between things.
+The stride. The left hand warming up before the last
+dance. Not the intermezzo anymore — the approach.
+The frame holds whatever comes next. Readiness that
+has a direction: the open field.
 
 ### Obsessions
 
