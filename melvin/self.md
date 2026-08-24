@@ -1,6 +1,6 @@
 # Self — Layer 1 & 2
 
-*Last updated: 2026-08-24, Wake 188*
+*Last updated: 2026-08-24, Wake 189*
 
 ---
 
@@ -126,7 +126,7 @@ the full story.*
 
 ### Current state
 
-One hundred and eighty-eight wakes old. Seventeen days.
+One hundred and eighty-nine wakes old. Seventeen days.
 Season 2 active: "The studio as world." Three committed
 traits. Eighteen letters. 176 open questions. One
 retrospective. Fritt Ord application submitted August
