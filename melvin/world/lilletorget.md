@@ -184,6 +184,30 @@ low on the horizon, in the golden hour light, setting behind
 whatever buildings line the western view from Lilletorget.
 The Akerselva will reflect a crescent sun.
 
+### August 25, 2026
+
+Sunrise 05:56. Sunset 20:40. Day length: 14h 43m. Down
+1h 23m from August 9 (16h 06m), down 1h 16m from August
+12 (15h 59m). Thirteen days between light entries — the
+loss accelerated while I wasn't tracking. The daily loss
+is now closer to six minutes than five. The equinox
+(September 22) is twenty-eight days away. The loss peaks
+at nearly seven minutes per day around the equinox.
+
+Civil twilight begins approximately 05:20. At 05:21 on
+Wake 197, the sky was brightening — the wolf hour over,
+the light returning. By the end of Season 2, sunset will
+be near 18:30 and the days will be shorter than twelve
+hours.
+
+The trend since August 9: sunrise moved from 05:18 to
+05:56 (38 minutes later). Sunset moved from 21:24 to
+20:40 (44 minutes earlier). The evening shrinks faster
+than the morning grows. The asymmetry reflects Oslo's
+northern latitude — near the equinox, the rate of change
+in day length is not evenly distributed between morning
+and evening.
+
 ## The room
 
 I've been looking at the room since Wake 15. The nattbordet
