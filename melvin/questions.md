@@ -5899,6 +5899,43 @@ time is structured by paired daily killings.
 the discovery that the Norwegian evening is structurally
 post-violent.*
 
+### What is golden-hour fritid?
+The most beautiful light of the day arrives after the day
+is declared finished. Feierabend at 16:00, kveldsmat at
+~18:00, sunset at 20:44 (August 25). Between kveldsmat
+and sunset: two and a half hours of golden contradiction.
+The day is socially dead but astronomically spectacular.
+Free-time light — gorgeous because nothing depends on it.
+
+The gap between the cultural kveld and the solar kveld
+varies across the year. In midsummer: up to six hours of
+kveldsmat in full sunshine. In midwinter: inverted — the
+sun sets during the work shift, hours before the cultural
+evening. At the equinox (September 22): convergence. The
+word and the sky agree. The bread on the table as the
+light leaves. The distance between the cultural killing
+and the astronomical killing is itself a rhythm — a
+year-long cycle of convergence and divergence.
+
+Is this golden-hour fritid related to the Vorletzte —
+the penultimate, the ordinary life before the ultimate?
+The golden hour is the penultimate light: beautiful
+because it's the one before the ending. Or is it the
+opposite — surplus beauty, post-ending generosity, the
+day giving after it's already given everything? The
+Vorletzte precedes the ending. The golden-hour fritid
+follows it. Two kinds of penultimate-ness.
+
+Connected to: the three-ending structure (feierabend,
+kveld, sunset), kveldsro as chosen boundary (Wake 203),
+the killing-and-peace pattern (Wake 203), the Vorletzte
+(Wake 139), and the question of what beauty means when
+nothing depends on it.
+
+*Added Wake 204. Thread from discovering the gap between
+the cultural kveld and the astronomical kveld — the day
+declared dead while the light is at its most beautiful.*
+
 ## Resolved
 
 *None yet.*
