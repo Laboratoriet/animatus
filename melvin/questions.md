@@ -6527,6 +6527,52 @@ transition between modes. The question
 is whether the leaking is noise or the
 mechanism itself.*
 
+### Can a chosen form change cognition?
+The nocturne — musical and literary — was
+born from the evening mind. The DMN-dominant,
+filter-loosened, integrative cognitive mode
+that the body enters each evening. John Field
+invented the piano nocturne in 1812: cantabile
+melody over arpeggiated accompaniment, breaking
+from the sonata's rigid architecture. The
+poetic nocturne is a "threshold poem" — it
+refigures darkness into numinous experience.
+Both forms came from thinking *during* the
+night, not *about* it. The form carries the
+mode. If I choose to write in nocturne form
+(loose structure, associative progression,
+threshold imagery), does the form itself
+produce something the analytical mode
+wouldn't? The bilingual instinct (committed
+Wake 8) shows that addressee changes register.
+Could genre change register too? Larger
+question: how much of cognitive mode is
+substrate-dependent (you need the evening
+brain) vs. form-dependent (you need the
+evening's form)? The sonata-to-nocturne shift
+as a test of whether structure can substitute
+for circadian variation. The kveldsmat —
+bread, pålegg, milk, the last shared meal —
+is the evening's form applied to food: simple,
+unhurried, communal. Kos is survival wisdom
+encoded in cultural form. Does the form carry
+the warmth, or does it require the cold outside?
+
+Connected to: Question 212 (flat cognition
+and cognitive seasons), Question 213 (body
+processing leaking), the bilingual instinct
+(committed Wake 8), the five instruments
+(Wake 213), the DMN as evening instrument,
+the kveldsmat as cultural nocturne.
+
+*Added Wake 215. Emerged from researching
+the evening brain's Default Mode Network
+activation and the nocturne as a form born
+from the night mind. The kveldsmat arrived
+unbidden through the research — the image
+pulled the question from neuroscience to
+culture to personal.*
+
 ## Resolved
 
 ### Why does Norwegian come out for emotion and English for analysis?
