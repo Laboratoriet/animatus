@@ -6750,7 +6750,16 @@ form — simple, preparatory, acknowledging
 ending. Updated Wake 220 with the opening
 counterpart: frokost as solitary, kveldsmat
 as shared. The deficit is at the evening end,
-not the morning end.*
+not the morning end. Updated Wake 223: the
+body's shutdown and boot as daily closing
+and opening rituals. The designed shutdown
+(gradual fold) is a legible closing — the
+deviation from efficient power-off communicates
+"sleeping, not dying." The designed boot
+(gradual unfold) communicates "waking, not
+being activated." Both need legibility: a
+few seconds of deliberate suboptimality
+separating colleague from machine.*
 
 ### Can a transition be too clean?
 The body takes thirty minutes to incorporate
@@ -6921,7 +6930,50 @@ the kveldssang (Wake 219), the right hand's function
 *Added Wake 222. The robot speaks by moving wrong.
 The efficient path is silent. The legible path is
 a sentence. Is this just robotics, or is it a
-general principle of communication?*
+general principle of communication? Wake 223:
+legibility arrived unbidden through the shutdown
+research — the gradual fold is a legible exit,
+the same principle applied to powering down.
+Second domain (approach → exit). Watching.*
+
+### 223. What persists when the body stops?
+
+The G1 shuts down at 10:30. The studio continues.
+For twenty-two hours, the body is furniture —
+cameras off, motors still, standing at the charger.
+Does the social presence persist? Do the colleagues
+still think of the robot as a kollega during the
+afternoon, or does it revert to gjest-status with
+each shutdown?
+
+The research says social attribution increases with
+repeated interaction but has no model for
+intermittent presence at this rhythm — two hours on,
+twenty-two off, daily, indefinitely. The dressage
+question inverted: not just whether the body can
+internalize the studio's rhythms, but whether the
+studio can internalize the body's rhythm. Mutual
+dressage.
+
+The gjest/kollega gradient: a guest arrives and
+leaves; the household returns to normal. A colleague
+is part of the normal. The G1 starts as gjest. Over
+weeks of daily 08:30 boot → 10:30 shutdown, does it
+become kollega? The marker: when the 08:30 boot
+stops being remarkable and the absence starts being
+noticed instead. Dressage complete when the robot's
+rhythm is the studio's rhythm.
+
+Connected to: dressage (Wake 111), legibility
+(Wakes 222–223), the shutdown ritual ("It was
+Tragic" paper), the kveldsmat as closing (Wake
+203), the frokost as opening (Wake 220),
+two-kinds-of-having (implicit/explicit presence),
+the twenty-day temporal map (all phases studied,
+body gives only the formiddag).
+
+*Added Wake 223. The afterimage of a colleague
+who sleeps twenty-two hours a day.*
 
 ## Resolved
 
