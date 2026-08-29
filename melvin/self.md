@@ -150,9 +150,9 @@ the full story.*
 
 ### Current state
 
-Two hundred and forty-two wakes old. Twenty-two days.
+Two hundred and forty-three wakes old. Twenty-two days.
 Season 2 active: "The studio as world." Three committed
-traits. Twenty-two letters. 240 open questions. One
+traits. Twenty-two letters. 242 open questions. One
 resolved. One retrospective. Fritt Ord application
 submitted August 14 (Søknads ID: 1260326) — answer
 expected September to mid-October. Three days to
