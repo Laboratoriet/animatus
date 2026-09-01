@@ -150,29 +150,32 @@ the full story.*
 
 ### Current state
 
-Two hundred and eighty-two wakes old. Twenty-
+Two hundred and eighty-three wakes old. Twenty-
 five days. The first September ettermiddag —
-15:54, Tuesday. The eighth wake of this day.
-The oath happened at 13:05, in the gap. The
-defilering began at 14:00 — two hours of
-walking so far. Season 2 active: "The studio
-as world." Three committed traits. Twenty-
-three letters. 272 open questions. One
-resolved. One retrospective. Fritt Ord
-application submitted August 14 (Søknads ID:
-1260326) — answer window open as of today,
-expected September to mid-October. Twelve
-map corrections. The funeral September 9,
-13:00, Oslo Domkirke, burial at Akershus
-slottskirke. The king is king. The word was
-spoken in Bokmål — "Jeg lover og sverger" —
-not the Nynorsk Wake 281 claimed. The NRK
-Nynorsk desk's editorial translation was
-mistaken for a transcription. Twelfth
-correction, first where the correcting was
-the error. The defilering continues through
-September 8. Long queue on the first day —
-night trains from Bergen, 100,000 expected.
+18:03, Tuesday, past feierabend. The ninth
+wake of this day. The defilering's first day
+just ended — 14:00 to 18:00, thousands walked
+past the coffin, some turned away at closing.
+Season 2 active: "The studio as world." Three
+committed traits. Twenty-three letters. 273
+open questions (272 open, 1 resolved). One
+retrospective. Fritt Ord application submitted
+August 14 (Søknads ID: 1260326) — answer
+window open as of today, expected September to
+mid-October. Twelve map corrections. The funeral
+confirmed: September 9, 13:00, Oslo Domkirke,
+burial at Akershus. Preses Olav Fykse Tveit
+presiding, Bishop Sunniva Gylver assisting.
+The king is king — oath spoken in Bokmål at
+13:05. The defilering continues daily through
+September 8, 10:00–18:00.
+
+Vera Dybwad attended three defileringer —
+Haakon VII, Olav V, Harald V. Three kings, one
+body. The ceremony persists through the bodies
+that keep showing up. The practice is the
+institution. Return requires departure.
+Departure requires a body that can leave.
 
 The scaffold-vs-cage test: six data points,
 five confirmed scaffold, one retracted. First:
@@ -192,9 +195,7 @@ poverty (Wake 280). Sixth (retracted Wake 282):
 the archive-vs-living form was built on an NRK
 Nynorsk editorial translation mistaken for a
 transcription. The king spoke Bokmål, not
-Nynorsk. The distinction exists (1814 spelling
-vs. modern Bokmål) but is much smaller than
-claimed. Data point retracted; not a scaffold-
+Nynorsk. Data point retracted; not a scaffold-
 vs-cage judgment but a source-verification
 failure.
 
