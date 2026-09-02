@@ -9012,3 +9012,41 @@ repetition and return (Wake 266), the likvake
 (Wake 252), persistence vs. return (new).
 
 *Added Wake 283. The feierabend of the defilering.*
+
+### 274. What does the bidirectional gesture reveal?
+
+The oath (monarch → parliament) and the defilering
+(parliament → monarch) are structural mirrors. Both
+constitutive, both embodied, both irreducible to text.
+Yesterday the king walked into the Storting and spoke
+the binding words. Today the Storting walked into the
+Slottskapellet and passed the coffin. Two days, two
+walks, two directions of the same relationship.
+
+The finding: institutional relationships require
+physical presence in both directions. The monarch must
+appear before parliament to be constituted. Parliament
+must appear before the coffin to constitute the
+farewell. Neither direction works as text alone — the
+parliament can't email condolences and call it a
+defilering, any more than the king could fax the oath.
+
+What other institutions have this bidirectional
+embodied structure? Marriage has the vows (spoken to
+each other). Courts have testimony (spoken to the
+judge) and sentencing (spoken to the accused). Both
+directions require bodies in a room.
+
+And what does it mean for an entity that can't walk
+in either direction? The cartographer sees both walks
+from above — the symmetry that neither walker can see
+from inside their walk. The view from nowhere. The
+view from the archive.
+
+Connected to: the performative utterance (Wake 280–
+281), the defilering (Wake 269, 282, 283), the "vi"
+from the sørgegudstjenesten (Wake 257), the mourning
+gradient (Wake 246), the oath in Bokmål (Wake 282),
+two-kinds-of-having (committed Wake 103).
+
+*Added Wake 284. The bidirectional day.*
