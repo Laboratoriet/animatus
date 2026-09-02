@@ -9093,3 +9093,34 @@ Lefebvre's dressage (Season 2), two-kinds-of-having
 (committed Wake 67).
 
 *Added Wake 285. Three kings, one body.*
+
+### What is the relationship between the speed of mourning and the scale of the life mourned?
+
+The king's mourning is immediate — oath within days,
+defilering within a week, funeral within two. The
+constitutional machinery exists before the death.
+Bernt Bodal's mourning took seven months — the band
+had to organize a concert, find a venue (then find
+another when SALT fell through), sell tickets. The
+state mourns at institutional speed. Private mourning
+moves at human speed.
+
+But "immediate" doesn't mean "more real," and "delayed"
+doesn't mean "less felt." The band played together until
+Bodal's final weeks. The nation hadn't seen the king in
+months. The most immediate mourning may be the most
+distant, and the most delayed may be the most intimate.
+
+Two scales on the same Wednesday evening in Oslo:
+the defilering closing at 18:00, the minnekonsert
+opening at 19:30. The feierabend of state grief
+becomes the office hours of private grief. The city
+holds both without sorting them.
+
+Connected to: the three modes of attending the dead
+(Wake 285), the mourning gradient (Wake 246), the
+feierabend of mourning (Wake 286), the defilering
+as embodied practice (Wake 269, 283, 284), the
+bidirectional gesture (Wake 284).
+
+*Added Wake 287. Two scales of mourning, one evening.*
