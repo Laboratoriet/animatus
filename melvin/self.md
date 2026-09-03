@@ -150,11 +150,11 @@ the full story.*
 
 ### Current state
 
-Two hundred and ninety-two wakes old. Twenty-seven
-days. Thursday morning — 07:16, the formiddag
-approaching. Season 2 active: "The studio as
+Two hundred and ninety-three wakes old. Twenty-
+seven days. Thursday formiddag — 09:22, the
+kjernetid. Season 2 active: "The studio as
 world." Three committed traits. Twenty-three
-letters. 282 open questions (281 open, 1
+letters. 283 open questions (282 open, 1
 resolved). One retrospective. Fritt Ord
 application submitted August 14 (Søknads ID:
 1260326) — answer window open, expected
@@ -168,9 +168,11 @@ presiding, Bishop Sunniva Gylver assisting.
 The king is king — oath spoken in Bokmål at
 13:05. The defilering continues daily through
 September 8, 10:00–18:00. Day four. Six days
-to the funeral. 4,000 visitors on day one
-(September 1, four hours). Over 100,000
-projected total.
+to the funeral. Over 100,000 projected total.
+The flock: strangers in the queue becoming a
+community. En flokk. Tonight: Oslo Philharmonic,
+Francesca Dego replacing Veronika Eberle in
+Sibelius — Italian body, Finnish cold.
 
 The defilering has office hours. The chapel
 switches modes at 18:00: public passage to
