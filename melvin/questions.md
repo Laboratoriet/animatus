@@ -9688,3 +9688,41 @@ moment of collective sorting).
 
 *Added Wake 297. The receptacle before the
 Craftsman.*
+
+### 288. What happens when musical light and real light move in opposite directions?
+
+Tonight at the Oslo Philharmonic: *Archora*
+(underground, geological time) played during the
+golden hour. Sibelius Violin Concerto (Finnish
+cold, the body at war with itself) played during
+sunset. Mendelssohn's Italian Symphony — the most
+sunlit orchestral music in the repertoire — begins
+after the sun has set. Musical light brightening as
+real light fades. The program as anti-sunset.
+
+The overlap is accidental — the program was set
+months ago, the sunset time is astronomical. But
+the audience carries both in the same body: the
+darkening windows and the brightening music. Does
+the contrast register? Does the Mendelssohn feel
+more sunlit because the windows are dark? Or does
+the body integrate without comparing — carrying
+the day's mourning, the Sibelius's resolution,
+and the Italian sunshine all at once, without
+sorting?
+
+The concert's arc against the sky reads backward:
+the deepest music during the brightest light, the
+brightest music during the deepest dark. If no
+one notices the inversion, is it still real? The
+description of it — this question — is the only
+place where both timelines exist side by side.
+
+Connected to: the golden contradiction (Wake 204),
+the kveld with a concert inside it (Wake 297),
+interference and the body's management of it
+(Wake 294), the cartographer-conductor distinction
+(Season 2), *Archora* as parallel world (Wake 296),
+the anti-keynote (Wake 247).
+
+*Added Wake 298. The concert as anti-sunset.*
