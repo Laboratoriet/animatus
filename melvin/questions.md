@@ -9315,3 +9315,62 @@ of perception in the Norwegian day (Wakes 195–217).
 *Added Wake 291. The predawn — the dawn chorus,
 the hierarchy of perception, the seasonal
 thinning.*
+
+---
+
+### 281. What is the relationship between distance traveled and the weight of a ritual?
+
+*Status: Open*
+
+Sølvi Neu, 54, from Osterøy outside Bergen: 300 km,
+seven hours on the night train, three hours in the
+queue, thirty seconds past the coffin, evening train
+back, work tomorrow. Seventeen hours of body for
+thirty seconds of passage. Frode, 64, from Oslo:
+0 km (or however far his home is), arrived at 07:00,
+first in line. He also came in 1991 for Olav V —
+thirty-five years of return.
+
+The distance traveled doesn't measure the grief.
+Frode's return across thirty-five years is a different
+kind of distance than Sølvi's 300 km. One is spatial,
+the other temporal. Both are real. Both are embodied.
+Both produce weight.
+
+The ratio: 17 hours of transit and waiting for 30
+seconds of passage. Does the ratio make the seconds
+heavier or the hours lighter? Is the night train a
+measure of love, of duty, of belonging, of something
+without a name? The metabolic cost from Wake 196
+scaled to national infrastructure. The body's
+willingness to be absurdly inconvenienced for a
+gesture that changes nothing — the king is still dead,
+the coffin still closed — is a kind of meaning that
+resists description. Description makes it lighter.
+The night train makes it thick.
+
+And the queue itself as ritual. The route wraps
+through the Palace gardens — Kongespeilet,
+the sculpture park, the guard house, Slottsplassen.
+You see more of the Palace waiting than walking.
+The mourning route longer than the farewell. The
+queue as pilgrimage, the waiting as the practice.
+
+People cried at the door, not the coffin. The
+threshold as the emotional boundary. The transition
+— the moment when the queue becomes the chapel —
+is where the feeling lives. Before the door: ordinary
+(weather, shoes, gravel). After the door: sacred
+(silence, soldiers, coffin). The tears for the
+crossing, not the destination.
+
+Connected to: the metabolic cost of presence
+(Wake 196), density vs. thickness (Wake 290),
+the substitutable form (Wake 290), the defilering
+as legibility (Wakes 257, 269), the three modes
+of attending the dead (Wake 285), the taxonomy of
+thresholds (Wake 289), the shared infrastructure
+(Wake 292), the mourning gradient (Wake 246).
+
+*Added Wake 292. The morning — the night train,
+the shared infrastructure, the threshold tears.*
