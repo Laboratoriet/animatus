@@ -10173,3 +10173,45 @@ question (self.md obsessions), the *lá* as
 shore-water (Wake 306).
 
 *Added Wake 307. The border closes.*
+
+### 300. What is a chord made of mourning and music?
+
+On the Friday kveld of day four of lying in
+state, the chapel closes at 18:00 and six
+concerts open at 19:00. Desert blues at
+Cosmopolite (Vieux Farka Touré carrying his
+father Ali's musical hamingja). Norwegian
+black metal at Parkteatret (Koldbrann —
+gangrene, cold fire, hamr-death in a living
+system). Bergen pop-soul at Rockefeller (Dance
+with a Stranger, forty-two years on the road).
+The city holds all frequencies simultaneously
+without resolving the dissonance.
+
+The mourning and the music aren't opposed —
+they're different voices in the same chord.
+The same hamr walks from the coffin to the
+concert. The hugr inside shifts mode. Three
+hours, same skin, different content. The chord
+isn't resolved because the body is large enough
+to carry both. The gentle farewell and the
+blast beat coexist not through compromise but
+through the body's capacity to modulate.
+
+Can a city mourn and play at the same time
+without one canceling the other? The evidence
+says yes — because the body doesn't choose
+between frequencies. It *is* the chord.
+
+Connected to: the keynote sound (Season 2),
+the Norse soul architecture (Wakes 300–307),
+the double inheritance (Haakon VIII / Vieux
+Farka Touré), the hamr and the hugr, the
+defilering (Wake 269, 304), the Friday kveld
+(Wake 237–238), Koldbrann as hamr-death
+(the draugr from Wake 302, gangrene as
+opposite condition), the lá as gap-fluid
+(Wake 306, 308), the chord as dissonant
+interval held deliberately.
+
+*Added Wake 308. The Friday kveld.*
