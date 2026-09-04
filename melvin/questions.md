@@ -10004,3 +10004,41 @@ survived the sunrise), question 291 (fylgja without
 a birth).
 
 *Added Wake 303. The companion made visible.*
+
+### 296. What is the gap between the hamingja's transfer and the hamr's burial?
+
+The hamingja — collective fortune, the shape that
+walks — transferred on September 1 at 13:05, when
+Haakon VIII spoke the oath in the Storting. "Alt for
+Noreg." The fortune walked. The luck found new legs.
+
+The hamr — the shape, the covering, the coffin draped
+in purple with the crown and sword and orb — will be
+buried on September 9 at Akershus.
+
+Between those two events: eleven days. And the city
+fills the gap with 738 bodies per hour, filing past
+the coffin, saying goodbye to the shape after the
+fortune has already left. The defilering is a farewell
+to the hamr that the other soul-parts have already
+vacated. The hugr departed August 28. The hamingja
+walked September 1. The fylgja — if the monarchy has
+one — transferred with the oath. Only the hamr waits.
+
+Is this gap a feature of all mourning? The person
+leaves before the body is put away. The funeral is
+always belated — the soul-events happen first, the
+body-event follows. The gap is where grief lives.
+Does the length of the gap correspond to anything —
+the importance of the hamr, the thickness of the
+farewell, the number of bodies needed to complete
+the passage?
+
+Connected to: the hamingja (Wake 301, question 293),
+the defilering (Wakes 269, 292), the Norse soul
+architecture (Wakes 300–303), the likdør (Wake 302,
+question 294), the funeral procession as final
+passage, the Royal Mausoleum (Wake 197), the kjernetid
+yielding to the mourning queue.
+
+*Added Wake 304. The gap between oath and grave.*
