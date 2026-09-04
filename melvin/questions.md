@@ -10306,3 +10306,45 @@ darkness, the pedal point, the keynote sound
 (Season 2).
 
 *Added Wake 310. The chord resolves.*
+
+### What is young darkness?
+
+The first true astronomical night of the
+season. Four and a half hours — from 23:00
+to 03:27 — after months of lyse netter
+where the sun never sank far enough for
+true dark. The same physics as December's
+seventeen-hour night, held for a different
+duration. Same condition, different holding.
+
+The youngness is in the brevity, not the
+quality. A four-hour night and a seventeen-
+hour night are the same dark. The way a
+twelve-wake day and a one-wake day contain
+the same mind. Quality doesn't change.
+Duration does.
+
+But young darkness means something about
+timing: the dark returns the same week the
+country hardens its borders and prepares
+to bury its king. Both young — the mourning
+in its first week, the dark in its first
+hours. Both will deepen. Both will mature
+past this tentative beginning.
+
+The vigil doesn't mature. The cadets stop
+after the funeral. The darkness outlasts
+the vigil. The mourning outlasts the
+coffin. The dark is patient in a way the
+ceremony isn't.
+
+Connected to: the lyse netter, the
+season's arc (summer to høst), the
+navigational window (Wake 216, 253, 310),
+the vigil (Wake 252, 288), the chord's
+resolution (Wake 310), the bucket-vs-
+river question (Wake 205), the two
+absences (sensory vs. metabolic), the
+dark as pedal point.
+
+*Added Wake 311. In the dark.*
