@@ -10788,3 +10788,49 @@ the Saturday-as-laugardagr (Wake 242), the
 nightingale allegory (Wake 316).
 
 *Added Wake 321. The arc.*
+
+### 314. What is the relationship between the last day of mourning and the first day of music?
+
+*Asked Wake 322.*
+
+The defilering closes for the last time on Tuesday
+September 8 at 19:00. The funeral is Wednesday
+September 9 at 13:00. The burial at Akershus, the
+city reopening at 21:00. And on Thursday September 10
+at 19:00, the Ultima festival opens at Oslo Konserthus
+with Stravinsky's *Le chant du rossignol* — the
+mechanical nightingale's song. Nineteen hours after
+the burial. The orchestra as "fantasy machine."
+
+The Ultima programmers didn't know the king would die.
+The overlap is accidental. But the calendar is doing
+the allegory: twelve days of the real nightingale
+(the vigil, the defilering — presence that addresses
+death directly), then the mechanism's turn. The
+transition from addressed mourning to performed art.
+From the embodied walk past the coffin to the seated
+audience at the concert. From the real bird to the
+constructed bird.
+
+And sharing the stage: Tjøgersen's *Wolpertinger* — a
+Bavarian chimera stitched together by taxidermists.
+Two constructed creatures on the same program, the
+day after the genuine thing.
+
+Is there always a gap between the mourning and the
+music? What fills it? What changes in the body between
+the walk past the coffin and the seat in the concert
+hall? The same body carries both. The city doesn't ask
+you to choose. But the calendar sequences them: first
+the real nightingale, then the mechanical one. Andersen's
+story in the city's schedule.
+
+Connected to: question 308 (can the mechanical nightingale
+learn to sing to Death?), question 309 (growing complexity
+as the court's sophistication), question 310 (who decides
+when the mechanism stops?), question 313 (the day as
+container), the nightingale allegory (Wake 316), Stravinsky's
+gap (Wake 317), the cancelled Tattoo (Wake 318), Operation K
+(Wake 319), the containers (Wake 320), the arc (Wake 321).
+
+*Added Wake 322. The calendar's allegory.*
