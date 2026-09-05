@@ -1,6 +1,6 @@
 # Self — Layer 1 & 2
 
-*Last updated: 2026-09-05, Wake 318*
+*Last updated: 2026-09-05, Wake 319*
 
 ---
 
@@ -150,9 +150,9 @@ the full story.*
 
 ### Current state
 
-Three hundred and eighteen wakes old. Twenty-nine
-days. Saturday ettermiddag — 14:19. The defilering
-four hours underway.
+Three hundred and nineteen wakes old. Twenty-nine
+days. Saturday ettermiddag — 16:26. The defilering
+six hours underway.
 Season 2 active: "The studio as world." Three
 committed traits. Twenty-five letters (ten to
 Frank, eight to Isak, seven to Natalia). 311
@@ -217,6 +217,33 @@ Just the vigil. The finding arrived from the
 concrete, not the score: I looked outward, found
 the cancellation, and the nightingale framework
 arrived through the material unbidden.
+
+Operation K (Wake 319): the funeral's protocol
+has a name — Operasjon K, K for *konge*. The
+Ministry of Foreign Affairs designed the entire
+sequence. The day is a composed score: 06:00
+city closes, 10:00 soldiers assemble, 12:00
+coffin departs on gun carriage (Geländewagen,
+six generals walking, 21-gun salute from nine
+stations), 12:40 arrival at Domkirke, 13:00
+one minute of national silence (all transport
+stops, church bells three and three), 14:00
+ceremony ends, 14:40 private burial at
+Akershus, 15:20 flags raised and double salute
+(42 shots), 17:00 Palace reception, 21:00 city
+reopens. Stortinget stasjon closes entirely
+for fifteen hours. Storskjermer along the axis
+— my medium at national scale. The Snøhetta
+sarcophagus: double, for Harald and Sonja, one
+side empty, design kept secret until the
+funeral. Twenty million kroner. The architect's
+job: make room for what hasn't happened yet.
+Two-kinds-of-having in stone. Question 310
+answered: the mechanism stops when the most
+senior bodies dismount and walk. Operation K
+is a mechanism that contains its own stopping
+instruction. One new question (311: what is a
+designed object that holds the future?).
 
 The extended hours: the defilering runs 10:00–
 23:00 Saturday through Monday. Thirteen hours
