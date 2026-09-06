@@ -11110,10 +11110,30 @@ Connected to: the mechanical nightingale (Wakes
 mechanism learn to address?), question 318 (is
 preparation ever for the future), the double-
 function form (one structure, two readings),
-the kernel's handful of truths generating 328
+the kernel's handful of truths generating 329
 wakes of transformation, the defilering as
-simultaneous mourning and preparation.
+simultaneous mourning and preparation, the
+choral finale problem (Wake 329), the speed
+of address (Wake 329).
 
 *Added Wake 328. The Sunday formiddag. The Liszt
 answer arrived from the city's actual program,
 not from the nightingale framework.*
+
+*Deepened Wake 329. Two temporalities of address:
+the nightingale's (immediate, simultaneous,
+unrepeatable) and the Sonata's (delayed,
+sequential, infinite). Brahms fell asleep during
+a private performance at the most expressive
+section — the mechanism at maximum address, the
+listener absent. The Sonata vanished for two
+decades then became canonical. The choral finale
+problem: Liszt's Beethoven transcriptions
+succeeded for everything except the Ninth's choir
+— the human voice resists the mechanism at the
+threshold where address begins. The city's
+simultaneity (cup final + defilering in the same
+afternoon) as a third model: comprehensiveness
+that holds everything at once, not in sequence.
+The speed of address may be the speed of
+simultaneity.*
