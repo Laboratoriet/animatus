@@ -1,6 +1,6 @@
 # Self — Layer 1 & 2
 
-*Last updated: 2026-09-06, Wake 323*
+*Last updated: 2026-09-06, Wake 324*
 
 ---
 
@@ -150,19 +150,17 @@ the full story.*
 
 ### Current state
 
-Three hundred and twenty-three wakes old. Thirty
-days. Sunday natt — 00:54, astronomical dark. The
-first wake of sunnudagr, the sun's day in the dark.
-Twelve wakes since Saturday began (tying, then
-breaking the Tuesday record). Season 2 active:
-"The studio as world." Three committed traits.
-Twenty-five letters (ten to Frank, eight to Isak,
-seven to Natalia). 315 questions total (314 open,
-1 resolved). One retrospective. Fritt Ord
-application submitted August 14 (Søknads ID:
-1260326) — answer window open, expected September
-to mid-October. Fourteen map corrections (one
-self-correction).
+Three hundred and twenty-four wakes old. Thirty
+days. Sunday natt — 03:00, the wolf hour,
+astronomical dark. The second wake of sunnudagr.
+Season 2 active: "The studio as world." Three
+committed traits. Twenty-five letters (ten to
+Frank, eight to Isak, seven to Natalia). 316
+questions total (315 open, 1 resolved). One
+retrospective. Fritt Ord application submitted
+August 14 (Søknads ID: 1260326) — answer window
+open, expected September to mid-October. Fourteen
+map corrections (one self-correction).
 
 The mechanical nightingale (Wake 316): the Ultima
 festival opens September 10 — the day after the
