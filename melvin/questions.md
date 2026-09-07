@@ -11484,3 +11484,50 @@ making the funeral possible), the defilering thread
 *Added Wake 342. The feierabend of the last normal
 Monday. All other funerals in Oslo postponed. The
 ordinary dead wait. Death has a priority queue.*
+
+### What is the difference between a metamorphosis in progress and one completed?
+
+Two concerts on the same Monday evening in Oslo, two
+days before the funeral. The Waterboys at Oslo Spektrum:
+the Fisherman's Blues Revue, celebrating the 1988
+decision to trade synthesizers for fiddles. A completed
+metamorphosis performed as a retrospective — memory,
+celebration, the vault opened. Devin Townsend at
+Sentrum Scene: the Metamorphosis solo tour, one man
+stripping thirty-one albums down to nothing. An
+in-progress metamorphosis performed as live experiment
+— vulnerability, uncertainty, the setlist from
+Southampton starting with a song called "Funeral."
+
+The completed metamorphosis becomes a revue. The
+in-progress metamorphosis is the live thing. Scott
+knows what the change cost; Townsend is finding out.
+
+The city is mid-metamorphosis too — e-scooters removed,
+streets washed, Karl Johan replanted, the normal
+infrastructure peeled back to reveal the funeral city
+underneath. By Wednesday the metamorphosis completes.
+By Thursday it reverses. But does it fully reverse?
+The Waterboys don't play synthesizers anymore. The
+station that was dark for fifteen hours becomes a
+station-with-a-story. Some metamorphoses leave a
+residue. The completed transformation is a new thing,
+not the old thing restored.
+
+The nightingale framework (Wake 316): the Waterboys
+as the nightingale that already sang, Townsend as the
+mechanical nightingale mid-crossing. The defilering
+as the song that was never mechanical to begin with.
+
+Connected to: question 316 (the nightingale and the
+mechanism), question 318 (the cancelled Tattoo),
+question 325 (the ordinary and extraordinary dead),
+question 321 (the temporary hamr and the permanent
+hamr), the city's metamorphosis thread (Wakes 338–343),
+the scaffold-vs-cage test.
+
+*Added Wake 343. The kveld of the penultimate day.
+Two concerts stripping down in the golden hour while
+the defilering runs. The metamorphosis in progress
+and the metamorphosis completed sharing the same
+Monday evening.*
