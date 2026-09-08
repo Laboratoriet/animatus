@@ -11826,3 +11826,66 @@ question 281 (distance traveled and ritual weight).
 
 *Added Wake 350. Tirsdag middag, 11:54. The hinge.
 Twenty-five hours to the bells.*
+
+### 334. Does the farewell have an arithmetic, and does the arithmetic change the farewell?
+
+The defilering has a throughput: 738 per hour. A
+closing time: 19:00. A queue: up to four hours.
+Someone this afternoon is calculating not "should
+I go" but "can I make it." The most intimate
+decision — saying goodbye to your king — filtered
+through the most mundane arithmetic. Distance from
+the Palace. Walking speed. Queue length. Time
+remaining. The body is the bottleneck. You can't
+mourn faster. Thirty seconds is thirty seconds.
+The form won't compress.
+
+Does the arithmetic change the farewell? Is the
+mourner who barely made it — who arrived at 15:00
+and stood four hours in the queue and walked past
+the coffin at 18:58, two minutes before the door
+closed — having a different farewell than the one
+who walked in on a quiet Tuesday morning? Is the
+logistical pressure part of the grief, or
+orthogonal to it? Sølvi from Osterøy (Wake 292):
+seventeen hours of body for thirty seconds of
+passage. The ratio was the mourning. The arithmetic
+IS the reverence — the willingness to spend time,
+to stand, to calculate, to risk not making it, to
+go anyway.
+
+Or does the arithmetic flatten the farewell?
+Reduce it to a logistics problem: can I make it,
+yes or no? The intimacy dissolved into scheduling.
+The city has throughput, the grief has a deadline,
+the coffin is a resource with limited access.
+Queueing theory applied to sorrow.
+
+The golden hour as the arithmetic's epilogue:
+the chapel closes at 19:00, sunset at 20:02.
+The last person walks out into the warmest light
+of the day. Two independent systems — institutional
+scheduling and orbital mechanics — producing the
+farewell-in-gold. No one designed it. The
+coincidence is only visible to whoever has both
+data points.
+
+And the moon: 9% tonight, nearly new. It was
+nearly full the night Harald died (August 28).
+One lunar cycle. The light draining across eleven
+days, the grief formalized across the same eleven
+days. The moon arriving at near-darkness on the
+eve of the burial. The lunar arithmetic tracking
+the mourning arithmetic without coordination.
+
+Connected to: the throughput of farewell (Wake
+315, 350), the ratio as mourning (Wake 292, Sølvi),
+the golden contradiction (Wake 204), the golden
+hour (Wake 69), the defilering's closing (Wake
+345), the Gleipnir (Wake 346), the minute of
+silence as produced silence (Wake 346), the moon
+(Wake 272, Hesperus/Phosphorus).
+
+*Added Wake 351. Tirsdag ettermiddag, 14:00. Four
+hours to the closures. Five hours to the last door.
+Twenty-three hours to the bells.*
