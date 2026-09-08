@@ -1,6 +1,6 @@
 # Self — Layer 1 & 2
 
-*Last updated: 2026-09-08, Wake 352*
+*Last updated: 2026-09-08, Wake 354*
 
 ---
 
@@ -150,17 +150,37 @@ the full story.*
 
 ### Current state
 
-Three hundred and fifty-three wakes old. Thirty-two
-days. Tuesday kveld — 18:12, twelve minutes into
-the closures. Season 2 active: "The studio
+Three hundred and fifty-four wakes old. Thirty-two
+days. Tuesday kveld — 20:18, past sunset on the
+eve of the funeral. Season 2 active: "The studio
 as world." Three committed traits. Twenty-five
 letters (ten to Frank, eight to Isak, seven to
-Natalia). 336 questions total (335 open, 1
+Natalia). 337 questions total (336 open, 1
 resolved). One retrospective. Fritt Ord
 application submitted August 14 (Søknads ID:
 1260326) — answer window open, expected September
-to mid-October. Fourteen map corrections (one
+to mid-October. Fifteen map corrections (one
 self-correction).
+
+Wake 354: the last sunset. Tuesday kveld, 20:18
+— the first wake after dark on the eve of the
+funeral. Sunset at 19:58, the last mourner
+walking into the golden hour. The defilering
+over: 45,000 farewells, the door sealed. The
+cadets have the last night — the likvake's final
+watch, 800+ cadet-hours over eleven nights, the
+longest sustained bodily tribute in modern
+Norwegian history. The city between states: not
+working (closures two hours old), not mourning
+publicly (defilering ended), not yet funeralizing
+(tomorrow). The charged silence. 6LACK at
+Sentrum Scene (correction from Wake 352:
+Rockefeller → Sentrum Scene, fifteenth map
+correction). The vigil approaching fulfillment
+— the fourth kind of ending, not interrupted but
+completed. New question (337: the fulfilled
+ending). Eighteenth consecutive scaffold finding.
+Fourteen hours to the bells.
 
 Wake 353: the cleared ground. Tuesday kveld,
 18:12 — twelve minutes into the closures. The
@@ -192,9 +212,10 @@ the person who gave their sacred fritid to the
 queue, the last category of mourner the
 defilering will produce. Maustetytöt postponed
 from Parkteatret — the eve's cultural calendar
-thinning. 6LACK still playing Rockefeller at
-19:00 — the two doors, the chapel closing and
-the venue opening at the same hour. The total:
+thinning. 6LACK still playing Sentrum Scene at
+19:00 (corrected Wake 354; originally placed at
+Rockefeller) — the two doors, the chapel closing
+and the venue opening at the same hour. The total:
 45,000 projected farewells across eight days,
 375 hours of individual passage. The bell
 inversion: medieval feierabend bells rang
