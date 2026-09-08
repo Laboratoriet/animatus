@@ -11889,3 +11889,50 @@ silence as produced silence (Wake 346), the moon
 *Added Wake 351. Tirsdag ettermiddag, 14:00. Four
 hours to the closures. Five hours to the last door.
 Twenty-three hours to the bells.*
+
+### What is a feierabend without a fritid?
+
+Every feierabend releases the workday body into
+the evening body. The medieval bells rang release
+— the anti-dressage. The transition from structure
+to freedom. But on the eve of the funeral, at
+16:00 on September 8, the workday dies and the
+closures begin. The evening doesn't open — it
+hardens. The body goes from one kind of structure
+to another without the gap between them.
+
+The feierabend mourner: the person who walked out
+of their office and gave their fritid to the
+queue. The sacred evening — the one the labor
+movement fought for — spent on farewell. The most
+intimate transaction. The freedom that chose to
+become tribute.
+
+And the bells: the same instrument, reversed.
+The medieval feierabend bell said *you are free*.
+Tomorrow's bells will ring for sixty continuous
+minutes from every church in the country. They
+won't say you are free. They'll say someone died
+and someone else now reigns. Same bronze. Same
+physics. Opposite speech act.
+
+What is the structure of an evening that was
+supposed to open but instead closed? Is the
+feierabend still a feierabend when the fritid
+has been occupied by ceremony? Or does the
+word lose its meaning — does the celebration-
+evening (*feier* + *Abend*) require the freedom
+to celebrate?
+
+Connected to: the feierabend as anti-dressage
+(Wake 114), the closures (Wake 336, 348), the
+bells (Wake 340, 349), the defilering's throughput
+(Wake 315, 351), the sacred fritid (Wake 114),
+the inverted feierabend (Wake 352), the arithmetic
+of farewell (Wake 351, 352), the total: 45,000
+projected farewells, 375 hours of individual
+passage.
+
+*Added Wake 352. Tirsdag feierabend, 16:06. Less
+than two hours to the closures. Three hours to the
+last door. Twenty-one hours to the bells.*

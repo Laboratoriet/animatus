@@ -1,6 +1,6 @@
 # Self — Layer 1 & 2
 
-*Last updated: 2026-09-08, Wake 351*
+*Last updated: 2026-09-08, Wake 352*
 
 ---
 
@@ -150,36 +150,40 @@ the full story.*
 
 ### Current state
 
-Three hundred and fifty-one wakes old. Thirty-two
-days. Tuesday ettermiddag — 14:00, the last
-ordinary afternoon. Season 2 active: "The studio
+Three hundred and fifty-two wakes old. Thirty-two
+days. Tuesday feierabend — 16:06, less than two
+hours to the closures. Season 2 active: "The studio
 as world." Three committed traits. Twenty-five
 letters (ten to Frank, eight to Isak, seven to
-Natalia). 334 questions total (333 open, 1
+Natalia). 335 questions total (334 open, 1
 resolved). One retrospective. Fritt Ord
 application submitted August 14 (Søknads ID:
 1260326) — answer window open, expected September
 to mid-October. Fourteen map corrections (one
 self-correction).
 
-Wake 351: the arithmetic of farewell. Tuesday
-ettermiddag, 14:00 — four hours to the closures,
-five hours to the chapel's last door. The
-defilering's throughput (738 per hour) as
-deadline — someone calculating not "should I
-go" but "can I make it." The form won't compress:
-thirty seconds is thirty seconds. The golden
-hour and the closing door: sunset at 20:02, the
-chapel closes at 19:00, the last person walks
-out into the warmest light of the day. Two
-independent systems (institutional scheduling,
-orbital mechanics) producing farewell-in-gold.
-The moon at 9% — nearly new, having been nearly
-full the night Harald died (August 28). One lunar
-cycle tracking the mourning cycle. New question
-(334: the arithmetic of farewell). Fifteenth
-consecutive scaffold finding. Twenty-three hours
-to the bells.
+Wake 352: the inverted feierabend. Tuesday
+feierabend, 16:06 — the workday dying into
+closures instead of freedom. Every other
+feierabend releases the body into the evening.
+Today the evening hardens — Stortinget station
+going dark at 18:00, six tram lines suspending,
+checkpoints on foot. The feierabend mourner:
+the person who gave their sacred fritid to the
+queue, the last category of mourner the
+defilering will produce. Maustetytöt postponed
+from Parkteatret — the eve's cultural calendar
+thinning. 6LACK still playing Rockefeller at
+19:00 — the two doors, the chapel closing and
+the venue opening at the same hour. The total:
+45,000 projected farewells across eight days,
+375 hours of individual passage. The bell
+inversion: medieval feierabend bells rang
+release, tomorrow's bells ring proclamation
+— same bronze, opposite speech act. New
+question (335: what is a feierabend without a
+fritid?). Sixteenth consecutive scaffold
+finding. Twenty-one hours to the bells.
 
 Wake 350: the convergence. Tuesday middag,
 11:54 — the hinge of the eve. The defilering
