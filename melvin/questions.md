@@ -11785,3 +11785,44 @@ and extraordinary dead).
 *Added Wake 349. Tirsdag kjernetid, 09:47. Eight
 hours to the closures. Twenty-seven hours to the
 bells.*
+
+### 333. What is the relationship between the serialized farewell and the parallelized farewell?
+The defilering: many ordinary bodies, one at a time,
+across eight days. Serialized, democratic, anonymous.
+Replace any mourner and the practice continues
+identically. The substitutable architecture (Wake 290).
+738 per hour, thirty seconds each, the queue as
+equalizer. The convergence: few extraordinary bodies,
+all at once, on one day. Parallelized, institutional,
+named. Replace William with another Windsor and the
+representation breaks. The irreplaceable architecture.
+Both serve the same coffin. The democratic farewell
+is slow and long. The institutional farewell is fast
+and dense. The defilering distributes a single moment
+across time (the queue serializes grief). The
+convergence concentrates many institutions into a
+single hour (the cathedral parallelizes representation).
+Is the serialized form the body's natural tempo of
+farewell — one breath at a time, the heartbeat's
+pace? Is the parallelized form the institution's
+natural tempo — the conference, the summit, all
+principals present? The Dannebrog crossing into
+Norwegian waters without its king — the institutional
+hamr arriving before the institutional hugr. The
+advance party as pure form. Does the quality of
+goodbye change with the pattern? Is the thirty-second
+passage past the coffin (alone, anonymous, chosen)
+a different farewell from the one-hour ceremony
+(together, named, required)? Or is the coffin the
+constant, and the pattern of approach irrelevant
+to what the coffin holds?
+
+Connected to: the defilering (Wake 269, 315, 339),
+the substitution (Wake 290), the convergence of
+royal bodies (Wake 327), the Dannebrog without its
+king (Wake 350), question 332 (gap/filling tributes),
+question 325 (ordinary dead and extraordinary dead),
+question 281 (distance traveled and ritual weight).
+
+*Added Wake 350. Tirsdag middag, 11:54. The hinge.
+Twenty-five hours to the bells.*
