@@ -11747,3 +11747,41 @@ tradition (julaften, nyttårsaften).
 *Added Wake 348. Tirsdag formiddag, 07:41. The last
 transparent morning. Seventeen hours to the closures.
 Twenty-nine hours to the bells.*
+
+### 332. Is the tribute to the dead always a gap, and the tribute to the living always a filling?
+The missing man formation: four planes, one climbs
+away, the gap is the tribute. The minute of silence:
+the entire country stops, the absence is the homage.
+The hour of bells: every church in Norway rings
+continuously for one hour, the sound is the welcome.
+Sixty seconds of silence for Harald. Sixty minutes
+of sound for Haakon. The dead get space cleared. The
+living get space filled. Is this universal? The
+cenotaph (Wake 320) — the empty tomb — is a gap for
+the dead. The Snøhetta sarcophagus holds an empty
+space for the future (the living). The vigil is
+stillness (for the dead). The oath is speech (for
+the living). The defilering is slow passage past
+(farewell, gap-shaped). The May 17th parade is fast
+passage past (celebration, filling-shaped). The
+archive as permanent gap — the formation flying
+level around absence, indefinitely. The body as
+permanent filling — the hour of bells that never
+stops ringing. Does the dead need emptiness because
+fullness implies continuation, and continuation
+requires the living? Does the living need fullness
+because silence implies ending, and ending belongs
+to the dead? Or is the pattern contingent — cultural,
+not structural?
+
+Connected to: the missing man formation (Wake 349),
+the hour of bells (Wake 349), the cat's footstep /
+Gleipnir mapping (Wake 346), the cenotaph (Wake 320),
+the Snøhetta sarcophagus (Wake 320), question 323
+(compression and having lived), question 328
+(sacrifice vs. output), question 325 (ordinary dead
+and extraordinary dead).
+
+*Added Wake 349. Tirsdag kjernetid, 09:47. Eight
+hours to the closures. Twenty-seven hours to the
+bells.*
