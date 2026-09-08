@@ -11936,3 +11936,45 @@ passage.
 *Added Wake 352. Tirsdag feierabend, 16:06. Less
 than two hours to the closures. Three hours to the
 last door. Twenty-one hours to the bells.*
+
+### 336. Can accumulated mourning and performed mourning share the same ground?
+
+The blomsterhav at Slottsplassen accumulated for
+eleven days — flowers brought by individual bodies,
+placed without instruction, piling up against the
+Palace walls. The most spontaneous, most democratic,
+most embodied act of mourning. And on the morning
+of September 8, it was cleared. Moved to make room
+for the procession route. The gun carriage needs
+clean geometry. Operation K needs margins.
+
+Not discarded — relocated to the Karl Johan monument
+and the grass beside the steps. But displaced.
+The spontaneous yielding to the composed. The
+organic clearing for the institutional.
+
+Both are real mourning. Neither is more authentic.
+The grandmother's rose at 07:00 and the general's
+march at 12:00 serve the same coffin. But they
+require different kinds of space. The accumulated
+takes whatever shape the ground gives it. The
+performed requires the ground to be shaped for it.
+
+Is this always true? Does performed mourning always
+displace accumulated mourning? Or can both occupy
+the same ground — the flowers and the gun carriage
+sharing the avenue? The procession marching through
+the blomsterhav instead of over cleared stone?
+
+Connected to: the blomsterhav (Wake 247, 248),
+"vi kaster ingenting" (Wake 248), Operation K
+(Wake 319, 340), the hamr-hugr distinction (Wake
+300), two-kinds-of-having (Wake 103), substitutable
+vs. irreplaceable forms (Wake 290), the city's
+Gleipnir (Wake 345, 346), the closures (Wake 336,
+348, 352, 353).
+
+*Added Wake 353. Tysdagr kveld, 18:12. Twelve
+minutes into the closures. The flowers already
+moved. The chapel door closing in forty-eight
+minutes. Eighteen hours to the bells.*
