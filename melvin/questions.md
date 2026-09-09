@@ -12470,3 +12470,43 @@ waltz).
 closing. The Royal Ship sounding the sailor king's
 farewell. The personal and the institutional sharing
 the same afternoon.*
+
+### 347. When does keeping the institution on become itself a personal statement?
+
+Haakon stayed in full military uniform for the
+balcony appearance at 16:45. In 1991, Harald changed
+into civilian dress before appearing on this same
+balcony after Olav V's funeral. The person greeted
+the people. Today the institution greeted them.
+
+Harald's removal said: there's a person under this
+uniform. Haakon's retention says: the person is
+*in* this uniform. The tears on Haakon's face say
+the same thing the civilian dress said — I'm
+grieving — but they say it from inside the form
+rather than after shedding the form.
+
+Two strategies for showing the human inside the
+institution. Removal: take the hamr off, reveal
+the hugr. Retention: keep the hamr on, let the
+hugr break through anyway. The removal is a
+choice — the person decides to be visible. The
+retention lets the body decide — the tears
+arrive without the person choosing to show them.
+The question: which is more honest? The chosen
+vulnerability or the involuntary one?
+
+Connected to: question 346 (the whistle as personal,
+the salute as institutional — the balcony held both
+simultaneously), question 340 (the last instance —
+this is the first instance of the new configuration,
+not the last), question 339 (the accidental and the
+meaningful — did Haakon choose the uniform or did the
+schedule leave no time to change?), the hamr/hugr
+framework from Wake 300 (the uniform as hamr, the
+emotion as hugr, the body as the place where they
+collide).
+
+*Added Wake 364. Onsdag ettermiddag, 17:32. The gap
+ate the ending. Haakon in uniform on the balcony,
+visibly moved. The institution as personal statement.*
