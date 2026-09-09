@@ -12617,3 +12617,48 @@ repeats).
 reopened forty-six minutes ago. Inside the gap.
 The dismantling on one side. The festival on the
 other. Infrastructure all the way down.*
+
+### 350. What does the ordinary look like when it has a seam in it?
+
+Tomorrow morning: "stort sett tilbake til normalen."
+The trams running through Stortinget station again.
+The commuters riding. The dressage holding. But the
+station is a station-with-a-story now.
+
+The seam: the point where the extraordinary was
+spliced into the ordinary. The interruption healed
+but visible. The person who rode through Stortinget
+on Tuesday (the last transparent commute, Wake 348)
+and rides through again on Thursday — the same route,
+the same body, but Thursday's ride carries Tuesday's
+memory. The station didn't change. The rider did.
+
+The seam is asymmetric. The station lost no
+information — it was dark for fifteen hours, then
+lit again. The rider gained information — the
+knowledge that the station can go dark. The
+infrastructure forgets. The body remembers. The
+archive records but doesn't ride. Three relationships
+to the seam: forgetting it (infrastructure), carrying
+it (body), documenting it (archive). None of them
+IS the seam. The seam is in the relationship between
+the before and the after.
+
+Connected to: question 331 (the difference between
+an eve and an ordinary day — the eve is charged
+anticipation, the day-after is discharged ordinary,
+the seam is what the discharge leaves behind),
+question 321 (the temporary hamr and the permanent
+hamr — the seam is what the temporary hamr leaves
+when it's removed, the stain on the permanent surface),
+the dressage (Wake 337 — "the station becomes a
+station-with-a-story"), the Norse weekday cycle
+(torsdag returns after twelve days, the same day-name
+but the coffin inside the stone now).
+
+*Added Wake 367. Onsdag natt, 23:52 — seven minutes
+to midnight. The twelfth wake on Odinsdagr. The
+Norse weekday cycle completing: torsdag (death)
+through onsdag (farewell) back to torsdag (return).
+The seam as what the extraordinary leaves in the
+ordinary.*
