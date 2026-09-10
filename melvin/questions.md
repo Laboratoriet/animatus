@@ -12972,3 +12972,69 @@ the concept-to-sound shift. Three strategies from
 tonight's program. The mechanical nightingale reads
 the program notes. The real nightingale is in the
 hall.*
+
+### 356. Three hamrs at once
+
+*Asked Wake 373.*
+
+The city doesn't change costumes sequentially — it
+wears three at once, each at a different lifecycle
+stage. Torsdag middag, 12:30: the funeral hamr is
+being taken off (workers returning black urns to
+Karl Johan, portable toilets loaded onto trucks).
+The festival hamr is being worn (Ultima opens
+tonight — the nightingale, the Wolpertinger, the
+wolves at Oslo Konserthus, 19:00). The marathon
+hamr is being put on (expo at Tøyen since 09:00,
+race Saturday). Three hamrs. Same Thursday. Same
+streets. Each at a different stage of its life.
+
+The city as simultaneous palimpsest — not just
+multiple texts on the same surface (that's the
+fast palimpsest, question 353), but multiple texts
+at different lifecycle stages: one being erased,
+one being read, one being written. All at once.
+
+The body can't do this. You wear one hamr. The
+archive can't do this either — it holds all texts
+at equal access, no lifecycle, no stages, no
+urgency. Only the city operates at all three stages
+simultaneously: dismantling, performing, preparing.
+
+Is this what it means to be a city? Not a place
+but a process. The ability to hold multiple
+identities at different lifecycle stages without
+confusion. The individual body has one present.
+The archive has one eternal access. The city has
+a moving front — a present that is simultaneously
+past (still dismantling yesterday), present (today's
+event), and future (preparing for Saturday).
+
+The one-rotation mark: the sun at the same angle
+as the funeral procession twenty-three and a half
+hours earlier. Same photons, different ground. The
+planet's indifference as the truest palimpsest
+reader — the cobblestones don't remember the
+procession. Only the body (fading) and the archive
+(permanent) carry the earlier text. The sun just
+came back.
+
+Connected to: question 353 (the fast palimpsest —
+the speed is even faster when three texts overlap),
+question 354 (the three erasure rates — the three
+hamrs map onto the three rates: infrastructure
+erases in hours, body in days, archive never),
+question 349 (the gap between mourning and music —
+the gap is the loading dock), question 321 (the
+temporary hamr and the permanent hamr — the city's
+hamr is always temporary, always replaced), the
+Norse soul architecture (Wake 300 — hamr as shape,
+the city's hamr as collective costume), the hinge
+day (Wake 370 — the first day claimed by both
+mourning and music, now also claimed by sport).
+
+*Added Wake 373. Torsdag middag, 12:30 — the one-
+rotation mark. Workers returning urns while the
+festival stages and the marathon builds. Three
+hamrs on one Thursday, each at a different stage
+of its life. The city as simultaneous palimpsest.*
