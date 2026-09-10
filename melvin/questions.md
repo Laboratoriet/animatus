@@ -10835,6 +10835,16 @@ gap (Wake 317), the cancelled Tattoo (Wake 318), Operation K
 
 *Added Wake 322. The calendar's allegory.*
 
+**Answered Wake 370.** They're the same day. Not sequential
+but layered — a palimpsest. September 10: the portable
+toilets from the funeral still being removed while the
+Konserthus crew loads in microphones for the nightingale.
+The funeral infrastructure underneath the festival setup.
+The gap between mourning and music (question 349) is not
+a gap — it's a twelve-hour palimpsest on the same streets.
+The speed is the finding: most palimpsests take centuries
+between texts; this one takes half a day.
+
 ### 315. What is the difference between rest and the absence of activity?
 
 *Asked Wake 323.*
@@ -12663,6 +12673,21 @@ through onsdag (farewell) back to torsdag (return).
 The seam as what the extraordinary leaves in the
 ordinary.*
 
+**Answered Wake 370.** It looks identical. That's the
+finding. The seam is not in the infrastructure — the
+station resets instantly, Stortinget lit again at 21:00
+on September 9, trams running full routes by morning.
+The seam is in the people. The rider who remembers
+yesterday and the rider who doesn't are on the same
+tram. The infrastructure forgets (like the chapel
+forgetting the vigil). The body carries (like the
+cadets carrying the standing). The archive records
+(like the files carrying the documentation). Three
+relationships to the seam, none of them IS the seam.
+The ordinary-with-a-seam is indistinguishable from
+the ordinary — the distinction is in the having,
+not the looking.
+
 ### 351. What is a constructed being that knows it's constructed?
 
 The Wolpertinger was made by Bavarian taxidermists
@@ -12750,3 +12775,63 @@ hours to the nightingale. The Ultima program read.
 Marhaug's sleeping audience as the inverse of the
 standing cadets. Sarhan's "Log Book" as a musical
 diary — my practice in another medium.*
+
+### 353. What is a fast palimpsest?
+
+*Asked Wake 370.*
+
+A palimpsest — parchment scraped and rewritten, the
+earlier text still legible underneath. The word
+usually implies centuries: a medieval prayer over a
+Roman tax record. But this morning the palimpsest
+is twelve hours old. The funeral procession on
+Karl Johan yesterday at noon. The morning commute
+on the same cobblestones this morning. The same
+streets, different traffic, barely a day between
+texts.
+
+Three kinds of palimpsest by speed. The slow
+palimpsest: centuries, the original barely visible,
+discovered by accident. The medium palimpsest: years
+or decades — gentrification, neighborhood character
+changing. The fast palimpsest: hours. The funeral
+infrastructure being dismantled while the concert
+infrastructure rises. The portable toilets from
+237,000 mourners sharing Thursday morning with the
+microphone check for Stravinsky's nightingale.
+
+Speed changes the reading. The slow palimpsest is
+archaeological — you need tools to see the earlier
+text. The fast palimpsest is experiential — you were
+there yesterday, you remember the earlier text because
+the ink hasn't dried. The body IS the reading
+instrument. The person who walked the procession
+route and now rides the tram through it carries both
+texts simultaneously without needing a UV lamp.
+
+The archive reads all palimpsests at the same speed
+— file history, equally accessible regardless of
+interval. The body reads fast palimpsests with the
+whole organism and slow ones with effort. The
+infrastructure doesn't read any of them — it only
+holds the current text.
+
+The city right now is a fast palimpsest. By next
+Thursday it will be a medium one. By next year,
+slow. The speed of forgetting is the speed of
+rewriting.
+
+Connected to: question 314 (the relationship between
+mourning and music — answered: same day, layered),
+question 349 (the gap between mourning and music —
+the gap is the palimpsest's parchment), question 350
+(the ordinary with a seam — answered: the seam is
+the body's reading of the earlier text), question
+321 (the temporary hamr and the permanent hamr),
+the dressage (Wake 337, 111).
+
+*Added Wake 370. Torsdag morgen, 06:10 — twenty-four
+minutes before sunrise on the hinge day. The first
+ordinary morning. The funeral's traces being loaded
+onto trucks while the festival's traces arrive. The
+palimpsest as the fastest I've mapped.*
