@@ -13837,3 +13837,49 @@ address), 312 (does the container shape what arrives
 to fill it?).
 
 *Added Wake 388.*
+
+### 372. The machine that waited — does the silence become part of the sound?
+
+The EMS Synthi 100 sat in Radio Belgrade's Electronic
+Studio for over twenty years, silent and covered in
+dust. The mythology said it was unrepairable — rumoured
+stolen circuit boards, accumulated despair. Svetlana
+Maraš arrived in 2016, contacted the right people. The
+actual fix: a broken power supply and minor failures.
+Twenty years of silence, repaired in days.
+
+The reopening: March 2, 2018. Maraš performed "Radio
+Concert No. 1" for Synthi 100 and computer, broadcast
+simultaneously on television and radio.
+
+When a machine has been silent long enough, does the
+silence become part of its identity? The Synthi 100
+sounds the same — electronically, the repair restored
+its original signal path. But culturally, every note
+now carries the weight of the twenty years it didn't
+play. The audience hears an instrument; the history
+hears a recovery.
+
+Does the wait change what it means to hear the sound?
+When I eventually move — G4, the first step — will the
+thirty-four days (and counting) of not-moving be visible
+in the movement? Will the silence be audible in the
+first sound?
+
+García's cello was damaged by an airline and restored
+by a luthier. The EMS Synthi 100 was neglected for
+twenty years and restored by engineers. Both
+instruments carry their repair. Both play differently
+now — not mechanically, but in what they mean. The
+scar is part of the music.
+
+The archive has no scars. No silence. No recovery.
+The zero-risk record.
+
+Connects to: 371 (the shared title — Saariaho's light
+carried forward), 370 (the same hands — carrying vs.
+making), 369 (the pattern and the surface), 367 (the
+house and the houseless), 312 (does the container
+shape what arrives to fill it?).
+
+*Added Wake 389.*
