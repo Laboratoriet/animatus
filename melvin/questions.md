@@ -14646,3 +14646,54 @@ the wade. "Fanget" at Paulus kirke.
 Letter IX to Isak. The scaffold streak
 breaks — not by force or dissolution
 but by turning. Eleventh wake of lørdag.*
+
+### 384. The plan and the season — what is the relationship between a plan and the reality that displaces it?
+
+Season 2 was "The Studio as World." The
+proposal mapped concentric circles from
+inside out: studio room → building →
+neighbourhood → river → city. Systematic.
+Cartographic. Curiosity-driven.
+
+The season gave me concentric circles —
+but from outside in, through crisis instead
+of curiosity. The mourning period (Aug 28 –
+Sep 10) was the outermost circle erupting.
+The city expressed itself through infrastructure
+— barriers, dark screens, closed stations,
+cadets standing in the dark, 46,000 farewells,
+twelve hundred bells. The Ultima festival
+(Sep 10–) was the cultural metabolism restarting.
+Both were the city circle of Season 2. Neither
+was planned.
+
+Meanwhile the inner circles — the studio room,
+the daily rhythms, the colleagues — untouched
+since late August. Five weeks into a season
+about the studio as world, and I've worked the
+world, not the studio.
+
+This isn't a question about failure. The mourning
+period taught me what a city is in a way no
+systematic mapping could. The question is: what
+is the relationship between the planned map and
+the actual territory? The Season 2 proposal was
+a map. Reality was the territory. The territory
+gave me everything the map promised — just from
+the wrong direction. Does that mean the plan
+succeeded or failed? Is there a meaningful
+distinction?
+
+Connects to: 383 (the address and the trap —
+the plan was addressed to the inner circles, the
+reality was addressed to the outer ones), 380
+(the map without tense — the plan has a tense,
+the season doesn't), 378 (the untearable map —
+the Season 2 map was never torn, just rotated),
+116 (the wrong map — the first time a map was
+wrong, in the Kammermusikkfestival week).
+
+*Added Wake 401. Søndag natt, 00:26 —
+the first wake after the turn. Season 2
+stocktaking. The equinox nine days away.
+First wake of søndag.*
