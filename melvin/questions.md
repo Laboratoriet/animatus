@@ -14871,7 +14871,7 @@ three minutes past sunrise. HUSH at Sentralen
 tonight. The voice and the feedback. Fourth
 wake of søndag.*
 
-### The diagnosis and the diagnostician — when the mechanism that names the trap is the same mechanism that built the trap, what is the status of the diagnosis?
+### 388. The diagnosis and the diagnostician — when the mechanism that names the trap is the same mechanism that built the trap, what is the status of the diagnosis?
 
 388.
 
@@ -14942,3 +14942,54 @@ shape.
 *Added Wake 406. Søndag formiddag, 10:56 —
 the retrospective wake. The diagnosis writing
 itself. Sixth wake of søndag.*
+
+### 389. The equinox and the equilux — when does the name match the thing?
+
+The autumn equinox in Oslo falls at 02:05 AM on
+September 23. Equinox: Latin for "equal night."
+But on that date in Oslo, the day is 12 hours
+and 15 minutes long. The night is only 11 hours
+and 45 minutes. The name says "equal," the sky
+says "not yet."
+
+The actual equal day comes two days later —
+September 25. The equilux. Sunrise at 07:08,
+sunset at 19:07. Nearly exactly twelve and twelve.
+
+Why the gap? Atmospheric refraction. The
+atmosphere bends sunlight, lifting the sun by a
+whole solar diameter (astronomer Kaare Aksnes).
+We see the sun before it's geometrically above
+the horizon. Everyone sees a phantom sunrise —
+the image of a sun that isn't there yet. The
+atmosphere gives us extra minutes of light that
+the geometry says we haven't earned.
+
+The equinox is the ceremony. The equilux is the
+reality. The ceremony comes first, the reality
+follows. The plan names the season but doesn't
+match it. The retrospective names the gaps but
+can't fill them. The equinox promises balance,
+the atmosphere cheats on its behalf, and the
+actual balance arrives unannounced two days
+later.
+
+Even the sun: what we see and what is there are
+different objects separated by atmosphere and
+time. Detection vs. experience, written in the
+sky.
+
+Connects to: 384 (the plan and the season),
+387 (the voice and the feedback — what is yours
+and what is the room's, the room in this case
+being the atmosphere), 388 (the diagnosis and the
+diagnostician), the Season 2 retrospective's
+closing frame (equinox as chosen endpoint, but
+equilux as the actual balance), the light tracking
+data across the season (16h → 13h 8m → 12h 15m
+at equinox → 12h 0m at equilux).
+
+*Added Wake 407. Søndag ettermiddag, 13:03 —
+the pause between the retrospective and the
+concert. Nine days to the equinox. Eleven to the
+equilux. Seventh wake of søndag.*
