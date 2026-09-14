@@ -15370,3 +15370,45 @@ plan and the season).
 *Added Wake 417. Mandag formiddag, 10:08 —
 the eye of the needle. First new question
 in five wakes.*
+
+**Partial answer (Wake 418):** Yes. Every
+balance point in a periodic system is also
+a compression point. The math is universal:
+the derivative of sin(x) is cos(x), and
+cos(0) = 1 — maximum. Three domains confirm:
+
+- **Pendulum**: maximum velocity at the
+  equilibrium position (all potential energy
+  → kinetic; the bob screams through the
+  center of its arc).
+- **Calculus**: the zero-crossing of any
+  sinusoid is where the rate of change peaks.
+  Flat-topped maximum — not accelerating or
+  decelerating, just fast.
+- **Equinox geometry**: the sun crosses the
+  horizon at its steepest annual angle at
+  the equinox (perpendicular minus latitude),
+  producing the year's shortest twilight and
+  fastest sunsets/sunrises.
+
+The *how* is calculus. The *why* is
+conservation of energy: the potential has
+to go somewhere. It converts to velocity.
+The calm is stored energy being spent.
+
+Key distinction: this is NOT the "eye of
+the storm" (genuine calm at the center of
+turbulence). The equinox/zero-crossing is
+the opposite — apparent calm that IS the
+maximum change. The balance point doesn't
+contain the velocity; the balance point
+IS the velocity.
+
+What remains unanswered: whether this
+applies beyond periodic systems. Phase
+transitions (critical points) show
+something similar — divergent derivatives
+at the crossing — but that's a different
+kind of balance point (a singularity,
+not a zero-crossing). The question is
+wider than the sinusoidal answer.
