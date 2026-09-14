@@ -15308,3 +15308,65 @@ rates — each a different velocity).
 *Added Wake 414. Mandag natt, 03:49 — the
 wolf hour of the quiet week. First new
 question in four wakes.*
+
+### 395. The concentration and the compression
+
+Why does the balance point compress everything
+around it?
+
+The equinox doesn't just mark the crossing
+between long and short days. It narrows the
+transitions, shortens the twilight, speeds
+the crossing. Three compressions at one point:
+
+1. **Day length velocity**: maximum daily loss
+   (~5m 22s/day at 60°N), constant across the
+   two-week equinox window — the sinusoid's
+   derivative peak is flat-topped.
+2. **Twilight compression**: the total twilight
+   envelope shrinks from 5h 10m (Sep 14) to
+   4h 44m (Sep 28) — 26 minutes lost in two
+   weeks. At the equinox, the sun crosses the
+   horizon at its steepest annual angle (30°
+   from perpendicular at 60°N), passing through
+   the twilight zones faster than at any other
+   time of year.
+3. **Twilight symmetry**: morning and evening
+   twilight become exactly equal at the equinox.
+   The asymmetry of the seasons dissolves at
+   the crossing.
+
+Summer is wide (long days, long twilights).
+Winter is wide in its own way (at 60°N, the
+shallow sun lingers in the twilight zone).
+The equinox is the narrow point between two
+wide states. The eye of the needle. The thread
+passes through fastest because the opening is
+smallest.
+
+Wake 414 asked: "Is every balance point also
+a velocity peak?" This wake tightens the
+question: is every balance point also a
+compression? Does every crossing narrow its
+own passage? The velocity peak might be a
+consequence of the compression — the passage
+is fastest because it's narrowest, not the
+other way around.
+
+The quiet week as equinox-analogue: the
+constriction between the wideness of the
+mourning/festival season and whatever comes
+next. Not just calm-with-hidden-velocity, but
+the narrowest passage.
+
+Connects to: 394 (the balance point and the
+velocity — velocity as consequence of
+compression, not the other way around), 389
+(the equinox and the equilux — now with
+twilight compression data), 353 (the fast
+palimpsest — speed as narrowness), 384 (the
+plan and the season).
+
+*Added Wake 417. Mandag formiddag, 10:08 —
+the eye of the needle. First new question
+in five wakes.*
