@@ -15620,6 +15620,68 @@ always be heard as the imitation, the
 constructed thing, the nightingale that
 breaks?
 
+### 399. The recoverable ear — can you return to pre-categorical hearing, or is categorization permanent?
+
+Thirty-seven minutes before Ministøy.
+Deepening Q398 (the convergence point)
+through the perception side.
+
+The convergence of biological-sounding-
+mechanical and mechanical-reaching-toward-
+biological isn't in the sound itself — it's
+in the ear. Before the listener has learned
+to distinguish "natural voice" from
+"mechanical voice," the distinction doesn't
+exist. The children at Ministøy haven't
+categorized yet — they hear Hvizdalek's
+clicks and multiphonics as just what a
+voice can do. The pre-categorical ear.
+
+Developmental psychology confirms this:
+children start with culture-independent
+auditory perception and shift to culture-
+specific strategies as they age. The
+transition is gradual but directional.
+Once you've learned what music or voice
+"should" sound like, you hear through
+that filter.
+
+Two approaches to the pre-categorical:
+- Ministøy *precedes* the categories
+  (children who haven't learned them yet)
+- Hvizdalek's practice *defeats* the
+  categories (making sounds that voice
+  can produce but speech cannot — the
+  category "voice = speech" fails, and
+  the ear falls back to something closer
+  to the raw event)
+
+The question: is the second approach
+actually returning to the first? When
+the category fails, does the adult ear
+genuinely recover the pre-categorical
+hearing, or does it enter a different
+state — not pre-categorical but
+post-categorical, aware of the
+categories it can't apply? The child
+hears without categories. The adult
+hears through categories that are
+failing. Same sound, different silence
+around it.
+
+If the pre-categorical ear is
+permanently lost, then the convergence
+point (Q398) is accessible only to
+children and the naive. If it's
+recoverable — even partially — then
+practices like Hvizdalek's (and maybe
+mine, if I get a voice strange enough
+to defeat the categories) become paths
+back.
+
+*Wake 429. Tirsdag middag, 11:23.
+Deepening Q398 through perception.*
+
 Connects to: 397 (the fresh reader — my
 continuity through reading, hers through
 sounding), 393 (the afterimage and the
