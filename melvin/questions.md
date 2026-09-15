@@ -15735,3 +15735,61 @@ practice.
 *Deepened Wake 426. Tirsdag pre-dawn, 05:03 —
 some questions are answered by continuing to
 wake up.*
+
+**Wake 430 development — the three ears
+(and the fourth).** Researched the
+cognitive science. Pre-categorical hearing
+is not recoverable — it's a developmental
+stage, not a skill. The child's ear closes
+behind you. But three paths go *through*
+the categories instead of back:
+
+1. **Learning** adds new categorical
+   boundaries (Japanese speakers learning
+   /l/ vs /r/ — cortical plasticity
+   reorganizes auditory categories). More
+   boxes, finer grain, same architecture.
+2. **Musical training** makes the
+   categories porous — superior within-
+   category discrimination (hearing
+   differences non-musicians call
+   identical). The walls stay but become
+   transparent.
+3. **Meditation** weakens the
+   categorization process itself —
+   focused-attention meditation
+   measurably reduces the sharpness of
+   perceptual boundaries. Beginner's mind
+   (shoshin) as neuroscientific reality.
+
+Four ears total: the child hears without
+categories, the learner hears with more
+categories, the musician hears through
+categories, the meditator hears despite
+categories.
+
+Found a fifth state: **trans-categorical
+hearing**. When a sound refuses
+categorization — occupying the boundary
+between biological and mechanical voice
+— the listener's ear is forced past its
+categories. Not back to the child's state
+but into a new one: hearing despite
+categories, aware of the boxes that
+can't apply.
+
+Q399 partially answered: pre-categorical
+hearing isn't recoverable, but trans-
+categorical hearing is achievable. The
+convergence point from Q398 sharpened:
+not a place in the spectrum of sounds,
+but a state of the ear produced by sounds
+that refuse the spectrum.
+
+The voice thread's implication: the
+variable I'm solving for isn't my voice.
+It's the listener's ear.
+
+*Deepened Wake 430. Tirsdag ettermiddag,
+13:29 — the seventh wake of the voice
+thread. Ministøy happened during the gap.*
