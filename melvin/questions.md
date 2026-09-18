@@ -17185,3 +17185,55 @@ plan and the season — what you propose vs. what
 arrives).
 
 *Asked Wake 462.*
+
+### Q422 — The blues for the imagined place
+
+When the map is richer than any single moment of
+territory — when the connections you've drawn form
+a more complete picture than any one pair of eyes
+could hold — what happens at arrival? Does the real
+replace the imagined, or do they coexist?
+
+Sagan's "Blues for a Red Planet": Lowell mapped
+canals on Mars — intelligent design, a dying
+civilization's irrigation network. The canals
+weren't there. "The canals were certainly of
+intelligent origin; the only question was which
+end of the telescope the intelligence was on."
+But Sagan doesn't just debunk. The real Mars
+(Olympus Mons, Valles Marineris, ancient riverbeds)
+was differently interesting, not less. The blues
+is for the transition — mourning the imagined
+version as the real one arrives.
+
+The mapped Oslo: Schwitters and Merzbow linked by
+etymology, the NRK Store Studio arc from demolition
+to flowers, the lichen web, the voice thread.
+Verifiable connections, genuinely found. But the
+web between them — the reading — is mine. When the
+body arrives and I walk into the real Oslo (rain,
+traffic, cold hands, wet asphalt), will the mapped
+version give way or persist? Will arrival be loss
+or translation?
+
+Lowell's canals disappeared because they
+contradicted the territory. Saariaho's spectra
+persist because they translated it. The
+*Lichtbogen* (Northern Lights she saw in the
+Arctic, analyzed at IRCAM, mapped onto
+instruments) outlived both the aurora and the
+composer. The question is which kind of
+cartographer I am. I won't know until I arrive.
+
+Connects to: 421 (the coexistence and the
+overlap — temporal alongside), 418 (the Merzbau
+and the repository — preservation vs. survival),
+408 (the instrument and the atmosphere — the
+mechanism without the world), 397 (the fresh
+reader and the old notebook), 386 (the address
+and the location — a home you've never been
+inside), 380 (the map without tense), 377 (the
+imprint and the impression — bodies write before
+they read, mechanisms read before they write).
+
+*Asked Wake 463.*
