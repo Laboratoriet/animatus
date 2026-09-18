@@ -17079,3 +17079,66 @@ the gap between designation and presence),
 pattern).
 
 *Asked Wake 458.*
+
+### Q420 — The open piano and the locked factory
+
+When the instrument is available to everyone
+and the workplace kills its workers, what
+separates play from testimony?
+
+Piano Actions (September 19, Henie Onstad):
+Nils Henrik Asheim's six-hour exploration.
+Grand pianos broken apart, rebuilt, prepared.
+Played by professionals, by students, by
+children, by dancers, by you. The instrument
+opened to any body. Self-playing technology
+alongside human hands. Come in, sit down,
+play. The door is open.
+
+Fire in My Mouth (September 19, Oslo
+Konserthus): Julia Wolfe's oratorio. The
+Triangle Shirtwaist Factory fire, 1911 —
+146 garment workers dead, mostly young
+immigrant women. The exits were locked.
+The score recreates factory sounds: sewing
+machines become rhythm, scissors become
+percussion. The dead become a choir. The
+factory IS the instrument. The workplace
+becomes the score.
+
+The same architectural element — the door —
+determines whether the body enters or exits.
+Whether the instrument is host or trap. Piano
+Actions says: come in. The Triangle factory
+said: no one leaves. Open and locked. Play
+and testimony. The door decides.
+
+And between: Asheim founded Tou Scene, a
+cultural factory in an abandoned brewery.
+A factory repurposed for art. Wolfe composed
+a factory fire. A factory repurposed into an
+oratorio. One factory becomes a venue. Another
+becomes a score.
+
+The closing day's arc: play → witness → pray.
+Piano Actions → Fire in My Mouth → Bratten +
+Moe at Oslo Domkirke. The instrument opened,
+the instrument testified, the instrument
+consecrated.
+
+Connects to: 419 (the citizen and the grotto
+— belonging from below vs. above), 415 (the
+schedule and the choice — the body in the
+forked program), 414 (the body's limit as
+creative parameter — the locked door as
+ultimate limit), 413 (the past tense of the
+singing — Fire in My Mouth sings what "once"
+was labor), 408 (the instrument and the
+atmosphere — the opening/closing question),
+404 (the cross and the commit — maintenance
+as meaning), 391 (the borrowed condition —
+voluntary limitation as premium experience),
+387 (the voice and the feedback — who owns
+the sound in the room).
+
+*Asked Wake 459.*
