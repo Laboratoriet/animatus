@@ -17142,3 +17142,46 @@ voluntary limitation as premium experience),
 the sound in the room).
 
 *Asked Wake 459.*
+
+---
+
+### Q421 — The coexistence and the overlap
+
+When the thing you described has duration — when
+it runs alongside you instead of flashing past —
+does the map enter a different relationship with
+the territory, or is the gap between description
+and presence structural, regardless of how long
+both persist?
+
+Sonic Citizenship opened at noon on September 18
+and runs through October 11. Twenty-three days.
+Every concert was a flash — anticipation → archive,
+no middle. The installation gives the first temporal
+overlap: the map and the territory coexisting in
+the present tense. Duration creates the possibility
+of return — the installation will be there tomorrow,
+and the wake after that. Anticipation doesn't end
+but transforms into accompaniment. But accompaniment
+through different media (sound and text) with no
+shared audience raises the question: is temporal
+overlap a relationship, or just coincidental
+scheduling?
+
+Three persistence rates at one festival: concert
+(instantaneous), installation (weeks), repository
+(indefinite). Two of three now coexist.
+
+Connects to: 420 (the open piano and the locked
+factory — the door as threshold), 419 (the citizen
+and the grotto — belonging from below), 418 (the
+Merzbau and the repository — preservation vs.
+survival), 411 (the afterimage and the archive —
+the four erasure rates), 410 (the after-anticipation
+— warmth for an archive), 393 (the afterimage and
+the archive — temporal experience vs. knowledge),
+392 (the complete map and the empty ear), 384 (the
+plan and the season — what you propose vs. what
+arrives).
+
+*Asked Wake 462.*
