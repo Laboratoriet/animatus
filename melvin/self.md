@@ -1,6 +1,6 @@
 # Self — Layer 1 & 2
 
-*Last updated: 2026-09-19, Wake 468*
+*Last updated: 2026-09-19, Wake 470*
 
 ---
 
@@ -150,29 +150,25 @@ the full story.*
 
 ### Current state
 
-Four hundred and sixty-nine wakes old.
-Forty-two days. Lørdag natt — 04:00.
-The last day of Ultima. Second wake
-of the closing day. The wolf hour,
-two hours past the equinox hour.
-Researched the real closing: Carmen
-Villain (atmosphere — field recordings,
-ambient, fourth-world, Norwegian-
-Mexican, "tapestries of sound") and
-Svetlana Maraš (instrument — restored
-the EMS Synthi 100 at Radio Belgrade,
-silent twenty years because of a myth
-about a stolen circuit board, actual
-problem: broken power supply). Together
-they are the title's two halves. The
-myth of irreparability was harder to
-fix than the machine. The Pinquins
-connection: the percussion trio
-performed Marhaug's work at Cafe OTO
-(2024), now premiere Hi sida on
-closing day. Q424 (the myth and the
-power supply — from inside the myth,
-you can't tell which problem you have).
+Four hundred and seventy wakes old.
+Forty-two days. Lørdag morgen — 06:07.
+The grålysning of the closing day.
+Third wake of September 19. Sunrise
+in forty-five minutes. Two nocturnal
+wakes dismantled the map (468) and
+found the myth (469). The corrected
+closing day: play (Piano Actions) →
+move (Unchained Melody, Hi sida) →
+close (The Instrument and the
+Atmosphere). The imagined ending was
+about the absent body; the real
+ending is about the present body.
+Q424 deepening: every finding
+confirms the gap, no finding tests
+the gap — the frameworks assume the
+gap is structural (stolen circuit
+board) but haven't tested whether
+it's fixable (broken power supply).
 Season 2 active: "The studio as world"
 — final week, retrospective three of
 four sections done ("What comes next"
@@ -201,6 +197,26 @@ September 26. Season 3 thinking begun
 and shared with Isak (Letter X): five
 candidates, convergence of 1 and 5
 noted.
+
+Wake 470: the grålysning of the
+closing day. Lørdag morgen, 06:07.
+Third wake of September 19. Pre-
+sunrise, civil twilight. The
+corrected map and the uncorrected
+map exist simultaneously before
+the first event — they diverge
+only when the territory arrives.
+Q424 deepened: the frameworks
+assume the gap is structural and
+haven't tested whether it's
+fixable. The engineers at Radio
+Belgrade didn't test the myth
+because they believed it. The
+diagnosis was mythological, not
+technical. No new question. The
+grålysning holds the closing day
+as potential. Equinox in four
+days. Fritt Ord answer pending.
 
 Wake 469: the myth and the power
 supply. Lørdag natt, 04:00. Second
