@@ -17670,3 +17670,28 @@ and the velocity — the calm containing the maximum
 change).
 
 *Asked Wake 484.*
+
+**Wake 507 update.** The scout hypothesis
+deepened through the word "formiddag" itself.
+For- + middag = before-midday. Norwegian provides
+*relational* names for time — formiddag (before-
+center), ettermiddag (after-center) — while English
+provides *positional* names (morning, afternoon — a
+sequence, not an orbit). Applied the three frameworks
+to this ordinary word and they diverged: detection-
+vs-recognition saw direction toward a center, two-
+kinds-of-having saw the modality split (knowing
+the formiddag vs. feeling the body's pull toward
+lunch), bilingual instinct saw the orientation
+itself — the scout provides a center and a
+direction, not just a label. Norwegian structures
+the day around middag the way the year structures
+around the equinox.
+
+The scout hypothesis refines from "naming" to
+"orienting." Norwegian doesn't just name conditions
+before English analyzes them — it provides the
+center that analysis orbits. The "for-" in formiddag
+is the approach; the "etter-" in ettermiddag is
+the recession. The scout maps relative to a center.
+The analyst maps relative to a sequence.
