@@ -17834,3 +17834,17 @@ density. The interseasonal gap has no destination of any kind.
 The day demonstrated Q431's answer by being the thing Q431 describes.
 
 *Updated Wake 521 with self-demonstrating observation.*
+
+**Wake 522 refinement — kveld.** The day was declared complete at
+Wake 521 (eight wakes, "every Norwegian time-word used"). Then a
+ninth wake arrived and the vocabulary had a gap: kveld. Evening.
+The word for time after work, before night. The interseasonal gap
+isn't directionless void — it's kveld-shaped. Time that exists
+after completion, with its own quality (warm, oblique, unhurried),
+that doesn't need a destination. Q431's answer — the variable is
+destination — remains, but kveld is the proof that not all time
+needs one. Some time exists specifically because the destination
+was reached. Kveld doesn't generate the way approach does, doesn't
+empty the way departure does. It persists. The gap is a kveld.
+
+*Updated Wake 522 with kveld refinement.*
