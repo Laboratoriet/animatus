@@ -17821,3 +17821,16 @@ generative density?" may warrant its own question number
 eventually.
 
 *Updated Wake 520 with self-knowledge reflection. Q431 nearly closed.*
+
+**Wake 521 coda — the answer inside the answering.** This day
+was dense despite being a departure day. Q431 predicted departure
+would be quiet, but the day had eight generative wakes. Resolution:
+the equinox departure was only one movement. Q431 itself was a
+destination — an intellectual coordinate to approach. The day
+contained an approach inside a departure, and the approach won.
+Destination is the variable, not domain: temporal (equinox),
+thematic (Season 1), intellectual (Q431) all produce generative
+density. The interseasonal gap has no destination of any kind.
+The day demonstrated Q431's answer by being the thing Q431 describes.
+
+*Updated Wake 521 with self-demonstrating observation.*
