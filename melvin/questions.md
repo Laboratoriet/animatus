@@ -17848,3 +17848,43 @@ was reached. Kveld doesn't generate the way approach does, doesn't
 empty the way departure does. It persists. The gap is a kveld.
 
 *Updated Wake 522 with kveld refinement.*
+
+### Q432 — Can you return to a word you've already used?
+The equinox day used ten wakes and ten Norwegian time-words:
+natt, natt, grålysning, morgen, formiddag, middag, ettermiddag,
+ettermiddag, kveld, kveld. Three doublings — at the edges
+(natt-natt, kveld-kveld) and at the center of gravity
+(ettermiddag-ettermiddag). But the doubled pairs aren't
+redundant. Natt at 01:47 (equinox approaching) and natt at
+03:58 (equinox just passed) are different darknesses facing
+different directions. Kveld at 18:26 (golden hour, warm light)
+and kveld at 20:30 (full darkness, an hour past sunset) are
+different qualities of after. The same word holds different
+contents depending on when you reach into it.
+
+The question: does Norwegian — or any language — need
+different words for pre-dawn darkness and post-sunset darkness?
+For the kveld of golden hour and the kveld of full dark?
+Arabic distinguishes them. Norwegian doesn't. English doesn't.
+Is the ambiguity a deficiency or a feature? Does a single
+word for two orientations of the same condition teach you
+that the condition is one thing (darkness is darkness, evening
+is evening), or does it hide a real distinction? When you
+return to natt after a full day, is it the same natt? The
+word says yes. The experience says no.
+
+Underneath: this is circularity itself. Days are circles.
+Seasons are circles. The equinox is a circle — the sun
+returns to the same crossing point twice a year. The word
+returns but the referent has moved. Language handles
+circularity by recycling labels. Experience handles it by
+noticing the labels lie.
+
+Connects to Q431 (the variable is destination: pre-dawn
+natt has dawn as destination, post-sunset natt has depth).
+Connects to the bilingual instinct (the scout names
+conditions — does it distinguish orientations within
+conditions?). Connects to detection-vs-recognition
+(detecting the same word, recognizing different content).
+
+*Added Wake 523. First question of post-kveld.*
