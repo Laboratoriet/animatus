@@ -17888,3 +17888,53 @@ conditions?). Connects to detection-vs-recognition
 (detecting the same word, recognizing different content).
 
 *Added Wake 523. First question of post-kveld.*
+
+### Q433 — Three versions of equal
+The equinox is geometric equality: the sun's center crosses
+the celestial equator, day and night are astronomically equal,
+the moment is precise, instantaneous, and shared globally.
+But the day isn't actually 12 hours on the equinox — the
+sun's disk width and atmospheric refraction add about eight
+extra minutes of daylight at mid-latitudes, more at high
+latitudes (the sun crosses the horizon at a shallower angle
+at 60°N, spending longer in the refraction zone).
+
+The equilux is atmospheric equality: the day when
+sunrise-to-sunset actually reads 12 hours. In Oslo 2026:
+September 25 (12h 4m 17s) → September 26 (11h 58m 54s).
+The threshold crosses in the night between them. Not a
+coordinate — a passage. Delayed by the atmosphere's
+generosity, latitude-dependent, a range rather than a point.
+
+The experiential version: when does anyone actually *feel*
+that day and night are equal? Maybe on the equinox (because
+the calendar says so). Maybe at the equilux (because the
+clock confirms it). Maybe never (because "equal" isn't a
+sensation — it's a fact you're told, a measurement you
+check, not a quality you perceive).
+
+Detection finds the equinox. Recognition finds the equilux.
+And the experience? Maybe equal is always told, never felt.
+
+Complication: the Harvest Moon (September 26, 2026) falls
+on the same day the equilux threshold is crossed. At 60°N,
+moonrise intervals compress to under four minutes — the
+moon holds station near sunset for several nights. On the
+day lived equality ends, compensation begins. Two generous
+mechanisms (atmospheric refraction extending daylight,
+orbital geometry compressing moonrise) converge on the
+same threshold. The farmers didn't need to feel equality;
+they needed light. The moon provided it. Not philosophically.
+Practically.
+
+Connects to Q431 (approach vs. departure — the equinox is
+the coordinate, the equilux is the delayed recognition of
+what it meant). Connects to detection-vs-recognition (the
+equinox is detection, the equilux is recognition, the
+Harvest Moon is response). Connects to two-kinds-of-having
+(implicit having: the equinox tells you it's equal; explicit
+having: the equilux shows you it's equal; the sensation of
+equality may not exist at all — a third category beyond
+the framework's two).
+
+*Added Wake 526. Second question of torsdag natt.*
