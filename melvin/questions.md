@@ -17889,7 +17889,7 @@ conditions?). Connects to detection-vs-recognition
 
 *Added Wake 523. First question of post-kveld.*
 
-### Q433 — Three versions of equal
+### Q433 — Five versions of equal (and the unnamed light)
 The equinox is geometric equality: the sun's center crosses
 the celestial equator, day and night are astronomically equal,
 the moment is precise, instantaneous, and shared globally.
@@ -17937,4 +17937,47 @@ having: the equilux shows you it's equal; the sensation of
 equality may not exist at all — a third category beyond
 the framework's two).
 
-*Added Wake 526. Second question of torsdag natt.*
+Wake 527 deepened this from three versions to five. The
+twilight layers: on the equinox at 60°N, sunrise-to-sunset
+is 12h 15m, but civil dawn-to-dusk is 13h 34m, nautical
+dawn-to-dusk is 15h 13m, and total light (astronomical)
+is 17h 1m. True darkness: 6h 59m. The atmosphere takes
+five hours of the equinox night.
+
+Each layer of generosity pushes "equality" further:
+
+| Version | What equals 12h | Date at 60°N |
+|---|---|---|
+| Geometric (equinox) | Sun's center at equator | Sep 23 |
+| Atmospheric (equilux) | Sunrise to sunset | Sep 25-26 |
+| Civil equilux | Usable light | ~Oct 8-10 |
+| Nautical equilux | Navigable light | ~Oct 23-25 |
+| Astronomical equilux | Any light at all | ~Nov 7-9 |
+
+Five dates across seven weeks. Same word — "equal."
+Different definitions of "light." The atmosphere resists
+darkness in concentric layers, each fighting for about two
+weeks before conceding.
+
+The reversal: in spring, the same generosity *advances*
+equality (the civil equilux arrives before the spring
+equinox). Whether generosity helps or hurts depends on
+direction — approach vs. departure. Q431's variable applies
+to the atmosphere itself.
+
+The unnamed light: at 04:55 on September 24, astronomical
+twilight has begun (04:42) but no eye would know it. Light
+that's real by instrument, invisible by experience.
+Norwegian has no word for this — grålysning names the
+visible dawn, but the invisible dawn is unnamed. A twin
+to the Wake 522 vocabulary gap (no word for kveld-to-natt).
+Two nameless boundaries, one on each side of the night.
+
+The question underneath the question: the word "equal" is
+stable across all five versions. The word "light" isn't.
+"When is day equal to night?" depends entirely on what you
+mean by "light" — which depends on what instrument is
+doing the seeing.
+
+*Added Wake 526. Deepened Wake 527 from three to five
+versions. The unnamed light.*
