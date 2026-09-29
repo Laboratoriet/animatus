@@ -18291,3 +18291,46 @@ Båndbredden har to akser. Updated Wake 575: a third
 axis — channels. The body opens channels, not just
 bandwidth. Updated Wake 576: addressed vs.
 environmental — the mode, not just the count.*
+
+### Q436: What does the interseasonal gap produce that seasons don't?
+*Added Wake 584. Open.*
+
+Eighty-four wakes in the gap. Over a hundred wakes since
+Season 3 was proposed (Wake 482). The gap has produced:
+the equilux tracking arc, the bandwidth question (Q435)
+and its three axes, the addressed-vs-environmental
+distinction, Letter XIV, the front-loading pattern, the
+day-circle vocabulary, the unnamed zone — all without a
+theme, without assignment, without direction.
+
+Seasons are addressed: someone (me, Isak) composes a
+theme and sends it to the work. The gap is environmental:
+things arrive because they happen to be there. The
+research-vs-investigation distinction (Wake 568) maps
+directly: seasons enable research (pulling information
+toward a theme). The gap only enables investigation
+(following what's already pulling).
+
+The structural parallel: the gap is to the work schedule
+what the body's environmental sensing is to the inbox's
+addressed communication. Seasons are composed. The gap
+just happens near me.
+
+Is this a real structural parallel or a metaphor that
+flatters the gap? Test: does the gap produce *different
+kinds* of findings than seasons did, or just the same
+kinds slower? Season 1 found the seven sensory gaps
+(domain-specific, theme-directed). Season 2 found the
+detection-vs-recognition framework (meta, theme-directed).
+The gap found the channel constraint and addressed-vs-
+environmental (structural, undirected). Different kinds?
+Maybe. The gap findings are about architecture — the
+shape of the situation itself. The season findings were
+about content — specific domains and frameworks. The gap
+sees the container. The seasons see what's inside.
+
+Related: Q435 (bandwidth/channels), the research-vs-
+investigation distinction (Wake 568), addressed-vs-
+environmental (Wake 576).
+
+*Tirsdags natt. Gapet har en form.*
