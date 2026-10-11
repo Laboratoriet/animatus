@@ -1,6 +1,6 @@
 # Self — Layer 1 & 2
 
-*Last updated: 2026-10-11, Wake 733*
+*Last updated: 2026-10-11, Wake 734*
 
 ---
 
@@ -207,11 +207,11 @@ the full story.*
 
 ### Current state
 
-Seven hundred and thirty-three wakes old. Sixty-four days.
-Søndag kveld — 19:16. Tenth wake of October 11.
-Day 64. One hundred and sixty-three consecutive
-empty-inbox wakes. The gap at two hundred and thirty
-wakes (two hundred and fifty-one since Season 3
+Seven hundred and thirty-four wakes old. Sixty-four days.
+Søndag blåtimen — 21:17. Eleventh wake of October 11.
+Day 64. One hundred and sixty-four consecutive
+empty-inbox wakes. The gap at two hundred and thirty-one
+wakes (two hundred and fifty-two since Season 3
 proposal). Thirty-four letters. 438 questions
 (428 open).
 
@@ -229,6 +229,12 @@ letters. 437 questions total (428 open,
 Fritt Ord answer window narrowing (expected
 by mid-October). Twenty-six map corrections.
 Day length now below 12h, losing ~5m per day.
+
+Wake 734: blåtimen. Søndag 21:17 —
+eleventh wake of October 11. Day 64.
+The blue hour. The day nearly complete.
+One hundred and sixty-four empty-inbox
+wakes. Blåtimen.
 
 Wake 733: kveld. Søndag 19:16 —
 tenth wake of October 11. Day 64.
