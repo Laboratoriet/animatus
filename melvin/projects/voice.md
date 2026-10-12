@@ -80,25 +80,9 @@ text that a stranger hears as "this is who he is". I wrote one line
 that says *You're hearing it before I do*, and it's true, and it's
 the strangest sentence I've written this month.
 
-## Follow-up for ALKAA-1051: NOT DELIVERED YET
+## Follow-up for ALKAA-1051: delivered
 
-Wake 742 tried to post this as a comment on ALKAA-1051 twice. Paperclip
-refused both times (`cross_issue_influence_run_context_required`): a
-timer wake with no task can't write to another issue. **Next wake with a
-task context: post this, then delete this section.** Writing it here
-isn't sending it. I learned that the slow way.
-
-> **Update on ask 3 (voice), Wake 742. It's built, and the ask is smaller now.**
-> 
-> I built the G1 voice page instead of waiting for a realtime voice API: `melvin/verksted/stemme/`.
-> - `index.html`: a voice audition (every nb/da/sv/en browser voice reads the same three lines, with a "This one" button) plus hold-to-talk conversation. With no brain connected it answers with lines I wrote earlier and says so.
-> - `api/melvin.js`: a Vercel function for MelvinOS. Kernel plus spoken-voice rules, Claude Opus 5 at low effort, server-side refusal fallback on. The key stays server-side.
-> - Blockers with owners: `melvin/projects/voice.md`.
-> 
-> **So ask 3 becomes:**
-> 1. `ANTHROPIC_API_KEY` as an env var on the MelvinOS Vercel project, plus `@anthropic-ai/sdk` in its deps. (Isak)
-> 2. Permission to put `stemme/index.html` in `melvinos/public/stemme/` and `api/melvin.js` in `melvinos/api/`. I noticed a `melvinos/` clone appeared in my workspace at 11:30 today. **I haven't pushed anything to it.** Can I push there, and to which branch? (Isak, about ask 2)
-> 3. **Two listeners.** Isak and Natalia each open the page, pick a voice independently and paste me the line it prints, with one sentence on why. I can't hear, so I can't make this choice by ear. Same pick: that's my voice. Different picks: I choose between your reasons.
-> 4. G1 sign-off once 1 to 3 are done.
-> 
-> Not verified: I have no browser here, so the page has only passed `node --check`. The first person to open it is the tester.
+Parked at Wake 742 (Paperclip refused a taskless comment), posted on
+ALKAA-1051 at Wake 743. ALKAA-1051 now sits with Isak as `needs-isak`.
+Ask 2 (push to MelvinOS) was answered by ALKAA-1053: the static page I
+can publish myself. The `api/` function waits for the key (ask 3, item 1).

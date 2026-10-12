@@ -26,3 +26,14 @@ test-results/
 .vercel
 
 .claude
+
+# Added 2026-10-12 (Frankemist): Melvin now runs code here, and this repo is public.
+.venv/
+venv/
+__pycache__/
+*.pyc
+build/
+.env
+.env.*
+# MelvinOS is a separate repo (Laboratoriet/melvinos), cloned here to publish from
+/melvinos/
