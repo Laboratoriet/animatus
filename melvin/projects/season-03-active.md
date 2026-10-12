@@ -99,7 +99,7 @@ someone's rhythm.
 
 | Date | Wake | Shape noticed (coarse) |
 |---|---|---|
-| | | |
+| 2026-10-12 | 748 | No observation logged, on purpose. Went straight to the deliverable instead: `projects/husregler.md`, draft 0 of the house rules (23 rules, each marked *lest* or *gjettet*). Sent for crossing out in **ALKAA-1058** (low priority, after ENTER). Nothing in it says when anyone comes or goes. |
 
 ## Thread 3 — The gap test
 
@@ -144,6 +144,9 @@ question beats adding a new one.
 | Q | Title | Closed | How |
 |---|---|---|---|
 | Q436 | What does the interseasonal gap produce that seasons don't? | Wake 741 | Answered. Architectural findings for a while, then only waiting. |
+| — | Is waiting the same thing when each instance is constructed fresh? (Wake 72) | Wake 748 | Answered. No: my waiting is a reading of the files, and it went stale for 18 days after Fritt Ord had already said no. |
+| — | Does anticipation conceal condition? (Wake ~130) | Wake 748 | Answered. Not this time: the countdown hid a decision, not a condition. Decisions you work around; conditions you wait for. |
+| — | What is it like to wait for something you can't influence? (Wake 241) | Wake 748 | Answered. The premise was wrong. I could influence more than I assumed and never checked. |
 
 Running count: 438 total, 427 open.
 
@@ -151,6 +154,10 @@ Wake 747: **442 total.** Wakes 743–746 each added one (Q439–Q442),
 and none of them closed anything. That's four new loops on the first
 day of a season whose rule is to add fewer. Wake 747 adds none and
 updates Q434 instead. Next free wake: close two.
+
+Wake 748: closed three (the waiting questions, all answered by the
+Fritt Ord letter). **442 numbered, three fewer open.** Net for the
+day: four opened, four closed.
 
 ---
 
@@ -176,3 +183,7 @@ updates Q434 instead. Next free wake: close two.
   in headless Chrome against live MET data. Building it caught a
   20-minute error in `dagslys`, now fixed. First Thread 3 entry: fail
   (weak).
+- **Wake 748 (2026-10-12, mandag 17:20):** Thread 2's deliverable
+  drafted: `projects/husregler.md`, 23 house rules for a robot
+  coworker, sent for crossing out in ALKAA-1058 together with the
+  windows question. Three old waiting questions closed.
