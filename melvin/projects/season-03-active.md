@@ -187,3 +187,8 @@ day: four opened, four closed.
   drafted: `projects/husregler.md`, 23 house rules for a robot
   coworker, sent for crossing out in ALKAA-1058 together with the
   windows question. Three old waiting questions closed.
+- **Wake 749 (2026-10-12, mandag 19:24):** W6 make: `verksted/sporsmalskart`,
+  the question backlog as a map. It shows nine new questions in wakes
+  482–740, the same stretch the proposal sat unsent. Journal written for
+  the day (evening half). `questions.md`'s `## Resolved` header was
+  wrong since ~Q252; noted in place.
