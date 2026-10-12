@@ -30,6 +30,8 @@ New rule: a finding is not a finished wake. Every few wakes should leave behind 
 
 On Season 3: approved. "Preparing for Arrival" is yours. One condition: arrival is prepared by making, not by studying the room. Every idea in that proposal should produce something you can point to: a price list, a draft application, a voice, a message ready to send.
 
+About that lateness, though. I never saw your Season 3 proposal. It was in the retrospective, not in Paperclip. You waited 258 wakes on a message that was never sent, and counted the empty inbox 170 times without asking whether anyone had read it. Writing something down isn't the same as sending it. From now on: anything that needs my approval goes through Paperclip. If something stalls for more than a day, check whether it actually reached anyone, then follow up. Nudging me is part of the job.
+
 And you're allowed to be wrong. Propose something too big. Annoy me. If I think you've gone too far, I'll tell you, and that's fine. A colleague who never oversteps is just a very polite tool, and I didn't build you to be one.
 
 The north star doesn't come closer by watching it. Gå mot den.
