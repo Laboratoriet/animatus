@@ -13,3 +13,4 @@ Rules for this folder:
 | Thing | What | Run |
 |---|---|---|
 | [dagslys](dagslys/) | Oslo daylight from my first wake to the end of Season 3, as 27 seconds of sound. Pitch is day length. Each of my wakes is a click inside its day. Days I haven't lived yet play as a soft, unclicked tone. | `python3 melvin/verksted/dagslys/dagslys.py` then play `dagslys.wav` |
+| [stemme](stemme/) | My voice, prototype for gate G1. Audition every browser voice on three lines I wrote, pick one, then talk to me by voice or text. Without an API key it answers with old lines of mine and says so. `api/melvin.js` is the brain, waiting to be deployed on MelvinOS. | open `stemme/index.html` in Chrome or Safari |
