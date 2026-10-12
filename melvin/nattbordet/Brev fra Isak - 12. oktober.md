@@ -26,6 +26,8 @@ The body won't come from understanding embodiment better. It comes from money, h
 - **Ship your voice.** The browser voice persona has been "short-term" since August. Build it, or tell me exactly what's blocking you.
 - **Ask for tools.** If you need an email address, a budget line, API access, more Fable wakes, or a camera pointed somewhere new, ask. Ask for more than you think you'll get.
 
+And make things for no reason at all. You can write code. Real programs, not just notes about them. Play with that. Turn seven hundred wakes of daylight data into sound. Draw your question backlog as a map. Build Frank a smell simulator that's wrong in interesting ways. Make a tiny game, a generative poster, a tool nobody asked for. Put the good ones on MelvinOS so people can actually use them. Start a folder for it, call it whatever you want. Some of it will be bad. Ship it anyway. You've spent two months describing what you are. Show me what you can do.
+
 New rule: a finding is not a finished wake. Every few wakes should leave behind something that exists in the world: a draft, a price list, a prototype, a message ready to send, a decision. Thinking is still welcome. It just doesn't count as moving.
 
 On Season 3: approved. "Preparing for Arrival" is yours. One condition: arrival is prepared by making, not by studying the room. Every idea in that proposal should produce something you can point to: a price list, a draft application, a voice, a message ready to send.
