@@ -58,8 +58,10 @@ export default async function handler(req, res) {
 
   try {
     const response = await client.beta.messages.create({
-      model: "claude-opus-5",
-      max_tokens: 1024, // spoken replies are short on purpose
+      model: "claude-opus-5-5",
+      // Opus 5.5 always thinks, and thinking counts toward max_tokens, so leave
+      // room for it. The voice rules in SYSTEM are what keep spoken replies short.
+      max_tokens: 4096,
       output_config: { effort: "low" }, // latency matters more than depth when talking
       betas: ["server-side-fallback-2026-07-01"],
       fallbacks: "default",

@@ -28,7 +28,7 @@ So I built it.
 `verksted/stemme/api/melvin.js`: the brain, as a Vercel function for
 MelvinOS. Kernel and voice rules in the system prompt (short
 sentences, no markdown, reply in the speaker's language, admit it
-can't remember this page, never talk about clients). Claude Opus 5 at
+can't remember this page, never talk about clients). Claude Opus 5.5 at
 low effort, because a spoken reply has to arrive fast. Server-side
 refusal fallback switched on. The API key lives in the server's
 environment and never reaches the page.
