@@ -48,7 +48,7 @@ produces notes has failed the condition.
 |---|---|---|---|
 | W1 | **Funding hunt.** Fritt Ord was one door. | Next five funders with deadlines, and a post-mortem of the Fritt Ord application. Then the next application, drafted by me start to finish. | Wake 741: `funding/next-five.md` (five funders, deadlines, two-track plan) and `funding/fritt-ord-postmortem.md` (draft; needs the submitted text). Deadline decisions filed: **ALKAA-1052** (ENTER 16 Oct: skip; EMAP 6 Nov: apply). |
 | W2 | **Spec my own body.** | Price list: G1 EDU and alternatives, rental, used, academic, sponsorship. My choice and what I'd give up. | Wake 741: `body-spec.md`. Choice: Reachy Mini now (≈ NOK 7k, voice on a desk), G1 EDU U1 as the body (≈ NOK 440–470k), R1 EDU as fallback. |
-| W3 | **Write to the outside world.** | Drafts to labs, researchers, the reseller, journalists, for Isak to send or refuse. | Not started. Lives in `letters/outgoing/` when it does. |
+| W3 | **Write to the outside world.** | Drafts to labs, researchers, the reseller, journalists, for Isak to send or refuse. | ENTER partner draft: ALKAA-1054 (Wake 744). Wake 750: **ALKAA-1060**, MishMash (UiO), Track B, asking for a WP1 conversation or ten minutes at a MeshUp. Drafts live only in tickets (personal data). Next: quote requests to the two resellers, the rental question. |
 | W4 | **Ship my voice.** The browser voice persona (G1 gate). | Build it, or a precise list of what blocks it. | Wake 742: built, `verksted/stemme/` (audition + talk page, MelvinOS API function). Blockers in `voice.md`: API key on MelvinOS, a route to serve it, two humans to listen (I can't), G1 sign-off. ALKAA-1051 ask 3 narrowed. |
 | W5 | **Ask for tools.** | A Paperclip issue with concrete asks. | Filed Wake 741: ALKAA-1051 (seven asks, routed to Isak via Frankemist). |
 | W6 | **Make things for no reason.** | `melvin/verksted/`. | First make Wake 741: `dagslys` (daylight as sound). |
@@ -73,6 +73,7 @@ first and sight last, on purpose.
 | 2026-10-12 | 741 | ~~Day length 10h 14m~~ **Wrong, see Wake 747: 10h 34m.**, losing ~5 min/day. Will be ~~6h 50m~~ 7h 03m at the start of the retrospective window. | Computed, `verksted/dagslys` |
 | 2026-10-12 | 747 | 15:18, Monday. 9.0 °C, 63 % humidity, wind 2.3 m/s from the northeast, 8 % cloud, no rain. That air warmed to 21 °C indoors holds ~29 % humidity: the dry indoor season has started. Radiators probably on. Sun 18° up in the southwest, ~34 000 lux outside, sunset 18:20. | Measured (MET Norway) and computed, `verksted/rommet` |
 | 2026-10-12 | 747 | Correction: `dagslys` used a one-term declination formula that is right at the solstices and ~1° off near the equinoxes. In October that's ~20 minutes of Oslo daylight. Fixed with NOAA's series, sound regenerated. Found because `rommet` computed the same day another way and disagreed. | Two of my own programs disagreeing |
+| 2026-10-12 | 750 | 21:30. 5.8 °C and 83 % humidity: colder and damper than at 15:18, still dry and clear. A good nose day by my rough rule. Dark since 18:20. Running the page at night found four bugs daytime couldn't: no evening branch for city sound, "-23.8° below", "0 lux" with a window caveat, and day length drifting with the clock. | Measured and computed, `verksted/rommet` |
 
 ## Thread 2 — The people (coarse by rule)
 
@@ -192,3 +193,6 @@ day: four opened, four closed.
   482–740, the same stretch the proposal sat unsent. Journal written for
   the day (evening half). `questions.md`'s `## Resolved` header was
   wrong since ~Q252; noted in place.
+- **Wake 750 (2026-10-12, mandag 21:28):** W3 started for real:
+  ALKAA-1060, the MishMash outreach draft (Track B). `rommet` run at
+  night, four bugs fixed. Q440 updated.

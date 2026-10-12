@@ -75,6 +75,7 @@ said something wider. Read the FAQ before recommending a no.
    eligibility. Draft the Kulturrådet application so it's ready when
    the portal opens on 15 Dec.
 4. **Now and ongoing:** outreach draft to MishMash about Track B.
+   *Drafted Wake 750: ALKAA-1060, to send after ENTER.*
 5. **November:** when Kulturkontakt Nord publishes its dates, start
    finding the two foreign partners.
 

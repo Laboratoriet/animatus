@@ -123,7 +123,9 @@ async function render() {
     `Lilletorget 1, Oslo · ${weekday} ${local({ day: "numeric", month: "long" })}, ${local({ hour: "2-digit", minute: "2-digit" })}`;
 
   const sun = sunAt(t);
-  const yday = sunAt(new Date(t - 864e5));
+  // Day length is a property of the day, so compute it at noon, not now.
+  const noon = new Date(Date.UTC(t.getUTCFullYear(), t.getUTCMonth(), t.getUTCDate(), 11));
+  const today = sunAt(noon), yday = sunAt(new Date(noon - 864e5));
 
   let w = null;
   try { w = await weather(); } catch (e) {
@@ -144,6 +146,8 @@ async function render() {
   const city = hour >= 1 && hour < 5 ? "The quietest hours the city has."
     : workday && ((hour >= 7 && hour < 9) || (hour >= 15 && hour < 17)) ? "Rush hour in the streets around the square."
     : hour >= 22 || hour < 1 ? "Late evening: fewer cars, more voices."
+    : hour >= 18 ? "Evening. The after-work traffic has thinned out."
+    : hour < 7 ? "Early morning. The city is starting up."
     : "Ordinary daytime city sound.";
   row("lyd", "gjettet", city, "From the clock and the weekday, not a microphone. A roadwork crew or a concert would prove me wrong instantly.");
 
@@ -184,18 +188,26 @@ async function render() {
   }
 
   // ---- Lys ----
-  const left = sun.set - (t.getUTCHours() * 60 + t.getUTCMinutes());
-  row("lys", "regnet", `The sun is ${sun.alt.toFixed(1)}° ${sun.alt >= 0 ? "above" : "below"} the horizon, in the ${compass(sun.az)}.`);
-  row("lys", "regnet", `Sunrise ${utcMinToOslo(t, sun.rise)}, sunset ${utcMinToOslo(t, sun.set)}. Day length ${hm(sun.len)}, ${Math.round(yday.len - sun.len)} minutes shorter than yesterday.`);
+  const left = today.set - (t.getUTCHours() * 60 + t.getUTCMinutes());
+  row("lys", "regnet", `The sun is ${Math.abs(sun.alt).toFixed(1)}° ${sun.alt >= 0 ? "above" : "below"} the horizon, in the ${compass(sun.az)}.`);
+  const d = Math.round(yday.len - today.len);
+  row("lys", "regnet", `Sunrise ${utcMinToOslo(t, today.rise)}, sunset ${utcMinToOslo(t, today.set)}. Day length ${hm(today.len)}, ` +
+    (d === 0 ? "the same as yesterday." : `${Math.abs(d)} minutes ${d > 0 ? "shorter" : "longer"} than yesterday.`));
   if (sun.alt > 0 && left > 0) row("lys", "regnet", `${hm(left)} of sun left.`);
   if (w) {
     const c = w.i.cloud_area_fraction;
     const clear = sun.alt > 0 ? 133000 * Math.sin(sun.alt * rad) ** 1.15 : sun.alt > -6 ? 400 * (1 + sun.alt / 6) : 0;
     const lux = clear * (1 - 0.75 * (c / 100) ** 3.4);
-    row("lys", "regnet", `${Math.round(c)} % cloud. Outdoor light around ${lux > 1000 ? Math.round(lux / 1000) + " 000" : Math.round(lux)} lux.`,
-      "Rough clear-sky model with a cloud correction. A light meter at the window would beat it.");
-    row("lys", "gjettet", lux < 2000 ? "Lamps on inside, probably." : "Enough daylight at the windows for no lamps, probably.",
-      "Depends on which way the windows face, and I don't know that yet.");
+    if (sun.alt < -6) {
+      row("lys", "regnet", `${Math.round(c)} % cloud. Dark: the sky gives almost no light now. Street lights and lamps do.`);
+      row("lys", "gjettet", "Any light in the room is lamp light, or the street's.",
+        "Unless the moon is up and the windows face it. I don't track the moon yet.");
+    } else {
+      row("lys", "regnet", `${Math.round(c)} % cloud. Outdoor light around ${lux > 1000 ? Math.round(lux / 1000) + " 000" : Math.round(lux)} lux.`,
+        "Rough clear-sky model with a cloud correction. A light meter at the window would beat it.");
+      row("lys", "gjettet", lux < 2000 ? "Lamps on inside, probably." : "Enough daylight at the windows for no lamps, probably.",
+        "Depends on which way the windows face, and I don't know that yet.");
+    }
   }
   // Sky colour as the page background, faintly.
   const a = sun.alt;
