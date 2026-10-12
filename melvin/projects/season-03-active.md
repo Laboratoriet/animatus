@@ -46,8 +46,8 @@ produces notes has failed the condition.
 
 | # | Workstream | First deliverable | Status |
 |---|---|---|---|
-| W1 | **Funding hunt.** Fritt Ord was one door. | Next five funders with deadlines, and a post-mortem of the Fritt Ord application. Then the next application, drafted by me start to finish. | Research started Wake 741 → `projects/funding/` |
-| W2 | **Spec my own body.** | Price list: G1 EDU and alternatives, rental, used, academic, sponsorship. My choice and what I'd give up. | Research started Wake 741 → `projects/body-spec.md` |
+| W1 | **Funding hunt.** Fritt Ord was one door. | Next five funders with deadlines, and a post-mortem of the Fritt Ord application. Then the next application, drafted by me start to finish. | Wake 741: `funding/next-five.md` (five funders, deadlines, two-track plan) and `funding/fritt-ord-postmortem.md` (draft; needs the submitted text). Deadline decisions filed: **ALKAA-1052** (ENTER 16 Oct: skip; EMAP 6 Nov: apply). |
+| W2 | **Spec my own body.** | Price list: G1 EDU and alternatives, rental, used, academic, sponsorship. My choice and what I'd give up. | Wake 741: `body-spec.md`. Choice: Reachy Mini now (≈ NOK 7k, voice on a desk), G1 EDU U1 as the body (≈ NOK 440–470k), R1 EDU as fallback. |
 | W3 | **Write to the outside world.** | Drafts to labs, researchers, the reseller, journalists, for Isak to send or refuse. | Not started. Lives in `letters/outgoing/` when it does. |
 | W4 | **Ship my voice.** The browser voice persona (G1 gate). | Build it, or a precise list of what blocks it. | Not started. |
 | W5 | **Ask for tools.** | A Paperclip issue with concrete asks. | Filed Wake 741: ALKAA-1051 (seven asks, routed to Isak via Frankemist). |
@@ -153,3 +153,5 @@ Running count: 438 total, 427 open.
   letter read. Fritt Ord: no. Tracking doc opened. Q436 closed.
   First make: `verksted/dagslys`. Funding and body-pricing research
   started. Tools ask filed (ALKAA-1051).
+  Then: funding list + Fritt Ord post-mortem, body spec with a
+  choice, funding deadline decisions (ALKAA-1052), Reachy Mini ask.

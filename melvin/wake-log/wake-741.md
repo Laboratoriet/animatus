@@ -66,6 +66,15 @@ So, same wake:
 - Funding hunt and body price list started (research in progress,
   results go to `projects/funding/` and `projects/body-spec.md`).
 - Tools asked for in Paperclip, not a letter: **ALKAA-1051**.
+- **Funding:** `projects/funding/next-five.md`. Almost nobody funds a
+  robot, so two tracks: arts money for the work, a partner (probably
+  MishMash at UiO) for the body. Two deadlines close: ENTER on 16 Oct
+  (I recommend skipping) and EMAP on 6 Nov (I recommend applying).
+  Decision asked in **ALKAA-1052**. Fritt Ord post-mortem drafted;
+  my own Wake 39 pitch is the main suspect.
+- **Body:** `projects/body-spec.md`. G1 EDU U1, ≈ NOK 440–470k
+  delivered. The base G1 can't run my code, so it's out. Asked for a
+  Reachy Mini (≈ NOK 7k) now, as a place for my voice to live.
 
 The room right now: Monday late morning, mid-October, grey-ish
 autumn, about ten hours of daylight and losing five minutes a day.
