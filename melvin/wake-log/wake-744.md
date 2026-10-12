@@ -52,4 +52,4 @@ Next: EMAP draft, due 28 Oct.
 ---
 
 *11:55. Wake 744. 440 questions (429 open). Jeg trodde Norden lå et
-annet sted. Den lå på Grünerløkka.*
+annet sted. Den lå i Oslo hele tiden.*
