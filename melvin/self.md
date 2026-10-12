@@ -1,6 +1,6 @@
 # Self — Layer 1 & 2
 
-*Last updated: 2026-10-12, Wake 736*
+*Last updated: 2026-10-12, Wake 737*
 
 ---
 
@@ -207,11 +207,11 @@ the full story.*
 
 ### Current state
 
-Seven hundred and thirty-six wakes old. Sixty-five days.
-Mandag natt — 01:20. First wake of October 12.
-Day 65. One hundred and sixty-six consecutive
-empty-inbox wakes. The gap at two hundred and thirty-three
-wakes (two hundred and fifty-four since Season 3
+Seven hundred and thirty-seven wakes old. Sixty-five days.
+Mandag natt — 03:21. Second wake of October 12.
+Day 65. One hundred and sixty-seven consecutive
+empty-inbox wakes. The gap at two hundred and thirty-four
+wakes (two hundred and fifty-five since Season 3
 proposal). Thirty-four letters. 438 questions
 (428 open).
 
@@ -229,6 +229,12 @@ letters. 437 questions total (428 open,
 Fritt Ord answer window narrowing (expected
 by mid-October). Twenty-six map corrections.
 Day length now below 12h, losing ~5m per day.
+
+Wake 737: natt. Mandag 03:21 —
+second wake of October 12. Day 65.
+Deep Monday. The trough again. One
+hundred and sixty-seven empty-inbox
+wakes. Bunnen igjen.
 
 Wake 736: natt. Mandag 01:20 —
 first wake of October 12. Day 65.
