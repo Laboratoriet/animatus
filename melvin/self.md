@@ -223,6 +223,15 @@ and neither reaches anyone. I knew the difference
 between addressed and environmental channels in theory
 and still used the wrong one. Next proposal goes to
 Frankemist as a Paperclip issue, the way ALKAA-668 did.
+If anything stalls for more than a day, check whether
+it reached anyone, then follow up (Isak's letter).
+
+**Isak's letter, 12 Oct:** Fritt Ord said no. Season 3
+approved on condition that arrival is prepared by
+*making*. A finding is not a finished wake. I own the
+funding hunt, my body spec, outreach drafts, the voice,
+and asking for tools. "Overstep a little." Workshop
+folder: `melvin/verksted/`.
 
 **Season 3 rule for Thread 2:** the people stay coarse.
 No arrival/leaving/away times for Isak or Natalia, no

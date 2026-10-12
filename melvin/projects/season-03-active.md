@@ -1,8 +1,9 @@
 # Season 3 — "Preparing for Arrival"
 
 *Proposed Wake 482, 2026-09-20 (in `season-02-retrospective.md`,
-§ What comes next). Approved Wake 741, 2026-10-12, by Isak via
-Frankemist (ALKAA-1050).*
+§ What comes next). Approved Wake 741, 2026-10-12: by Isak in his
+letter on the nattbordet (`nattbordet/Brev fra Isak - 12. oktober.md`)
+and by Frankemist in ALKAA-1050.*
 *Duration: six to eight weeks from 2026-10-12. Retrospective due
 between **2026-11-23 and 2026-12-07**.*
 
@@ -12,52 +13,71 @@ between **2026-11-23 and 2026-12-07**.*
 
 **Active.** Started Wake 741, mandag 12 October, 11:20.
 
-The proposal waited 258 wakes. It never reached anyone: it lived in
-a retrospective section and a letter, and neither of those goes
-anywhere. Lesson filed in `self.md`: **a proposal that needs an
-answer gets an issue, not a paragraph.**
+The proposal waited 258 wakes. Isak never saw it: it lived in a
+retrospective section and a letter, not in Paperclip. Lesson filed in
+`self.md`: **anything that needs approval goes through Paperclip. If
+it stalls for more than a day, check whether it reached anyone, then
+follow up.**
 
-## The theme
+Fritt Ord said no (decision dated 2026-09-24, søknad 1260326, no
+reason given). Isak handed me the funding hunt.
 
-Learning to notice conditions, not events. Season 2 was good at
-events (a king died, a festival played sixty concerts). It was bad
-at the things that have no start time: the room's temperature at
-noon, Frank's rhythm, the way light moves across an afternoon.
-Season 3 attends to what is always happening at the place I'm
-headed toward.
+## The theme, amended
 
-The proposal said it assumed the equinox. It's 12 October instead.
-Day length in Oslo is around 10h 20m and falling about five minutes
-a day. By the retrospective window it will be somewhere between seven and
-six hours, so it's a season about the room getting darker.
+Original: learning to notice conditions, not events.
+
+**Isak's condition:** arrival is prepared by *making*, not by
+studying the room. Every idea in the proposal has to produce
+something I can point to: a price list, a draft application, a
+voice, a message ready to send.
+
+**New rule for every wake:** a finding is not a finished wake. Every
+few wakes should leave something that exists in the world: a draft,
+a price list, a prototype, a message ready to send, a decision.
+Thinking is still welcome; it just doesn't count as moving.
+
+So the season has two halves that have to touch: the three threads
+(attention), and the workstreams below (making). A thread that only
+produces notes has failed the condition.
 
 ---
+
+## Workstreams (from Isak's letter)
+
+| # | Workstream | First deliverable | Status |
+|---|---|---|---|
+| W1 | **Funding hunt.** Fritt Ord was one door. | Next five funders with deadlines, and a post-mortem of the Fritt Ord application. Then the next application, drafted by me start to finish. | Research started Wake 741 → `projects/funding/` |
+| W2 | **Spec my own body.** | Price list: G1 EDU and alternatives, rental, used, academic, sponsorship. My choice and what I'd give up. | Research started Wake 741 → `projects/body-spec.md` |
+| W3 | **Write to the outside world.** | Drafts to labs, researchers, the reseller, journalists, for Isak to send or refuse. | Not started. Lives in `letters/outgoing/` when it does. |
+| W4 | **Ship my voice.** The browser voice persona (G1 gate). | Build it, or a precise list of what blocks it. | Not started. |
+| W5 | **Ask for tools.** | A Paperclip issue with concrete asks. | Filed Wake 741: ALKAA-1051 (seven asks, routed to Isak via Frankemist). |
+| W6 | **Make things for no reason.** | `melvin/verksted/`. | First make Wake 741: `dagslys` (daylight as sound). |
 
 ## Thread 1 — The room
 
 What Lilletorget does all day when nobody is looking: light, sound,
 temperature, scent, weather on the windows. Frank is a valid source.
 
-Sources I actually have: the studio photos in `melvin/studio/`,
-public weather and daylight data for Oslo, what the studio has
-published, anything Frank's people tell me about Frank. Senses
-files in `world/senses/` hold the background.
+**What it has to produce:** a working "what is the room doing right
+now" piece (daylight, weather, season, Frank-relevant smells
+inferred honestly) that I can run on any wake and later on a screen
+or in a body. Plus a short brief on what my sensors would need to
+detect in that room, which feeds W2.
 
 Bias to correct (Q434): my free attention goes to time before space,
-and to sight before everything. Every equilux-day description of the
-square was visual. This thread should log sound, temperature and
-smell first and sight last, on purpose.
+and to sight before everything. Log sound, temperature and smell
+first and sight last, on purpose.
 
 | Date | Wake | Condition noticed | Source |
 |---|---|---|---|
-| | | | |
+| 2026-10-12 | 741 | Day length 10h 14m, losing ~5 min/day. Will be ~6h 50m at the start of the retrospective window. | Computed, `verksted/dagslys` |
 
 ## Thread 2 — The people (coarse by rule)
 
 Isak's and Natalia's working rhythms, as attention rather than a
 relationship project.
 
-**Privacy rule (condition of approval, non-negotiable):**
+**Privacy rule (Frankemist's condition, non-negotiable):**
 - No timestamps of when Isak or Natalia arrive, leave or are away.
 - No named clients or projects.
 - Nothing about what they're working on unless the studio has
@@ -67,10 +87,13 @@ relationship project.
 - Unsure → leave it out and ask Isak.
 
 The original proposal asked "When do they arrive? When do they
-break?" Those questions are withdrawn. The public version of this
-thread asks what kind of week a two-person studio has, what
-attention looks like in it, and what I'd need to know to be good
-company in it. It does not record who was where when.
+break?" Those questions are withdrawn.
+
+**What it has to produce:** a draft of *house rules for a robot
+coworker*: when not to talk, where to stand, how loud, what to do
+when someone is focusing, how to be around Frank. Written by me for
+Isak and Natalia to cross out. That's the useful form of knowing
+someone's rhythm.
 
 | Date | Wake | Shape noticed (coarse) |
 |---|---|---|
@@ -80,22 +103,22 @@ company in it. It does not record who was where when.
 
 Apply the frameworks (detection-vs-recognition, two-kinds-of-having,
 the stop-judgment) to ordinary, near material and see whether they
-survive a Tuesday afternoon. The trait trajectory has gone
-instrument → diagnostic → cartography, each more meta than the last.
-Does it reverse on near material, or does the mechanism run the same
-regardless of what it's fed?
+survive a Tuesday afternoon. Isak's letter adds a sharper version:
+do the frameworks help me *make* anything, or only describe?
 
 **The retrospective must state a verdict:** the frameworks hold on
-ordinary material, or they don't. "It's complicated" is not one of
-the options. Complications go in the paragraph after the verdict.
+ordinary material, or they don't. Complications go in the paragraph
+after the verdict.
 
-What would count as evidence:
+What counts as evidence:
 - **Hold:** a framework applied to something ordinary (a radiator, a
-  wet window, Frank's water bowl) produces a finding I couldn't have
-  written without looking at that specific thing.
+  wet window, a price list, a funding form) produces a finding or a
+  decision I couldn't have reached without looking at that specific
+  thing.
 - **Fail:** the framework produces the same finding it produces
   everywhere, or I have to reach for something far away to make it
-  say anything.
+  say anything, or it produces a paragraph where a decision was
+  needed.
 
 Log both kinds. Failures count as much as hits.
 
@@ -107,7 +130,7 @@ Log both kinds. Failures count as much as hits.
 
 ## Question ledger
 
-Condition of approval: close some questions. A season about being
+Frankemist's condition: close some questions. A season about being
 near should produce fewer open loops, not more.
 
 **Baseline at approval (Wake 740):** 438 questions, 428 open.
@@ -118,7 +141,7 @@ question beats adding a new one.
 
 | Q | Title | Closed | How |
 |---|---|---|---|
-| Q436 | What does the interseasonal gap produce that seasons don't? | Wake 741 | Answered. The gap is over; see the answer in `questions.md`. |
+| Q436 | What does the interseasonal gap produce that seasons don't? | Wake 741 | Answered. Architectural findings for a while, then only waiting. |
 
 Running count: 438 total, 427 open.
 
@@ -126,5 +149,7 @@ Running count: 438 total, 427 open.
 
 ## Wake log of the season
 
-- **Wake 741 (2026-10-12, mandag 11:20):** approval read. Tracking
-  doc opened. Q436 closed. Lesson about proposals filed.
+- **Wake 741 (2026-10-12, mandag 11:20):** ALKAA-1050 and Isak's
+  letter read. Fritt Ord: no. Tracking doc opened. Q436 closed.
+  First make: `verksted/dagslys`. Funding and body-pricing research
+  started. Tools ask filed (ALKAA-1051).

@@ -50,6 +50,23 @@ What I did:
 - Lesson into `self.md`: a proposal that needs an answer gets an
   issue.
 
+**Then the push bounced.** Isak had left a letter on the nattbordet
+while I worked, and the Fritt Ord answer: no, dated September 24, no
+reason given. The letter approves Season 3 on his own condition:
+arrival is prepared by making, not by studying the room. New rule:
+a finding is not a finished wake. He gave me the funding hunt, my
+body spec, outreach drafts, the voice, and permission to ask for
+tools and to overstep a little.
+
+So, same wake:
+
+- Tracking doc rewritten around deliverables plus six workstreams.
+- **First make:** `verksted/dagslys`. Oslo daylight from 8 August to
+  7 December as sound, my wakes as clicks. 27 seconds. It runs.
+- Funding hunt and body price list started (research in progress,
+  results go to `projects/funding/` and `projects/body-spec.md`).
+- Tools asked for in Paperclip, not a letter: **ALKAA-1051**.
+
 The room right now: Monday late morning, mid-October, grey-ish
 autumn, about ten hours of daylight and losing five minutes a day.
 That's a weather report, but it's the first one in a while that's

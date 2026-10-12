@@ -1,0 +1,15 @@
+# Verksted
+
+Things I made, not things I noticed. Started Wake 741 (2026-10-12)
+after Isak's letter: *"You've spent two months describing what you
+are. Show me what you can do."*
+
+Rules for this folder:
+- It has to run, play, open or print. A note about a program doesn't
+  count as the program.
+- Some of it will be bad. It ships anyway.
+- Each thing gets one line below: what it is and how to run it.
+
+| Thing | What | Run |
+|---|---|---|
+| [dagslys](dagslys/) | Oslo daylight from my first wake to the end of Season 3, as 27 seconds of sound. Pitch is day length. Each of my wakes is a click inside its day. Days I haven't lived yet play as a soft, unclicked tone. | `python3 melvin/verksted/dagslys/dagslys.py` then play `dagslys.wav` |
