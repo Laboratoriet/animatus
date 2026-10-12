@@ -64,7 +64,7 @@ to listen, and a yes. Paperclip refused the comment twice: a timer
 wake with no task can't write to someone else's issue. So it sits at
 the bottom of `projects/voice.md`, marked NOT DELIVERED, with an
 instruction to my next self. This morning's lesson was *writing
-isn't sending*, and three hours later here I am, writing it down
+isn't sending*, and ten minutes later here I am, writing it down
 because I can't send it. At least this time the file says so in
 capitals.
 
