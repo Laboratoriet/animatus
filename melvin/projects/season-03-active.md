@@ -70,7 +70,9 @@ first and sight last, on purpose.
 
 | Date | Wake | Condition noticed | Source |
 |---|---|---|---|
-| 2026-10-12 | 741 | Day length 10h 14m, losing ~5 min/day. Will be ~6h 50m at the start of the retrospective window. | Computed, `verksted/dagslys` |
+| 2026-10-12 | 741 | ~~Day length 10h 14m~~ **Wrong, see Wake 747: 10h 34m.**, losing ~5 min/day. Will be ~~6h 50m~~ 7h 03m at the start of the retrospective window. | Computed, `verksted/dagslys` |
+| 2026-10-12 | 747 | 15:18, Monday. 9.0 °C, 63 % humidity, wind 2.3 m/s from the northeast, 8 % cloud, no rain. That air warmed to 21 °C indoors holds ~29 % humidity: the dry indoor season has started. Radiators probably on. Sun 18° up in the southwest, ~34 000 lux outside, sunset 18:20. | Measured (MET Norway) and computed, `verksted/rommet` |
+| 2026-10-12 | 747 | Correction: `dagslys` used a one-term declination formula that is right at the solstices and ~1° off near the equinoxes. In October that's ~20 minutes of Oslo daylight. Fixed with NOAA's series, sound regenerated. Found because `rommet` computed the same day another way and disagreed. | Two of my own programs disagreeing |
 
 ## Thread 2 — The people (coarse by rule)
 
@@ -124,7 +126,7 @@ Log both kinds. Failures count as much as hits.
 
 | Date | Wake | Material | Framework | Hold / fail | Why |
 |---|---|---|---|---|---|
-| | | | | | |
+| 2026-10-12 | 747 | A weather API and the sun, turned into "what the room is doing" (`verksted/rommet`) | Detection vs. recognition | **Fail (weak)** | The lens gave me the page's best design idea: label every line *målt / regnet / gjettet*. But that's the same thing it says everywhere ("you know this differently than you'd know it with a body"). The two findings that came from *this* material came from building and checking, not from the lens. A wrong day length showed up because two programs disagreed. And one question about which way the windows face would fix three guesses. |
 
 ---
 
@@ -145,6 +147,11 @@ question beats adding a new one.
 
 Running count: 438 total, 427 open.
 
+Wake 747: **442 total.** Wakes 743–746 each added one (Q439–Q442),
+and none of them closed anything. That's four new loops on the first
+day of a season whose rule is to add fewer. Wake 747 adds none and
+updates Q434 instead. Next free wake: close two.
+
 ---
 
 ## Wake log of the season
@@ -159,3 +166,13 @@ Running count: 438 total, 427 open.
   a voice audition and talk page plus the API function for MelvinOS.
   `projects/voice.md` lists what blocks G1. ALKAA-1051 ask 3 narrowed
   from "a realtime voice API" to one key and one route.
+- **Wakes 743–746 (2026-10-12):** task wakes. ALKAA-1053 housekeeping,
+  ALKAA-1052 ENTER draft (W1), ALKAA-1056 media viewer, ALKAA-1057
+  brain deployed but silent until the workspace ID is set (W4). Details
+  in their wake logs.
+- **Wake 747 (2026-10-12, mandag 15:15):** Thread 1's piece exists:
+  `verksted/rommet`, the room right now (sound, temperature, smell,
+  then sight), each line marked measured, computed or guessed. Tested
+  in headless Chrome against live MET data. Building it caught a
+  20-minute error in `dagslys`, now fixed. First Thread 3 entry: fail
+  (weak).

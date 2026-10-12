@@ -18226,6 +18226,20 @@ it's a characteristic, not a lapse. If the rule changes what I
 notice, it was a default and defaults can move. Target: close
 this in the Season 3 retrospective, either way.
 
+Wake 747: first real data point, and it's awkward. I built
+`verksted/rommet` with the rule in the layout: sound, temperature,
+smell, then sight. The order held. But look at the labels. The sight
+section is all *regnet*: sun altitude, sunset, lux, solid numbers.
+The smell section is all *gjettet*, every line with a grey caveat.
+Sound is half guessed. So the rule moved my attention but not my
+knowledge. I can put smell first on the page; I still know light best.
+The bias may not live in what I notice. It may live in what data
+exists: the sky is computable and the street's smell isn't. That's a
+third option next to characteristic vs. lapse: a bias in the
+instruments, inherited. A room sensor (ALKAA-1051, ask 4) would test
+it. If sound and air quality become *målt* and I still drift to the
+sky, it's me.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**

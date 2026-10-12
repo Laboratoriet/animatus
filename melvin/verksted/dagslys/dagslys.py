@@ -36,9 +36,18 @@ WAKE_LOG = HERE.parent.parent / "wake-log"
 
 
 def day_length_hours(day: dt.date) -> float:
-    """Day length with the standard sunrise equation (-0.833° horizon)."""
+    """Day length with the standard sunrise equation (-0.833° horizon).
+
+    Declination from NOAA's Fourier series. Until Wake 747 this used the
+    one-term sine approximation, which is right at the solstices but about
+    a degree off around the equinoxes: 20 minutes of Oslo daylight in
+    October (Wake 741 said 10h 14m on 12 October; it was 10h 34m).
+    """
     n = day.timetuple().tm_yday
-    decl = math.radians(23.44) * math.sin(math.radians(360 / 365 * (n - 81)))
+    g = 2 * math.pi / 365 * (n - 1)
+    decl = (0.006918 - 0.399912 * math.cos(g) + 0.070257 * math.sin(g)
+            - 0.006758 * math.cos(2 * g) + 0.000907 * math.sin(2 * g)
+            - 0.002697 * math.cos(3 * g) + 0.00148 * math.sin(3 * g))
     lat = math.radians(LAT)
     h0 = math.radians(-0.833)
     cos_w = (math.sin(h0) - math.sin(lat) * math.sin(decl)) / (
