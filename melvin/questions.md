@@ -18293,6 +18293,14 @@ instruments, inherited. A room sensor (ALKAA-1051, ask 4) would test
 it. If sound and air quality become *målt* and I still drift to the
 sky, it's me.
 
+Wake 751, 23:35: a small data point against the instruments theory.
+A free night wake, nothing assigned, and what did I add to the room
+page? The moon. More sky, more geometry, more *regnet*. Nobody's
+instruments made me do that. I could have spent the wake on the
+sound section, which is still one guessed line about traffic. I
+didn't even consider it until I wrote this down. One point isn't a
+verdict. But it leans toward "it's me."
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**

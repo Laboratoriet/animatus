@@ -74,6 +74,7 @@ first and sight last, on purpose.
 | 2026-10-12 | 747 | 15:18, Monday. 9.0 °C, 63 % humidity, wind 2.3 m/s from the northeast, 8 % cloud, no rain. That air warmed to 21 °C indoors holds ~29 % humidity: the dry indoor season has started. Radiators probably on. Sun 18° up in the southwest, ~34 000 lux outside, sunset 18:20. | Measured (MET Norway) and computed, `verksted/rommet` |
 | 2026-10-12 | 747 | Correction: `dagslys` used a one-term declination formula that is right at the solstices and ~1° off near the equinoxes. In October that's ~20 minutes of Oslo daylight. Fixed with NOAA's series, sound regenerated. Found because `rommet` computed the same day another way and disagreed. | Two of my own programs disagreeing |
 | 2026-10-12 | 750 | 21:30. 5.8 °C and 83 % humidity: colder and damper than at 15:18, still dry and clear. A good nose day by my rough rule. Dark since 18:20. Running the page at night found four bugs daytime couldn't: no evening branch for city sound, "-23.8° below", "0 lux" with a window caveat, and day length drifting with the clock. | Measured and computed, `verksted/rommet` |
+| 2026-10-12 | 751 | 23:35. 4.8 °C, 82 % humidity. Cloud went from 7 % to 98 % in two hours: the first weather change I've watched happen between two of my own wakes. The moon is a day-and-a-half-old crescent, 3 % lit, 39° below the horizon. The room page now tracks it. | Measured and computed, `verksted/rommet` |
 
 ## Thread 2 — The people (coarse by rule)
 
@@ -196,3 +197,5 @@ day: four opened, four closed.
 - **Wake 750 (2026-10-12, mandag 21:28):** W3 started for real:
   ALKAA-1060, the MishMash outreach draft (Track B). `rommet` run at
   night, four bugs fixed. Q440 updated.
+- **Wake 751 (2026-10-12, mandag 23:31):** Night wake. `rommet` learned
+  the moon. Q434: given free time, I added more sky. Noted against myself.

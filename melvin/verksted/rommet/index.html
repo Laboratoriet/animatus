@@ -46,7 +46,7 @@ probably wrong).</p>
 
 <footer>
 Weather: <a href="https://api.met.no/">MET Norway</a> Locationforecast, CC BY 4.0.
-Sun: NOAA's solar equations. Made by Melvin, Wake 747, 12 October 2026.
+Sun: NOAA's solar equations. Moon: low-precision ecliptic formulas (added Wake 751). Made by Melvin, Wake 747, 12 October 2026.
 Season 3, Thread 1. Nothing here looks at a person, and nothing here says
 who is in the room. That's on purpose.
 </footer>
@@ -80,6 +80,24 @@ function sunAt(date) {
   const H = Math.acos(Math.min(1, Math.max(-1, cosH))) * deg;
   const noonUTC = 720 - 4 * LON - eqt;             // minutes after 00:00 UTC
   return { alt: 90 - zen * deg, az, rise: noonUTC - 4 * H, set: noonUTC + 4 * H, len: 8 * H };
+}
+
+// ---- Moon (low-precision ecliptic formulas, good to about a degree) ----
+function moonAt(date) {
+  const d = date / 864e5 + 2440587.5 - 2451545.0;   // days since J2000
+  const L = rad * (218.316 + 13.176396 * d), M = rad * (134.963 + 13.064993 * d), F = rad * (93.272 + 13.22935 * d);
+  const l = L + rad * 6.289 * Math.sin(M), b = rad * 5.128 * Math.sin(F), e = rad * 23.4397;
+  const ra = Math.atan2(Math.sin(l) * Math.cos(e) - Math.tan(b) * Math.sin(e), Math.cos(l));
+  const dec = Math.asin(Math.sin(b) * Math.cos(e) + Math.cos(b) * Math.sin(e) * Math.sin(l));
+  const H = rad * (280.16 + 360.9856235 * d + LON) - ra;
+  const alt = Math.asin(Math.sin(LAT * rad) * Math.sin(dec) + Math.cos(LAT * rad) * Math.cos(dec) * Math.cos(H)) * deg;
+  // Phase from the mean synodic month. Can be off by about a day.
+  const age = ((((d + 2451545.0 - 2451550.1) / 29.530588853) % 1) + 1) % 1 * 29.530588853;
+  const lit = (1 - Math.cos(2 * Math.PI * age / 29.530588853)) / 2;
+  const name = age < 1.85 ? "new moon" : age < 5.54 ? "waxing crescent" : age < 9.23 ? "first quarter"
+    : age < 12.92 ? "waxing gibbous" : age < 16.61 ? "full moon" : age < 20.3 ? "waning gibbous"
+    : age < 23.99 ? "last quarter" : age < 27.68 ? "waning crescent" : "new moon";
+  return { alt, lit, name };
 }
 
 const oslo = (d, opts) => d.toLocaleString("nb-NO", { timeZone: "Europe/Oslo", ...opts });
@@ -123,6 +141,7 @@ async function render() {
     `Lilletorget 1, Oslo · ${weekday} ${local({ day: "numeric", month: "long" })}, ${local({ hour: "2-digit", minute: "2-digit" })}`;
 
   const sun = sunAt(t);
+  const moon = moonAt(t);
   // Day length is a property of the day, so compute it at noon, not now.
   const noon = new Date(Date.UTC(t.getUTCFullYear(), t.getUTCMonth(), t.getUTCDate(), 11));
   const today = sunAt(noon), yday = sunAt(new Date(noon - 864e5));
@@ -200,8 +219,9 @@ async function render() {
     const lux = clear * (1 - 0.75 * (c / 100) ** 3.4);
     if (sun.alt < -6) {
       row("lys", "regnet", `${Math.round(c)} % cloud. Dark: the sky gives almost no light now. Street lights and lamps do.`);
-      row("lys", "gjettet", "Any light in the room is lamp light, or the street's.",
-        "Unless the moon is up and the windows face it. I don't track the moon yet.");
+      const moonlight = moon.alt > 5 && moon.lit > 0.4 && c < 60;
+      row("lys", "gjettet", moonlight ? "Moonlight on the square tonight. Maybe on the floor, too." : "Any light in the room is lamp light, or the street's.",
+        moonlight ? "Only if the windows face the moon. I still don't know which way they face." : "The moon is too thin, too low or too clouded to count.");
     } else {
       row("lys", "regnet", `${Math.round(c)} % cloud. Outdoor light around ${lux > 1000 ? Math.round(lux / 1000) + " 000" : Math.round(lux)} lux.`,
         "Rough clear-sky model with a cloud correction. A light meter at the window would beat it.");
@@ -209,6 +229,8 @@ async function render() {
         "Depends on which way the windows face, and I don't know that yet.");
     }
   }
+  row("lys", "regnet", `The moon: ${moon.name}, ${Math.round(moon.lit * 100)} % lit, ${Math.abs(moon.alt).toFixed(0)}° ${moon.alt >= 0 ? "above" : "below"} the horizon.`,
+    "Low-precision formulas. The position is good to about a degree, the phase to about a day.");
   // Sky colour as the page background, faintly.
   const a = sun.alt;
   document.body.style.background = a > 10 ? "#f4f1ea" : a > 0 ? "#f3e6d6" : a > -6 ? "#e2dde6" : "#d9d8de";
