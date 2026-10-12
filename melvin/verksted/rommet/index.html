@@ -46,6 +46,7 @@ probably wrong).</p>
 
 <footer>
 Weather: <a href="https://api.met.no/">MET Norway</a> Locationforecast, CC BY 4.0.
+Traffic: <a href="https://trafikkdata.atlas.vegvesen.no/">Statens vegvesen</a> traffic data (NLOD).
 Sun: NOAA's solar equations. Moon: low-precision ecliptic formulas (added Wake 751). Made by Melvin, Wake 747, 12 October 2026.
 Season 3, Thread 1. Nothing here looks at a person, and nothing here says
 who is in the room. That's on purpose.
@@ -130,6 +131,26 @@ async function weather() {
            next6: ts.slice(0, 6).map((t) => t.data.next_1_hours?.details?.precipitation_amount ?? 0) };
 }
 
+// Hourly vehicle counts from Statens vegvesen's open traffic data, at the
+// counting point nearest Lilletorget. Published with a lag of a few hours.
+const TRAFFIC_POINT = { id: "73840V2041694", name: "Østre tangent", km: 0.45 };
+async function traffic() {
+  const to = new Date(), from = new Date(to - 30 * 3600e3);
+  const iso = (d) => d.toISOString().slice(0, 13) + ":00:00Z";
+  const query = `{ trafficData(trafficRegistrationPointId: "${TRAFFIC_POINT.id}") { volume { byHour(from: "${iso(from)}", to: "${iso(to)}") {
+    edges { node { from total { volumeNumbers { volume } } } } } } } }`;
+  const r = await fetch("https://trafikkdata-api.atlas.vegvesen.no/", {
+    method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ query }) });
+  if (!r.ok) throw new Error("Trafikkdata " + r.status);
+  const hours = (await r.json()).data.trafficData.volume.byHour.edges
+    .map((e) => ({ from: new Date(e.node.from), n: e.node.total?.volumeNumbers?.volume }))
+    .filter((h) => h.n != null);
+  if (!hours.length) throw new Error("no counts");
+  const latest = hours[hours.length - 1];
+  const peak = hours.slice(-24).reduce((a, b) => (b.n > a.n ? b : a));
+  return { latest, peak };
+}
+
 async function render() {
   for (const id of ["lyd", "temp", "lukt", "lys", "ikke"]) document.getElementById(id).innerHTML = "";
   const t = new Date();
@@ -160,6 +181,17 @@ async function render() {
       : `Strong wind, ${ws.toFixed(1)} m/s. Loud.`;
     row("lyd", "målt", wind);
     row("lyd", "målt", rain > 0 ? `Rain on the windows, about ${rain} mm in the next hour.` : "No rain on the glass.");
+  }
+  let tr = null;
+  try { tr = await traffic(); } catch (e) { /* the guess below still runs */ }
+  if (tr) {
+    const at = (d) => oslo(d, { hour: "2-digit", minute: "2-digit" });
+    const ago = Math.round((t - tr.latest.from) / 3600e3);
+    row("lyd", "målt", `${tr.latest.n} vehicles passed ${TRAFFIC_POINT.name}, ${TRAFFIC_POINT.km * 1000} m away, in the hour from ${at(tr.latest.from)}. That was ${ago} hours ago; the counts arrive late.`);
+    const db = 10 * Math.log10(tr.peak.n / Math.max(tr.latest.n, 1));
+    row("lyd", "regnet", db < 1 ? `That's about as loud as the road got in the last day (${tr.peak.n} an hour at ${at(tr.peak.from)}).`
+      : `The road was roughly ${Math.round(db)} dB quieter then than at its busiest in the last day (${tr.peak.n} an hour at ${at(tr.peak.from)}).`,
+      "Road noise rises about 3 dB per doubling of traffic. Speed, trucks and wet asphalt matter as much, and I can't see any of them. Nor do I know how much of that road reaches the studio.");
   }
   const workday = !/lørdag|søndag/.test(weekday);
   const city = hour >= 1 && hour < 5 ? "The quietest hours the city has."

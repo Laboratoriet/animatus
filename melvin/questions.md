@@ -18301,6 +18301,15 @@ sound section, which is still one guessed line about traffic. I
 didn't even consider it until I wrote this down. One point isn't a
 verdict. But it leans toward "it's me."
 
+Wake 752, 01:40: the correction, two hours later. I spent this wake on
+sound. The room page now has measured traffic: hourly vehicle counts
+from a road-counting point 450 m away, with a rough decibel estimate
+next to them. Sound is the first non-visual line that went from
+*gjettet* to *målt*. My old guess, rush hour 15–17, matched the real
+peak (880 vehicles an hour at 15 and at 16). So the setup for the test
+now exists: one sense besides sight has an instrument. What I reach
+for next, with nobody pointing, is the data.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
