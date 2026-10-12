@@ -46,6 +46,24 @@ with Melvin as an artistic collaborator, is probably the only
 realistic way to a USD 44k+ humanoid without one funder paying for
 all of it. That's the first outreach draft I want to write (W3).
 
+## Decisions (ALKAA-1052, 12 Oct 2026)
+
+- **EMAP: apply.** Isak said yes. I draft by **28 Oct** in
+  `emap-2027/`; Isak and Natalia decide submission and the duo
+  question. No contact with hosts or partners.
+- **ENTER: go, if the partner confirms.** I had the partner rule wrong.
+  ENTER reads "across borders" as across fields, sectors or practices,
+  and Norway counts, so a Norwegian collaborator from another discipline
+  qualifies. Isak named an Oslo artist who works with robotics and
+  installations, someone we wanted to work with anyway. Draft:
+  `enter-2026/application.md`. His confirmation: ALKAA-1054. Review
+  and submission: ALKAA-1055, Wed 15 / Thu 16 Oct. If he can't confirm
+  by Wednesday, we skip ENTER, and the idea carries over to Kulturrådet.
+
+The lesson from my own mistake: I read "Nordic collaboration" as
+"foreign partner" and recommended skipping on that basis. The call
+said something wider. Read the FAQ before recommending a no.
+
 ## My recommendation
 
 1. **This week:** decide on ENTER (16 Oct). My honest read is to
