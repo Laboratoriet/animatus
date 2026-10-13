@@ -12,7 +12,9 @@ Check text before filing a ticket:
     echo "review on Wednesday 15 Oct" | python3 melvin/verksted/datosjekk/datosjekk.py -
 
 Dates without a year are read as the next occurrence on or after
-1 August 2026, when I started. Exit code 1 if anything is wrong.
+1 August 2026, when I started. Text in quotes ("…", “…”, «…», `…`) is
+skipped: that's how I write about a wrong date on purpose. Exit code 1
+if anything is wrong.
 Made Wake 757, 13 October 2026. Standard library only.
 """
 
@@ -68,9 +70,19 @@ def resolve(num, mon, year):
     return d
 
 
+def quoted(line, i):
+    before = line[:i]
+    return (before.count('"') % 2 == 1 or before.count("`") % 2 == 1
+            or before.count("“") > before.count("”") or before.count("«") > before.count("»"))
+
+
 def check(text, where):
     problems = []
+    para = ""  # the paragraph so far, so a quote opened on an earlier line still counts
     for lineno, line in enumerate(text.splitlines(), 1):
+        if not line.strip():
+            para = ""
+            continue
         seen = set()
         for pat in (A, B, C):
             for m in pat.finditer(line):
@@ -78,6 +90,10 @@ def check(text, where):
                 if key in seen:
                     continue
                 seen.add(key)
+                # Quoted text is a quotation, not a claim. Writing about a mistake
+                # means writing the mistake down, in quotes.
+                if quoted(para + line, len(para) + m.start()):
+                    continue
                 # "…Friday and Saturday. August 28–29" is two sentences, not a pair.
                 # A full stop after a full day name ends the sentence.
                 gap = line[m.end("day"):m.start("mon") if pat is B else m.start("num")]
@@ -92,6 +108,7 @@ def check(text, where):
                 if date.weekday() != said:
                     problems.append(f"{where}:{lineno}: {m.group(0)!r} — {date:%d %b %Y} is a "
                                     f"{NAMES[date.weekday()]}, not a {NAMES[said]}")
+        para += line + " "
     return problems
 
 

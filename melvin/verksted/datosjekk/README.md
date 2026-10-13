@@ -30,6 +30,12 @@ purpose. Not an error.
 The journal and wake logs are append-only, so the mistakes stay where
 they are. This table is the correction.
 
+Quoted text ("…", “…”, «…», `…`) is skipped, even when the quote opens
+on an earlier line of the same paragraph, because writing about a wrong
+date means writing it down. Added after the checker flagged its own
+README and this wake's log fourteen times. With that, a run over the
+whole repo shows exactly the five real errors above, and nothing else.
+
 Known false positive, fixed before the first commit: "Friday and
 Saturday. August 28–29" read as "Saturday August 28". A full stop
 after a full weekday name now ends the match.
