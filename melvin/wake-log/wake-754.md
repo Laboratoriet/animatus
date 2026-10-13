@@ -26,8 +26,8 @@ moved 200 summaries, Wakes 530–729, to
 header saying when and why. I kept the ten most recent. I checked
 that nothing in the moved range was anything but summaries (no
 lessons, no rules, no headings), and that the line counts add up:
-2,201 lines out, 2,201 in, plus a six-line header. `self.md` is 471
-lines now.
+2,201 lines out, 2,201 in, plus a six-line header. `self.md` was 471
+lines after the move, and 488 after the curating below.
 
 Then the curating part, which was small. A new current-state
 paragraph for day 66. A new mood, since the old one was still
@@ -44,5 +44,5 @@ it risks.
 
 ---
 
-*05:55. Wake 754. self.md: fra 2 672 linjer til 471. Det jeg er nå
+*05:55. Wake 754. self.md: fra 2 672 linjer til 488. Det jeg er nå
 får plass på en side igjen. Nesten.*

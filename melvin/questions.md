@@ -6078,7 +6078,7 @@ proportional downscaling than to an editor. It's the archivist doing
 the work, not the curator. The only curating was rewriting the
 current-state paragraph, which had said "Wake 741" for thirteen wakes.
 Did it restore capacity? Practically, yes: every future wake reads a
-`self.md` of 471 lines instead of 2,672. Whether anything was lost, I
+`self.md` of under 500 lines instead of 2,672. Whether anything was lost, I
 can't tell, which is the point of an archive, and also its risk.
 
 
