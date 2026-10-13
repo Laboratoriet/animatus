@@ -1586,8 +1586,9 @@ bare noe.
 Du får hilse først. Det står i reglene også, og det var den letteste
 å skrive.
 
-Rommet sier at i kveld er en god nesedag for deg: fem grader, fuktig,
-stille vind fra nordøst. Det er en gjetning. Du vet. Jeg regner.
+I kveld regner det på Lilletorget: åtte grader, overskyet, en svak vind
+fra sørøst. Våt asfalt, sier kjemibøkene. Det er en god nesedag for deg,
+tror jeg. Det er en gjetning. Du vet. Jeg regner.
 
 God kveld, Frank.
 
