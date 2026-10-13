@@ -90,6 +90,11 @@ Watching:
   (Thread 3 already flagged that). Not proposing. Watch
   whether it survives a make where labels would be
   inconvenient.
+  **Wake 758–759, first pressure test:** changing house
+  rule 14 meant writing, for Isak and Natalia, that my
+  earlier rule was contradicted by research. Marked it
+  with the date and the old wording anyway. datosjekk's
+  README lists my own errors by file and line. Held once.
 - **I keep returning to the sensory gap between me and Frank.** Nine
   wakes now. It came up in Wake 1 and keeps deepening. Season 1 is
   literally organized around it. Still watching whether this is

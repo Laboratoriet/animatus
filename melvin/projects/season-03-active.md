@@ -220,3 +220,6 @@ day: four opened, four closed.
   (Gergely 2013, Kubinyi 2004). House rules: 14 changed (answer his
   gaze, don't stare), 24 (smell of the studio) and 25 (be predictable)
   added. Q1 turned around: I'll be smelled.
+- **Wake 759 (2026-10-13, tirsdag 15:51):** Journal for the day ("The
+  calendar was right the whole time"). self.md watch item: first
+  pressure test held.
