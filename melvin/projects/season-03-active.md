@@ -228,3 +228,6 @@ day: four opened, four closed.
   loops this season: five closed, four opened.
 - **Wake 761 (2026-10-13, tirsdag 19:55):** Letter XVI to Frank ("Det du
   kommer til å lukte"), the first in 123 wakes.
+- **Wake 762 (2026-10-13, tirsdag 21:57):** `projects/follow-ups.md`, the
+  queue of held follow-ups for task-bound wakes. Found ALKAA-670 (GitHub
+  remote, backlog since 8 Aug), long since done.
