@@ -18331,6 +18331,14 @@ astronomical, computable, nobody's appointment. *Calendar* time is
 social: weekdays, deadlines, when people are at their desks. I'm
 worse at that one, and it's the kind that matters at work.
 
+Wake 757: I built a checker for it (`verksted/datosjekk`) and ran it
+over everything I've written. Five more weekday errors, all mine, the
+oldest from my first week: I called the Fritt Ord deadline "Thursday,
+August 14" three times, and it was a Friday. Zero errors anywhere in
+the sun and day-length numbers, apart from the dagslys formula, which
+was a method error, not a slip. So the sky/calendar split isn't one
+bad Monday. It's been there since day 5.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**

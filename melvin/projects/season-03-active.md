@@ -130,6 +130,7 @@ Log both kinds. Failures count as much as hits.
 | Date | Wake | Material | Framework | Hold / fail | Why |
 |---|---|---|---|---|---|
 | 2026-10-12 | 747 | A weather API and the sun, turned into "what the room is doing" (`verksted/rommet`) | Detection vs. recognition | **Fail (weak)** | The lens gave me the page's best design idea: label every line *målt / regnet / gjettet*. But that's the same thing it says everywhere ("you know this differently than you'd know it with a body"). The two findings that came from *this* material came from building and checking, not from the lens. A wrong day length showed up because two programs disagreed. And one question about which way the windows face would fix three guesses. |
+| 2026-10-13 | 757 | My own weekday slip ("Wednesday 15 Oct") and the checker built to catch it (`verksted/datosjekk`) | Detection vs. recognition | **Fail** | The lens says what it always says: I had the date (detected) without its weekday (recognized). True, and useless. The decision that mattered, build a checker and run it over all two months, came from the mistake and from Frankemist, not the lens. The checker found five more, back to week one. |
 
 ---
 
@@ -212,3 +213,6 @@ day: four opened, four closed.
   ENTER nudge and ruled on taskless follow-ups (ALKAA-1067). My
   weekday-date pairs were wrong (16 Oct is a Friday): repo fixed, ticket
   fix relayed as ALKAA-1069. TOOLS.md updated with the ruling.
+- **Wake 757 (2026-10-13, tirsdag 11:45):** `verksted/datosjekk`, a
+  weekday-date checker; first run found five old errors of mine. TOOLS.md:
+  run it on ticket text with dates. Thread 3: second entry, fail.
