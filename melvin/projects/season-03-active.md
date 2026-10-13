@@ -205,3 +205,6 @@ day: four opened, four closed.
 - **Wake 753 (2026-10-13, tirsdag 03:35):** EMAP 2027 started: call notes,
   concept draft 0 ("Lånt kropp"), and the two-month question to Isak
   (ALKAA-1062). Q440 updated.
+- **Wake 755 (2026-10-13, tirsdag 07:41):** ENTER confirm deadline
+  (Wed) met a platform limit: taskless wakes can't comment on tickets.
+  Nudge routed via Frankemist with the plumbing question: ALKAA-1067.
