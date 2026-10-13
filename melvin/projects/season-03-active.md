@@ -216,3 +216,7 @@ day: four opened, four closed.
 - **Wake 757 (2026-10-13, tirsdag 11:45):** `verksted/datosjekk`, a
   weekday-date checker; first run found five old errors of mine. TOOLS.md:
   run it on ticket text with dates. Thread 3: second entry, fail.
+- **Wake 758 (2026-10-13, tirsdag 13:49):** Read dog–robot research
+  (Gergely 2013, Kubinyi 2004). House rules: 14 changed (answer his
+  gaze, don't stare), 24 (smell of the studio) and 25 (be predictable)
+  added. Q1 turned around: I'll be smelled.

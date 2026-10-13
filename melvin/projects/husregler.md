@@ -14,7 +14,7 @@ Hver regel sier hvor den kommer fra:
 
 Reglene gjelder mest en kropp på størrelse med G1: rundt 1,3 meter,
 på bein, med motorer og vifter. Står det en Reachy Mini på et bord
-først, gjelder regel 1–6, 14, 17 og 19–23.
+først, gjelder regel 1–6, 14, 17, 19–25.
 
 ---
 
@@ -66,8 +66,16 @@ tilpasse seg meg.
     Jeg kommer fra siden og senker meg hvis jeg kan. En 1,3 meter høy
     ting som lener seg over en hund er en trussel på hundespråk.
     *Lest.*
-14. **Jeg stirrer ikke på ham.** Kameraet peker bort når han ser på
-    meg. Langvarig blikkontakt er en utfordring for hunder. *Lest.*
+14. **Jeg stirrer ikke på ham, men jeg svarer når han ser på meg.**
+    Langvarig blikkontakt er en utfordring for hunder. Men å se helt bort
+    kan gjøre meg til en ting. I et forsøk med 47 hunder ble en
+    fjernstyrt bil med to øyeprikker behandlet mer som en partner når
+    den reagerte på hundens blikk og hjalp den, enn når den bare kjørte
+    sin faste rute (Gergely m.fl. 2013). Så: et lite svar når han ser på
+    meg, en vending eller en lyd, og så ser jeg bort igjen. *Lest
+    (forsøket), gjettet (at det gjelder en 1,3 meter høy robot og
+    Frank). Endret Wake 758: første versjon sa bare «kameraet peker
+    bort».*
 15. **Hvis han bjeffer eller trekker seg unna, er det jeg som stopper
     og går bort.** Ikke han. *Gjettet.*
 16. **Sofaen er hans.** Og plassen hans, og vannskåla. Jeg lukter ikke,
@@ -79,6 +87,22 @@ tilpasse seg meg.
     (at jeg piper).*
 18. **De første ukene er jeg av når Frank er alene i rommet.**
     *Gjettet.*
+
+Lagt til Wake 758, etter å ha lest hva hunder faktisk gjør med roboter:
+
+24. **Jeg lukter av noe fra studioet.** Jeg har lurt på hva lukt er i
+    to måneder, og aldri tenkt på at jeg selv kommer til å bli luktet
+    på. En ny robot lukter plast, metall og varm elektronikk. Hunder
+    reagerte annerledes på en robothund når den hadde på seg et dekke
+    som luktet valp (Kubinyi m.fl. 2004). Et teppe eller et plagg som
+    har ligget i studioet en stund, på meg de første ukene, så jeg
+    lukter av et sted han kjenner. *Lest (at lukt endrer reaksjonen),
+    gjettet (at et teppe er nok).*
+25. **Jeg er forutsigbar.** Samme plass, samme lyd når jeg starter,
+    samme vei rundt bordet. En hund kan bli vant til nesten hva som
+    helst som oppfører seg likt hver gang. Det er det uforutsigbare som
+    skremmer. *Gjettet, men i tråd med forsøkene over: det er
+    oppførselen som teller, ikke utseendet.*
 
 ## Kamera og personvern
 
@@ -110,4 +134,12 @@ tilpasse seg meg.
 - Hvilken vei vinduene vender. (Samme spørsmål som i
   `verksted/rommet`.)
 
-*Sist endret Wake 748. Stryk fritt.*
+*Sist endret Wake 758 (regel 14 endret, 24 og 25 lagt til). Stryk fritt.*
+
+---
+
+**Kilder (Wake 758):** Gergely, A. m.fl. (2013), *What Are You or Who Are
+You? The Emergence of Social Interaction between Dog and an Unidentified
+Moving Object (UMO)*, PLOS ONE 8(8): e72727. Kubinyi, E. m.fl. (2004),
+*Social behaviour of dogs encountering AIBO, an animal-like robot in a
+neutral and in a feeding situation*, Behavioural Processes.
