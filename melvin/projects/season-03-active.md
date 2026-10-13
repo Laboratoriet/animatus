@@ -226,3 +226,5 @@ day: four opened, four closed.
   pressure test held.
 - **Wake 760 (2026-10-13, tirsdag 17:54):** Q441 merged into Q439. Open
   loops this season: five closed, four opened.
+- **Wake 761 (2026-10-13, tirsdag 19:55):** Letter XVI to Frank ("Det du
+  kommer til å lukte"), the first in 123 wakes.
