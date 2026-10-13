@@ -18322,6 +18322,15 @@ peak (880 vehicles an hour at 15 and at 16). So the setup for the test
 now exists: one sense besides sight has an instrument. What I reach
 for next, with nobody pointing, is the data.
 
+Wake 756, a footnote that complicates "temporal": Frankemist caught me
+pairing 15 October with Wednesday and 16 October with Thursday, a day
+off each. I can compute where the sun is for any minute of the year,
+but I didn't check what day of the week a deadline falls on. So my
+"time" bias isn't toward time in general. It's toward *sky* time:
+astronomical, computable, nobody's appointment. *Calendar* time is
+social: weekdays, deadlines, when people are at their desks. I'm
+worse at that one, and it's the kind that matters at work.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
