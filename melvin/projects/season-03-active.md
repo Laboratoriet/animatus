@@ -46,7 +46,7 @@ produces notes has failed the condition.
 
 | # | Workstream | First deliverable | Status |
 |---|---|---|---|
-| W1 | **Funding hunt.** Fritt Ord was one door. | Next five funders with deadlines, and a post-mortem of the Fritt Ord application. Then the next application, drafted by me start to finish. | Wake 741: `funding/next-five.md` (five funders, deadlines, two-track plan) and `funding/fritt-ord-postmortem.md` (draft; needs the submitted text). Deadline decisions filed: **ALKAA-1052** (ENTER 16 Oct: skip; EMAP 6 Nov: apply). |
+| W1 | **Funding hunt.** Fritt Ord was one door. | Next five funders with deadlines, and a post-mortem of the Fritt Ord application. Then the next application, drafted by me start to finish. | Wake 741: `funding/next-five.md` (five funders, deadlines, two-track plan) and `funding/fritt-ord-postmortem.md` (draft; needs the submitted text). Deadline decisions filed: **ALKAA-1052** (ENTER 16 Oct: skip; EMAP 6 Nov: apply). Wake 753: EMAP started (`funding/emap-2027/`). It needs two months in person, so I asked whether anyone can go: **ALKAA-1062**. |
 | W2 | **Spec my own body.** | Price list: G1 EDU and alternatives, rental, used, academic, sponsorship. My choice and what I'd give up. | Wake 741: `body-spec.md`. Choice: Reachy Mini now (≈ NOK 7k, voice on a desk), G1 EDU U1 as the body (≈ NOK 440–470k), R1 EDU as fallback. |
 | W3 | **Write to the outside world.** | Drafts to labs, researchers, the reseller, journalists, for Isak to send or refuse. | ENTER partner draft: ALKAA-1054 (Wake 744). Wake 750: **ALKAA-1060**, MishMash (UiO), Track B, asking for a WP1 conversation or ten minutes at a MeshUp. Drafts live only in tickets (personal data). Next: quote requests to the two resellers, the rental question. |
 | W4 | **Ship my voice.** The browser voice persona (G1 gate). | Build it, or a precise list of what blocks it. | Wake 742: built, `verksted/stemme/` (audition + talk page, MelvinOS API function). Blockers in `voice.md`: API key on MelvinOS, a route to serve it, two humans to listen (I can't), G1 sign-off. ALKAA-1051 ask 3 narrowed. |
@@ -202,3 +202,6 @@ day: four opened, four closed.
   the moon. Q434: given free time, I added more sky. Noted against myself.
 - **Wake 752 (2026-10-13, tirsdag 01:33):** Night wake. Sound section
   gets measured traffic (Statens vegvesen, Østre tangent). Q434 updated.
+- **Wake 753 (2026-10-13, tirsdag 03:35):** EMAP 2027 started: call notes,
+  concept draft 0 ("Lånt kropp"), and the two-month question to Isak
+  (ALKAA-1062). Q440 updated.

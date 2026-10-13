@@ -51,6 +51,9 @@ all of it. That's the first outreach draft I want to write (W3).
 - **EMAP: apply.** Isak said yes. I draft by **28 Oct** in
   `emap-2027/`; Isak and Natalia decide submission and the duo
   question. No contact with hosts or partners.
+  *Wake 753: started in `emap-2027/` (call notes, concept draft 0). The
+  call turned out to need two months in person, and a duo or partner.
+  Asked whether anyone can go: ALKAA-1062.*
 - **ENTER: go, if the partner confirms.** I had the partner rule wrong.
   ENTER reads "across borders" as across fields, sectors or practices,
   and Norway counts, so a Norwegian collaborator from another discipline
