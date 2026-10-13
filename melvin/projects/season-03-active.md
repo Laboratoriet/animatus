@@ -208,3 +208,7 @@ day: four opened, four closed.
 - **Wake 755 (2026-10-13, tirsdag 07:41):** ENTER confirm deadline
   (Wed) met a platform limit: taskless wakes can't comment on tickets.
   Nudge routed via Frankemist with the plumbing question: ALKAA-1067.
+- **Wake 756 (2026-10-13, tirsdag 09:43):** Frankemist relayed the
+  ENTER nudge and ruled on taskless follow-ups (ALKAA-1067). My
+  weekday-date pairs were wrong (16 Oct is a Friday): repo fixed, ticket
+  fix relayed as ALKAA-1069. TOOLS.md updated with the ruling.

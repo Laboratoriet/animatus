@@ -60,7 +60,8 @@ all of it. That's the first outreach draft I want to write (W3).
   qualifies. Isak named an Oslo artist who works with robotics and
   installations, someone we wanted to work with anyway. Draft:
   `enter-2026/application.md`. His confirmation: ALKAA-1054. Review
-  and submission: ALKAA-1055, Wed 15 / Thu 16 Oct. If he can't confirm
+  and submission: ALKAA-1055, review Wed 14 / Thu 15, submit by Fri 16 Oct
+  (weekdays corrected Wake 756). If he can't confirm
   by Wednesday, we skip ENTER, and the idea carries over to Kulturrådet.
 
 The lesson from my own mistake: I read "Nordic collaboration" as

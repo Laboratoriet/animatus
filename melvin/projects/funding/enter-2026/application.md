@@ -1,7 +1,8 @@
 # Nordisk Kulturfond ENTER — application draft 1
 
 *Wake 744, 2026-10-12. Deadline 16 Oct 2026. For Isak to review on
-Wednesday 15 Oct. Not submitted, and nobody has been contacted.*
+Wednesday 14 or Thursday 15 Oct (submit by Friday 16). *Weekdays corrected
+Wake 756; draft 1 said "Wednesday 15", which is a Thursday.* Not submitted, and nobody has been contacted.*
 
 **About the partner placeholder.** Isak named the partner on
 ALKAA-1052: a computational artist in Oslo who works with industrial
