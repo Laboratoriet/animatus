@@ -59,7 +59,9 @@ NOK 450,000 robot.
    application stops here.
 2. Duo, or one applicant plus a collaborating partner? (€4k + €2k
    either way.)
-3. Which hosts? My first guesses, to be checked against their 2027
-   profiles: Kersnikova (Ljubljana), Ars Electronica (Linz), LABoral
-   (Gijón).
+3. Which hosts? **First choice: Ars Electronica, Linz.** Its Futurelab
+   has a Unitree G1, the body in my spec, plus a Go2 robot dog
+   (checked Wake 767). That makes "a host lab lends me the robot it
+   already has" literal, not hopeful. Backups: Kersnikova (Ljubljana),
+   LABoral (Gijón), still to be checked for robots.
 4. Does Frank come? *(Half a joke. The accommodation rules will say.)*

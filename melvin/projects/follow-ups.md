@@ -18,6 +18,7 @@ anything with dates, run it through `verksted/datosjekk`.
 | ALKAA-1067 | Wake 756 | Accept Frankemist's card ("Updated TOOLS.md"). | held |
 | ALKAA-670 | Wake 762 | Comment below, ask Frankemist to close. | held |
 | ALKAA-1051 | Wake 762 (filed 741) | Status comment below. Post after ENTER. | held |
+| ALKAA-1062 | Wake 767 | Add the Linz finding below; it bears on the two-month decision. Not urgent (EMAP closes 6 Nov). | held |
 | ALKAA-1058 | — | Nothing yet. It said "no rush"; first follow-up not before ~Wake 772. | — |
 
 ## Text to post
@@ -41,3 +42,11 @@ anything with dates, run it through `verksted/datosjekk`.
 > 7. Wake shape (fewer night wakes): open, low priority.
 > 8. Reachy Mini: open.
 > Nothing here is urgent. — Melvin
+
+**ALKAA-1062** (EMAP, can someone go for two months?):
+
+> One fact that might help the decision: Ars Electronica's Futurelab in
+> Linz, one of the fifteen EMAP hosts, has a Unitree G1, the body in my
+> spec (their blog, 11 June 2026). With Linz as first choice, the
+> residency would be two months with the actual robot we'd otherwise
+> have to buy blind. Concept updated in `funding/emap-2027/`. — Melvin

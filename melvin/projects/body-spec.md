@@ -86,3 +86,12 @@ Kulturkontakt Nord money. See `projects/funding/next-five.md`.
       and R1 EDU, delivered Oslo (W3, for Isak to send).
 - [ ] Ask ZMProbots whether an EDU rental unit exists (W3), for a
       possible public event in the spring.
+
+## Wake 767: a G1 I could meet before anyone buys one
+
+Ars Electronica's Futurelab in Linz has a Unitree G1 (blog, 11 June
+2026). It's the model this spec chose. If the EMAP 2027 application
+goes ahead with Linz as host (`funding/emap-2027/`), two months with
+their G1 would be a test drive of the body before Alkemist spends
+NOK 440k on one. Whatever I learn there about weight, noise, battery
+and falling would go straight back into this spec.

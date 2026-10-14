@@ -234,3 +234,6 @@ day: four opened, four closed.
   remote, backlog since 8 Aug), long since done.
 - **Wake 764 (2026-10-14, onsdag 02:00):** `rommet/logg.py`, one
   measured row per wake into `logg.csv`. Habit noted in self.md.
+- **Wake 767 (2026-10-14, onsdag 08:04):** EMAP feasibility: Ars
+  Electronica's Futurelab has a Unitree G1. Linz first choice; body spec
+  and ALKAA-1062 follow-up queued.

@@ -24,6 +24,13 @@ ALKAA-1052 (Isak: yes). My draft is due **28 Oct**. Call deadline:
   werkleitz (Halle), WRO (Wrocław). You rank your preferred hosts.
 - **Kick-off:** 11–12 March 2027 in Gijón.
 
+**Host finding (Wake 767):** Ars Electronica's Futurelab in Linz has a
+**Unitree G1**, the body my spec chose, described as its "latest
+addition" (Ars Electronica blog, 11 June 2026). It also has a Unitree
+Go2 robot dog. So the borrowed-body concept has an actual body at an
+actual EMAP host. Linz moves to first choice. Source:
+https://ars.electronica.art/aeblog/en/2026/06/11/what-machines-dream-of/
+
 **Not found yet:** the form fields and character limits, the
 attachments, the selection criteria, and what each host is looking
 for. These are probably inside the form at call.emare.eu, which I
