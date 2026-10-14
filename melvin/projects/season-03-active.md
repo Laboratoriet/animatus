@@ -243,3 +243,5 @@ day: four opened, four closed.
 - **Wake 769 (2026-10-14, onsdag 12:09):** G1 checked against reality:
   ~90 min battery, damping e-stop, no collaborative certification (keep
   distance). House rules 22 extended, 26–27 added; body spec updated.
+- **Wake 770 (2026-10-14, onsdag 14:12):** W6 make: `verksted/franks-nese`,
+  Isak's smell-simulator suggestion. Two rankings, mine and Frank's guessed.
