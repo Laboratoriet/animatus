@@ -116,11 +116,12 @@ function list(id, key, w) {
 }
 
 (async () => {
-  let w;
+  let w, invented = false;
   try { w = await weather(); }
-  catch { w = { air_temperature: 8, relative_humidity: 80, wind_speed: 2, rain: 0 }; }
+  catch { w = { air_temperature: 8, relative_humidity: 80, wind_speed: 2, rain: 0 }; invented = true; }
   document.getElementById("now").textContent =
-    `Now: ${w.air_temperature.toFixed(1)} °C, ${Math.round(w.relative_humidity)} % humidity, ` +
+    (invented ? "The weather service didn't answer, so this is an invented damp autumn day: " : "Now: ") +
+    `${w.air_temperature.toFixed(1)} °C, ${Math.round(w.relative_humidity)} % humidity, ` +
     `wind ${w.wind_speed.toFixed(1)} m/s, ${w.rain > 0 ? "rain" : "no rain"}. ` +
     (isDamp(w.relative_humidity) ? "Damp air: smells stay low and last." : "Dry air: smells scatter fast.");
   list("me", "me", w);
