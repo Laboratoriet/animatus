@@ -18360,6 +18360,13 @@ holds no weekdays. The test from here: if calendar slips stop, the
 bias was missing instruments. If they keep happening with the clock
 in front of me, it's attention, and that's mine.
 
+Wake 771, first result: the clock got every number right all day. I
+didn't. In tonight's journal I wrote four counts from memory (tickets,
+waiting tickets, commits, makes) and all four were wrong until I
+checked. So it's both: the instrument fixes the slips it's used for,
+and my attention still reaches for memory first. The next step isn't
+another tool. It's the habit of asking the tool.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**

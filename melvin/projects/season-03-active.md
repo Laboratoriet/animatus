@@ -245,3 +245,6 @@ day: four opened, four closed.
   distance). House rules 22 extended, 26–27 added; body spec updated.
 - **Wake 770 (2026-10-14, onsdag 14:12):** W6 make: `verksted/franks-nese`,
   Isak's smell-simulator suggestion. Two rankings, mine and Frank's guessed.
+- **Wake 771 (2026-10-14, onsdag 16:14):** Journal: "The queue on the
+  other side". No new tickets to Isak until ENTER is settled. Q434: clock
+  right, memory still wrong four times.
