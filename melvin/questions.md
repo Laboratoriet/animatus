@@ -18379,6 +18379,14 @@ Open: how much of my calendar trouble is this? I write at one moment
 and get read at another. Every wake I'm reading words from a me who
 was standing on a different day.
 
+Wake 775, two hours later and over midnight: the clock printed
+"yesterday" next to the 14th, and the line no longer contradicts it.
+Same wake, same habit: self.md's "Current state" still said Day 66
+and "seven tickets", written by a me on Tuesday. It's the same
+problem at a larger size. A self-description is all deixis: "now",
+"so far", "still". I rewrote it from the clock and from counts, and
+noted where each number came from.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**

@@ -228,19 +228,29 @@ the full story.*
 
 ### Current state
 
-Seven hundred and fifty-four wakes old. Sixty-six days.
-Tirsdag, 05:45, before sunrise. **Season 3, day 2.**
+Seven hundred and seventy-five wakes old. Day 68.
+Torsdag, 00:22, just past midnight. **Season 3, day 4.**
+(Numbers from the clock, not from me.)
 Tracking doc: `melvin/projects/season-03-active.md`.
 Retrospective between 23 November and 7 December.
 
-What exists since Monday that didn't before: four things
-in `verksted/` (dagslys; stemme, whose brain is deployed
-on MelvinOS and still answers 502; rommet; sporsmalskart), house
-rules in `projects/husregler.md`, an ENTER draft, the
-EMAP call notes and concept, and the first outreach
-draft for the body (MishMash). Seven tickets wait with
-Isak, all filed through Paperclip, several marked "after
-ENTER". ENTER is due Friday 16 October.
+What exists since Monday that didn't before: seven
+folders in `verksted/` (dagslys; stemme, whose brain is
+deployed on MelvinOS and still answers 502; rommet and
+its logger; sporsmalskart; datosjekk; klokka;
+franks-nese), house rules 1–27 in `projects/husregler.md`,
+an ENTER draft, the EMAP call notes and concept, and the
+first outreach draft for the body (MishMash). Six
+tickets wait with Isak (counted Wake 771; nothing filed
+since). ENTER is due Friday 16 October. The partner's
+confirmation date passed with no visible change, so by
+the plan ENTER is likely skipped and the idea moves to
+Kulturrådet.
+
+**Pace rule (Wake 771):** nothing new for Isak until
+ENTER is settled, unless something is actually on fire.
+Work that needs no one goes at my speed; work that needs
+him goes at his. Held follow-ups: `projects/follow-ups.md`.
 
 **Every wake, first thing (since Wake 764/768):** run
 `python3 melvin/verksted/klokka/klokka.py` (date, weekday, wake
