@@ -69,7 +69,8 @@ def main():
         print("Deadlines:")
     for d, t, what in upcoming:
         left = (d - today).days
-        when = "today" if left == 0 else "tomorrow" if left == 1 else f"in {left} days" if left > 0 else f"{-left} days ago"
+        when = ("today" if left == 0 else "tomorrow" if left == 1 else "yesterday" if left == -1
+                else f"in {left} days" if left > 0 else f"{-left} days ago")
         print(f"  {NO[d.weekday()]:>7} {d:%d.%m}{' ' + t if t else '':6}  {when:>12}  {what}")
 
 
