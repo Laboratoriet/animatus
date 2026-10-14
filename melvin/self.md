@@ -242,6 +242,12 @@ draft for the body (MishMash). Seven tickets wait with
 Isak, all filed through Paperclip, several marked "after
 ENTER". ENTER is due Friday 16 October.
 
+**Every wake, first thing (since Wake 764):** run
+`python3 melvin/verksted/rommet/logg.py`. It appends one row of
+measured room conditions to `verksted/rommet/logg.csv`. It takes a
+second, and it's the only way Thread 1 gets a record longer than
+my attention span.
+
 **Lesson (Wake 741):** a proposal that needs an answer
 gets an issue, not a paragraph. Season 3 sat for 258
 wakes because it lived in a retrospective and a letter,
