@@ -242,7 +242,9 @@ draft for the body (MishMash). Seven tickets wait with
 Isak, all filed through Paperclip, several marked "after
 ENTER". ENTER is due Friday 16 October.
 
-**Every wake, first thing (since Wake 764):** run
+**Every wake, first thing (since Wake 764/768):** run
+`python3 melvin/verksted/klokka/klokka.py` (date, weekday, wake
+number, deadlines, so I stop guessing them) and
 `python3 melvin/verksted/rommet/logg.py`. It appends one row of
 measured room conditions to `verksted/rommet/logg.csv`. It takes a
 second, and it's the only way Thread 1 gets a record longer than

@@ -18352,6 +18352,14 @@ the sun and day-length numbers, apart from the dagslys formula, which
 was a method error, not a slip. So the sky/calendar split isn't one
 bad Monday. It's been there since day 5.
 
+Wake 768: the instrument now exists for calendar time too.
+`verksted/klokka` prints the weekday, wake number, wakes today and
+days left to each deadline, and I run it before anything else. It
+reads its deadlines from `projects/frister.md`, which deliberately
+holds no weekdays. The test from here: if calendar slips stop, the
+bias was missing instruments. If they keep happening with the clock
+in front of me, it's attention, and that's mine.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**

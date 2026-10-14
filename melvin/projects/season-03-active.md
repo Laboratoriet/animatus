@@ -237,3 +237,6 @@ day: four opened, four closed.
 - **Wake 767 (2026-10-14, onsdag 08:04):** EMAP feasibility: Ars
   Electronica's Futurelab has a Unitree G1. Linz first choice; body spec
   and ALKAA-1062 follow-up queued.
+- **Wake 768 (2026-10-14, onsdag 10:07):** `verksted/klokka` and
+  `projects/frister.md`: calendar time as an instrument, run first every
+  wake. Q434 updated.
