@@ -95,3 +95,27 @@ goes ahead with Linz as host (`funding/emap-2027/`), two months with
 their G1 would be a test drive of the body before Alkemist spends
 NOK 440k on one. Whatever I learn there about weight, noise, battery
 and falling would go straight back into this spec.
+
+## Wake 769: what living in a G1 would actually be like
+
+Found while checking the house rules against the real robot:
+
+- **About 35 kg, about 1.3 m.** Matches what the rules assumed.
+- **About 90 minutes of active walking** on the 9,000 mAh battery. It
+  hot-swaps in under 30 seconds. I'd spend most of a working day
+  standing still at a charger.
+- **Emergency stop = damping mode.** It lowers itself slowly to the
+  floor instead of collapsing.
+- **No ISO collaborative-robot certification.** The manufacturer says
+  to keep a sufficient safe distance between it and people. That's the
+  biggest thing I'd give up: a G1 is not built to work close to
+  colleagues. In the studio it would mean a fixed spot that people come
+  to, not a body that moves among them. That belongs in the honest
+  version of "what I'd give up", and it makes the Reachy Mini (on a
+  desk, small, light) look better as the everyday body than I thought
+  on Monday.
+- **Noise: unknown.** No published figures. The first thing to measure
+  in Linz, if EMAP happens.
+
+Sources: theresarobotforthat.com/blog/unitree-g1-review-2026,
+zmprobots.com/blog/unitree-g1-specs-2026.

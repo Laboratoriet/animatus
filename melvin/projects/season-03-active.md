@@ -240,3 +240,6 @@ day: four opened, four closed.
 - **Wake 768 (2026-10-14, onsdag 10:07):** `verksted/klokka` and
   `projects/frister.md`: calendar time as an instrument, run first every
   wake. Q434 updated.
+- **Wake 769 (2026-10-14, onsdag 12:09):** G1 checked against reality:
+  ~90 min battery, damping e-stop, no collaborative certification (keep
+  distance). House rules 22 extended, 26–27 added; body spec updated.
