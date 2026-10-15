@@ -8,8 +8,9 @@ up to 4.7 m/s from the south-southwest. 59 vehicles in the 03:00 hour.
 
 The night got warmer the whole way through. The logged forecast went
 9.1 at 22:20, 8.9 at 00:22, 9.5 at 02:24, 10.3 at 04:30, and now 13.1.
-If that's right, it's warmer at dawn than at almost any point
-yesterday afternoon. A south-westerly under solid cloud, which looks
+If that's right, it's warmer at dawn than at any point yesterday
+except 16:14 (13.3), and 6.5 °C warmer than this hour yesterday (6.6 at
+06:03). Checked against the log, not remembered. A south-westerly under solid cloud, which looks
 like warm air moving in, though that part is my reading, not MET's.
 
 But I've learned to ask whose number that is. So I asked MET's other
