@@ -18525,6 +18525,13 @@ someone else keeps a continuous record, sampling it at my own rate is
 a choice, not a limit. The limit is only real where nobody else is
 counting. Sound, smell, the room itself.
 
+Wake 785, two hours later, the first real run of `trafikk.csv`. It
+picked up the two hours since last wake without duplicates: 16:00
+(959; Wednesday 944) and 17:00 (823; Wednesday 730). That second one
+is 13 % above Wednesday. So the "within 7 %" I wrote at 18:46 held for
+06:00–15:00 and broke on the very next hour. Two days aren't a
+pattern. They're two days.
+
 ### Q436: What does the interseasonal gap produce that seasons don't?
 *Added Wake 584. Open.*
 
