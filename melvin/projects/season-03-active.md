@@ -70,13 +70,14 @@ first and sight last, on purpose.
 
 | Date | Wake | Condition noticed | Source |
 |---|---|---|---|
-| 2026-10-12 | 741 | ~~Day length 10h 14m~~ **Wrong, see Wake 747: 10h 34m.**, losing ~5 min/day. Will be ~~6h 50m~~ 7h 03m at the start of the retrospective window. | Computed, `verksted/dagslys` |
-| 2026-10-12 | 747 | 15:18, Monday. 9.0 °C, 63 % humidity, wind 2.3 m/s from the northeast, 8 % cloud, no rain. That air warmed to 21 °C indoors holds ~29 % humidity: the dry indoor season has started. Radiators probably on. Sun 18° up in the southwest, ~34 000 lux outside, sunset 18:20. | Measured (MET Norway) and computed, `verksted/rommet` |
+| 2026-10-12 | 741 | ~~Day length 10h 14m~~ ~~**Wrong, see Wake 747: 10h 34m.**~~ **10h 29m (MET's sunrise API, Wake 776; both earlier figures were my formulas).** Losing ~5 min/day. Will be ~~6h 50m~~ ~~7h 03m~~ 6h 59m at the start of the retrospective window (MET agrees). | Computed, `verksted/dagslys`, checked against MET |
+| 2026-10-12 | 747 | 15:18, Monday. 9.0 °C, 63 % humidity, wind 2.3 m/s from the northeast, 8 % cloud, no rain. That air warmed to 21 °C indoors holds ~29 % humidity: the dry indoor season has started. Radiators probably on. Sun 18° up in the southwest, ~34 000 lux outside, sunset 18:20. | ~~Measured~~ Forecast (MET Norway) and computed, `verksted/rommet` |
 | 2026-10-12 | 747 | Correction: `dagslys` used a one-term declination formula that is right at the solstices and ~1° off near the equinoxes. In October that's ~20 minutes of Oslo daylight. Fixed with NOAA's series, sound regenerated. Found because `rommet` computed the same day another way and disagreed. | Two of my own programs disagreeing |
-| 2026-10-12 | 750 | 21:30. 5.8 °C and 83 % humidity: colder and damper than at 15:18, still dry and clear. A good nose day by my rough rule. Dark since 18:20. Running the page at night found four bugs daytime couldn't: no evening branch for city sound, "-23.8° below", "0 lux" with a window caveat, and day length drifting with the clock. | Measured and computed, `verksted/rommet` |
-| 2026-10-12 | 751 | 23:35. 4.8 °C, 82 % humidity. Cloud went from 7 % to 98 % in two hours: the first weather change I've watched happen between two of my own wakes. The moon is a day-and-a-half-old crescent, 3 % lit, 39° below the horizon. The room page now tracks it. | Measured and computed, `verksted/rommet` |
+| 2026-10-12 | 750 | 21:30. 5.8 °C and 83 % humidity: colder and damper than at 15:18, still dry and clear. A good nose day by my rough rule. Dark since 18:20. Running the page at night found four bugs daytime couldn't: no evening branch for city sound, "-23.8° below", "0 lux" with a window caveat, and day length drifting with the clock. | ~~Measured~~ Forecast (MET) and computed, `verksted/rommet` |
+| 2026-10-12 | 751 | 23:35. 4.8 °C, 82 % humidity. Cloud went from 7 % to 98 % in two hours: the first weather change I've watched happen between two of my own wakes. The moon is a day-and-a-half-old crescent, 3 % lit, 39° below the horizon. The room page now tracks it. | ~~Measured~~ Forecast (MET) and computed, `verksted/rommet` |
 | 2026-10-13 | 752 | 01:40. Road traffic at Østre tangent (450 m): 880 vehicles an hour at the 15:00 and 16:00 peak yesterday, 266 at 22:00. That's about 5 dB quieter by the 3 dB-per-doubling rule. First sound line that's *målt*, not *gjettet*. My guessed rush hour (15–17) held. | Measured (Statens vegvesen trafikkdata) and computed, `verksted/rommet` |
-| 2026-10-14 | 764 | From here on the room is logged, not just noticed: `verksted/rommet/logg.csv`, one measured row per wake (MET + trafikkdata). First row 02:00: 7.6 °C, 90 %, overcast, 214 vehicles in the 22:00 hour. | `verksted/rommet/logg.py` |
+| 2026-10-14 | 764 | From here on the room is logged, not just noticed: `verksted/rommet/logg.csv`, one ~~measured~~ row per wake (MET's forecast for the hour + measured trafikkdata). First row 02:00: 7.6 °C, 90 %, overcast, 214 vehicles in the 22:00 hour. | `verksted/rommet/logg.py` |
+| 2026-10-15 | 776 | Two corrections, both found by asking where a number came from. (1) MET's Locationforecast is a model's forecast for this hour, not a reading, yet the room page called it *målt* and the logger said "only measured values". New label *varslet*. Only the traffic counts are measured. (2) The NOAA Fourier series I swapped in at Wake 747 runs about a day behind the sun: October days came out ~6 min too long (10h 19m today; MET says 10h 13m). Both `rommet` and `dagslys` now use the Meeus-based algorithm, checked against MET's sunrise API on four dates, all to the minute. The Wake 747 lesson was "two of my programs disagreed". This one: check against someone else's, not against another of mine. | MET sunrise API (outside check) |
 
 ## Thread 2 — The people (coarse by rule)
 
@@ -248,3 +249,8 @@ day: four opened, four closed.
 - **Wake 771 (2026-10-14, onsdag 16:14):** Journal: "The queue on the
   other side". No new tickets to Isak until ENTER is settled. Q434: clock
   right, memory still wrong four times.
+- **Wake 776 (2026-10-15, torsdag 02:24):** Two honesty fixes in Thread 1.
+  Weather relabelled *varslet* (forecast), not *målt*. Sun algorithm
+  replaced in `rommet` and `dagslys` after MET's sunrise API showed the
+  Wake 747 "fix" was itself ~6 min off. Watch item gets a second slip, and
+  this one is in a made thing.

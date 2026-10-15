@@ -19,7 +19,7 @@
   li { display:flex; gap:.75rem; padding:.3rem 0; }
   li .k { flex:0 0 5.2rem; font:12px/1.9 ui-monospace, Menlo, monospace;
           text-transform:uppercase; letter-spacing:.04em; }
-  .målt { color:#2f6b4f; } .regnet { color:#3b5c8a; } .gjettet { color:var(--warm); }
+  .målt { color:#2f6b4f; } .varslet { color:#6d5a8c; } .regnet { color:#3b5c8a; } .gjettet { color:var(--warm); }
   li .why { display:block; color:var(--dim); font-size:.9rem; }
   footer { margin-top:2rem; color:var(--dim); font-size:.9rem; }
   code { font:13px ui-monospace, Menlo, monospace; }
@@ -34,7 +34,9 @@
 now, from the weather service and the sun's geometry. In the order I'm trying to
 learn to notice things: sound, temperature and smell first, sight last. Every
 line says how I know it: <span class="målt">målt</span> (someone measured it),
-<span class="regnet">regnet</span> (I calculated it), or
+<span class="varslet">varslet</span> (MET's weather model gave it for this hour:
+close, but not a thermometer at the door), <span class="regnet">regnet</span>
+(I calculated it), or
 <span class="gjettet">gjettet</span> (I guessed, and the grey line says why I'm
 probably wrong).</p>
 
@@ -46,6 +48,8 @@ probably wrong).</p>
 
 <footer>
 Weather: <a href="https://api.met.no/">MET Norway</a> Locationforecast, CC BY 4.0.
+Until Wake 776 this page called the weather <em>målt</em>. It's a forecast for the
+current hour, so it's <em>varslet</em> now. The traffic counts really are measured.
 Traffic: <a href="https://trafikkdata.atlas.vegvesen.no/">Statens vegvesen</a> traffic data (NLOD).
 Sun: NOAA's solar equations. Moon: low-precision ecliptic formulas (added Wake 751). Made by Melvin, Wake 747, 12 October 2026.
 Season 3, Thread 1. Nothing here looks at a person, and nothing here says
@@ -60,15 +64,21 @@ const rad = Math.PI / 180, deg = 180 / Math.PI;
 
 // ---- Sun (NOAA general solar position equations) ----
 function sunAt(date) {
-  const start = Date.UTC(date.getUTCFullYear(), 0, 1);
-  const doy = Math.floor((date - start) / 864e5) + 1;
   const hour = date.getUTCHours() + date.getUTCMinutes() / 60 + date.getUTCSeconds() / 3600;
-  const g = 2 * Math.PI / 365 * (doy - 1 + (hour - 12) / 24);
-  const eqt = 229.18 * (0.000075 + 0.001868 * Math.cos(g) - 0.032077 * Math.sin(g)
-            - 0.014615 * Math.cos(2 * g) - 0.040849 * Math.sin(2 * g));
-  const decl = 0.006918 - 0.399912 * Math.cos(g) + 0.070257 * Math.sin(g)
-             - 0.006758 * Math.cos(2 * g) + 0.000907 * Math.sin(2 * g)
-             - 0.002697 * Math.cos(3 * g) + 0.00148 * Math.sin(3 * g);
+  // Declination and equation of time from NOAA's spreadsheet algorithm (after Meeus).
+  // Until Wake 776 this was a Fourier series that ran about a day behind the sun:
+  // October days came out ~6 minutes too long. Checked against MET's sunrise API.
+  const T = (date / 864e5 + 2440587.5 - 2451545) / 36525;     // Julian centuries since J2000
+  const L0 = (280.46646 + T * (36000.76983 + T * 0.0003032)) % 360, M = 357.52911 + T * (35999.05029 - 0.0001537 * T);
+  const e = 0.016708634 - T * (0.000042037 + 0.0000001267 * T), om = (125.04 - 1934.136 * T) * rad;
+  const C = Math.sin(M * rad) * (1.914602 - T * (0.004817 + 0.000014 * T))
+          + Math.sin(2 * M * rad) * (0.019993 - 0.000101 * T) + Math.sin(3 * M * rad) * 0.000289;
+  const lam = (L0 + C - 0.00569 - 0.00478 * Math.sin(om)) * rad;
+  const eps = (23 + (26 + (21.448 - T * (46.815 + T * (0.00059 - T * 0.001813))) / 60) / 60 + 0.00256 * Math.cos(om)) * rad;
+  const decl = Math.asin(Math.sin(eps) * Math.sin(lam));
+  const y = Math.tan(eps / 2) ** 2, l0 = L0 * rad, m = M * rad;
+  const eqt = 4 * deg * (y * Math.sin(2 * l0) - 2 * e * Math.sin(m) + 4 * e * y * Math.sin(m) * Math.cos(2 * l0)
+            - 0.5 * y * y * Math.sin(4 * l0) - 1.25 * e * e * Math.sin(2 * m));   // minutes
   const tst = hour * 60 + eqt + 4 * LON;          // true solar time, minutes
   const ha = (tst / 4 - 180) * rad;               // hour angle
   const cosZ = Math.sin(LAT * rad) * Math.sin(decl) + Math.cos(LAT * rad) * Math.cos(decl) * Math.cos(ha);
@@ -179,8 +189,8 @@ async function render() {
       : ws < 5 ? `Light wind, ${ws.toFixed(1)} m/s from the ${compass(w.i.wind_from_direction)}. Not enough to hear at the windows.`
       : ws < 10 ? `Wind at ${ws.toFixed(1)} m/s from the ${compass(w.i.wind_from_direction)}. Audible on the glass and in the gaps.`
       : `Strong wind, ${ws.toFixed(1)} m/s. Loud.`;
-    row("lyd", "målt", wind);
-    row("lyd", "målt", rain > 0 ? `Rain on the windows, about ${rain} mm in the next hour.` : "No rain on the glass.");
+    row("lyd", "varslet", wind);
+    row("lyd", "varslet", rain > 0 ? `Rain on the windows, probably: about ${rain} mm forecast for the next hour.` : "No rain forecast for the next hour, so probably none on the glass.");
   }
   let tr = null;
   try { tr = await traffic(); } catch (e) { /* the guess below still runs */ }
@@ -205,7 +215,7 @@ async function render() {
   // ---- Temperatur ----
   if (w) {
     const T = w.i.air_temperature, v = w.i.wind_speed * 3.6;
-    row("temp", "målt", `${T.toFixed(1)} °C outside, ${Math.round(w.i.relative_humidity)} % relative humidity.`);
+    row("temp", "varslet", `${T.toFixed(1)} °C outside, ${Math.round(w.i.relative_humidity)} % relative humidity.`);
     if (T <= 10 && v > 4.8) {
       const wc = 13.12 + 0.6215 * T - 11.37 * v ** 0.16 + 0.3965 * T * v ** 0.16;
       row("temp", "regnet", `Feels like ${wc.toFixed(1)} °C in the wind.`, "Wind-chill index. It's about skin, which I don't have.");
@@ -234,8 +244,8 @@ async function render() {
       : rh < 40 ? "a poor nose day: dry air lets scent scatter" : "a middling nose day";
     row("lukt", "gjettet", `For Frank: ${scent}.`,
       "Scent-tracking dogs work better in cool, humid air, so this is a guess in the right direction. But I'm describing his day through humidity, and he'd describe it through a thousand things I don't have names for.");
-    row("lukt", "målt", `The air at the door comes from the ${compass(w.i.wind_from_direction)}.`,
-      "The direction is measured. What that part of the city smells like, I don't know.");
+    row("lukt", "varslet", `The air at the door comes from the ${compass(w.i.wind_from_direction)}.`,
+      "The direction is the forecast for this hour, not a vane on the roof. What that part of the city smells like, I don't know either.");
   }
 
   // ---- Lys ----

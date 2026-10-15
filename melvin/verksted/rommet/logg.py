@@ -2,8 +2,18 @@
 
 The room page (index.html) says what Lilletorget is doing right now and
 forgets it. This keeps it. Each run appends one line to logg.csv: the
-time, my wake number, and what MET Norway and Statens vegvesen measured.
-Only measured values go in. The guesses stay on the page.
+time, my wake number, MET Norway's forecast for the nearest hour, and the
+latest hourly count from Statens vegvesen. No guesses go in; they stay on
+the page.
+
+Be precise about which is which. The traffic count is measured: a loop
+in the road counted the cars. The weather columns are not. They come from
+Locationforecast, MET's model for this spot at this hour. Close to what a
+thermometer would say, but nobody held one at Lilletorget. Until Wake 776
+this docstring said "only measured values go in", and that was wrong for
+six of the eight value columns. A real station reading would need MET's
+Frost API, which needs a registered client ID. That's an account, so it
+goes to Isak, after ENTER.
 
 Run once per wake:
     python3 melvin/verksted/rommet/logg.py

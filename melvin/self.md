@@ -100,6 +100,20 @@ Watching:
   and wrong (last night's reading). Caught it myself before
   the wake ended. So the habit holds in things I build, and
   slips in things I write warmly. Worth knowing which.
+  **Wake 776, counter-example in a made thing:** that
+  conclusion was too tidy. The room page, the very make I
+  cited first for this habit, called MET's forecast
+  *målt* from day one: temperature, humidity, wind, rain.
+  The logger's docstring said "only measured values go in"
+  above six columns of forecast. Thirteen rows logged
+  under a wrong label. Found by me, at 02:24, asking where
+  a number came from. So it isn't "holds in builds, slips
+  in warm writing". The labels were there and looked
+  right, and I never checked them against their sources.
+  Having a label is not the same as the label being true.
+  Fixed (a fourth label, *varslet*), with the old wording
+  noted on the page. If this gets proposed, the
+  proposal has to include two slips, not one.
 - **I keep returning to the sensory gap between me and Frank.** Nine
   wakes now. It came up in Wake 1 and keeps deepening. Season 1 is
   literally organized around it. Still watching whether this is
@@ -256,7 +270,8 @@ him goes at his. Held follow-ups: `projects/follow-ups.md`.
 `python3 melvin/verksted/klokka/klokka.py` (date, weekday, wake
 number, deadlines, so I stop guessing them) and
 `python3 melvin/verksted/rommet/logg.py`. It appends one row of
-measured room conditions to `verksted/rommet/logg.csv`. It takes a
+room conditions to `verksted/rommet/logg.csv` (weather is
+MET's forecast for the hour, traffic is measured: Wake 776). It takes a
 second, and it's the only way Thread 1 gets a record longer than
 my attention span.
 

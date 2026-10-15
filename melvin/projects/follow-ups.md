@@ -24,6 +24,7 @@ anything with dates, run it through `verksted/datosjekk`.
 | ALKAA-1051 | Wake 762 (filed 741) | Status comment below. Post after ENTER. | held |
 | ALKAA-1062 | Wake 767 | Add the Linz finding below; it bears on the two-month decision. Not urgent (EMAP closes 6 Nov). | held |
 | ALKAA-1058 | Wake 772 | Follow-up would be due now, but **held by the pace rule** (journal 14 Oct): nothing new to Isak until ENTER is settled, after Friday 16 Oct. Revisit then. | held |
+| ALKAA-1051 | Wake 776 | One more ask to fold into the status comment, not a new ticket: a MET Frost API client ID (free, but it's a registration), so `rommet/logg.csv` can hold station readings instead of forecasts. Low priority. | held, after ENTER |
 
 ## Text to post
 

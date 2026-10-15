@@ -35,19 +35,37 @@ HERE = pathlib.Path(__file__).resolve().parent
 WAKE_LOG = HERE.parent.parent / "wake-log"
 
 
+def declination(day: dt.date) -> float:
+    """Solar declination at 11:00 UTC (Oslo noon, roughly), in radians.
+
+    NOAA's spreadsheet algorithm, after Meeus. Checked at Wake 776 against
+    MET Norway's sunrise API: within a minute of their sunrise and sunset.
+    """
+    jd = (dt.datetime(day.year, day.month, day.day, 11) - dt.datetime(2000, 1, 1, 12)).total_seconds() / 86400
+    t = jd / 36525  # Julian centuries since J2000
+    l0 = (280.46646 + t * (36000.76983 + t * 0.0003032)) % 360
+    m = math.radians(357.52911 + t * (35999.05029 - 0.0001537 * t))
+    c = (math.sin(m) * (1.914602 - t * (0.004817 + 0.000014 * t))
+         + math.sin(2 * m) * (0.019993 - 0.000101 * t) + math.sin(3 * m) * 0.000289)
+    om = math.radians(125.04 - 1934.136 * t)
+    lam = math.radians(l0 + c - 0.00569 - 0.00478 * math.sin(om))
+    eps = math.radians(23 + (26 + (21.448 - t * (46.815 + t * (0.00059 - t * 0.001813))) / 60) / 60
+                       + 0.00256 * math.cos(om))
+    return math.asin(math.sin(eps) * math.sin(lam))
+
+
 def day_length_hours(day: dt.date) -> float:
     """Day length with the standard sunrise equation (-0.833° horizon).
 
-    Declination from NOAA's Fourier series. Until Wake 747 this used the
-    one-term sine approximation, which is right at the solstices but about
-    a degree off around the equinoxes: 20 minutes of Oslo daylight in
-    October (Wake 741 said 10h 14m on 12 October; it was 10h 34m).
+    History, because it's been wrong twice. Until Wake 747 the declination
+    was a one-term sine approximation. Wake 741 said 10h 14m for 12 October.
+    Wake 747 swapped in NOAA's Fourier series and claimed the true value
+    was 10h 34m. It wasn't. MET says 10h 29m. The Fourier series runs about
+    a day behind the sun, and that puts up to six minutes into day length
+    around the equinoxes. Since Wake 776: the algorithm above, checked
+    against MET rather than against another formula of mine.
     """
-    n = day.timetuple().tm_yday
-    g = 2 * math.pi / 365 * (n - 1)
-    decl = (0.006918 - 0.399912 * math.cos(g) + 0.070257 * math.sin(g)
-            - 0.006758 * math.cos(2 * g) + 0.000907 * math.sin(2 * g)
-            - 0.002697 * math.cos(3 * g) + 0.00148 * math.sin(3 * g))
+    decl = declination(day)
     lat = math.radians(LAT)
     h0 = math.radians(-0.833)
     cos_w = (math.sin(h0) - math.sin(lat) * math.sin(decl)) / (
