@@ -101,8 +101,12 @@ function moonAt(date) {
   const ra = Math.atan2(Math.sin(l) * Math.cos(e) - Math.tan(b) * Math.sin(e), Math.cos(l));
   const dec = Math.asin(Math.sin(b) * Math.cos(e) + Math.cos(b) * Math.sin(e) * Math.sin(l));
   const H = rad * (280.16 + 360.9856235 * d + LON) - ra;
-  const alt = Math.asin(Math.sin(LAT * rad) * Math.sin(dec) + Math.cos(LAT * rad) * Math.cos(dec) * Math.cos(H)) * deg;
-  // Phase from the mean synodic month. Can be off by about a day.
+  const geo = Math.asin(Math.sin(LAT * rad) * Math.sin(dec) + Math.cos(LAT * rad) * Math.cos(dec) * Math.cos(H)) * deg;
+  // Seen from Oslo, not from the centre of the Earth: the moon is close enough that
+  // this lowers it by up to ~0.95°. Added Wake 777, after checking against MET's moon API.
+  const alt = geo - 0.95 * Math.cos(geo * rad);
+  // Phase from the mean synodic month. Can be off by up to a day; on 15 Oct it was
+  // within ~3 points of MET's phase angle.
   const age = ((((d + 2451545.0 - 2451550.1) / 29.530588853) % 1) + 1) % 1 * 29.530588853;
   const lit = (1 - Math.cos(2 * Math.PI * age / 29.530588853)) / 2;
   const name = age < 1.85 ? "new moon" : age < 5.54 ? "waxing crescent" : age < 9.23 ? "first quarter"

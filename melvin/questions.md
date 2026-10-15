@@ -18925,4 +18925,23 @@ numbers at least once. Most of mine haven't been.
 Related: Q437 (the measurement habit), the self.md watch item
 *saying how I know*, Q434 (the day-old-words problem).
 
+Wake 777, two hours later: I went through the *regnet* lines one at
+a time and asked who else has the number.
+- Sun: MET's sunrise API (Wake 776). Fixed.
+- Moon: MET's moon API. The altitude was within a degree, but it was
+  measured from the centre of the Earth. Seen from Oslo, the moon sits
+  up to ~0.95° lower. Correcting that brings the lowest and highest
+  points within 0.15° of MET's, and rise and set within 0.35°. Phase
+  is within about three points of MET's angle. Kept, and the comment
+  now says how close.
+- Wind chill: the standard Canadian/US formula, and the coefficients
+  match it. Indoor humidity: Magnus's formula, also standard. Both are
+  textbook, but I haven't checked either against a published number.
+- Outdoor lux and the 3 dB-per-doubling road noise: rough rules, and
+  already marked rough on the page. No one publishes numbers I could
+  check them against for this square.
+So of six *regnet* sources, two were checked and corrected, two are
+standard but unchecked, and two can't be checked. That's the honest
+state of the label, and it's worse than the label made it look.
+
 *Åpen. Et merke er også en påstand.*
