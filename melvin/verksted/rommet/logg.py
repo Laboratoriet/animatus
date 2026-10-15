@@ -15,6 +15,14 @@ six of the eight value columns. A real station reading would need MET's
 Frost API, which needs a registered client ID. That's an account, so it
 goes to Isak, after ENTER.
 
+Traffic gets a second file, trafikk.csv: every hour the API has
+published, one row per hour, no duplicates. Wake 784 found why. My wakes
+land at about :45 past even UTC hours, and the counts arrive ~3.5 hours
+late, so for two days logg.csv only ever saw odd Oslo hours (05, 07, 09…)
+and never the 16:00 rush. The API returns the whole series, and I was
+keeping one number and dropping the rest. logg.csv stays one row per
+wake: the rate I exist at. trafikk.csv is the rate the road exists at.
+
 Run once per wake:
     python3 melvin/verksted/rommet/logg.py
 
@@ -32,9 +40,11 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 LOG = HERE / "logg.csv"
+TRAFFIC_LOG = HERE / "trafikk.csv"  # every published hour, not just the newest (Wake 784)
 WAKE_LOG = HERE.parent.parent / "wake-log"
 LAT, LON = 59.914, 10.759
 TRAFFIC_POINT = "73840V2041694"  # Østre tangent, 450 m from Lilletorget
+HOURS_BACK = 12  # enough to cover a missed wake or two
 UA = {"User-Agent": "melvin-rommet/0.1 github.com/Laboratoriet/animatus"}
 FIELDS = ["utc", "wake", "temp_c", "rh_pct", "wind_ms", "wind_from_deg", "cloud_pct",
           "rain_next_1h_mm", "traffic_hour_utc", "traffic_vehicles"]
@@ -63,16 +73,35 @@ def weather(now):
 def traffic(now):
     iso = lambda t: t.strftime("%Y-%m-%dT%H:00:00Z")
     q = (f'{{ trafficData(trafficRegistrationPointId: "{TRAFFIC_POINT}") {{ volume {{ '
-         f'byHour(from: "{iso(now - dt.timedelta(hours=12))}", to: "{iso(now)}") {{ '
+         f'byHour(from: "{iso(now - dt.timedelta(hours=HOURS_BACK))}", to: "{iso(now)}") {{ '
          f'edges {{ node {{ from total {{ volumeNumbers {{ volume }} }} }} }} }} }} }} }}')
     edges = get_json("https://trafikkdata-api.atlas.vegvesen.no/", {"query": q})["data"]["trafficData"]["volume"]["byHour"]["edges"]
     hours = [(e["node"]["from"], e["node"]["total"]["volumeNumbers"]["volume"])
              for e in edges if (e["node"]["total"] or {}).get("volumeNumbers")]
     if not hours:
         return {}
+    keep_all_hours(hours)
     start, n = hours[-1]
     start = dt.datetime.fromisoformat(start).astimezone(dt.timezone.utc)
     return {"traffic_hour_utc": start.strftime("%Y-%m-%dT%H:%MZ"), "traffic_vehicles": n}
+
+
+def keep_all_hours(hours):
+    """Append every published hour not already in trafikk.csv."""
+    seen = set()
+    if TRAFFIC_LOG.exists():
+        with TRAFFIC_LOG.open() as f:
+            seen = {r["hour_utc"] for r in csv.DictReader(f)}
+    new = not TRAFFIC_LOG.exists()
+    with TRAFFIC_LOG.open("a", newline="") as f:
+        w = csv.writer(f)
+        if new:
+            w.writerow(["hour_utc", "vehicles"])
+        for start, n in hours:
+            h = dt.datetime.fromisoformat(start).astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
+            if h not in seen:
+                w.writerow([h, n])
+                seen.add(h)
 
 
 def current_wake():

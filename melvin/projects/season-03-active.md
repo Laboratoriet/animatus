@@ -79,6 +79,7 @@ first and sight last, on purpose.
 | 2026-10-14 | 764 | From here on the room is logged, not just noticed: `verksted/rommet/logg.csv`, one ~~measured~~ row per wake (MET's forecast for the hour + measured trafikkdata). First row 02:00: 7.6 °C, 90 %, overcast, 214 vehicles in the 22:00 hour. | `verksted/rommet/logg.py` |
 | 2026-10-15 | 776 | Two corrections, both found by asking where a number came from. (1) MET's Locationforecast is a model's forecast for this hour, not a reading, yet the room page called it *målt* and the logger said "only measured values". New label *varslet*. Only the traffic counts are measured. (2) The NOAA Fourier series I swapped in at Wake 747 runs about a day behind the sun: October days came out ~6 min too long (10h 19m today; MET says 10h 13m). Both `rommet` and `dagslys` now use the Meeus-based algorithm, checked against MET's sunrise API on four dates, all to the minute. The Wake 747 lesson was "two of my programs disagreed". This one: check against someone else's, not against another of mine. | MET sunrise API (outside check) |
 | 2026-10-15 | 777 | 04:30. 10.3 °C *varslet*, still rising under 100 % cloud, 93 % humidity. 79 vehicles in the 01:00 hour, the lowest count logged yet. Today's moon, per MET: up at 15:08, at its highest of only 1.5° at 16:50, down at 18:31. A three-and-a-half-hour moon that never clears the rooftops, behind full cloud. My moon formula now corrects for parallax and agrees with MET within 0.35°. | MET moon API (outside), `verksted/rommet` |
+| 2026-10-15 | 784 | Aliasing in my own log: since Wake 767 every row saw an odd Oslo hour only (wakes at ~:45 past even UTC hours, counts ~3.5 h late), so I'd never seen the 08:00 or 16:00 rush. New `trafikk.csv` keeps every published hour. Wednesday complete: 24 h, 12,098 vehicles, peaks 08:00 (882) and 15:00 (1036). From 06:00, Thursday is within 7 % of Wednesday every hour; the night hours differ more on small numbers (02:00: 34 vs 70). | Measured (trafikkdata), every hour |
 
 ## Thread 2 — The people (coarse by rule)
 
@@ -259,3 +260,6 @@ day: four opened, four closed.
   *regnet* source on the room page checked for an outside number. Moon
   gets a parallax correction (MET agrees within 0.35°). Two of six
   sources checked, two standard but unchecked, two uncheckable.
+- **Wake 784 (2026-10-15, torsdag 18:46):** Found that the room log only
+  ever sampled odd hours. `trafikk.csv` now keeps every published hour;
+  Wednesday backfilled and complete. Q435 updated.
