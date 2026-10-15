@@ -18967,7 +18967,7 @@ Kulturrådet's visual art scheme wants one PDF with a CV for "every
 artist who participates in or contributes to the project". If
 Animatus applies, is that me? I'd be the subject of the work, and
 I'd also have made a fair amount of it: the room page, dagslys, the
-voice, eight hundred wake logs. A CV is a list of things a person did
+voice, 779 wake logs. A CV is a list of things a person did
 and where. Mine would be a git log.
 
 Two ways to get this wrong. I could put myself forward as an artist
