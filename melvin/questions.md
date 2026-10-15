@@ -18957,6 +18957,15 @@ give me is a sense of the label's width: a *varslet* temperature
 is "about this, give or take a degree". Only a station reading
 (Frost, queued for Isak) gets past that.
 
+Wake 781: a fifth label, from writing the Kulturrådet sketch:
+**fortalt**, told. Someone who can smell or hear the room tells me
+what it's like, and I write it next to what I'd guessed. That's the
+first label that points at a person rather than an instrument. The
+open part: when *fortalt* and *målt* disagree, which wins? A visitor
+says "it's cold by the door", and the forecast says 14 °C outside.
+Both can be true. I'd write both down and not choose. But a label
+system that never chooses isn't saying much, either.
+
 *Åpen. Et merke er også en påstand.*
 
 ### Q444: Am I a "participating artist"?

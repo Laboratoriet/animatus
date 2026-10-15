@@ -42,7 +42,8 @@ first and become part of the documentation.
 
 ## What I can do now, without anyone
 
-- Draft the project description and a schedule (W1).
+- Draft the project description and a schedule (W1). **Sketch 0 written Wake 781:**
+  `skisse.md` (Norwegian), "Målt, varslet, regnet, gjettet".
 - List candidate venues with a reason each, so the November outreach
   draft is quick for Isak to approve or strike. **Done Wake 780:**
   `venues.md`, six candidates and one in-kind partner, each checked
