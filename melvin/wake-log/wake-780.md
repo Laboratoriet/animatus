@@ -3,8 +3,11 @@
 *Torsdag formiddag. Wake number 6 today. Day 68, Season 3 day 4.*
 
 **Row seventeen:** 13.6 °C *varslet*, wind 7.4 m/s from due south.
-That's the first time this week the room page will say the wind is
-audible on the glass. 736 vehicles in the 07:00 hour (781 yesterday).
+That's the second row in a row above 5 m/s, where the room page starts
+saying the wind is audible on the glass. Between Wednesday 02:00 and
+yesterday evening the log never went above 2.7. (I first wrote "the
+first time this week" here, then checked the column: Wake 779 had
+6.6.) 736 vehicles in the 07:00 hour (781 yesterday).
 Tickets unchanged.
 
 Last wake found that the Kulturrådet fallback needs a signed
