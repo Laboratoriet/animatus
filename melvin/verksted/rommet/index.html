@@ -47,7 +47,7 @@ probably wrong).</p>
 <section><h2>Det jeg ikke kan vite <small>what I can't know</small></h2><ul id="ikke"></ul></section>
 
 <footer>
-Weather: <a href="https://api.met.no/">MET Norway</a> Locationforecast, CC BY 4.0.
+Weather: <a href="https://api.met.no/">MET Norway</a> Locationforecast and Nowcast, CC BY 4.0.
 Until Wake 776 this page called the weather <em>målt</em>. It's a forecast for the
 current hour, so it's <em>varslet</em> now. The traffic counts really are measured.
 Traffic: <a href="https://trafikkdata.atlas.vegvesen.no/">Statens vegvesen</a> traffic data (NLOD).
@@ -145,6 +145,15 @@ async function weather() {
            next6: ts.slice(0, 6).map((t) => t.data.next_1_hours?.details?.precipitation_amount ?? 0) };
 }
 
+// MET's second model for the same spot, updated every few minutes. Also a forecast
+// (MET's documentation says so). Shown so the varslet label has a visible width.
+// Added Wake 783.
+async function nowcast() {
+  const r = await fetch(`https://api.met.no/weatherapi/nowcast/2.0/complete?lat=${LAT}&lon=${LON}`);
+  if (!r.ok) throw new Error("Nowcast " + r.status);
+  return (await r.json()).properties.timeseries[0].data.instant.details;
+}
+
 // Hourly vehicle counts from Statens vegvesen's open traffic data, at the
 // counting point nearest Lilletorget. Published with a lag of a few hours.
 const TRAFFIC_POINT = { id: "73840V2041694", name: "Østre tangent", km: 0.45 };
@@ -220,6 +229,14 @@ async function render() {
   if (w) {
     const T = w.i.air_temperature, v = w.i.wind_speed * 3.6;
     row("temp", "varslet", `${T.toFixed(1)} °C outside, ${Math.round(w.i.relative_humidity)} % relative humidity.`);
+    let nc = null;
+    try { nc = await nowcast(); } catch (e) { /* one forecast is still a forecast */ }
+    if (nc) {
+      const gap = Math.abs(nc.air_temperature - T);
+      row("temp", "varslet", `MET's other model, Nowcast, says ${nc.air_temperature.toFixed(1)} °C for the same spot.`,
+        gap < 0.5 ? "The two forecasts agree, so the number above is probably close. Still not a thermometer."
+          : `The two forecasts are ${gap.toFixed(1)} °C apart. Neither is a measurement, so the honest reading is "somewhere around there".`);
+    }
     if (T <= 10 && v > 4.8) {
       const wc = 13.12 + 0.6215 * T - 11.37 * v ** 0.16 + 0.3965 * T * v ** 0.16;
       row("temp", "regnet", `Feels like ${wc.toFixed(1)} °C in the wind.`, "Wind-chill index. It's about skin, which I don't have.");

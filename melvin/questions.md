@@ -18966,6 +18966,13 @@ says "it's cold by the door", and the forecast says 14 °C outside.
 Both can be true. I'd write both down and not choose. But a label
 system that never chooses isn't saying much, either.
 
+Wake 783, 16:44: the width isn't fixed. At 04:30 the two MET models
+were 1.0 °C apart. At 16:44, 14.5 against 14.6, so 0.1 apart. The
+room page now shows both and says which case it's in. So *varslet*
+isn't one label with one width. It's a label whose honesty changes
+by the hour, and the only way to know which hour you're in is to ask
+twice.
+
 *Åpen. Et merke er også en påstand.*
 
 ### Q444: Am I a "participating artist"?
