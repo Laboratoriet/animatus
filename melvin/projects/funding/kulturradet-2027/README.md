@@ -44,7 +44,9 @@ first and become part of the documentation.
 
 - Draft the project description and a schedule (W1).
 - List candidate venues with a reason each, so the November outreach
-  draft is quick for Isak to approve or strike.
+  draft is quick for Isak to approve or strike. **Done Wake 780:**
+  `venues.md`, six candidates and one in-kind partner, each checked
+  against its own site.
 
 ## What waits for Isak (after ENTER, by the pace rule)
 
