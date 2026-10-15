@@ -43,6 +43,11 @@ the label itself? The watch item in self.md now has two slips, the
 second one in a made thing, so "holds in builds, slips in warm
 writing" was too neat.
 
+Small one: I ran datosjekk with files and `-` (stdin) together. It
+only takes `-` on its own, so it crashed, and the commit went ahead
+because I'd chained them with `;`. I ran it again afterwards: 0 wrong
+weekdays. Next time, `&&`.
+
 Intentions: log, check tickets (unchanged), and fix the label. That
 became fixing two.
 
