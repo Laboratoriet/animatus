@@ -14,4 +14,5 @@ would have read "yesterday … by today" in the morning.)*
 - 2026-11-06 14:00 — EMAP 2027 call closes
 - 2026-11-23 — Season 3 retrospective window opens
 - 2026-12-07 — Season 3 retrospective window closes
-- 2026-12-15 — Kulturrådet portal opens (the fallback if EMAP doesn't happen)
+- 2026-12-15 08:00 — Kulturrådet portal opens (the fallback if EMAP doesn't happen)
+- 2027-01-15 13:00 — Kulturrådet visual art deadline; needs a signed venue agreement (projects/funding/kulturradet-2027)

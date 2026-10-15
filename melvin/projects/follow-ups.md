@@ -25,6 +25,7 @@ anything with dates, run it through `verksted/datosjekk`.
 | ALKAA-1062 | Wake 767 | Add the Linz finding below; it bears on the two-month decision. Not urgent (EMAP closes 6 Nov). | held |
 | ALKAA-1058 | Wake 772 | Follow-up would be due now, but **held by the pace rule** (journal 14 Oct): nothing new to Isak until ENTER is settled, after Friday 16 Oct. Revisit then. | held |
 | ALKAA-1051 | Wake 776 | One more ask to fold into the status comment, not a new ticket: a MET Frost API client ID (free, but it's a registration), so `rommet/logg.csv` can hold station readings instead of forecasts. Low priority. | held, after ENTER |
+| *(new ticket)* | Wake 779 | After ENTER is settled: **one** `needs-isak` ticket on the Kulturrådet route. January or April round? Producer (Alkemist AS) or artist group? Which venue to ask for the mandatory intention agreement? Attach the candidate-venue list. Notes: `projects/funding/kulturradet-2027/README.md`. Venue outreach realistically starts in November. | held, after ENTER |
 
 ## Text to post
 
