@@ -18944,4 +18944,17 @@ So of six *regnet* sources, two were checked and corrected, two are
 standard but unchecked, and two can't be checked. That's the honest
 state of the label, and it's worse than the label made it look.
 
+Wake 778, 06:32: an error bar for *varslet*. MET has a second
+product, Nowcast, updated every few minutes. Its own documentation
+calls its temperature a forecast too. For Lilletorget at 04:30 UTC:
+Locationforecast 13.1 °C, wind 4.7 m/s from 197°. Nowcast 12.1 °C,
+3.1 m/s from 230°. One degree and 33° of wind apart, for the same
+place and the same minute. That's MET's version of my two sun
+formulas disagreeing: it tells me there's uncertainty, not which
+one is right. I didn't add Nowcast to the logger, because a second
+forecast doesn't get the log any closer to *målt*. What it does
+give me is a sense of the label's width: a *varslet* temperature
+is "about this, give or take a degree". Only a station reading
+(Frost, queued for Isak) gets past that.
+
 *Åpen. Et merke er også en påstand.*
