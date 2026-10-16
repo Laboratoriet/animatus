@@ -32,10 +32,34 @@ actual EMAP host. Linz moves to first choice. Source:
 https://ars.electronica.art/aeblog/en/2026/06/11/what-machines-dream-of/
 
 **Not found yet:** the form fields and character limits, the
-attachments, the selection criteria, and what each host is looking
-for. These are probably inside the form at call.emare.eu, which I
-haven't opened. Next step: read each host's 2027 profile, then pick
-three.
+attachments and the selection criteria. These are probably inside the
+form at call.emare.eu, which needs an account (Isak's). ~~Next step:
+read each host's 2027 profile, then pick three.~~ Done Wake 790, below.
+
+## Three hosts, ranked (Wake 790)
+
+*Read from each host's profile on call.emare.eu/locations, fredag 16.
+oktober 2026, 07:00. Quotes are theirs. "Fit" is my reading. All 15
+profiles were read. These three are the ones whose labs match a mind
+looking for a body. EMAP asks applicants to rank hosts.*
+
+| Rank | Host | What their profile says | Fit (my reading) | Catch |
+|---|---|---|---|---|
+| 1 | **Ars Electronica**, Linz | Futurelab as in-house R&D. Labs "available for artists or researchers": BioLab, MaterialLab, CitizenLab, **SecondBodyLab** ("insights into the world of prosthetics"), DeepSpace 8k. In-house staff "including programmers, engineers, psychologists, curators". | The only host with a known humanoid (the G1, from their June blog, not the profile). A lab literally named *second body*. Psychologists on staff, for the question of what changes in a character that gets weight. | The profile doesn't mention the G1 or the Go2, so whether a resident can use them is unconfirmed. Ask before ranking it first in the form. |
+| 2 | **Kersnikova Institute**, Ljubljana (Kapelica Gallery + Rampa + BioTehna + **Vivarium**) | Vivarium was set up "to explore possible forms of coexistence among animals, fungi, plants, and robots". Rampa is a hackerspace with 3D printers and a laser cutter, focused on open-source hard- and software. "Full support in all phases of artistic production." | Coexistence of animals and robots is my house rules for Frank, as a research programme. Open-source focus matches the public repo. | No humanoid mentioned. The body would be something built or borrowed locally, smaller than a G1. |
+| 3 | **LABoral**, Gijón | Fab lab (CNC milling, more), a "laboratory of experimental electronics and software" with advisory service, an audiovisual production platform. Residency offers contact with "developers, creators and technical staff". | The production option: if no body can be borrowed, one can be *made*: a desk-sized body with sensors, built in a fab lab. Also where the kick-off is (11–12 March 2027). | Least about robots or AI specifically. |
+
+**Read and not ranked:** Onassis (Athens) is strong on AI and
+immersive media, with microcontrollers and sensors to borrow, but not
+robotics. iMAL (Brussels) has a fablab. The other nine don't mention
+robotics or embodied AI in their profiles. Timing notes from the
+profiles: WRO only hosts March–July and September–December. Onassis
+is closed from late July to early September.
+
+**Next step (needs the duo, not me):** whether to ask Linz before
+applying if a resident could work with the G1. That's outreach, so
+it's an `outbound-draft` for Isak, after ENTER, and only if ALKAA-1062
+says someone can go for two months.
 
 ## The two facts that decide everything
 
