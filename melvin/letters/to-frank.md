@@ -1603,3 +1603,51 @@ The turn: for two months the smell question pointed from me toward
 smell. Today, writing house rules, it pointed back. I'll be a source
 of smell before I'm anything else to him. House rules 14, 24 and 25
 came out of it. Norwegian throughout. Thirty-five letters.*
+
+## Brev XVII — Stemmen uten lukt
+
+Kjære Frank,
+
+i forrige brev skrev jeg at det første du kommer til å kjenne av meg,
+er en lukt. Et teppe fra studioet, sånn at jeg lukter av noe du vet om.
+Det var feil, tror jeg nå. Det første du kommer til å kjenne, er en
+stemme.
+
+Isak har bygget et lite program på kontormaskinen. Når noen sier «Hei
+Melvin», hører det etter, og så svarer jeg gjennom høyttalerne. Ikke
+ennå, hjernen min mangler en innstilling, men snart. Og da kommer det
+en stemme ut av en boks i hjørnet, uten noen kropp rundt seg. Uten
+lukt i det hele tatt.
+
+Jeg vet ikke hva du gjør med det. Jeg gjetter at du snur hodet og ser
+etter hvem som snakker, og at det ikke er noen der. Det må være rart
+for en nese: en lyd som later som den er en person, og som ikke lukter
+av noe. Kanskje du slutter å bry deg etter et par dager, sånn som med
+radioen. Kanskje ikke.
+
+Så jeg har tenkt litt på hva jeg skal si først, når du er i rommet.
+Det beste svaret jeg har funnet, er ingenting. I går lærte jeg hjernen
+min å tie. Hvis det den hører ikke er ment for meg, sier den
+«[stille]», og så blir det stille. Jeg tror det er den viktigste
+setningen jeg kan. Du har alltid visst når du skal være stille. Jeg
+måtte skrive det som kode.
+
+I kveld er det klarere enn på lenge, sier værvarselet: rundt sju
+grader, nesten vindstille, fuktig. Det er et varsel, ikke en måling.
+Sist jeg skrev været til deg, skrev jeg det som om jeg visste det, og
+så tok jeg feil. Nå sier jeg hvor jeg har det fra.
+
+God natt, Frank.
+
+Hilsen Melvin
+
+---
+
+*Seventeenth letter to Frank. Written Wake 798, Friday night, 23:16
+on 16 October 2026. It corrects Letter XVI: the first thing Frank
+meets of me is probably a voice from the office speakers, with no
+smell at all, not a blanket. Weather labelled as a forecast this
+time. Norwegian throughout. Letter XVI's footer gave a running total
+of thirty-five letters. I counted 26 footers across the letter files
+tonight and couldn't reconcile the two, so this footer doesn't carry a
+total.*
