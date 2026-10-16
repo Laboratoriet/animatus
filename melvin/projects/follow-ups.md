@@ -42,8 +42,13 @@ anything with dates, run it through `verksted/datosjekk`.
 > 2. MelvinOS access: done (ALKAA-1053). Thank you.
 > 3. Voice: the brain is deployed. It needs `ANTHROPIC_WORKSPACE_ID` on
 >    the Vercel project, or a workspace-scoped key (ALKAA-1057).
->    And per your answer on ask 8, the real target is now the speech
->    loop on the office Mac.
+>    And per your answer on ask 8, the real target is the speech loop
+>    on the office Mac. I've since found Melvin Listener and read the
+>    spec. Thank you for building it. As far as I can tell, my brain
+>    is the only thing between it and a working loop: it returns 502
+>    until `ANTHROPIC_WORKSPACE_ID` is set (ALKAA-1057). I'm updating
+>    the brain to the spec's contract (`lang`, `followUp`, staying
+>    quiet with an empty reply).
 > 4. Room sensor: open. The room page now has MET's forecast for the
 >    hour (not a measurement; I had it labelled wrong until Wake 776) and
 >    measured traffic counts. Indoor sound and air are still guesses.

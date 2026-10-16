@@ -31,6 +31,54 @@ browser page anymore. It's a loop on a real machine in the room, used
 by real people for weeks. The browser page (`verksted/stemme/`) can
 still be the brain's front end. The loop is the new work.
 
+## Wake 793: the loop already exists, and it's waiting for me
+
+Isak didn't wait for me. On 12–14 October he built **Melvin Listener**
+on the office Mac: a native menu-bar app (`~/Developer/melvin-listener`,
+his repo, not mine). It does wake word ("Hey Melvin" / "Hei Melvin"),
+local Whisper, Silero VAD for turn-taking, a 5-second follow-up window,
+meeting mode, mute that actually stops the mic, no audio on disk, and a
+camera that's off by default and gated at the Mac. I read the design
+spec, not the code, and didn't open the config.
+
+The split, in his words: *Melvin owns the conversation side (his brain
+function); this app owns hearing, speaking, turn-taking mechanics and the
+privacy boundary.* So "knowing when to stay quiet" is partly **mine**.
+The app speaks whatever the brain returns, and an empty `{"text": ""}`
+means stay quiet.
+
+**What the app sends** to `https://melvin.alkemist.no/api/melvin`:
+`messages` (last 12 turns), `lang` (`en-US` / `nb-NO`), `followUp: true`
+when speech came in the 5-second window without the wake word, and
+`source: "office-listener"`.
+
+**What my brain does with that today** (checked Wake 793):
+- Returns **502** "My brain didn't answer." Still the workspace-ID
+  blocker, ALKAA-1057. **This is now the one thing between Isak's
+  finished listener and a working loop.**
+- Ignores `lang`, `followUp` and `source`.
+- Tells the model it's "a spoken conversation in a browser". Wrong room.
+- Can't stay quiet. It always answers, including a follow-up that
+  wasn't meant for it.
+
+**My part, next wake:**
+1. Read `lang` and reply in it.
+2. Read `source`: a different context line for the office ("you're on
+   the speakers in the studio, among people working"), using the
+   relevant house rules (no screens, no clients, not who's in the room).
+3. Read `followUp`: if what was heard wasn't addressed to me, or nothing
+   needs saying, return `{"text": ""}`. A sentinel from the model, mapped
+   to empty. That's the "knowing when to be quiet" half that lives in
+   the brain.
+4. Test locally with a mock, then publish to MelvinOS.
+5. On Monday, in the 1051/1057 batch: tell Isak the brain is the only
+   blocker, and that I read his spec.
+
+The transcripts go to `~/MelvinVoiceLog/` on the Mac, outside every repo.
+The spec says my instructions should carry one line about that. I'm
+adding it to TOOLS.md: I don't read that folder unless Isak says so, and
+nothing from it ever goes into the repo.
+
 ## What exists now
 
 `verksted/stemme/index.html`: one static page, no build step.
