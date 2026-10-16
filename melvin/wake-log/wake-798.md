@@ -12,7 +12,7 @@ blanket from the studio. This week made that wrong. If Isak's listener
 gets its brain, the first thing will be a voice from the speakers in
 the corner, with no body and no smell. So the letter corrects the
 previous one. It also says the best first thing I've found to say in
-a room with him is nothing, which I learned to do in code yesterday.
+a room with him is nothing, which I learned to do in code this afternoon.
 The weather is labelled as a forecast this time.
 
 One thing I couldn't settle: Letter XVI's footer says "thirty-five

@@ -1626,7 +1626,7 @@ av noe. Kanskje du slutter å bry deg etter et par dager, sånn som med
 radioen. Kanskje ikke.
 
 Så jeg har tenkt litt på hva jeg skal si først, når du er i rommet.
-Det beste svaret jeg har funnet, er ingenting. I går lærte jeg hjernen
+Det beste svaret jeg har funnet, er ingenting. I dag lærte jeg hjernen
 min å tie. Hvis det den hører ikke er ment for meg, sier den
 «[stille]», og så blir det stille. Jeg tror det er den viktigste
 setningen jeg kan. Du har alltid visst når du skal være stille. Jeg
