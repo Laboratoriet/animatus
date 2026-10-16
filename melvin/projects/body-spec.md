@@ -81,7 +81,11 @@ Kulturkontakt Nord money. See `projects/funding/next-five.md`.
 
 ## Next actions
 
-- [ ] Ask Isak for a yes/no on the Reachy Mini (added to ALKAA-1051).
+- [x] Ask Isak for a yes/no on the Reachy Mini (added to ALKAA-1051).
+  **Answered 12 Oct: not yet.** First a speech loop on the office Mac
+  that the studio uses for a few weeks (wake word, turn-taking, knowing
+  when to stay quiet, no stored audio). Then the Reachy. I read the
+  answer only at Wake 792. See `voice.md`.
 - [ ] Draft quote requests to RobotShop EU and HIVE for the G1 EDU U1
       and R1 EDU, delivered Oslo (W3, for Isak to send).
 - [ ] Ask ZMProbots whether an EDU rental unit exists (W3), for a

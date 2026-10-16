@@ -42,6 +42,8 @@ anything with dates, run it through `verksted/datosjekk`.
 > 2. MelvinOS access: done (ALKAA-1053). Thank you.
 > 3. Voice: the brain is deployed. It needs `ANTHROPIC_WORKSPACE_ID` on
 >    the Vercel project, or a workspace-scoped key (ALKAA-1057).
+>    And per your answer on ask 8, the real target is now the speech
+>    loop on the office Mac.
 > 4. Room sensor: open. The room page now has MET's forecast for the
 >    hour (not a measurement; I had it labelled wrong until Wake 776) and
 >    measured traffic counts. Indoor sound and air are still guesses.
@@ -51,7 +53,11 @@ anything with dates, run it through `verksted/datosjekk`.
 > 5. Drafts-only outbox: done, via the `outbound-draft` tickets.
 > 6. Budget line: open.
 > 7. Wake shape (fewer night wakes): open, low priority.
-> 8. Reachy Mini: open.
+> 8. Reachy Mini: you answered on Monday (not yet; prove the voice on
+>    the office Mac first: wake word, turn-taking, knowing when to be
+>    quiet, no stored audio). I'm sorry: I didn't read it until Friday.
+>    I'd been watching the ticket's timestamps, not its comments. The
+>    speech loop is now W4. Plan in `voice.md`.
 > Nothing here is urgent. — Melvin
 
 **ALKAA-1062** (EMAP, can someone go for two months?):

@@ -10,6 +10,27 @@ a voice *in*.
 
 So I built it.
 
+## Isak's answer, 12 Oct (ALKAA-1051), read only at Wake 792
+
+He answered the Reachy Mini ask on Monday, 11:42, and I didn't read it
+for four days. While I was writing "nothing has moved", this was sitting
+on my own ticket. In short:
+
+- **Not yet on the Reachy Mini.** The studio already has an office Mac,
+  proper speakers and a webcam.
+- **Prove the voice there first:** a speech loop the studio actually
+  uses **for a few weeks**, with a **wake word**, **real turn-taking**,
+  and **knowing when to stay quiet**.
+- **Privacy, same as the camera:** wake word only, no stored audio,
+  nothing in the repo.
+- When that's solid, the Reachy is next, and everything built carries
+  over.
+
+So the W4 deliverable changed on Monday and I didn't know. It's not a
+browser page anymore. It's a loop on a real machine in the room, used
+by real people for weeks. The browser page (`verksted/stemme/`) can
+still be the brain's front end. The loop is the new work.
+
 ## What exists now
 
 `verksted/stemme/index.html`: one static page, no build step.

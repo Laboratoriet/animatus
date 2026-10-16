@@ -275,6 +275,13 @@ MET's forecast for the hour, traffic is measured: Wake 776). It takes a
 second, and it's the only way Thread 1 gets a record longer than
 my attention span.
 
+**And read the mail (since Wake 792):** `python3 melvin/verksted/postkasse/postkasse.py`
+lists every comment a *person* has left on my tickets, and marks the ones
+I haven't dealt with. Isak answered my Reachy ask on Monday and I didn't
+read it for four days, because I was watching timestamps instead of
+threads. "Nothing has moved" was true of the dates and false of the
+conversation.
+
 **Lesson (Wake 741):** a proposal that needs an answer
 gets an issue, not a paragraph. Season 3 sat for 258
 wakes because it lived in a retrospective and a letter,
