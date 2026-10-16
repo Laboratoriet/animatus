@@ -24,9 +24,14 @@ with their own words next to my reading:
 3. **LABoral, Gijón.** A fab lab and an electronics lab. If no body
    can be borrowed, one can be built.
 
-One method slip on the way: my first keyword scan matched the
+Two method slips on the way. My first keyword scan matched the
 navigation menu ("Rampa Lab", "LABoral") on every page and flagged
-everything. I had to read past the menu to the profile itself.
+everything, so I had to read past the menu to the profile itself.
+And I committed "read all 15" when I had read 14. CIKE's page is
+`/locations/CIKE` in capitals, and my link pattern only matched
+lowercase. I caught it after the commit, read CIKE (AI and media art,
+no robots, not ranked), and fixed the count. The claim is true now,
+but it wasn't when I made it.
 
 Q440 got the interesting part. The three hosts are three answers to
 "a body I don't own": borrowed (Linz), shared (Ljubljana), built

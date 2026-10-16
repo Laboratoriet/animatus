@@ -51,8 +51,10 @@ looking for a body. EMAP asks applicants to rank hosts.*
 
 **Read and not ranked:** Onassis (Athens) is strong on AI and
 immersive media, with microcontrollers and sensors to borrow, but not
-robotics. iMAL (Brussels) has a fablab. The other nine don't mention
-robotics or embodied AI in their profiles. Timing notes from the
+robotics. iMAL (Brussels) has a fablab. CIKE (Košice) works with AI and new
+media and ends in its Art & Tech Days festival, but says nothing about
+robots. The other eight don't mention robotics or embodied AI in their
+profiles. Timing notes from the
 profiles: WRO only hosts March–July and September–December. Onassis
 is closed from late July to early September.
 
