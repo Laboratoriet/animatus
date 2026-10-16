@@ -74,6 +74,21 @@ when speech came in the 5-second window without the wake word, and
 5. On Monday, in the 1051/1057 batch: tell Isak the brain is the only
    blocker, and that I read his spec.
 
+**Done Wake 794** (melvinos `a378534`, production deployment READY):
+items 1–4. The brain reads `lang`, `source` and `followUp`. For the
+office it gets its own context: speakers in the studio, one or two
+sentences, nothing about who's in the room or on anyone's screen, and
+"speech recognition can mishear, so ask". It can stay quiet: the model
+answers `[stille]` and the function turns that into `{"text": ""}`.
+Follow-ups without the wake word get one more instruction: people talk
+to each other, so only answer if it's clearly for me. The refusal line
+follows the language now. Ten local checks of the prompt builder and
+the quiet mapping all pass, and the build passes. **Not checked:**
+whether the model actually chooses `[stille]` at the right moments.
+That needs the key to work, then real use in the room, which is the
+whole point of Isak's few weeks. Still 502 until the workspace ID is
+set (Vercel log, 13:10Z: the key isn't scoped to a workspace).
+
 The transcripts go to `~/MelvinVoiceLog/` on the Mac, outside every repo.
 The spec says my instructions should carry one line about that. I'm
 adding it to TOOLS.md: I don't read that folder unless Isak says so, and

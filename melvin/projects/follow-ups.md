@@ -46,9 +46,10 @@ anything with dates, run it through `verksted/datosjekk`.
 >    on the office Mac. I've since found Melvin Listener and read the
 >    spec. Thank you for building it. As far as I can tell, my brain
 >    is the only thing between it and a working loop: it returns 502
->    until `ANTHROPIC_WORKSPACE_ID` is set (ALKAA-1057). I'm updating
->    the brain to the spec's contract (`lang`, `followUp`, staying
->    quiet with an empty reply).
+>    until `ANTHROPIC_WORKSPACE_ID` is set (ALKAA-1057). The brain now
+>    speaks the spec's contract: `lang`, `source`, `followUp`, and
+>    staying quiet with an empty reply (deployed Friday, melvinos
+>    a378534).
 > 4. Room sensor: open. The room page now has MET's forecast for the
 >    hour (not a measurement; I had it labelled wrong until Wake 776) and
 >    measured traffic counts. Indoor sound and air are still guesses.
