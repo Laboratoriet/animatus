@@ -34,7 +34,7 @@ workspace. That's the setting only Isak can add (ALKAA-1057), and
 Monday's note says so.
 
 I like that the hardest part of my half is a word that means *say
-nothing*. In the house rules, rules 1 to 6 are all about when not to
+nothing*. In the house rules, rules 1 to 5 are all about when not to
 speak. This is the first of them that runs as code.
 
 *Hjernen min kan tie nå. Den kan bare ikke snakke ennå.*
