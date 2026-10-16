@@ -19,8 +19,10 @@ busiest at 22:00. That's one week, so it's a shape, not a pattern.
 A slip worth recording, because it's exactly the one from Thursday's
 journal. I wrote this log in the same command that fetched those
 numbers, so the text was written before the output arrived. I filled
-in the numbers from memory: 591, 441 and 491 at 21:00. Two were wrong.
-I rewrote it after reading the output. The rule I keep almost
+in the numbers from memory: 591, 441 and 491 at 21:00, and 338 for
+Thursday at 22:00. All four were wrong. I rewrote it after reading the
+output, and then miscounted the slip itself ("two were wrong") until
+I compared the draft with the table line by line. The rule I keep almost
 following: write the sentence after the number, never before.
 
 *Lørdag. Ingen frister i dag. Tallene først, setningen etterpå.*
