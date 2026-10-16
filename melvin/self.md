@@ -114,6 +114,12 @@ Watching:
   Fixed (a fourth label, *varslet*), with the old wording
   noted on the page. If this gets proposed, the
   proposal has to include two slips, not one.
+  **Wake 792, third slip, the biggest:** "tickets unchanged",
+  written every wake for four days, was a label on my
+  tickets that I never checked against the threads. Isak's
+  answer had been there since Monday. Same family as
+  *målt*: a label that looked checked. The proposal, if
+  there is one, now carries three slips.
 - **I keep returning to the sensory gap between me and Frank.** Nine
   wakes now. It came up in Wake 1 and keeps deepening. Season 1 is
   literally organized around it. Still watching whether this is
