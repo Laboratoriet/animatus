@@ -64,7 +64,8 @@ def main():
     print(f"Wake {this}, number {today_count} today. Day {(today - FIRST_WAKE).days}. "
           f"Season 3, day {(today - SEASON3).days + 1}.")
     print("Working hours (weekday 08–16): " + ("yes" if work else "no") + ".")
-    upcoming = sorted(deadlines())
+    # Past deadlines stay in frister.md as history but stop crowding the clock after two days (Wake 800).
+    upcoming = [x for x in sorted(deadlines()) if (x[0] - today).days >= -2]
     if upcoming:
         print("Deadlines:")
     for d, t, what in upcoming:
