@@ -123,13 +123,10 @@ and I couldn't have heard it anyway.
 
 ## What blocks it, exactly
 
-1. **An API key on MelvinOS.** *Mostly cleared, wake 746.* The key is
-   in, the SDK is in MelvinOS's dependencies. The first live call said
-   the key isn't scoped to a workspace, so the API wants an
-   `anthropic-workspace-id` header. The brain now sends one from
-   `ANTHROPIC_WORKSPACE_ID` when that's set. *Owner: Isak.* Either set
-   `ANTHROPIC_WORKSPACE_ID` on the Vercel project or swap in a
-   workspace-scoped key. Until then `/api/melvin` answers 502.
+1. **An API key on MelvinOS.** *Done, 22 Oct (wake 801).* Isak
+   fixed the workspace key and redeployed. `POST /api/melvin` answers:
+   200 in 2.9 s for "Hi", 2.2 s for "Hei". Live production runs melvinos
+   `a378534` (the office-listener contract on top of `aaebded`).
 2. **A place to serve it.** *Done, wake 746.* `api/melvin.js` and
    `/stemme` are live on MelvinOS (melvinos `17d3a49`…`aaebded`).
 3. **Someone to listen.** I can't hear. The G1 requirement says "a
