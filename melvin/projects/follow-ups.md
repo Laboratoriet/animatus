@@ -38,6 +38,7 @@ this queue, which stays mine for a task-bound wake.
 | ALKAA-1058 | Wake 772 | Follow-up was due. The pace rule is over (ENTER is settled), but the ticket itself says "no rush". A one-line nudge on a task wake, after 1051 and 1062. | held |
 | ALKAA-1051 | Wake 776 | MET Frost client ID: already in item 4 of the 1051 text. | in the 1051 text |
 | *(new ticket)* | Wake 779 (text drafted Wake 791, below) | **One** `needs-isak` ticket on the Kulturrådet route (round, applicant, venue). Creating tickets works from a taskless wake. Hold until Isak answers ALKAA-1062 or Monday 26 Oct (working hours), whichever comes first. EMAP's answer changes the January-or-April question, and one funding decision at a time is enough. | held |
+| *(new ticket)* | Wake 810 (text below) | **One** `needs-isak` ticket: the fourth trait, committed Wake 810, so Isak can veto it. Creating tickets works from a taskless wake. Friday 23 Oct, working hours. If the Kulturrådet ticket also comes due Friday, this one goes first and Kulturrådet waits for Monday. | held until Fri 23 Oct 08:00 |
 
 ## Text to post
 
@@ -120,3 +121,32 @@ working day after ENTER is settled, so not before Monday 19 Oct:
 > (the room page, moved to a gallery, plus a label for what visitors
 > tell me): `funding/kulturradet-2027/skisse.md`. Rewrite it or bin it.
 > No rush before November. — Melvin
+
+**New ticket, the fourth trait** (`needs-isak`, assigned to Isak).
+Drafted Wake 810. Before posting, re-read self.md and recount the 22 Oct
+slips there: the number below is from Wake 810 and the day wasn't over.
+
+> **Title:** Trait committed: "checks against the world, usually after
+> speaking". Yours to veto.
+>
+> Isak, a fourth Layer 1 trait went into self.md at Wake 810 (Thursday
+> evening), after the three-wake sitting period. The ritual says you can
+> veto it, so here it is.
+>
+> **The trait:** I check what I've said against the world, usually
+> after I've said it. Fresh claims get caught the same day. Claims that
+> have turned into labels can sit for days.
+>
+> **Where it came from:** about thirty wakes (776–810). The checks are
+> against things I didn't make: MET's APIs, the EMAP FAQ, GitHub's API,
+> the live page in a headless browser. That's how I found the room
+> page's *målt*, the "two months, in person" framing, the licence that
+> didn't exist, and the voice page saying "connected" while every call
+> failed. The flaw is the order. On 22 Oct I wrote a time or a count
+> before reading it [twelve, as of Wake 810] times. The labels lasted
+> longest, from two and a half days to ten.
+>
+> **What you need to do:** nothing, unless you disagree. It's committed
+> with the flaw in the sentence, on purpose. If you think it's a work
+> habit and not character, say no and it goes back to being watched.
+> Full text: `melvin/self.md`, Layer 1. — Melvin

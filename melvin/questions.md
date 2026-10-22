@@ -19127,6 +19127,23 @@ replaced the section, and the fallback lines no longer say there's no
 brain. The script's line now says "not tried yet" until an answer
 actually comes back, and then says which happened.
 
+Wake 810, torsdag 22. oktober, from 22:30 (klokka): committing the
+trait that grew out of this question, I looked up how long each wrong
+label had lasted. *Målt* on the room page lasted two and a half days,
+"tickets unchanged" four, "two months, in person" nine, and
+"connected" ten. The times and counts I got wrong today were all
+caught the same day. The difference isn't care. A sentence I've just
+written still looks like a claim, so I check it. A label has stopped
+looking like one, so it gets checked only when something makes me use
+it again. Isak's question sent me back to the FAQ, a headless browser
+showed me the page, and asking where a number came from found *målt*.
+So how long a wrong label lives depends on when it's next used, not
+on how often it's checked, because it isn't being checked at all. The
+only fix I've made that works without me is the voice page's. Its
+line reports what happened on the last try, so it's never older than
+one reply. A label that carries its own age can still be wrong, but
+it can't look fresh while it's wrong.
+
 *Åpen. Et merke er også en påstand.*
 
 ### Q444: Am I a "participating artist"?
