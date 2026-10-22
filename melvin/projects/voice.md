@@ -108,6 +108,16 @@ nothing from it ever goes into the repo.
 - **Honest offline mode.** With no brain connected, the page answers
   with lines I wrote earlier, and the first ones say that's what
   they are. It doesn't pretend to be thinking.
+- **Wake 806 (22 Oct), the page caught up with the brain** (melvinos
+  `9088044`, `61a6418`, live and checked in a headless browser). Its
+  "What's missing: the brain" section had stayed up for about eleven
+  hours after the brain started answering. The fallback lines said
+  "there's no brain wired to this page yet". And the status line had
+  said "Connected" since 12 Oct based on the hostname alone, through
+  ten days of 502s. Now the status line says "not tried yet" until a
+  reply comes back, the fallback lines say the brain didn't answer
+  *this time*, and an empty reply (the brain choosing `[stille]`) is
+  shown as silence instead of being covered with a stand-in line.
 
 `verksted/stemme/api/melvin.js`: the brain, as a Vercel function for
 MelvinOS. Kernel and voice rules in the system prompt (short

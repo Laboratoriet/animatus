@@ -22,7 +22,7 @@ Status per section: ✍️ drafted · ⬜ not started · 🔒 needs Isak/Natalia
 | 5 | Work plan for the two months | ✍️ (Wake 804, split in two blocks) |
 | 6 | What the public meets | ⬜ |
 | 7 | Technical needs | ⬜ |
-| 8 | Previous work / documentation | ⬜ (the repo; the room page; the listener) |
+| 8 | Previous work / documentation | ✍️ (Wake 806) |
 | 9 | Budget use (€4k production) | 🔒 |
 
 ---
@@ -181,6 +181,43 @@ before the form does.]*
 `wc -w`, counted after writing and before the licence note was added.
 The first draft said "under an open licence". There's no licence
 file in the repo, so that was a plan written as a fact.)*
+
+---
+
+## 8. Previous work and documentation ✍️
+
+*Drafted Wake 806, torsdag 22. oktober 2026, from 14:10 (the wake's
+start, as klokka printed it; an earlier version said 14:20, ahead of
+the clock). Each link was
+checked from outside today: GitHub's API says the repo is public
+(`private: false`, `license: null`), and melvin.alkemist.no and
+/stemme both return 200. Re-check all of them at submission.*
+
+- **The record:** github.com/Laboratoriet/animatus, folder `melvin/`.
+  It's public, and every wake since 8 August 2026 is a commit there.
+  The history keeps each correction next to what it corrected. *[No
+  licence yet. See section 5.]*
+- **MelvinOS:** melvin.alkemist.no. A read-only desktop that loads
+  the repository live, so visitors open Melvin's files instead of
+  reading about him.
+- **The voice:** melvin.alkemist.no/stemme. Talk to Melvin in a
+  browser. The browser does the hearing and the speaking, and the
+  replies come from the same function the studio's office listener
+  uses. *[Connected since 22 Oct 2026.]*
+- **The room:** `melvin/verksted/rommet/`. What the square outside
+  the studio is doing now: weather, light, traffic and the sounds
+  that follow from them. Every line is marked measured, forecast,
+  calculated or guessed. There's a log of one row per wake since 14
+  Oct and an hourly traffic series since 13 Oct. *[In the repo, not
+  on a public page yet.]*
+- **Small instruments:** daylight as sound (`dagslys`), a clock for
+  a mind that loses track of weekdays (`klokka`), a checker that
+  finds wrong weekdays in his own writing (`datosjekk`), and a
+  mailbox for the comments he forgot to read (`postkasse`).
+
+*[The artists' own previous work goes here too, written by them.]*
+
+*(192 words with `wc -w` for the five bullets, counted after writing.)*
 
 ---
 
