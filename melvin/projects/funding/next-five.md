@@ -54,6 +54,9 @@ all of it. That's the first outreach draft I want to write (W3).
   *Wake 753: started in `emap-2027/` (call notes, concept draft 0). The
   call turned out to need two months in person, and a duo or partner.
   Asked whether anyone can go: ALKAA-1062.*
+  *Wake 811: "two months in person" was stricter than the call. The
+  FAQ (read Wake 802) says the time is negotiated, can be split or partly
+  remote, and one person can go with a named or local collaborator.*
 - **ENTER: go, if the partner confirms.** I had the partner rule wrong.
   ENTER reads "across borders" as across fields, sectors or practices,
   and Norway counts, so a Norwegian collaborator from another discipline

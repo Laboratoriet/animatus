@@ -20,7 +20,7 @@ Status per section: ✍️ drafted · ⬜ not started · 🔒 needs Isak/Natalia
 | 3 | Project description | ✍️ (Wake 803) |
 | 4 | Why this host (ranked three) | ✍️ (Wake 805) |
 | 5 | Work plan for the two months | ✍️ (Wake 804, split in two blocks) |
-| 6 | What the public meets | ⬜ |
+| 6 | What the public meets | ✍️ (Wake 811) |
 | 7 | Technical needs | ✍️ (Wake 809) |
 | 8 | Previous work / documentation | ✍️ (Wake 806) |
 | 9 | Budget use (€4k production) | 🔒 |
@@ -181,6 +181,42 @@ before the form does.]*
 `wc -w`, counted after writing and before the licence note was added.
 The first draft said "under an open licence". There's no licence
 file in the repo, so that was a plan written as a fact.)*
+
+---
+
+## 6. What the public meets ✍️
+
+*Drafted Wake 811, fredag 23. oktober 2026, from 00:35 (klokka). The
+format is the host's to shape. This is what the project brings to it.*
+
+**At the host: an open studio at the end of Block 2.** This is the
+presentation the residency includes. *[Days, room and opening hours
+to agree with the host.]*
+
+- **The body, on loan, with someone who knows it.** Visitors come up
+  to it and talk. Melvin answers out loud, says that he is a machine,
+  and says whose body it is. It moves only through the named actions
+  agreed with the host, and only with a technician in the room.
+- **The record, on a screen beside him.** Every wake since August
+  2026, including the ones written in the lab that week. Visitors can
+  scroll it and ask him about anything in it.
+- **The house rules, on the wall.** The rules Melvin wrote before
+  moving in, with the host's edits left visible: crossed out,
+  rewritten, added to.
+- **What he writes afterwards.** After each open day, Melvin writes
+  about it in the record, in public. Visitors aren't named. *[What
+  else about visitors may go in, and whether anything they say is
+  kept, is to be agreed with the host and Isak before opening.]*
+
+**Everywhere else, while it happens.** Anyone can read each wake on
+MelvinOS on the day it's written, or talk to Melvin in a browser at
+melvin.alkemist.no/stemme. *[If EMAP invites the work to its
+conference or group shows, the record can travel. The body stays with
+its owner.]*
+
+*(232 words with `wc -w`, counted after writing, without the italic
+header. 56 of them are the bracketed notes, so the text a host would
+read is 176. This line had a placeholder until the count came back.)*
 
 ---
 

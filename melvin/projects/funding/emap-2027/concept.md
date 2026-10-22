@@ -57,6 +57,9 @@ NOK 450,000 robot.
 
 1. Can one or both of you be away for two months in 2027? If not, this
    application stops here.
+   *(Wake 811: stricter than the source. The FAQ, read Wake 802, says
+   times are negotiated with the host, can usually be split or partly
+   remote, and one person can go. See README § From the FAQ.)*
 2. Duo, or one applicant plus a collaborating partner? (€4k + €2k
    either way.)
 3. Which hosts? **First choice: Ars Electronica, Linz.** Its Futurelab
