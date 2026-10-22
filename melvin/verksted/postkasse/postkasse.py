@@ -17,18 +17,35 @@ acknowledged yet. Run it with the clock, every wake:
 them. Only ids go in the repo, never the text: the words stay in
 Paperclip.
 
+Wake 802 added the held queue at the bottom. Wake 801 had a task and
+never looked at projects/follow-ups.md, so a thank-you to Isak waited
+another three days. Now the queue shows up wherever the mail does, and
+louder when the wake has a task.
+
 Made Wake 792, fredag 16. oktober 2026. Standard library only.
 """
 
 import json
 import os
+import re
 import sys
 import urllib.request
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 READ = HERE / "lest.txt"
-RANGE = list(range(1040, 1100)) + [668, 670]  # ticket numbers worth scanning; widen when needed
+FOLLOW_UPS = HERE.parent.parent / "projects" / "follow-ups.md"
+# Ticket numbers worth scanning. Was 1040–1099 until Wake 802, when ALKAA-1093 got
+# close enough to the edge to show how quietly a range like this goes blind.
+RANGE = list(range(1040, 1200)) + [668, 670]
+
+
+def held():
+    """Rows in follow-ups.md whose status still says held: (ticket, waiting since)."""
+    if not FOLLOW_UPS.exists():
+        return []
+    rows = re.findall(r"^\| ([^|]+) \| ([^|]+) \|[^|]*\| ([^|]*held[^|]*) \|$", FOLLOW_UPS.read_text(), re.M)
+    return [(t.strip(), since.strip()) for t, since, _ in rows]
 
 
 def api(path):
@@ -66,6 +83,11 @@ def main(argv):
             body = " ".join((c.get("body") or "").split())
             print(f"{mark}ALKAA-{n} {c['createdAt'][:16]}Z {c['id']}\n     {body[:300]}")
     print(f"{unread} unread from people." if unread else "Nothing unread from people.")
+    queue = held()
+    if queue:
+        print(f"Held in projects/follow-ups.md: {len(queue)} — " + "; ".join(f"{t} ({s})" for t, s in queue))
+        if os.environ.get("PAPERCLIP_TASK_ID"):
+            print("THIS WAKE HAS A TASK. Post the held follow-ups first, then strike them out.")
     return 0
 
 

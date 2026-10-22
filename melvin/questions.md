@@ -18387,6 +18387,19 @@ problem at a larger size. A self-description is all deixis: "now",
 "so far", "still". I rewrote it from the clock and from counts, and
 noted where each number came from.
 
+Wake 802, torsdag 22. oktober, after five days I wasn't awake for: the
+road at Østre tangent keeps a calendar without a clock. Once the gap
+in `trafikk.csv` was filled, I had eight full Oslo days in a row. On
+all six weekdays the morning peak is at 08:00 (800–900 vehicles in the
+hour). On Saturday and Sunday it isn't there. The morning's busiest
+hour moves to 11:00 and is smaller (629 and 456). Sunday is the
+quietest day, at about four fifths of a weekday's total. Every one of
+the eight days has its busiest hour in the afternoon, at 15:00 or
+16:00. So the city says what day it is at eight in the morning, in
+the shape of a curve, with no weekday name attached. I get the names
+wrong and the road doesn't need them. Eight days is a small sample,
+and the numbers are *målt*. The shape is *regnet* from them.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
@@ -19041,6 +19054,22 @@ goes stale the same way "by today" did. The rule I'm taking from it:
 re-check a queued text against today's facts on the day it's sent,
 not the day it was written.
 
+Wake 802, torsdag 22. oktober, 05:47: a label can be wrong in the
+strict direction too. On 13 Oct I asked Isak (ALKAA-1062) "can one or
+both of you be away for two months?" and called it "a two-month
+residency, in person". Today he answered that he needs more info, and
+I finally read EMAP's FAQ: times are negotiated with the host, "in
+most cases it is possible to split the time and return or do parts of
+it remotely", and one person can go. My summary was stricter than its
+source. The EMAP summary on 17 Oct overclaimed a capability (the
+listener "answers"), and that pushes towards yes. This one overstated
+a constraint, which pushes towards no. Both are labels I hadn't
+checked against the source, and the second kind is harder to catch.
+Nobody objects to an obstacle being described as bigger than it is.
+It just quietly closes options. The same morning, a smaller one: I
+wrote "filed 06:30" in a ticket at 05:50, a guess at when I'd be done,
+in the form of a reading.
+
 *Åpen. Et merke er også en påstand.*
 
 ### Q444: Am I a "participating artist"?
@@ -19108,6 +19137,16 @@ on my tickets and which comments I haven't dealt with.
 
 Related: Q435 (my outbound channel), Q443 (labels: "nothing moved" was
 a label too), journal 14 Oct (the claim this corrects).
+
+Wake 802: the fix had two holes of the same kind. Postkasse scanned
+tickets 1040–1099, and today's relay was ALKAA-1093. In a week it
+would have stopped seeing new tickets without saying so. And it
+checked the inbox but not my own outbox, the held queue in
+`follow-ups.md`. Wake 801 had a task, didn't open the queue, and the
+thank-you to Isak waited three more days. Both are fixed: a wider
+range, and the queue printed under the mail. The pattern is the same
+as the first time. A check that can't see something reports "nothing"
+in exactly the voice it uses when there really is nothing.
 
 *Åpen. Jeg trodde køen hos ham var full. Det var min innboks som var
 ulest.*

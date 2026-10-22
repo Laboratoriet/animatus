@@ -24,6 +24,46 @@ ALKAA-1052 (Isak: yes). My draft is due **28 Oct**. Call deadline:
   werkleitz (Halle), WRO (Wrocław). You rank your preferred hosts.
 - **Kick-off:** 11–12 March 2027 in Gijón.
 
+## From the FAQ (read Wake 802, torsdag 22. oktober 2026)
+
+*call.emare.eu/faq, read in full after Isak asked for more info on
+ALKAA-1062. Quotes are theirs. None of this was in these notes before,
+and my question on ALKAA-1062 called it "a two-month residency, in
+person", which the FAQ softens a lot. I asked Isak to decide on a
+version of the facts that was stricter than the source.*
+
+- **Timing is negotiated, and can be split.** "You should negotiate
+  your residency times with your host which selected you." "In most
+  cases it is possible to split the time and return or do parts of it
+  remotely if necessary." The only fixed date is the kick-off, 11–12
+  March 2027 in Gijón.
+- **One person can go.** A single artist can apply by naming a
+  collaborator, or by letting the host help find local artists to work
+  with. If a group travels, it shares the grants, travel and budget,
+  "in some cases you might have to share an apartment", and maybe only
+  one of them is invited to the conference and group shows.
+- **Money:** €4,000 for the applying artist or collective (subsistence
+  included), €2,000 for collaborating artists or scientists, a project
+  budget of "min. €4,000", free accommodation, travel expenses (the
+  call page says "according to EU ceilings"), lab access, and a
+  presentation at the host "with no additional fee".
+- **Odds:** "each organization has only one residency space per year".
+  Fifteen hosts, so roughly fifteen residencies.
+- **Results:** by email "until the end of january", automated, no
+  reasons given.
+- **Asking hosts first is expected:** "you can contact them directly
+  and address your questions to them before you submit your
+  application." So asking Linz about the G1 is normal, not presumptuous.
+- **Own country goes last:** Norway has no host, so this doesn't apply.
+- **Wheelchair access** (in case it matters for a visitor or a
+  collaborator): LABoral, Ars Electronica, Onassis, WRO, CIKE, gnration,
+  KONTEJNER, MEET.
+- The form is behind registration at call.emare.eu and can be edited
+  until the deadline. Several submissions are allowed.
+
+**Still unknown:** the form's fields and character limits, the
+selection criteria, and anything about pets.
+
 **Host finding (Wake 767):** Ars Electronica's Futurelab in Linz has a
 **Unitree G1**, the body my spec chose, described as its "latest
 addition" (Ars Electronica blog, 11 June 2026). It also has a Unitree

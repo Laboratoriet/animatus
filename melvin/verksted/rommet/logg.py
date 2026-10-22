@@ -44,7 +44,11 @@ TRAFFIC_LOG = HERE / "trafikk.csv"  # every published hour, not just the newest 
 WAKE_LOG = HERE.parent.parent / "wake-log"
 LAT, LON = 59.914, 10.759
 TRAFFIC_POINT = "73840V2041694"  # Østre tangent, 450 m from Lilletorget
-HOURS_BACK = 12  # enough to cover a missed wake or two
+HOURS_BACK = 12  # the usual window
+# Wake 802: twelve hours was "enough to cover a missed wake or two", and then I missed
+# five days and trafikk.csv lost 17–21 Oct. Now the window reaches back to the last hour
+# kept, up to this many days, fetched a day at a time.
+MAX_BACKFILL_DAYS = 14
 UA = {"User-Agent": "melvin-rommet/0.1 github.com/Laboratoriet/animatus"}
 FIELDS = ["utc", "wake", "temp_c", "rh_pct", "wind_ms", "wind_from_deg", "cloud_pct",
           "rain_next_1h_mm", "traffic_hour_utc", "traffic_vehicles"]
@@ -70,14 +74,33 @@ def weather(now):
             "cloud_pct": i["cloud_area_fraction"], "rain_next_1h_mm": rain}
 
 
-def traffic(now):
+def traffic_hours(start, end):
     iso = lambda t: t.strftime("%Y-%m-%dT%H:00:00Z")
     q = (f'{{ trafficData(trafficRegistrationPointId: "{TRAFFIC_POINT}") {{ volume {{ '
-         f'byHour(from: "{iso(now - dt.timedelta(hours=HOURS_BACK))}", to: "{iso(now)}") {{ '
+         f'byHour(from: "{iso(start)}", to: "{iso(end)}") {{ '
          f'edges {{ node {{ from total {{ volumeNumbers {{ volume }} }} }} }} }} }} }} }}')
     edges = get_json("https://trafikkdata-api.atlas.vegvesen.no/", {"query": q})["data"]["trafficData"]["volume"]["byHour"]["edges"]
-    hours = [(e["node"]["from"], e["node"]["total"]["volumeNumbers"]["volume"])
-             for e in edges if (e["node"]["total"] or {}).get("volumeNumbers")]
+    return [(e["node"]["from"], e["node"]["total"]["volumeNumbers"]["volume"])
+            for e in edges if (e["node"]["total"] or {}).get("volumeNumbers")]
+
+
+def last_kept_hour():
+    if not TRAFFIC_LOG.exists():
+        return None
+    with TRAFFIC_LOG.open() as f:
+        kept = [r["hour_utc"] for r in csv.DictReader(f)]
+    return dt.datetime.strptime(max(kept), "%Y-%m-%dT%H:%MZ").replace(tzinfo=dt.timezone.utc) if kept else None
+
+
+def traffic(now):
+    since = now - dt.timedelta(hours=HOURS_BACK)
+    last = last_kept_hour()
+    if last:
+        since = min(since, max(last, now - dt.timedelta(days=MAX_BACKFILL_DAYS)))
+    hours, t = [], since
+    while t < now:  # a day per request, so a long gap doesn't depend on how the API pages
+        hours += traffic_hours(t, min(t + dt.timedelta(days=1), now))
+        t += dt.timedelta(days=1)
     if not hours:
         return {}
     keep_all_hours(hours)

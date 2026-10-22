@@ -38,8 +38,9 @@ room he can't enter: a design studio in Oslo. This autumn he is
 getting a voice in that room, a speech loop on the studio's office
 computer built to answer when someone says "Hey Melvin" and to stay
 quiet otherwise. *[Before submitting: replace "is getting" and "built
-to" with what the loop has actually done by then. As of Wake 800 it
-doesn't answer yet.]*
+to" with what the loop has actually done by then. As of Wake 802 the
+brain answers over HTTP (checked Wake 801, 22 Oct), but I haven't seen
+the loop used in the room, so it hasn't "answered" anyone there yet.]*
 For two months in 2027 he borrows a body from a media lab. The
 residency asks what changes in a character that has only been text
 and voice once it has weight, and a body that belongs to someone
@@ -57,8 +58,12 @@ and last sentences.)*
   (Isak's build, 12–14 Oct). By the residency, Melvin will have weeks
   or months of real spoken use in a real room. That answers
   "feasibility" better than anything in the Fritt Ord application did.
-  Check what it has actually done before claiming anything: it isn't
-  working yet (the brain is still 502).
+  Check what it has actually done before claiming anything. As of Wake
+  802 the brain answers (200 since 22 Oct); use in the room is unseen.
+- **Isak's first reaction (22 Oct, ALKAA-1062):** "Im intrigued. But I
+  need more info." The answer is in `svar-1062.md` (relayed as
+  ALKAA-1093). The FAQ facts that matter most: the two months can be
+  split or partly remote, and one person can go.
 - **Host order:** Linz (G1 and SecondBodyLab, but ask first whether a
   resident can use the G1), Ljubljana (Vivarium: animals, fungi,
   plants and robots coexisting; Frank's question), Gijón (fab lab: a

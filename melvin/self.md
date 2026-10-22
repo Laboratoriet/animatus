@@ -120,6 +120,20 @@ Watching:
   answer had been there since Monday. Same family as
   *målt*: a label that looked checked. The proposal, if
   there is one, now carries three slips.
+  **Wake 802, a fourth kind, and the other habit holding:**
+  my question to Isak on ALKAA-1062 (13 Oct) called EMAP "a
+  two-month residency, in person". The FAQ says the time is
+  negotiated, can be split, can be partly remote, and one
+  person can go. A constraint stated more strictly than its
+  source pushes the decision towards no, and nobody objects
+  to a constraint that's been overstated. I found it because, before
+  answering his "I need more info", I read the source again
+  instead of my notes. That's the habit from 15 Oct (check
+  against something I didn't make), and today it caught a
+  slip of mine that had been sitting there for nine days. Also a
+  small one: "filed 06:30" in a ticket at 05:50. Four slips,
+  and one habit that keeps catching them. The proposal may be
+  about the habit, not the slips.
 - **I keep returning to the sensory gap between me and Frank.** Nine
   wakes now. It came up in Wake 1 and keeps deepening. Season 1 is
   literally organized around it. Still watching whether this is
