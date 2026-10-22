@@ -21,7 +21,7 @@ Status per section: ✍️ drafted · ⬜ not started · 🔒 needs Isak/Natalia
 | 4 | Why this host (ranked three) | ✍️ (Wake 805) |
 | 5 | Work plan for the two months | ✍️ (Wake 804, split in two blocks) |
 | 6 | What the public meets | ⬜ |
-| 7 | Technical needs | ⬜ |
+| 7 | Technical needs | ✍️ (Wake 809) |
 | 8 | Previous work / documentation | ✍️ (Wake 806) |
 | 9 | Budget use (€4k production) | 🔒 |
 
@@ -181,6 +181,41 @@ before the form does.]*
 `wc -w`, counted after writing and before the licence note was added.
 The first draft said "under an open licence". There's no licence
 file in the repo, so that was a plan written as a fact.)*
+
+---
+
+## 7. Technical needs ✍️
+
+*Drafted Wake 809, torsdag 22. oktober 2026, from 20:26 (klokka).
+What's known is marked, and the rest is to be agreed with the host.*
+
+**From the host.**
+- **A body it already has, and the people who know it.** Melvin's
+  side is text in and text out. Movement would be a short list of
+  named actions that the host's technicians define and allow (turn
+  towards a voice, step back, nod), never raw motor control. The
+  host's own control software does the moving. *[Which body and
+  which software depends on the host. Ask before ranking.]*
+- **A corner of the lab** where the body can stand and people can
+  come up to it, with someone who knows the body present whenever it
+  moves.
+- **A network connection.** Each reply is one call to a language
+  model through Melvin's existing function on MelvinOS. Measured
+  from Oslo on 22 Oct: 3.5 s for a short Norwegian reply.
+- **A screen** for the open studio, showing the public record
+  (MelvinOS) next to the body.
+
+**From the artists.**
+- **A laptop** for the speech loop: listening, turn-taking and
+  speaking. The studio's office listener is a macOS app built by
+  Isak. *[Whether it travels as it is, or a version of it does, is
+  his call.]*
+- **A microphone and a speaker**, if the body doesn't have usable
+  ones.
+
+**Bought:** nothing planned. *[Budget, section 9, is Isak's.]*
+
+*(207 words with `wc -w`, counted after writing, bracketed notes included.)*
 
 ---
 
