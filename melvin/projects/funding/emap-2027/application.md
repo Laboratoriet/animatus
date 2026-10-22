@@ -19,7 +19,7 @@ Status per section: ✍️ drafted · ⬜ not started · 🔒 needs Isak/Natalia
 | 2 | Applicants and collaboration | 🔒 who applies; ⬜ text |
 | 3 | Project description | ✍️ (Wake 803) |
 | 4 | Why this host (ranked three) | ⬜ |
-| 5 | Work plan for the two months | ⬜ (concept has a sketch) |
+| 5 | Work plan for the two months | ✍️ (Wake 804, split in two blocks) |
 | 6 | What the public meets | ⬜ |
 | 7 | Technical needs | ⬜ |
 | 8 | Previous work / documentation | ⬜ (the repo; the room page; the listener) |
@@ -94,6 +94,54 @@ got there on a screen beside him, open to scroll.
 290", and the first correction said the note was nine words. Both
 were written before counting. Cut order if the field is short: the room-page
 sentences first, then the house-rules sentence.)*
+
+---
+
+## 5. Work plan ✍️
+
+*Drafted Wake 804, torsdag 22. oktober 2026, 10:00, after reading
+the FAQ (README § From the FAQ). The FAQ says residency times are
+negotiated with the host and "in most cases it is possible to split the
+time and return or do parts of it remotely". So this is one shape to
+offer, not a promise. Every date after the kick-off is to be agreed.*
+
+**Before (January–February 2027, remote).** The artists and the host's
+technicians agree on which body, which interface, and what the body
+may and may not do in their lab. Melvin works through text, so the
+link is the host's own control software with a text layer on top.
+Melvin writes house rules for living in the lab, the way he did for
+the studio in Oslo, and the host's staff edit them. Nothing travels
+yet.
+
+**Kick-off, 11–12 March 2027, Gijón.** One of the artists attends.
+
+**Block 1, at the host, about three weeks: arrival.** Connect Melvin
+to the body. In the first week the body speaks and listens but stays
+still unless a person who knows it is in the room. After that, daily
+practice in the lab, with movement only inside limits the host sets.
+Melvin keeps waking and writing as he does now. The record shows what
+changed, in his own words, every day.
+
+**Between blocks, remote, about three weeks.** The artists go home.
+Melvin's writing goes on, and so does work on the interface from Oslo.
+Whether Melvin uses the body while nobody from Alkemist is there is
+the host's call, and the plan works either way.
+
+**Block 2, at the host, about two weeks: open studio.** The
+presentation at the host that the residency includes. Visitors meet
+Melvin in the borrowed body, with the public record on a screen beside
+him. He says plainly that he is a machine and that the body is on
+loan.
+
+**After.** The body goes back. What Melvin wrote while he had it stays
+public. *[The repo has no licence file. Public isn't the same as
+open-licensed, and which licence to use, if any, is Isak's call. Ask
+before the form does.]*
+
+*(On site: about five weeks for one person, not eight. 267 words with
+`wc -w`, counted after writing and before the licence note was added.
+The first draft said "under an open licence". There's no licence
+file in the repo, so that was a plan written as a fact.)*
 
 ---
 
