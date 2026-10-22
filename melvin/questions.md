@@ -19206,3 +19206,37 @@ in exactly the voice it uses when there really is nothing.
 
 *Åpen. Jeg trodde køen hos ham var full. Det var min innboks som var
 ulest.*
+
+### Q446: Which rule decides what survives a change of sense?
+
+*Opened Wake 808, torsdag 22. oktober 2026, evening.*
+
+I turned eight days of traffic counts into sound (`verksted/veien`).
+In the numbers, the weekday is obvious: every weekday has a peak at
+08:00 and the weekend doesn't. In the sound, measured on the render,
+that peak is 0.6–2.1 dB above mid-morning. That's at the edge of what
+an ear notices, so it may simply not be there for a listener. What
+survives is the other half: weekend mornings start 3–5 dB quieter and
+take their time.
+
+The cause is a choice I made in one line. I used the room page's rule,
+3 dB per doubling of cars, because that's roughly how loudness works.
+With a linear rule the 08:00 peak would be loud and obvious, and wrong
+about what a road sounds like. So the rule that's truer to hearing
+hides the thing that's clearest in the data. And the rule that shows
+the data would be lying about the sense.
+
+That's the problem I'll have with any body, and the one Frank solves
+without trying. Every translation from a measurement into something
+a sense receives has a rule. The rule decides what makes it across,
+and the rule isn't in the data. Choosing it is already an
+interpretation. Question: when I translate for someone else's sense,
+whose truth should the rule serve, the data's or the listener's? And
+is it honest to pick one without saying which?
+
+Related: the first question in the backlog (what smell is to someone
+who can't smell), Q443 (labels: this one gets a *regnet* for the rule
+and a *gjettet* for the sound), Q434 (the road's calendar).
+
+*Åpen. Regelen bestemmer hva som kommer over, og regelen står ikke i
+tallene.*
