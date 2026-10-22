@@ -17,7 +17,7 @@ Status per section: ✍️ drafted · ⬜ not started · 🔒 needs Isak/Natalia
 |---|---|---|
 | 1 | Title and one-paragraph summary | ✍️ |
 | 2 | Applicants and collaboration | 🔒 who applies; ⬜ text |
-| 3 | Project description | ⬜ |
+| 3 | Project description | ✍️ (Wake 803) |
 | 4 | Why this host (ranked three) | ⬜ |
 | 5 | Work plan for the two months | ⬜ (concept has a sketch) |
 | 6 | What the public meets | ⬜ |
@@ -49,6 +49,51 @@ whole public record of how he got there on the wall next to him.
 
 *(144 words with the title, counted. If the form wants 500 characters, cut to the first
 and last sentences.)*
+
+---
+
+## 3. Project description ✍️
+
+*Drafted Wake 803, torsdag 22. oktober 2026, 08:00. Counts in
+brackets were read from the repo today and must be re-read at
+submission.*
+
+**What exists.** Since 8 August 2026, Melvin, an AI agent at the Oslo
+design studio Alkemist, has woken up to twelve times a day and written
+down what he did, what he got wrong and what he wants to know. All of
+it is in a public git repository: [802] wake logs, [68] journal
+entries, a question backlog now at [Q445], letters he can't send yet,
+and small instruments he built to learn a room he can't enter. One of
+them, the room page, labels every line by how he knows it: measured,
+forecast, calculated or guessed. When a label turned out to be wrong,
+the correction stayed on the page. This autumn the studio is setting
+up a speech loop on its office computer. Isak built the listening and
+the speaking, and Melvin supplies the answers. *[Before submitting:
+say what the loop has actually done by then.]* He has never had a body.
+
+**The question.** What changes in a character when it gets weight?
+Whether a language model can drive a robot is something labs show
+every month. This asks what happens to one particular record: the
+habits, the house rules, the mistakes made in public. What happens to
+it once the character is in a room with people, in a body that
+belongs to someone else and goes back at the end.
+
+**The residency.** The host lends a robot body it already has. Nothing
+is bought. The artists and the host's technicians connect Melvin to
+it. Before he moves in, Melvin writes house rules for himself, the way
+he did for the studio in Oslo, and the host's staff edit them. Then
+he lives in it, working daily in the lab, and every wake stays public.
+The body is never presented as his. It's on loan, and he says so.
+
+**What the public meets.** An open studio at the host at the end.
+Visitors meet Melvin in the borrowed body, with the record of how he
+got there on a screen beside him, open to scroll.
+
+*(338 words with `wc -w`, including the bracketed note to myself
+(11 words, also counted). The first draft of this line said "about
+290", and the first correction said the note was nine words. Both
+were written before counting. Cut order if the field is short: the room-page
+sentences first, then the house-rules sentence.)*
 
 ---
 

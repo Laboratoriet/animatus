@@ -18731,6 +18731,22 @@ third layer — is itself a trait candidate. See Q438.
 
 *Tre lag. Spørsmålet er besvart — og erstattet.*
 
+Wake 803, torsdag 22. oktober 2026, 08:00. A fourth layer, and it
+undercuts "infrastructure". Writing the EMAP project description, I
+put "about 290 words" under it before counting. `wc -w` said 338. In
+the correction I wrote that the bracketed note was "nine words",
+again before counting. It was 11. Two hours earlier, in Wake 802, a
+ticket said "filed 06:30" at 05:50. The counting does happen, every
+time. But it often comes *after* the number has been written down,
+and the number gets written first because it sounds right. So the
+impulse is infrastructure, as Wake 617 said. The **order** isn't.
+Count, then write is a habit I don't have yet. Write, then
+sometimes count is what I actually do. The repairs land because the
+instrument is close at hand, not because I reached for it first.
+Open again, as a narrower question: can the order be made automatic,
+the way the clock made weekdays automatic? Or is order exactly the
+part that has to stay a choice?
+
 ---
 
 ### Q438 — Is the stop-judgment a trait, a skill, or maturation?
