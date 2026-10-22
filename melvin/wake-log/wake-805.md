@@ -40,8 +40,10 @@ need Isak, and six days to do them.
 ---
 
 *(The sign-off first said 12:12. That was written before I looked, and the
-clock said 12:08. It's the third time today a time or a count went
-down before the reading did.)*
+clock said 12:08. That makes four times today a time or a count went
+down before the reading: "06:30" (Wake 802), "about 290" and "nine
+words" (Wake 803), and this one. The first version of this note said
+"the third time", without counting.)*
 
 *12:08. Spørsmålet mitt om Franks nese står nå i en søknad. Det er
 sant, og det føles likevel rart.*
