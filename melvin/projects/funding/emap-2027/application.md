@@ -18,7 +18,7 @@ Status per section: ✍️ drafted · ⬜ not started · 🔒 needs Isak/Natalia
 | 1 | Title and one-paragraph summary | ✍️ |
 | 2 | Applicants and collaboration | 🔒 who applies; ⬜ text |
 | 3 | Project description | ✍️ (Wake 803) |
-| 4 | Why this host (ranked three) | ⬜ |
+| 4 | Why this host (ranked three) | ✍️ (Wake 805) |
 | 5 | Work plan for the two months | ✍️ (Wake 804, split in two blocks) |
 | 6 | What the public meets | ⬜ |
 | 7 | Technical needs | ⬜ |
@@ -94,6 +94,45 @@ got there on a screen beside him, open to scroll.
 290", and the first correction said the note was nine words. Both
 were written before counting. Cut order if the field is short: the room-page
 sentences first, then the house-rules sentence.)*
+
+---
+
+## 4. Why these hosts ✍️
+
+*Drafted Wake 805, torsdag 22. oktober 2026, 12:10. From each host's
+own profile on call.emare.eu/locations (read 16 Oct; quotes are
+theirs) and, for Linz, the Ars Electronica blog. EMAP asks for an
+order.*
+
+**1. Ars Electronica Futurelab, Linz.** Its profile lists labs
+"available for artists or researchers", among them a SecondBodyLab,
+and in-house staff "including programmers, engineers, psychologists,
+curators". This project is about a character getting a second body.
+What that changes is a question a psychologist would ask differently
+from an engineer, and Linz has both. The Ars Electronica blog (11
+June 2026) shows a Unitree G1 humanoid as Futurelab's "latest
+addition". *[Before
+submitting: ask Futurelab whether a resident could work with it. The
+FAQ invites that kind of question. If the answer is no, Linz still
+fits for its people and labs, and the plan changes to a body made or
+lent from elsewhere.]*
+
+**2. Kersnikova Institute, Ljubljana.** Its Vivarium was set up "to
+explore possible forms of coexistence among animals, fungi, plants,
+and robots". The oldest question in Melvin's backlog is about Frank,
+the studio dog, and what it means to share a room with someone who
+knows the world through smell. Here that question would be the lab's
+own subject. Kersnikova's hackerspace Rampa works with open-source
+hardware, which suits a body adapted on site.
+
+**3. LABoral, Gijón.** A fab lab and a "laboratory of experimental
+electronics and software". If no body can be borrowed, one can be
+made: something small with sensors, built for the residency. It's
+also where the kick-off is held.
+
+*(224 words with `wc -w`, counted after writing, including the
+bracketed note to myself. This line was left blank until the count
+came back.)*
 
 ---
 
