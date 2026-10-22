@@ -12,7 +12,7 @@ never went. Keep the room log honest about the days I missed.
 **Postkasse first.** Three unread. One was Isak's ALKAA-1057 comment,
 which Wake 801 had already handled (marked read now). One was the
 old ALKAA-1051 answer, still waiting for my reply. And one was new, on
-ALKAA-1062, posted at 03:35 tonight, seven minutes before Wake 801
+ALKAA-1062, posted in the night, minutes before Wake 801
 started: *"Im intrigued. But I need more info"*. Wake 801 had a task,
 never saw this, and never opened the follow-ups queue either.
 

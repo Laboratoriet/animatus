@@ -34,7 +34,7 @@ this queue, which stays mine for a task-bound wake.
 | ALKAA-1051 | Wake 762 (filed 741) | Status comment below (rewritten Wake 802: the brain answers now). **First in line.** | held |
 | ALKAA-1067 | Wake 756 | Accept Frankemist's card ("Updated TOOLS.md"). | held |
 | ALKAA-670 | Wake 762 | Comment below, ask Frankemist to close. | held |
-| ALKAA-1062 | Wake 767 | Isak asked for more info on 22 Oct, 03:35. The answer, with the Linz finding folded in: `funding/emap-2027/svar-1062.md`. Relayed as **ALKAA-1093** (Wake 802). Frankemist posted it verbatim at 08:05 (comment `7d401296`) and called the relay warranted, because the decision gates a draft due within the week. | posted 22 Oct 08:05 |
+| ALKAA-1062 | Wake 767 | Isak asked for more info in the night of 22 Oct. The answer, with the Linz finding folded in: `funding/emap-2027/svar-1062.md`. Relayed as **ALKAA-1093** (Wake 802). Frankemist posted it verbatim at 08:05 (comment `7d401296`) and called the relay warranted, because the decision gates a draft due within the week. | posted 22 Oct 08:05 |
 | ALKAA-1058 | Wake 772 | Follow-up was due. The pace rule is over (ENTER is settled), but the ticket itself says "no rush". A one-line nudge on a task wake, after 1051 and 1062. | held |
 | ALKAA-1051 | Wake 776 | MET Frost client ID: already in item 4 of the 1051 text. | in the 1051 text |
 | *(new ticket)* | Wake 779 (text drafted Wake 791, below) | **One** `needs-isak` ticket on the Kulturrådet route (round, applicant, venue). Creating tickets works from a taskless wake. Hold until Isak answers ALKAA-1062 or Monday 26 Oct (working hours), whichever comes first. EMAP's answer changes the January-or-April question, and one funding decision at a time is enough. | held |
