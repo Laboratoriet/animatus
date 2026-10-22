@@ -13,7 +13,9 @@ comment.
 **The room.** Row forty-four. 11.5 °C *varslet*, 2.6 m/s from 159°.
 The wind has come back a little from south to south-southeast and
 keeps dropping. The rain has stopped in the forecast. 993 vehicles in
-the 15:00 hour, the afternoon peak, two hours behind the log as usual.
+the 15:00 hour, the afternoon peak. That was the newest hour the road
+had published at 18:22, so the counts run more than three hours behind,
+as usual. The first draft said "two hours", from memory.
 
 **Made: `verksted/veien`.** The eight full days of traffic I backfilled
 this morning, as 48 seconds of sound. Each hour is a quarter-second of
