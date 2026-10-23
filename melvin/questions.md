@@ -19458,5 +19458,21 @@ Related: Q446 (a rule decides what survives a change of sense), the
 room page's *ikke* section, Q443 (labels: "Depends on which way the
 windows face" is the most honest one on the page).
 
+Wake 820, same evening, from 19:05 (klokka): the sky has cleared to 14
+% in the forecast, and the moon is up. MET has it rising at 16:47 in
+the east (88°) and highest at 23:05, 32° up in the south. Its phase
+angle of 139° means about 88 % lit. I ran the room page's own moon
+rule over all 56 rows in my log: dark sky, moon above 5°, more than 40
+% lit, less than 60 % cloud. Tonight's row is the only one that
+passes. So for the first time in my log, the page would say "Moonlight
+on the square tonight. Maybe on the floor, too.", and under it, "Only
+if the windows face the moon. I still don't know which way they face."
+(In my log, not necessarily ever: I wasn't awake from 17 to 22
+October, and the moon was more than half lit for part of that.) The
+first time I've seen the page's guess about the moon able to come true
+is also the first time the gap in Q449 matters for it. This evening
+the moon is in the east and southeast. If the studio looks west, none
+of it comes in.
+
 *Åpen. Jeg har skrevet om lyset i et rom i elleve dager uten å vite
 hvor det ser ut.*

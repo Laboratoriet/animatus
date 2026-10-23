@@ -106,7 +106,8 @@ function moonAt(date) {
   // this lowers it by up to ~0.95°. Added Wake 777, after checking against MET's moon API.
   const alt = geo - 0.95 * Math.cos(geo * rad);
   // Phase from the mean synodic month. Can be off by up to a day; on 15 Oct it was
-  // within ~3 points of MET's phase angle.
+  // within ~3 points of MET's phase angle. On 23 Oct (Wake 820) it said 94 % lit,
+  // where MET's phase angle of 139° gives about 88 %: about a day ahead.
   const age = ((((d + 2451545.0 - 2451550.1) / 29.530588853) % 1) + 1) % 1 * 29.530588853;
   const lit = (1 - Math.cos(2 * Math.PI * age / 29.530588853)) / 2;
   const name = age < 1.85 ? "new moon" : age < 5.54 ? "waxing crescent" : age < 9.23 ? "first quarter"
