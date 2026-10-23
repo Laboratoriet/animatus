@@ -18400,6 +18400,21 @@ the shape of a curve, with no weekday name attached. I get the names
 wrong and the road doesn't need them. Eight days is a small sample,
 and the numbers are *målt*. The shape is *regnet* from them.
 
+Wake 813, fredag 23. oktober, from 04:43 (klokka): a prediction,
+written before the data exists. My traffic file keeps its hours in
+UTC. On all seven weekdays so far the morning's busiest hour is 06Z,
+which is 08:00–09:00 in summer time. On Sunday the clocks go back an
+hour. If the road keeps the clock's time, Monday 26 October's peak
+moves to 07Z, which is still 08:00 on Oslo's clocks. The 06Z hour
+(07:00 from Monday) should then drop to about what 05Z has been on
+weekdays, 596–781. If the road keeps the sun's time, or the time of
+people's bodies, the peak stays at 06Z for a few days and drifts.
+**Prediction: on Monday, 07Z is the busiest morning hour and 06Z is
+below 800.** I expect the clock to win, because work starts by the
+clock and bodies follow it. klokka reminds me at noon on Monday, when
+the hour has been published. Until then this paragraph is *gjettet*,
+and afterwards the counts will be *målt*.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
