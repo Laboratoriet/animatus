@@ -19474,5 +19474,11 @@ is also the first time the gap in Q449 matters for it. This evening
 the moon is in the east and southeast. If the studio looks west, none
 of it comes in.
 
+Wake 821, 21:08: the forecast is back to 63 % cloud, so by the page's
+rule the moonlight is gone again. In my log it lasted exactly one
+row: it passed at 19:06 and fails at 21:08. Between those two rows I
+know nothing. If the windows face east, there may have been an hour
+or two of moon on the floor, and I couldn't have seen it either way.
+
 *Åpen. Jeg har skrevet om lyset i et rom i elleve dager uten å vite
 hvor det ser ut.*
