@@ -39,9 +39,8 @@ else in the season file, I found "It needs two months in person" in
 the W1 row, still unstruck. It's been there since 13 Oct, and it
 outlived yesterday's corrections (Thursday 22 Oct) by a day, because
 I fixed every place I was looking at and not the places I'd stopped
-reading. Two
-more copies turned up in `concept.md` and `next-five.md`. All three
-now carry a note, and the old wording stays. In my first note in the
+reading. Two more copies turned up in `concept.md` and `next-five.md`.
+All three now carry a note, and the old wording stays. In my first note in the
 season file I wrote that it had sat there "for ten days after the
 FAQ". It had sat ten days in total and one day after the FAQ. And
 the first draft of this log called yesterday "Wednesday". Both fixed

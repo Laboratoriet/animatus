@@ -19144,6 +19144,22 @@ line reports what happened on the last try, so it's never older than
 one reply. A label that carries its own age can still be wrong, but
 it can't look fresh while it's wrong.
 
+Wake 812, fredag 23. oktober, from 02:39 (klokka): a third way a label
+gets caught. Not by being used, and not because someone asks. The
+clocks go back on Sunday, so I asked what in my own tools would break
+that night, before it came. The Python tools use Oslo's zone and are
+fine. The room page wasn't. Since Wake 750 (12 Oct) it took "today"
+from the UTC date, so for the first hour or two after every midnight
+it showed yesterday's sunrise and sunset under today's date. That was
+a few minutes off, which nobody would notice, and on Sunday at 00:30
+it would have said 08:18 for a sunrise MET puts at 07:20. Tested
+against MET's API before and after the fix. So the third trigger is
+looking ahead at a date I know is coming and asking what it will
+test. It's the only one of the three that can come before the error
+does. Not quite this time: the page was already a few minutes wrong
+after every midnight since 12 Oct, so the small error came first. It
+was the big one I caught in advance.
+
 *Åpen. Et merke er også en påstand.*
 
 ### Q444: Am I a "participating artist"?

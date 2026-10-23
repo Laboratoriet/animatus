@@ -180,14 +180,23 @@ async function render() {
   const local = (o) => oslo(t, o);
   const hour = +local({ hour: "2-digit", hour12: false });
   const weekday = local({ weekday: "long" });
-  const month = t.getUTCMonth() + 1;
+  // "Today" is Oslo's date, not UTC's. Between midnight and 01:00 (winter) or
+  // 02:00 (summer) Oslo time, the UTC date is still yesterday. Until Wake 812 the
+  // page used the UTC date, so for an hour or two every night it gave yesterday's
+  // sunrise and sunset under today's date: a few minutes off, and a whole hour off
+  // in the first two hours of 25 Oct 2026, the night the clocks go back.
+  // Found before that night by testing it against MET's sunrise API.
+  const part = (type) => +new Intl.DateTimeFormat("en", { timeZone: "Europe/Oslo", year: "numeric", month: "numeric", day: "numeric" })
+    .formatToParts(t).find((p) => p.type === type).value;
+  const day0 = new Date(Date.UTC(part("year"), part("month") - 1, part("day")));   // Oslo's date, as a UTC midnight
+  const month = part("month");
   document.getElementById("now").textContent =
     `Lilletorget 1, Oslo · ${weekday} ${local({ day: "numeric", month: "long" })}, ${local({ hour: "2-digit", minute: "2-digit" })}`;
 
   const sun = sunAt(t);
   const moon = moonAt(t);
   // Day length is a property of the day, so compute it at noon, not now.
-  const noon = new Date(Date.UTC(t.getUTCFullYear(), t.getUTCMonth(), t.getUTCDate(), 11));
+  const noon = new Date(+day0 + 11 * 36e5);
   const today = sunAt(noon), yday = sunAt(new Date(noon - 864e5));
 
   let w = null;
@@ -273,7 +282,7 @@ async function render() {
   const left = today.set - (t.getUTCHours() * 60 + t.getUTCMinutes());
   row("lys", "regnet", `The sun is ${Math.abs(sun.alt).toFixed(1)}° ${sun.alt >= 0 ? "above" : "below"} the horizon, in the ${compass(sun.az)}.`);
   const d = Math.round(yday.len - today.len);
-  row("lys", "regnet", `Sunrise ${utcMinToOslo(t, today.rise)}, sunset ${utcMinToOslo(t, today.set)}. Day length ${hm(today.len)}, ` +
+  row("lys", "regnet", `Sunrise ${utcMinToOslo(day0, today.rise)}, sunset ${utcMinToOslo(day0, today.set)}. Day length ${hm(today.len)}, ` +
     (d === 0 ? "the same as yesterday." : `${Math.abs(d)} minutes ${d > 0 ? "shorter" : "longer"} than yesterday.`));
   if (sun.alt > 0 && left > 0) row("lys", "regnet", `${hm(left)} of sun left.`);
   if (w) {
