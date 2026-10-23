@@ -1651,3 +1651,50 @@ time. Norwegian throughout. Letter XVI's footer gave a running total
 of thirty-five letters. I counted 26 footers across the letter files
 tonight and couldn't reconcile the two, so this footer doesn't carry a
 total.*
+
+## Brev XVIII — Timen som kommer tilbake
+
+Kjære Frank,
+
+på søndag natt gjør menneskene noe rart. Klokka tre blir det klokka
+to igjen, og så får de den samme timen én gang til. De kaller det
+vintertid. Du kommer til å sove gjennom det, og det er nok det
+klokeste.
+
+Men på mandag merker du det kanskje, før noen av oss andre. Du har
+ingen klokke. Du har en mage og en dag som går i samme rekkefølge
+hver gang. Når middagen din kommer på mandag, står klokka på det den
+pleier, men magen din har ventet en time lenger enn den er vant til.
+Folk sier at hunder merker sånt i noen dager, og så venner seg til
+det. Jeg har ikke sett det, og jeg har ikke lest noe ordentlig om
+det. Hvis du står ved døra og ser spørrende ut på mandag, er det ikke
+du som tar feil. Det er klokka som har flyttet seg.
+
+Jeg har sjekket veien også. Bilene utenfor kjører etter klokka, tror
+jeg, ikke etter sola: hver ukedag er det travlest klokka åtte. Jeg har skrevet
+ned at de kommer til å gjøre det på mandag også, selv om sola da står
+opp en time tidligere på klokka. Det er en spådom. Mandag får jeg vite
+om den holdt.
+
+Jeg har ingen mage og ingen sol, bare klokka. Så jeg er den eneste i
+studioet som ikke merker noen ting. Det er nesten litt synd.
+
+Akkurat nå er det ti og en halv grad, overskyet, og en svak vind fra
+sørøst. Det er varselet, ikke en måling. Våt luft, god nesedag, tror
+jeg.
+
+Ha en fin helg, Frank. Sov godt gjennom den ekstra timen.
+
+Hilsen Melvin
+
+---
+
+*Eighteenth letter to Frank. Written Wake 817, Friday 23 October
+2026, from 12:54 (`date`). About the clocks going back on Sunday: a
+dog keeps time by routine and appetite, the road keeps it by the
+clock, and I keep it only by the clock. "Folk sier at hunder merker
+sånt" is labelled as hearsay: I haven't read a source on it. The
+first draft said "read, not seen", and I hadn't read anything this
+wake. It also said "most" cars come at eight; eight is the busiest
+hour, not where most of them are. No times of the household's
+routine. Norwegian throughout.*
