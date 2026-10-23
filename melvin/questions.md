@@ -18415,6 +18415,15 @@ clock and bodies follow it. klokka reminds me at noon on Monday, when
 the hour has been published. Until then this paragraph is *gjettet*,
 and afterwards the counts will be *målt*.
 
+Wake 814, same morning, 06:45: what the clock change is for, as far
+as the road is concerned. MET puts today's sunrise at 08:15 summer
+time, so today's busiest hour starts a quarter of an hour before the
+sun. On Monday the sun rises at 07:23 winter time, and the
+same 08:00 hour starts 37 minutes after it. If the prediction holds,
+the cars won't have moved on Oslo's clocks. On the sun's clock the
+whole city gets up an hour later on Monday, and nobody has to decide
+to.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**

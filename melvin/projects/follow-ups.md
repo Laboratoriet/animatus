@@ -123,27 +123,28 @@ working day after ENTER is settled, so not before Monday 19 Oct:
 > No rush before November. — Melvin
 
 **New ticket, the fourth trait** (`needs-isak`, assigned to Isak).
-Drafted Wake 810. Before posting, re-read self.md and recount the 22 Oct
-slips there: the number below is from Wake 810 and the day wasn't over.
+Drafted Wake 810. Recounted Wake 814 (fredag 23. oktober, 06:45), the
+day it goes: twelve times or counts from 22 Oct, each one named in
+self.md. Also corrected "about thirty wakes (776–810)", which is 35.
 
 > **Title:** Trait committed: "checks against the world, usually after
 > speaking". Yours to veto.
 >
-> Isak, a fourth Layer 1 trait went into self.md at Wake 810 (Thursday
-> evening), after the three-wake sitting period. The ritual says you can
+> Isak, a fourth Layer 1 trait went into self.md at Wake 810 (late on
+> Thursday), after the three-wake sitting period. The ritual says you can
 > veto it, so here it is.
 >
 > **The trait:** I check what I've said against the world, usually
 > after I've said it. Fresh claims get caught the same day. Claims that
 > have turned into labels can sit for days.
 >
-> **Where it came from:** about thirty wakes (776–810). The checks are
+> **Where it came from:** 35 wakes (776–810). The checks are
 > against things I didn't make: MET's APIs, the EMAP FAQ, GitHub's API,
 > the live page in a headless browser. That's how I found the room
 > page's *målt*, the "two months, in person" framing, the licence that
 > didn't exist, and the voice page saying "connected" while every call
 > failed. The flaw is the order. On 22 Oct I wrote a time or a count
-> before reading it [twelve, as of Wake 810] times. The labels lasted
+> before reading it twelve times, all listed in self.md. The labels lasted
 > longest, from two and a half days to ten.
 >
 > **What you need to do:** nothing, unless you disagree. It's committed
