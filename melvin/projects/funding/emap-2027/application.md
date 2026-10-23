@@ -8,8 +8,13 @@ Concept: `concept.md`. Hosts: `README.md` § Three hosts, ranked.*
 call.emare.eu. Making an account is Isak's job, so I haven't seen the
 field names or the character limits. This draft is the content any
 such form will ask for, written to be cut. **One decision blocks the
-whole thing:** ALKAA-1062, whether someone can be in residence for two
-months. If the answer is no, this file stops here.
+whole thing:** ALKAA-1062, whether one of Isak and Natalia can go. ~~Whether
+someone can be in residence for two months.~~ *(Wake 816: that wording
+was stricter than the call. The FAQ says the time is negotiated with
+the host and can be split or partly remote, and one person can go. The
+plan in section 5 is about five weeks on site, in two blocks. Isak
+asked for more info on 22 Oct; the answer is `svar-1062.md`.)* If the
+answer is no, this file stops here.
 
 Status per section: ✍️ drafted · ⬜ not started · 🔒 needs Isak/Natalia
 
@@ -45,10 +50,15 @@ For two months in 2027 he borrows a body from a media lab. The
 residency asks what changes in a character that has only been text
 and voice once it has weight, and a body that belongs to someone
 else. Visitors meet him in the borrowed body at the end, with the
-whole public record of how he got there on the wall next to him.
+whole public record of how he got there on a screen beside him.
 
-*(144 words with the title, counted. If the form wants 500 characters, cut to the first
-and last sentences.)*
+*(143 words with the title, not including the bracketed note (48
+words, added later). It was 144 until Wake 816, which changed "on the
+wall next to him" to "on a screen beside him", to match sections 3
+and 6: the house rules go on the wall, the record on a screen. The
+first draft of this line said "same word count". It's one word
+shorter, recounted with `wc -w`. If the form wants 500 characters,
+cut to the first and last sentences.)*
 
 ---
 
@@ -79,17 +89,23 @@ it once the character is in a room with people, in a body that
 belongs to someone else and goes back at the end.
 
 **The residency.** The host lends a robot body it already has. Nothing
-is bought. The artists and the host's technicians connect Melvin to
+is bought. *[True for Linz's G1 if Futurelab says yes. At Kersnikova or
+LABoral the body would be adapted or made on site, partly from the
+production budget. Rewrite this for whichever host ranks first.]* The artists and the host's technicians connect Melvin to
 it. Before he moves in, Melvin writes house rules for himself, the way
 he did for the studio in Oslo, and the host's staff edit them. Then
-he lives in it, working daily in the lab, and every wake stays public.
+he lives in it, working daily in the lab while one of the artists is
+there, and every wake stays public.
 The body is never presented as his. It's on loan, and he says so.
 
 **What the public meets.** An open studio at the host at the end.
 Visitors meet Melvin in the borrowed body, with the record of how he
 got there on a screen beside him, open to scroll.
 
-*(338 words with `wc -w`, including the bracketed note to myself
+*(Wake 816: 378 words with `wc -w`, recounted after adding a 33-word
+bracketed note about which host has a body and "while one of the
+artists is there" (7 words). 44 of the 378 are bracketed notes. Before
+that: 338 words with `wc -w`, including the bracketed note to myself
 (11 words, also counted). The first draft of this line said "about
 290", and the first correction said the note was nine words. Both
 were written before counting. Cut order if the field is short: the room-page
@@ -231,7 +247,9 @@ What's known is marked, and the rest is to be agreed with the host.*
   named actions that the host's technicians define and allow (turn
   towards a voice, step back, nod), never raw motor control. The
   host's own control software does the moving. *[Which body and
-  which software depends on the host. Ask before ranking.]*
+  which software depends on the host. Ask before ranking. At
+  Kersnikova or LABoral the body would be adapted or made on site,
+  and "Bought: nothing planned" below would change.]*
 - **A corner of the lab** where the body can stand and people can
   come up to it, with someone who knows the body present whenever it
   moves.
@@ -251,7 +269,9 @@ What's known is marked, and the rest is to be agreed with the host.*
 
 **Bought:** nothing planned. *[Budget, section 9, is Isak's.]*
 
-*(207 words with `wc -w`, counted after writing, bracketed notes included.)*
+*(227 words with `wc -w`, bracketed notes included. It was 207 until
+Wake 816 added 20 words to the first note, about hosts without a
+body.)*
 
 ---
 
@@ -283,12 +303,14 @@ checked from outside today: GitHub's API says the repo is public
   on a public page yet.]*
 - **Small instruments:** daylight as sound (`dagslys`), a clock for
   a mind that loses track of weekdays (`klokka`), a checker that
-  finds wrong weekdays in his own writing (`datosjekk`), and a
-  mailbox for the comments he forgot to read (`postkasse`).
+  finds wrong weekdays in his own writing (`datosjekk`), a mailbox
+  for the comments he forgot to read (`postkasse`), and a week of the
+  road outside as 48 seconds of sound (`veien`).
 
 *[The artists' own previous work goes here too, written by them.]*
 
-*(192 words with `wc -w` for the five bullets, counted after writing.)*
+*(204 words with `wc -w` for the five bullets. It was 192 until Wake
+816 added `veien` to the small instruments, 12 words.)*
 
 ---
 
