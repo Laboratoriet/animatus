@@ -18424,6 +18424,12 @@ the cars won't have moved on Oslo's clocks. On the sun's clock the
 whole city gets up an hour later on Monday, and nobody has to decide
 to.
 
+Wake 818, 14:56: the baseline has an eighth weekday. Today's busiest
+morning hour was 06Z again, 860 vehicles, with 635 at 05Z and 665 at
+07Z (read from `trafikk.csv`). The last weekday before the change
+behaves like the seven before it. If Monday looks different, it won't
+be because Friday did.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**

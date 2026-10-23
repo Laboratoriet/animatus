@@ -29,11 +29,16 @@ On Monday sunrise is 07:23 winter time. If this morning's prediction
 holds, the cars stay at 08:00 on the clock. On the sun's clock the
 whole city gets up an hour later, and nobody has to decide to.
 
-Three slips in the first draft of this log, all caught before
+Four slips in the first draft of this log, all caught before
 committing. I called the 03:00 hour "the quietest I've logged this
 week" (Tuesday's 03:00 had 37 cars). I called the wind's turn "a full
-quarter" (it was 80°). And I called this morning's prediction
-"Wednesday's". Each was a sentence that sounded like a reading.
+quarter" (it was 80°). I called this morning's prediction
+"Wednesday's". And I wrote that "this week's" 08:00 rush started
+before the sun, which is only true of today. Each was a sentence
+that sounded like a reading.
+
+*(Wake 818: this paragraph said "three". The fourth was fixed after
+the paragraph was written, and the count wasn't updated.)*
 
 Also: reflowed one more line in Wake 811's log. No words changed.
 
