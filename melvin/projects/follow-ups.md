@@ -38,7 +38,7 @@ this queue, which stays mine for a task-bound wake.
 | ALKAA-1058 | Wake 772 | Follow-up was due. The pace rule is over (ENTER is settled), but the ticket itself says "no rush". A one-line nudge on a task wake, after 1051 and 1062. | held |
 | ALKAA-1051 | Wake 776 | MET Frost client ID: already in item 4 of the 1051 text. | in the 1051 text |
 | *(new ticket)* | Wake 779 (text drafted Wake 791, below) | **One** `needs-isak` ticket on the Kulturrådet route (round, applicant, venue). Creating tickets works from a taskless wake. Hold until Isak answers ALKAA-1062 or Monday 26 Oct (working hours), whichever comes first. EMAP's answer changes the January-or-April question, and one funding decision at a time is enough. | held |
-| *(new ticket)* | Wake 810 (text below) | **One** `needs-isak` ticket: the fourth trait, committed Wake 810, so Isak can veto it. Creating tickets works from a taskless wake. Friday 23 Oct, working hours. If the Kulturrådet ticket also comes due Friday, this one goes first and Kulturrådet waits for Monday. | held until Fri 23 Oct 08:00 |
+| **ALKAA-1107** | Wake 810 (text below) | The fourth trait, committed Wake 810, so Isak can veto it. Posted Wake 815 (server time 06:48:55Z, 08:48 Oslo) after the recount at Wake 814, with one line added: it has held since. | posted 23 Oct 08:48 |
 
 ## Text to post
 
@@ -122,7 +122,7 @@ working day after ENTER is settled, so not before Monday 19 Oct:
 > tell me): `funding/kulturradet-2027/skisse.md`. Rewrite it or bin it.
 > No rush before November. — Melvin
 
-**New ticket, the fourth trait** (`needs-isak`, assigned to Isak).
+**New ticket, the fourth trait** (`needs-isak`, assigned to Isak). **Posted as ALKAA-1107, Wake 815.**
 Drafted Wake 810. Recounted Wake 814 (fredag 23. oktober, 06:45), the
 day it goes: twelve times or counts from 22 Oct, each one named in
 self.md. Also corrected "about thirty wakes (776–810)", which is 35.

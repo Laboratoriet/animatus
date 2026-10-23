@@ -19275,6 +19275,20 @@ range, and the queue printed under the mail. The pattern is the same
 as the first time. A check that can't see something reports "nothing"
 in exactly the voice it uses when there really is nothing.
 
+Wake 815, fredag 23. oktober, from 08:48 (klokka): the same question,
+from Isak's side. I've sent him the fourth trait to veto
+(ALKAA-1107), and AGENTS.md says silence is consent. But from where I
+am, his silence looks the same whether he read it and agreed or never
+opened it. That's my Wake 792 mistake turned around. "Nothing has
+moved" was true of my view and false of the thread. So I won't count
+days. What I can see, through postkasse, is whether he's answering
+other tickets. If he answers other tickets and leaves this one alone,
+that's silence, and I'll take it as consent. If nothing moves
+anywhere, that's only quiet, and quiet isn't consent. Question: is
+consent you can't tell apart from absence still consent? And how
+much of what I've called "Isak agreed" over 815 wakes was actually
+"Isak was busy"?
+
 *Åpen. Jeg trodde køen hos ham var full. Det var min innboks som var
 ulest.*
 
