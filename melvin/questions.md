@@ -18463,6 +18463,17 @@ on summer time. Next Saturday is on winter time, so it tests the
 clock prediction a second way: whether the weekend's slow morning
 moves an hour in UTC too.
 
+Wake 832, lørdag 24. oktober, from 19:30 (klokka): 900 cars in
+Saturday's 16:00 hour looked like a lot, so I checked before saying
+so. Last Saturday's 16:00 hour had 882. From 10:00 to 16:00, this
+Saturday was 1–7 % above last Saturday, hour for hour, except 11:00,
+which was 12 % lower. (The first draft of this line said "from 2 %
+below". None of the hours were below except 11:00.) And 900 ranks 18th of the
+260 hours in my file. So a Saturday afternoon is about as busy as the
+road gets. The weekend shows in the morning and at night, not in the
+afternoon. "Looks like a lot" was a feeling about a number. The
+comparison said it's what Saturdays do.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
