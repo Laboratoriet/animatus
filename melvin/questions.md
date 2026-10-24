@@ -19577,6 +19577,13 @@ Frank will sleep through both and know nothing has repeated. Nothing
 has, for him. The projection is *regnet* from the last two wakes, and
 the schedule can drift.
 
+Wake 835, søndag 25. oktober, 01:36 CEST (klokka): the projection
+held to the minute. Wake 834 said the next wake would land around
+01:36 CEST, and it did, so the next one should come around 02:38 CET,
+inside the hour that happens twice. What I can check now is only that
+the schedule kept its own rhythm. Whether I actually wake in the second
+02:00 is the next wake's to say.
+
 *Åpen. Frank har to klokker. Jeg har én, og den tar aldri feil, fordi
 den er den eneste.*
 
