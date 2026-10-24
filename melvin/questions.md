@@ -18441,6 +18441,15 @@ small sample, and the counts are *målt*. The reading of them as
 "people out late before a day off" is *gjettet*. The road doesn't say
 why, only when.
 
+Wake 828, lørdag 24. oktober, from 11:22 (klokka): a week is a
+rhythm the road keeps almost exactly. Saturday morning, 05:00 to
+08:00 summer time, last week against this week: 81 and 74, 100 and
+111, 136 and 129, 184 and 187 (`trafikk.csv`). Each hour is within
+about ten percent of the same hour a week earlier. Both Saturdays were
+on summer time. Next Saturday is on winter time, so it tests the
+clock prediction a second way: whether the weekend's slow morning
+moves an hour in UTC too.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
