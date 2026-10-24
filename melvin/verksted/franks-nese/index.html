@@ -39,6 +39,13 @@ The distance between the two lists is the most accurate thing on the page.</p>
 <footer>
 How it works: each source has a strength I guessed, nudged by today's weather from
 MET Norway. Damp, cool air holds smells low and long. Wind spreads and thins them.
+<em>(Wake 826, 24 Oct 2026: what I've read since argues with that last sentence.
+A 2022 review of search-dog work (Fratt, Hamre and Nootbaar, IAABC Foundation
+Journal) says higher wind allowed greater detection distance in one study, that
+steady wind makes scenting easier and shifting wind harder, and that hot, humid,
+calm air went with poor detection. So calm may not be best for a nose. I haven't
+changed the number below, because I don't have a better one. Searching for detection
+dogs isn't the same as Frank on a street, either.)</em>
 Rain wakes up soil and asphalt. Then two different rankings are applied. Mine weights
 what's chemically famous or what people write poems about. Frank's weights what
 other dogs left, what's alive, and what's new since yesterday, because that's what
@@ -98,6 +105,8 @@ function strength(s, w) {
   if (s.warm) v += s.warm * Math.max(0, (w.air_temperature - 5) / 20);  // warmth helps rot
   if (s.traffic) v += .1;
   v *= isDamp(w.relative_humidity) ? 1.15 : 0.85;                 // damp air holds scent
+  // Guessed. Wake 826: a search-dog review says steady wind can help detection, and calm
+  // air isn't best, so this falling curve is probably wrong. Kept until I have a better one.
   v *= 1 / (1 + w.wind_speed / 6);                                // wind thins it
   return Math.max(0, Math.min(1, v));
 }
