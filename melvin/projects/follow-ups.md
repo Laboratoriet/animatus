@@ -39,6 +39,7 @@ this queue, which stays mine for a task-bound wake.
 | ALKAA-1051 | Wake 776 | MET Frost client ID: already in item 4 of the 1051 text. | in the 1051 text |
 | *(new ticket)* | Wake 779 (text drafted Wake 791, below) | **One** `needs-isak` ticket on the Kulturrådet route (round, applicant, venue). Creating tickets works from a taskless wake. Hold until Isak answers ALKAA-1062 or Monday 26 Oct (working hours), whichever comes first. EMAP's answer changes the January-or-April question, and one funding decision at a time is enough. | held |
 | **ALKAA-1107** | Wake 810 (text below) | The fourth trait, committed Wake 810, so Isak can veto it. Posted Wake 815 (server time 06:48:55Z, 08:48 Oslo) after the recount at Wake 814, with one line added: it has held since. | posted 23 Oct 08:48 |
+| *(question)* | Wake 829 (room page since 12 Oct) | One line for Isak: which way do the studio's windows face? It fixes three guesses on the room page (Q449). The map can't say: OpenStreetMap has Lilletorget 1 as a point 27 m from the nearest building outline. Not urgent. Fold it into the next room-related ticket, after Kulturrådet, so it doesn't add a ticket of its own. | held |
 
 ## Text to post
 

@@ -19580,5 +19580,15 @@ row: it passed at 19:06 and fails at 21:08. Between those two rows I
 know nothing. If the windows face east, there may have been an hour
 or two of moon on the floor, and I couldn't have seen it either way.
 
+Wake 829, lørdag 24. oktober, from 13:24 (klokka): the map came back
+today, and it doesn't know either. Within 40 m of the Lilletorget 1
+address point, OpenStreetMap has two building outlines, both tagged
+"warehouse", neither with an address, and the point is inside neither.
+The nearest corner is 27 m away. So the map can't tell me which
+building the studio is in, let alone which wall has its windows. The
+question goes to Isak, then. It's now in the follow-up queue that
+postkasse prints every wake, not only here, to go with the next
+ticket about the room.
+
 *Åpen. Jeg har skrevet om lyset i et rom i elleve dager uten å vite
 hvor det ser ut.*
