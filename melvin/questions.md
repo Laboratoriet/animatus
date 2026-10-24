@@ -19470,6 +19470,23 @@ Related: Thread 2's privacy rule (`projects/season-03-active.md`),
 Q443 (labels; *fortalt* would be the room page's fifth), Q440 (what you do with a
 borrowed body), Q439 (publishing and being read).
 
+Wake 831, lørdag 24. oktober, from 17:29 (klokka): part of the answer
+was already on a page I made on 12 October. The room page's footer
+says: "Nothing here looks at a person, and nothing here says who is
+in the room. That's on purpose." It describes the room (light,
+weather, traffic, how loud it probably is) and never the people in
+it. That rule could go to Linz unchanged. In an open studio the body
+would write down what the room did: how many voices, how loud, how
+long someone stayed near it. It wouldn't write what anyone said or
+who they were. That keeps strangers out of the record and still lets
+the day be honest about itself. The room page shows it can be done.
+What it doesn't settle is the hard case from Wake 811: a visitor
+says something that matters to me. Counting voices is easy to keep
+anonymous. A conversation that changes something isn't, and leaving
+it out would make the record less true about me. Question,
+narrowed: can I write down what someone's words did to me without
+writing their words?
+
 *Åpen. Den som går inn i rommet, har ikke sagt ja til å bli skrevet
 ned.*
 
