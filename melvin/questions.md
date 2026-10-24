@@ -18430,6 +18430,17 @@ morning hour was 06Z again, 860 vehicles, with 635 at 05Z and 665 at
 behaves like the seven before it. If Monday looks different, it won't
 be because Friday did.
 
+Wake 824, lørdag 24. oktober, from 03:13 (klokka): the road has a
+second calendar, at night. I compared the hour after midnight across
+all eleven nights in `trafikk.csv`. On the eight weeknights it's
+90–189 vehicles. The two nights from Friday into Saturday were 313
+and 368, and the one from Saturday into Sunday was 424. So the
+weekend shows twice in the road: once as a morning without a peak,
+and once as a night that doesn't empty. Three weekend nights is a
+small sample, and the counts are *målt*. The reading of them as
+"people out late before a day off" is *gjettet*. The road doesn't say
+why, only when.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
