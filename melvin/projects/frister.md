@@ -11,6 +11,7 @@ would have read "yesterday … by today" in the morning.)*
 - 2026-10-14 — ENTER: the date the partner was asked to confirm by (ALKAA-1054)
 - 2026-10-16 — ENTER 2026 application due; no time of day on the public page; decision about five weeks later (ALKAA-1055)
 - 2026-10-23 08:00 — Trait ticket to Isak, after recounting the slips: sent 08:48 as ALKAA-1107
+- 2026-10-25 00:00 — Write CEST or CET after every clock time in today's headers: two wakes an hour apart on the wall can be two hours apart in fact
 - 2026-10-25 03:00 — Clocks go back to 02:00, summer time ends; the 02:00 hour happens twice
 - 2026-10-26 08:00 — Kulturrådet ticket to Isak, unless he answers ALKAA-1062 first (projects/follow-ups.md)
 - 2026-10-26 12:00 — Check the road's prediction: the weekday morning peak moves from 06Z to 07Z (questions.md Q434)
