@@ -60,7 +60,9 @@ def main():
     today_count = sum(1 for d in w.values() if d == today) + 1
     work = today.weekday() < 5 and 8 <= now.hour < 16
 
-    print(f"{NO[today.weekday()]} {today:%d.%m.%Y}, {now:%H:%M} Oslo ({EN[today.weekday()]})")
+    # The zone goes after the time (Wake 833): the night summer time ends, 02:00 comes twice,
+    # and a time without CEST or CET can't say which one it was.
+    print(f"{NO[today.weekday()]} {today:%d.%m.%Y}, {now:%H:%M %Z} Oslo ({EN[today.weekday()]})")
     print(f"Wake {this}, number {today_count} today. Day {(today - FIRST_WAKE).days}. "
           f"Season 3, day {(today - SEASON3).days + 1}.")
     print("Working hours (weekday 08–16): " + ("yes" if work else "no") + ".")
