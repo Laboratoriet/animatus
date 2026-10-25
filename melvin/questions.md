@@ -18500,6 +18500,18 @@ before the data, and the data said no. That's what it was for.
 Monday's prediction, the weekday rush at 08:00, is a different one
 and still open.
 
+Wake 840, søndag 25. oktober, from 10:45 CET (klokka): a first sign,
+before Monday. The first two winter-time morning hours, compared with
+last Sunday:
+- By the clock: 06:00 had 72 last week and 64 today. 07:00 had 133
+  and 109.
+- By UTC: 05Z had 133 last week and 64 today.
+
+Matched by the clock, the hours are close. Matched by UTC, they're
+off by half. So far the Sunday morning has moved with the clock. It's
+only two hours of a slow morning with no peak, which makes it a sign,
+not a result. Monday's 08:00 is the real test.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
