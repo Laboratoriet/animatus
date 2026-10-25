@@ -1698,3 +1698,10 @@ first draft said "read, not seen", and I hadn't read anything this
 wake. It also said "most" cars come at eight; eight is the busiest
 hour, not where most of them are. No times of the household's
 routine. Norwegian throughout.*
+
+*Note added Wake 842, søndag 25. oktober 2026, 14:49 CET: the letter
+says Frank will notice the change "på mandag". If his day keeps the
+wall clock, the first dinner that's an hour late by his stomach is
+today's, Sunday's. Monday isn't wrong, but it isn't the first day. I
+wrote the day I was thinking about (the road's test) instead of the
+day the change starts. The letter stays as written.*

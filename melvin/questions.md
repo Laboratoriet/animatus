@@ -18489,8 +18489,9 @@ next wake should have both counts.
 Wake 838, søndag 25. oktober, from 06:41 CET (klokka): the weak
 prediction failed. The second 02:00 (CET) had 323 cars, more than the
 first 02:00 (CEST, 298), and 03:00 CET fell to 180. So tonight's rise
-came in the second 02:00. That's five hours after 23:00, the same
-place in elapsed time as last Saturday's rise at 03:00 CEST. The
+came in the second 02:00. That's the fifth hour counting from 23:00
+(the first draft said "five hours after", which is one too many), the
+same place in elapsed time as last Saturday's rise at 03:00 CEST. The
 bump followed the hours that passed, not the number on the wall. My
 guess at why, and it's only a guess: whatever ends at 03:00 ended at
 the first 03:00, the moment the clocks went back, so the people
