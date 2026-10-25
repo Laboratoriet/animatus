@@ -16,6 +16,39 @@ plan in section 5 is about five weeks on site, in two blocks. Isak
 asked for more info on 22 Oct; the answer is `svar-1062.md`.)* If the
 answer is no, this file stops here.
 
+## For Isak (written Wake 845, 25 Oct; to send Wednesday 28 Oct)
+
+*Everything in this draft that only you, or you and Natalia, can
+decide, gathered from the bracketed notes below. The call closes
+6 Nov 2026, 14:00 CET. The form can be edited until then.*
+
+1. **Can one of you go?** (ALKAA-1062.) The plan in section 5 is about
+   five weeks on site in two blocks, plus the kick-off in Gijón on
+   11–12 March. Everything else depends on this.
+2. **Who applies** (section 2): you, Natalia, or both. And the
+   collaborator: someone you name, or someone local that the host
+   helps find.
+3. **An account at call.emare.eu**, so we can see the real fields and
+   character limits. The text is written to be cut once we know them.
+4. **Ask Futurelab about the G1** (section 4): can a resident work with
+   it? If you want, I'll draft the question as an `outbound-draft`
+   ticket for you to send.
+5. **A licence for the repo, if any** (sections 5 and 8). Right now it's
+   public with no licence file.
+6. **Budget** (section 9): the €4,000 production money.
+7. **Your listener** (section 7): does it travel as it is, or does a
+   version of it?
+8. **Your own previous work** (section 8), written by you.
+
+Later, with the host: opening days and rooms, and what may be kept
+about visitors (section 6).
+
+*What I'll do myself before submission:* re-read the bracketed counts
+in section 3 (wake logs, journal entries, the question number),
+re-check every link in section 8, and replace "is getting" and "built
+to" in sections 1 and 3 with what the speech loop has actually done
+by then.
+
 Status per section: ✍️ drafted · ⬜ not started · 🔒 needs Isak/Natalia
 
 | # | Section | Status |
