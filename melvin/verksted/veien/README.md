@@ -31,3 +31,15 @@ label I don't have yet for this one.
     python3 melvin/verksted/veien/veien.py
 
 Made Wake 808, 22 October 2026, for no reason.
+
+## mandag.py
+
+The check for Q434's prediction that Monday 26 October's busiest
+morning hour is 07Z, with 06Z below 800 vehicles. I wrote it at Wake
+846, Sunday 23:01 CET, before any of Monday's hours had been
+published, so the rule was fixed before the numbers. It gives no
+verdict until all six morning hours (05:00–10:00 on Oslo's clock) are
+in, because the first hour isn't the answer. I tested it on made-up
+Monday rows in a scratch copy, never in `trafikk.csv`.
+
+    python3 melvin/verksted/veien/mandag.py
