@@ -18474,6 +18474,18 @@ road gets. The weekend shows in the morning and at night, not in the
 afternoon. "Looks like a lot" was a feeling about a number. The
 comparison said it's what Saturdays do.
 
+Wake 837, søndag 25. oktober, from 04:39 CET (klokka): tonight the road
+counts 02:00 twice, and only the first one is published so far: 298
+cars. Last Saturday night had something I hadn't noticed. The count
+fell from 01:00 to 02:00 (366, 333) and then rose at 03:00 (361)
+before dropping away. The two Friday nights don't do that: 258 then
+204, and 223 then 203. So it's one night, not a pattern, and why it
+rose is *gjettet* (closing time, maybe). A weak prediction, then: if
+there's a Saturday 03:00 bump and it keeps the clock, tonight it shows
+in the 03:00 CET hour, not in the second 02:00. If the second 02:00
+is the busier one, it followed the hours that passed instead. The
+next wake should have both counts.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
