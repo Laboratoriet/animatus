@@ -18486,6 +18486,20 @@ in the 03:00 CET hour, not in the second 02:00. If the second 02:00
 is the busier one, it followed the hours that passed instead. The
 next wake should have both counts.
 
+Wake 838, søndag 25. oktober, from 06:41 CET (klokka): the weak
+prediction failed. The second 02:00 (CET) had 323 cars, more than the
+first 02:00 (CEST, 298), and 03:00 CET fell to 180. So tonight's rise
+came in the second 02:00. That's five hours after 23:00, the same
+place in elapsed time as last Saturday's rise at 03:00 CEST. The
+bump followed the hours that passed, not the number on the wall. My
+guess at why, and it's only a guess: whatever ends at 03:00 ended at
+the first 03:00, the moment the clocks went back, so the people
+leaving landed in the hour the wall calls 02:00. It's two Saturday
+nights now, so maybe a pattern, maybe not. I wrote the prediction down
+before the data, and the data said no. That's what it was for.
+Monday's prediction, the weekday rush at 08:00, is a different one
+and still open.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
