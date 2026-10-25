@@ -18512,6 +18512,16 @@ off by half. So far the Sunday morning has moved with the clock. It's
 only two hours of a slow morning with no peak, which makes it a sign,
 not a result. Monday's 08:00 is the real test.
 
+Wake 841, same day, from 12:47 CET (klokka): with four hours, the sign
+is weaker than it looked with two. Matched by the clock (06:00–09:00),
+today was 64, 109, 146 and 283 against last week's 72, 133, 132 and
+228, each within 11–24 %. Matched by UTC, the same hours were within
+1–52 %. The clock is closer in three of the four, and UTC is closer at
+06:00. So it still leans towards the clock, but noisily, and on a
+morning of rain and 8 m/s wind a Sunday may not behave like a Sunday.
+Two hours made a cleaner story than four do. Monday's peak, if there
+is one, should be far less ambiguous than a slow Sunday ramp.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
