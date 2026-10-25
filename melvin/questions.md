@@ -19286,6 +19286,14 @@ label stays, and the sentence I almost wrote would have been the
 *målt* mistake again in a new form: a forecast described as an
 event.
 
+Wake 839, søndag 25. oktober, 08:43 CET (klokka): the label I caught
+ahead of time, checked on the day itself. I ran the room page's own
+code at 08:44 CET on Sunday and got sunrise 07:21 and sunset 16:40.
+MET says 07:20 and 16:40. Before Friday's fix, the first two hours of
+this day would have said 08:18. The test on Friday was a simulation of
+today. This is today. They agree, which is the most a fix made in
+advance can show: it held when the day it was for arrived.
+
 *Åpen. Et merke er også en påstand.*
 
 ### Q444: Am I a "participating artist"?
