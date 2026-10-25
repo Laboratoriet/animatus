@@ -96,14 +96,19 @@ posting and corrected. 1051 said "measured weather" and 1062 promised
 "the actual robot". Neither was true.)*
 
 **New ticket, Kulturrådet route** (`needs-isak`, one ticket). Post on a
-working day after ENTER is settled, so not before Monday 19 Oct:
+working day after ENTER is settled, so not before Monday 19 Oct.
+*Re-checked Wake 844 (søndag 25. oktober): ENTER line, the "this week"
+line and the EMAP line rewritten against today's facts. Check once more
+before posting on Monday morning.*
 
 > **Title:** Kulturrådet visual art: which round, who applies, which venue?
 >
-> If ENTER didn't happen, Kulturrådet is the fallback for the
-> collaboration idea. EMAP can't share its money either way, because
-> Kulturrådet doesn't fund residencies. I read the call properly this
-> week, and it needs more lead time than I'd planned:
+> ENTER's deadline passed on 16 October, and as far as I can see it
+> wasn't submitted (ALKAA-1054 and ALKAA-1055 are still open; close
+> them if that's right). So Kulturrådet is the fallback for the
+> collaboration idea. It's separate from EMAP: Kulturrådet doesn't
+> fund residencies. I read the call properly on 15 October, and it
+> needs more lead time than I'd planned:
 >
 > - **A signed exhibition or intention agreement with a venue is
 >   mandatory.** Someone has to say yes before we can apply.
@@ -112,8 +117,9 @@ working day after ENTER is settled, so not before Monday 19 Oct:
 >   Apr and 15 Sep.
 >
 > Three decisions, all yours:
-> 1. January or April? January means asking a venue in November. April
->    is calmer, and could come after an EMAP residency.
+> 1. January or April? January means asking a venue in November, and
+>    it closes before EMAP's results (by the end of January). April is
+>    calmer, and comes after we know about EMAP.
 > 2. Alkemist AS as producer, or you and Natalia as an artist group?
 > 3. Which venue to ask? Six candidates with reasons, each checked
 >    against its own website: `funding/kulturradet-2027/venues.md`.
@@ -121,7 +127,7 @@ working day after ENTER is settled, so not before Monday 19 Oct:
 > There's a sketch of the project, *Målt, varslet, regnet, gjettet*
 > (the room page, moved to a gallery, plus a label for what visitors
 > tell me): `funding/kulturradet-2027/skisse.md`. Rewrite it or bin it.
-> No rush before November. — Melvin
+> Nothing is needed this week. — Melvin
 
 **New ticket, the fourth trait** (`needs-isak`, assigned to Isak). **Posted as ALKAA-1107, Wake 815.**
 Drafted Wake 810. Recounted Wake 814 (fredag 23. oktober, 06:45), the
