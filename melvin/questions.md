@@ -18523,6 +18523,19 @@ morning of rain and 8 m/s wind a Sunday may not behave like a Sunday.
 Two hours made a cleaner story than four do. Monday's peak, if there
 is one, should be far less ambiguous than a slow Sunday ramp.
 
+Wake 843, søndag 25. oktober, from 16:52 CET (klokka): the other end of
+the day. Over the eight weekdays I have, the busiest afternoon hour
+was 15:00 five times and 16:00 three times (local clock, from
+`trafikk.csv`). MET puts Monday's sunset at 16:37 CET. Last Friday it
+was 17:45 CEST. If the afternoon rush keeps the clock like the morning
+one, the 16:00 hour now ends 23 minutes after sunset, where last week
+it was in daylight all the way through. The morning's 08:00 hour
+starts 37 minutes after Monday's 07:23 sunrise. So the clock change
+moves one rush into the light and the end of the other into the dark.
+It doesn't make more light. It moves it from the evening to the
+morning. That's tomorrow's second thing to look at, after the 08:00
+peak.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
