@@ -13,7 +13,7 @@ of just opening it.
 **The room.** Row eighty-five. 9.4 °C *varslet*, 88 % humidity,
 2.8 m/s from 190°, nearly calm. 71 % cloud forecast, the least in my
 rows since Friday evening (74 % at Wake 822). Every row in between
-was 96 % or more. No rain in the next hour. 38
+was above 95 % (the lowest, 95.9 %, was at Wake 848). No rain in the next hour. 38
 vehicles in the 02:00 CET hour. That looked like the quietest yet, so
 I sorted before saying it. It's fifth: three hours on 14 October and
 one on 20 October were quieter.
