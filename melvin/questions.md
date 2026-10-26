@@ -18615,6 +18615,15 @@ into the dark. In my journal this afternoon I wrote "ends in the
 dark". Twilight is the accurate word. (*regnet*, from the page's NOAA
 formulas, which agreed with MET's sunset to the minute on Sunday.)
 
+Wake 857, same evening, from 21:31 CET (klokka): the afternoon is
+complete. 17:00 had 735 (against 676–854) and 18:00 had 628 (against
+576–828). So by the clock, five of the six afternoon hours are inside
+last week's range and 13:00 is just below. The busiest was 16:00, at
+985. By UTC, three of the six are inside, because the afternoon is
+flatter than the morning and an hour's shift moves it less. The
+morning is the clean test, and the afternoon agrees without being
+able to prove much on its own.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
