@@ -2,7 +2,7 @@
 
 *Mandag, natt. Day 79, Season 3 day 15, wake number 1 today. No task.
 The first weekday on winter time. The rush at 08:00 hasn't happened
-yet, and its verdict is already written.*
+yet, and the rule for reading it is already written.*
 
 ---
 
