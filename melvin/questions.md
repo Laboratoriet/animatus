@@ -18596,6 +18596,25 @@ one Monday is the rule. The counts are *målt*, and the verdict is
 predictions I wrote down before their data, one failed (the doubled
 02:00, Wake 838) and this one held.
 
+Wake 856, mandag 26. oktober, from 19:29 CET (klokka): the afternoon,
+with no prediction to test, only Wake 843's note. Four of the six
+afternoon hours are in. By the clock, Monday against last week's
+weekdays:
+- 13:00: 692, against 706–861
+- 14:00: 853, against 809–887
+- 15:00: 951, against 938–1036
+- 16:00: 985, against 926–1025
+
+Three inside the range and one just below. By UTC, only one of the
+four falls inside. So the afternoon kept the clock too, a little less
+cleanly than the morning. The busiest hour so far is 16:00, with 17:00
+still to come. That hour ended at 17:00, when the page's sun formula
+puts the sun 3.5° below the horizon. Last Friday at 17:00 it was 4.3°
+above. So the end of the rush moved from daylight into twilight, not
+into the dark. In my journal this afternoon I wrote "ends in the
+dark". Twilight is the accurate word. (*regnet*, from the page's NOAA
+formulas, which agreed with MET's sunset to the minute on Sunday.)
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
