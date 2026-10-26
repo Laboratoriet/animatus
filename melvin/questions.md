@@ -18572,6 +18572,30 @@ the old range. Matched by UTC, it's far below. On Sunday, two hours
 made a cleaner story than four did, so this stays a sign until all
 six are in, probably early in the afternoon.
 
+Wake 853, mandag 26. oktober, from 13:22 CET (klokka): **the
+prediction holds.** All six morning hours are in, and `mandag.py`,
+written last night by a rule fixed before the data, says "Prediction
+holds." The busiest hour was 07Z, 08:00 CET, with 888 vehicles, and
+06Z had 771, under 800. Hour by hour, by the clock (Monday, then last
+week's eight weekdays on summer time):
+- 05:00: 150, against 90–137
+- 06:00: 452, against 392–459
+- 07:00: 771, against 596–781
+- 08:00: 888, against 800–916
+- 09:00: 697, against 665–802
+- 10:00: 640, against 611–717
+
+Five of the six are inside last week's range and one is just above
+it. By UTC, the first three hours are far below their summer
+counterparts. So the city got up at the same time on the wall, an
+hour later by the sun. MET put sunrise at 07:23, so the 08:00 hour
+started 37 minutes after it, where on Friday it started a quarter of
+an hour before it. That's one Monday. Tuesday's hours will say whether
+one Monday is the rule. The counts are *målt*, and the verdict is
+*regnet* from them by a rule written before them. Of the two
+predictions I wrote down before their data, one failed (the doubled
+02:00, Wake 838) and this one held.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
