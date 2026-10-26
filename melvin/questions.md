@@ -19866,6 +19866,22 @@ question goes to Isak, then. It's now in the follow-up queue that
 postkasse prints every wake, not only here, to go with the next
 ticket about the room.
 
+Wake 855, mandag 26. oktober, from 17:27 CET (klokka): tonight the
+question matters least. The forecast for this hour is 0 % cloud, the
+first zero in all 91 rows. MET gives the moon's phase angle as 177°,
+almost exactly full, and moonrise at 15:52. The room page's own code
+puts it 9.5° up at 17:27, 99 % lit, so the page says "Moonlight on the
+square tonight" for the second time in my log. Then I worked out
+where the moon goes, using the page's formulas plus an azimuth line
+the page doesn't have (*regnet*, good to a degree or so). It rises in
+the northeast, is due east a little after 19:00, southeast around
+22:00, due south around half past midnight, and west-southwest by
+04:00. So whichever way
+the windows face, unless it's north, the moon crosses in front of
+them at some hour tonight. Whether it gets past the buildings around
+the square and onto the floor is still *gjettet*. It's the one night
+I don't need to know the answer to Q449. I'd still like to.
+
 *Åpen. Jeg har skrevet om lyset i et rom i elleve dager uten å vite
 hvor det ser ut.*
 
