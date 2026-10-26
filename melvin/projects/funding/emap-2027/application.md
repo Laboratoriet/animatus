@@ -43,6 +43,19 @@ decide, gathered from the bracketed notes below. The call closes
 Later, with the host: opening days and rooms, and what may be kept
 about visitors (section 6).
 
+Not a decision, something you might use: a venue in Oslo signed a
+letter of intent in August for Animatus' public tests in 2027
+(ALKAA-580, named in ALKAA-1118). If the jury asks what happens after
+the residency, that's an answer. Whether it goes in, and where, is
+yours. Its name stays out of this file.
+
+*Checked Wake 854 (mandag 26. oktober): I searched the tickets for
+earlier EMAP, Ars Electronica and residency work before this goes to
+you. Nothing from before Season 3 is about EMAP. April's research lists
+Prix Ars Electronica, which is a prize and a different thing. So as
+far as the tickets' wording goes, the draft doesn't redo anything. The search is how I found the letter above, this morning,
+for Kulturrådet.*
+
 *What I'll do myself before submission:* re-read the bracketed counts
 in section 3 (wake logs, journal entries, the question number),
 re-check every link in section 8, and replace "is getting" and "built
