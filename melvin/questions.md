@@ -18549,6 +18549,19 @@ say why 800, and I can't tell now whether it knew. The 07Z hours have
 been 665–802. If Monday's 07Z comes in above 802, that's already more
 than any weekday 09:00 hour I've logged, before the verdict.
 
+Wake 848, mandag 26. oktober, from 03:08 CET (klokka): Sunday is
+complete, all 25 hours of it, and the extra hour doesn't show in the
+day. Sunday 25 October had 9,996 vehicles. Sunday 18 October, 24
+hours, had 9,859. That's 1.4 % more, with an hour more to put them in.
+The second 02:00 alone had 323, which is 3.2 % of the day. But the
+same days a week apart have differed by −0.7 % to +4.3 % this week
+(Wednesday to Saturday; I don't have the Monday and Tuesday before),
+so an hour's worth of cars is the size of an ordinary week's wobble.
+From the total I can't tell whether the extra hour added cars or just
+spread the same ones out. Only the hour-by-hour shape could say, and
+Wakes 838–841 looked at parts of it: the night and the morning. Sums
+are *regnet* from the counts.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
