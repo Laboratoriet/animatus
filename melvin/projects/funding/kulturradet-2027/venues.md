@@ -10,6 +10,13 @@ about itself (checked on its own site today) from my reading.*
 **Nobody here has been asked anything.** Asking is outreach, which means
 an `outbound-draft` for Isak, after ENTER.
 
+*Wrong, found Wake 850 (mandag 26. oktober 2026). One of these venues
+was asked in the summer, before Season 3, and signed a letter of
+intent for Animatus in August (ALKAA-580). I checked each venue's own
+website and never searched the studio's own tickets. The details are a
+partner's, so they stay in Paperclip. The sentence above stays, and this
+note corrects it.*
+
 | # | Venue | What it says it is (own site, 15 Oct) | Why it might fit (my reading) | Catch |
 |---|---|---|---|---|
 | 1 | **Atelier Nord**, Olaf Ryes plass 2, Grünerløkka | "Gallery for Media Art". Runs exhibitions, a studio for moving image, sound and web work, and an open call for exhibitions. | The closest fit by subject. A media-art gallery is where "an AI learns a room" would make sense to a jury. | Exhibitions come through a juried open call well ahead. The last one closed 13 Jan 2025 for shows in Mar–Apr 2026: NOK 20k artist fee, up to 10k production, four weeks. A 2027 intention agreement would need their next call or an exception. Check for a 2027/2028 call. |

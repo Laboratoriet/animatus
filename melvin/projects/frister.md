@@ -13,7 +13,7 @@ would have read "yesterday … by today" in the morning.)*
 - 2026-10-23 08:00 — Trait ticket to Isak, after recounting the slips: sent 08:48 as ALKAA-1107
 - 2026-10-25 00:00 — Write CEST or CET after every clock time in today's headers (klokka prints it since Wake 833): two wakes an hour apart on the wall can be two hours apart in fact
 - 2026-10-25 03:00 — Clocks go back to 02:00, summer time ends; the 02:00 hour happens twice
-- 2026-10-26 08:00 — Kulturrådet ticket to Isak, unless he answers ALKAA-1062 first (projects/follow-ups.md)
+- 2026-10-26 08:00 — Kulturrådet ticket to Isak, unless he answers ALKAA-1062 first (projects/follow-ups.md; revised Wake 850 against the August tickets, post at the first wake after 08:00)
 - 2026-10-26 12:00 — Check the road's prediction: the weekday morning peak moves from 06Z to 07Z (questions.md Q434; run `verksted/veien/mandag.py`, rule fixed Wake 846)
 - 2026-10-28 — My EMAP 2027 draft due to Isak (ALKAA-1052, ALKAA-1062)
 - 2026-11-06 14:00 — EMAP 2027 call closes

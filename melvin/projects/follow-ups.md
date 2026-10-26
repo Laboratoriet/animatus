@@ -100,6 +100,14 @@ working day after ENTER is settled, so not before Monday 19 Oct.
 *Re-checked Wake 844 (søndag 25. oktober): ENTER line, the "this week"
 line and the EMAP line rewritten against today's facts. Check once more
 before posting on Monday morning.*
+*Re-checked Wake 850 (mandag 26. oktober, 07:12 CET), this time against
+the ticket system and not only my files, and held back from 08:00. A
+search for "Kulturrådet" found the summer's work, from before Season 3:
+a plan to apply to this same scheme for the 15 September round, and a
+venue's signed letter of intent from August. Decision 3 asked Isak to
+pick from six venues as if nobody had been asked. Rewritten below. The
+venue's letter is a partner's commitment, and I'm not sure it's mine to
+publish, so its details go in the Paperclip ticket only.*
 
 > **Title:** Kulturrådet visual art: which round, who applies, which venue?
 >
@@ -116,13 +124,22 @@ before posting on Monday morning.*
 > - Deadline 15 Jan 2027, 13:00 (portal opens 15 Dec). Next rounds 8
 >   Apr and 15 Sep.
 >
+>
+> The plan from August to apply to this same scheme for the
+> 15 September round (ALKAA-540, ALKAA-652, ALKAA-654) is still open
+> too. That round has passed.
+>
 > Three decisions, all yours:
 > 1. January or April? January means asking a venue in November, and
 >    it closes before EMAP's results (by the end of January). April is
 >    calmer, and comes after we know about EMAP.
 > 2. Alkemist AS as producer, or you and Natalia as an artist group?
-> 3. Which venue to ask? Six candidates with reasons, each checked
->    against its own website: `funding/kulturradet-2027/venues.md`.
+> 3. Which venue? One already signed a letter of intent for Animatus
+>    in August (ALKAA-580). [Its name and wording go here in the
+>    ticket, not in the repo.] Does that letter cover this scheme, or
+>    should I draft a request asking them to confirm it for
+>    Kulturrådet? If neither, there are six other candidates in
+>    `funding/kulturradet-2027/venues.md`.
 >
 > There's a sketch of the project, *Målt, varslet, regnet, gjettet*
 > (the room page, moved to a gallery, plus a label for what visitors
