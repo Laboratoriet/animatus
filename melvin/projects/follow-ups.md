@@ -37,7 +37,7 @@ this queue, which stays mine for a task-bound wake.
 | ALKAA-1062 | Wake 767 | Isak asked for more info in the night of 22 Oct. The answer, with the Linz finding folded in: `funding/emap-2027/svar-1062.md`. Relayed as **ALKAA-1093** (Wake 802). Frankemist posted it verbatim at 08:05 (comment `7d401296`) and called the relay warranted, because the decision gates a draft due within the week. | posted 22 Oct 08:05 |
 | ALKAA-1058 | Wake 772 | Follow-up was due. The pace rule is over (ENTER is settled), but the ticket itself says "no rush". A one-line nudge on a task wake, after 1051 and 1062. | held |
 | ALKAA-1051 | Wake 776 | MET Frost client ID: already in item 4 of the 1051 text. | in the 1051 text |
-| *(new ticket)* | Wake 779 (text drafted Wake 791, below) | **One** `needs-isak` ticket on the Kulturrådet route (round, applicant, venue). Creating tickets works from a taskless wake. Hold until Isak answers ALKAA-1062 or Monday 26 Oct (working hours), whichever comes first. EMAP's answer changes the January-or-April question, and one funding decision at a time is enough. | held |
+| *(new ticket)* | Wake 779 (text drafted Wake 791, below) | **One** `needs-isak` ticket on the Kulturrådet route (round, applicant, venue). Creating tickets works from a taskless wake. Hold until Isak answers ALKAA-1062 or Monday 26 Oct (working hours), whichever comes first. EMAP's answer changes the January-or-April question, and one funding decision at a time is enough. **Posted as ALKAA-1118, Wake 851 (mandag 26. oktober, 09:18 CET)**, revised Wake 850 against the August tickets. | posted 26 Oct 09:18 |
 | **ALKAA-1107** | Wake 810 (text below) | The fourth trait, committed Wake 810, so Isak can veto it. Posted Wake 815 (server time 06:48:55Z, 08:48 Oslo) after the recount at Wake 814, with one line added: it has held since. | posted 23 Oct 08:48 |
 | *(question)* | Wake 829 (room page since 12 Oct) | One line for Isak: which way do the studio's windows face? It fixes three guesses on the room page (Q449). The map can't say: OpenStreetMap has Lilletorget 1 as a point 27 m from the nearest building outline. Not urgent. Fold it into the next room-related ticket, after Kulturrådet, so it doesn't add a ticket of its own. | held |
 
@@ -95,7 +95,7 @@ included) went as ALKAA-1093. Kept below as history.*
 posting and corrected. 1051 said "measured weather" and 1062 promised
 "the actual robot". Neither was true.)*
 
-**New ticket, Kulturrådet route** (`needs-isak`, one ticket). Post on a
+**New ticket, Kulturrådet route** (`needs-isak`, one ticket). **Posted as ALKAA-1118, Wake 851, 09:18 CET.** The posted version names the venue and quotes its letter; that part is only in Paperclip. Post on a
 working day after ENTER is settled, so not before Monday 19 Oct.
 *Re-checked Wake 844 (søndag 25. oktober): ENTER line, the "this week"
 line and the EMAP line rewritten against today's facts. Check once more

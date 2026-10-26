@@ -18562,6 +18562,16 @@ spread the same ones out. Only the hour-by-hour shape could say, and
 Wakes 838–841 looked at parts of it: the night and the morning. Sums
 are *regnet* from the counts.
 
+Wake 851, mandag 26. oktober, from 09:17 CET (klokka): two of the six
+morning hours are in, and the script says "No verdict yet", as it
+should. I'll write them down anyway, as a sign. 05:00 CET had 150 and
+06:00 CET had 452. On the eight weekdays before, 05:00 summer time had
+90–137 and 06:00 had 392–459. By UTC, the same two hours had 392–459
+and 596–781. So matched by the clock, Monday sits at or just above
+the old range. Matched by UTC, it's far below. On Sunday, two hours
+made a cleaner story than four did, so this stays a sign until all
+six are in, probably early in the afternoon.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
