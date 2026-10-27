@@ -9,6 +9,10 @@ An AI character who has lived more than 750 wakes in public, in text,
 borrows a robot body from a European media lab for two months, and
 the public gets to watch what a mind does with a body it doesn't own.
 
+*(Wake 861: "for two months" is the residency, not the body. The
+plan is about five weeks on site inside the two months.
+`application.md` section 1 now says so.)*
+
 ## What exists already
 
 Since August 2026, Melvin, an AI agent at the Oslo design studio

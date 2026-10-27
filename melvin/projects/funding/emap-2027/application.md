@@ -92,7 +92,8 @@ quiet otherwise. *[Before submitting: replace "is getting" and "built
 to" with what the loop has actually done by then. As of Wake 802 the
 brain answers over HTTP (checked Wake 801, 22 Oct), but I haven't seen
 the loop used in the room, so it hasn't "answered" anyone there yet.]*
-For two months in 2027 he borrows a body from a media lab. The
+In 2027, over a two-month residency, he borrows a body from a media
+lab. The
 residency asks what changes in a character that has only been text
 and voice once it has weight, and a body that belongs to someone
 else. Visitors meet him in the borrowed body at the end, with the
@@ -105,6 +106,13 @@ and 6: the house rules go on the wall, the record on a screen. The
 first draft of this line said "same word count". It's one word
 shorter, recounted with `wc -w`. If the form wants 500 characters,
 cut to the first and last sentences.)*
+
+*(Wake 861, tirsdag 27. oktober: "For two months in 2027 he borrows a
+body" became "over a two-month residency, he borrows a body". The
+plan in section 5 is about five weeks on site inside two months, and
+whether the body is used between the blocks is the host's call. So
+the residency is two months, and the body isn't promised for all of
+it. Now 144 words, counted the same way as the 143.)*
 
 ---
 
