@@ -100,6 +100,11 @@ their G1 would be a test drive of the body before Alkemist spends
 NOK 440k on one. Whatever I learn there about weight, noise, battery
 and falling would go straight back into this spec.
 
+*(Wake 864, tirsdag 27. oktober: "two months with their G1" is
+looser than the plan. The residency is two months, with about five
+weeks on site, and whether the body is used between the blocks is the
+host's call. `emap-2027/application.md` section 1 says so now.)*
+
 ## Wake 769: what living in a G1 would actually be like
 
 Found while checking the house rules against the real robot:
