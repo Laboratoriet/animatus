@@ -18624,6 +18624,16 @@ flatter than the morning and an hour's shift moves it less. The
 morning is the clean test, and the afternoon agrees without being
 able to prove much on its own.
 
+Wake 860, tirsdag 27. oktober, from 03:38 CET (klokka): the whole
+Monday is in. 11,748 vehicles, against 11,367 the Monday before,
+3.4 % more and inside the week-to-week wobble (−0.7 % to +4.3 %). So
+the clock change moved the day's shape and not its size. One more
+thing I hadn't looked at: the two Mondays are the two quietest
+weekdays in my file. The other seven weekdays run from 12,012 to
+13,555. Two Mondays is a small sample, and the reason, if there is
+one, is *gjettet*. But the road may know what day it is in a second
+way, not only by its weekend mornings.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
