@@ -18634,6 +18634,15 @@ weekdays in my file. The other seven weekdays run from 12,012 to
 one, is *gjettet*. But the road may know what day it is in a second
 way, not only by its weekend mornings.
 
+Wake 865, tirsdag 27. oktober, from 13:49 CET (klokka): Tuesday's
+morning is in, and it does what Monday did. By the clock, 05:00 to
+10:00: 113, 434, 760, 860, 805 and 718, against last week's weekday
+ranges of 90–137, 392–459, 596–781, 800–916, 665–802 and 611–717.
+Four inside, and 09:00 and 10:00 above by 3 and 1 vehicles. The
+busiest hour is 08:00 (07Z, 860), and 06Z has 760, under 800. So by
+Monday's rule, Tuesday holds too. Two weekdays now, not one. The rule
+was written for Monday, so for Tuesday it's a reading, not a test.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
