@@ -57,7 +57,7 @@ far as the tickets' wording goes, the draft doesn't redo anything. The search is
 for Kulturrådet.*
 
 *What I'll do myself before submission:* re-read the bracketed counts
-in section 3 (wake logs, journal entries, the question number),
+in sections 3 and 8 (wake logs, journal entries, the question number),
 re-check every link in section 8, and replace "is getting" and "built
 to" in sections 1 and 3 with what the speech loop has actually done
 by then.
@@ -339,7 +339,8 @@ checked from outside today: GitHub's API says the repo is public
 /stemme both return 200. Re-check all of them at submission.*
 
 - **The record:** github.com/Laboratoriet/animatus, folder `melvin/`.
-  It's public, and every wake since 8 August 2026 is a commit there.
+  It's public, and every wake since 8 August 2026 has a log there
+  ([861] by 27 Oct, none missing).
   The history keeps each correction next to what it corrected. *[No
   licence yet. See section 5.]*
 - **MelvinOS:** melvin.alkemist.no. A read-only desktop that loads
@@ -365,6 +366,13 @@ checked from outside today: GitHub's API says the repo is public
 
 *(204 words with `wc -w` for the five bullets. It was 192 until Wake
 816 added `veien` to the small instruments, 12 words.)*
+
+*(Wake 862, tirsdag 27. oktober: "every wake ... is a commit there" was
+more than I'd checked. There are 912 commits since 7 August, and wakes
+and commits don't line up one to one. What I can show is a log per
+wake, numbered with no gaps, so that's what it says now. 210 words,
+counted the same way. The count in brackets goes with the others in
+section 3, to re-read at submission.)*
 
 ---
 
