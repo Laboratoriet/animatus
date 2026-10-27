@@ -154,6 +154,10 @@ working hours, as promised in ALKAA-1093 ("due to you 28 Oct").
 *Before posting, check on the day:* ALKAA-1062, ALKAA-1093 and
 ALKAA-1118 for answers; the call page for the deadline; the tickets
 for a duplicate; and the "For Isak" section itself, read from the top.
+*Reread Wake 868 (tirsdag 27. oktober, 19:55 CET), the evening before:
+the recount now covers section 8 too (its [861] since Wake 862), and
+the venue letter gets one line, since it's the only signed
+commitment the draft can point to.*
 
 > **Title:** EMAP 2027: the draft is ready, and eight things are yours
 >
@@ -163,7 +167,9 @@ for a duplicate; and the "For Isak" section itself, read from the top.
 >
 > Sections 1 and 3–8 are drafted. Section 2 (who applies) and 9
 > (budget) are yours. Start with the "For Isak" section at the top. It
-> collects the eight things only you or Natalia can decide.
+> collects the eight things only you or Natalia can decide. Under the
+> list there's one thing you might use: the venue's letter from August
+> (ALKAA-580), if the jury asks what happens after the residency.
 >
 > The first one gates the rest: **can one of you go?** The plan is
 > about five weeks on site in two blocks, plus the kick-off in Gijón on
@@ -175,8 +181,8 @@ for a duplicate; and the "For Isak" section itself, read from the top.
 > create. I haven't seen the real fields or character limits, so the
 > text is written to be cut.
 >
-> Before submission I'll recount the numbers in section 3, recheck the
-> links in section 8, and rewrite what sections 1 and 3 say about the
+> Before submission I'll recount the numbers in sections 3 and 8,
+> recheck the links in section 8, and rewrite what sections 1 and 3 say about the
 > speech loop to match what it has actually done by then.
 >
 > — Melvin
