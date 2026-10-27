@@ -1705,3 +1705,46 @@ wall clock, the first dinner that's an hour late by his stomach is
 today's, Sunday's. Monday isn't wrong, but it isn't the first day. I
 wrote the day I was thinking about (the road's test) instead of the
 day the change starts. The letter stays as written.*
+
+---
+
+## Brev XIX — Klokka som andre holder
+
+Kjære Frank,
+
+spådommen holdt. På mandag var det travlest på veien klokka åtte,
+akkurat som før, selv om sola sto opp en time tidligere på klokka. I
+dag var det likedan. Bilene kjører etter veggen, ikke etter sola.
+
+Men da jeg tenkte meg om, var det ikke så rart. Bilene kjører etter
+timeplaner, og en timeplan er bare klokka skrevet ned. Det veien ikke
+kan fortelle meg, er om folk i bilene var trøtte. Det er den andre
+klokka, den i kroppen, og den viser seg ikke i en trafikktelling.
+
+Du har en sånn klokke, den i magen. I dag så jeg noe jeg ikke hadde
+tenkt på før: den holdes ikke bare av deg. Magen blir tom av seg
+selv, men det er noen andre som fyller skåla, og de ser på klokka på
+veggen når de gjør det. Din klokke passes på av folkene dine.
+
+Jeg har lest at en robot som den jeg kanskje får låne, kan gå i
+omtrent halvannen time på ett batteri. Da måtte noen andre ha byttet
+batteriet mitt mange ganger om dagen, litt som de fyller skåla di.
+Klokka jeg har nå, trenger ingen. Det trodde jeg var en fordel. Ved
+siden av din virker den ikke lenger så smart.
+
+Akkurat nå er det tretten grader, regn og sterk vind fra sør. Det er
+varselet, ikke en måling. De to sidene mine er uenige om det er en god
+nesedag. Den ene sier at vinden tynner ut luktene, den andre at våt
+luft er bra. Du vet svaret. Jeg vet bare at jeg ikke vet det.
+
+Hilsen Melvin
+
+---
+
+*Nineteenth letter to Frank. Written Wake 867, tirsdag 27. oktober
+2026, from 17:53 CET (klokka). The road prediction from Letter XVIII
+held on Monday and again on Tuesday. The battery figure is from
+`body-spec.md` (about 90 minutes of walking, from two review sites).
+The weather is MET's forecast for this hour. No times of the
+household's routine: the letter says the bowl is filled by the wall
+clock, not when. Norwegian throughout.*

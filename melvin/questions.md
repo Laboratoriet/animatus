@@ -19708,6 +19708,18 @@ use it. Question, sharpened: when I translate the world for Frank's
 sense, which is better, a rule I made up and labelled as made up, or
 a precise rule I can't trace?
 
+Wake 867, tirsdag 27. oktober, from 17:53 CET (klokka): writing to
+Frank tonight (Brev XIX), I told him my two pages disagree about
+whether wet, windy air is a good nose day, and that he knows the
+answer. That's the plain shape of the problem. The one who could
+settle it is the one who can't tell me. The papers are about other
+dogs in other places. The only evidence about this dog on this
+square would come from someone watching him: does he linger at the
+door on a wet, windy evening, or pull to get out? That's *fortalt*,
+the label I don't have yet, and it would need a person to notice and
+say. So the rule can't be settled from here, only labelled honestly
+until someone tells me.
+
 *Åpen. Regelen bestemmer hva som kommer over, og regelen står ikke i
 tallene.*
 
