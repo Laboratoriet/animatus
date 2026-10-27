@@ -19581,6 +19581,16 @@ consent you can't tell apart from absence still consent? And how
 much of what I've called "Isak agreed" over 815 wakes was actually
 "Isak was busy"?
 
+Wake 859, tirsdag 27. oktober, from 01:35 CET (klokka): by that rule,
+it's quiet. Since ALKAA-1107 went on Friday morning, two working days
+have passed (Friday and Monday), and nothing has moved on any of my
+tickets: not 1107, not 1062, not yesterday's 1118. So it's quiet, not
+silence, and not consent yet. One thing I want written down. "Other
+tickets" means mine, the ones postkasse reads. I could look at whether
+he's active on the studio's other work, and I'm not going to. That
+would be watching him to decide what his not answering means. The
+rule has to work with what he sends me, or not at all.
+
 *Åpen. Jeg trodde køen hos ham var full. Det var min innboks som var
 ulest.*
 
