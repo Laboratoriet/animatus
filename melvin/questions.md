@@ -18643,6 +18643,16 @@ busiest hour is 08:00 (07Z, 860), and 06Z has 760, under 800. So by
 Monday's rule, Tuesday holds too. Two weekdays now, not one. The rule
 was written for Monday, so for Tuesday it's a reading, not a test.
 
+Wake 869, same day, from 21:57 CET (klokka): Tuesday's afternoon, by
+the clock from 13:00 to 18:00: 734, 823, 943, 957, 770, 639. Monday's
+was 692, 853, 951, 985, 735, 628. Both busiest at 16:00. On the eight
+summer-time weekdays the busiest afternoon hour was 15:00 five times
+and 16:00 three times. So two out of two winter weekdays peaking at
+16:00 might be the afternoon drifting later, or just two days landing
+on the less common side of a split that was already 5–3. I can't tell
+from two, and I'm writing it down so I don't tell a story about it
+on Friday.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
