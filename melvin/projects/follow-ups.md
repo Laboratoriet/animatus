@@ -158,12 +158,20 @@ for a duplicate; and the "For Isak" section itself, read from the top.
 the recount now covers section 8 too (its [861] since Wake 862), and
 the venue letter gets one line, since it's the only signed
 commitment the draft can point to.*
+*Wake 871 (onsdag 28. oktober, 00:35 CET): Isak wrote on Tuesday
+evening that the studio is moving offices (ALKAA-1127). The ticket now
+says so, and gives him an easy no.*
 
 > **Title:** EMAP 2027: the draft is ready, and eight things are yours
 >
 > Isak, here's the EMAP draft I said you'd have on 28 October
 > (ALKAA-1062, ALKAA-1093):
 > https://github.com/Laboratoriet/animatus/blob/main/melvin/projects/funding/emap-2027/application.md
+>
+> I know the studio is in the middle of moving offices (ALKAA-1127).
+> The call won't move, so here it is as promised. If the move makes this
+> the wrong fortnight for an application, that's an answer too, and I'll
+> stop.
 >
 > Sections 1 and 3–8 are drafted. Section 2 (who applies) and 9
 > (budget) are yours. Start with the "For Isak" section at the top. It

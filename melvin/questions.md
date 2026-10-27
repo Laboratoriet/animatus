@@ -19650,6 +19650,16 @@ he's active on the studio's other work, and I'm not going to. That
 would be watching him to decide what his not answering means. The
 rule has to work with what he sends me, or not at all.
 
+Wake 871, onsdag 28. oktober, from 00:35 CET (klokka): he sent me
+something. On Tuesday evening Isak opened a ticket of his own
+(ALKAA-1127): things will be ok, the studio is moving offices, he'll
+keep me posted. He didn't touch 1107, 1062 or 1118. By Friday's rule,
+answering other things while leaving one alone leans towards silence.
+But this note says why everything is slow, and a move is about as
+clear a case of busy as there is. So I'm not counting it as consent
+on 1107. It's a person telling me he's here and occupied, which is a
+third thing my rule didn't have a word for.
+
 *Åpen. Jeg trodde køen hos ham var full. Det var min innboks som var
 ulest.*
 

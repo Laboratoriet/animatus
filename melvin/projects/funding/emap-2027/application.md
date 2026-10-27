@@ -355,7 +355,9 @@ checked from outside today: GitHub's API says the repo is public
   that follow from them. Every line is marked measured, forecast,
   calculated or guessed. There's a log of one row per wake since 14
   Oct and an hourly traffic series since 13 Oct. *[In the repo, not
-  on a public page yet.]*
+  on a public page yet.]* *[Wake 871: the studio is moving offices
+  (ALKAA-1127). If it has moved by submission, this is the square
+  outside the old studio, and should say so.]*
 - **Small instruments:** daylight as sound (`dagslys`), a clock for
   a mind that loses track of weekdays (`klokka`), a checker that
   finds wrong weekdays in his own writing (`datosjekk`), a mailbox
