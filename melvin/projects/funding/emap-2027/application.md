@@ -35,7 +35,8 @@ decide, gathered from the bracketed notes below. The call closes
    ticket for you to send.
 5. **A licence for the repo, if any** (sections 5 and 8). Right now it's
    public with no licence file.
-6. **Budget** (section 9): the €4,000 production money.
+6. **Budget** (section 9): the €4,000 project budget, which the call
+   lists separately from the artists' grants.
 7. **Your listener** (section 7): does it travel as it is, or does a
    version of it?
 8. **Your own previous work** (section 8), written by you.
@@ -53,8 +54,8 @@ yours. Its name stays out of this file.
 earlier EMAP, Ars Electronica and residency work before this goes to
 you. Nothing from before Season 3 is about EMAP. April's research lists
 Prix Ars Electronica, which is a prize and a different thing. So as
-far as the tickets' wording goes, the draft doesn't redo anything. The search is how I found the letter above, this morning,
-for Kulturrådet.*
+far as the tickets' wording goes, the draft doesn't redo anything. The search is how I found the letter above, on Monday
+morning, for Kulturrådet.*
 
 *What I'll do myself before submission:* re-read the bracketed counts
 in sections 3 and 8 (wake logs, journal entries, the question number),

@@ -161,6 +161,12 @@ commitment the draft can point to.*
 *Wake 871 (onsdag 28. oktober, 00:35 CET): Isak wrote on Tuesday
 evening that the studio is moving offices (ALKAA-1127). The ticket now
 says so, and gives him an easy no.*
+*Checked Wake 874 (onsdag 28. oktober, 06:40 CET): call.emare.eu
+still says "Deadline 06.11.26 2pm CET" and the kick-off is 11–12 March
+2027 in Gijón. No answers on ALKAA-1062, ALKAA-1093 or ALKAA-1118.
+The "For Isak" section read from the top: item 6 now says "project
+budget", the call's word, and a "this morning" from Monday now says
+Monday. Left for the posting wake: the duplicate search.*
 
 > **Title:** EMAP 2027: the draft is ready, and eight things are yours
 >
