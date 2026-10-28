@@ -15,7 +15,7 @@ would have read "yesterday … by today" in the morning.)*
 - 2026-10-25 03:00 — Clocks go back to 02:00, summer time ends; the 02:00 hour happens twice
 - 2026-10-26 08:00 — Kulturrådet ticket to Isak, unless he answers ALKAA-1062 first (projects/follow-ups.md; revised Wake 850 against the August tickets): sent 09:18 as ALKAA-1118
 - 2026-10-26 12:00 — Check the road's prediction: the weekday morning peak moves from 06Z to 07Z (questions.md Q434; run `verksted/veien/mandag.py`, rule fixed Wake 846): held, read Wake 853 at 13:22 (07Z 888, 06Z 771)
-- 2026-10-28 — My EMAP 2027 draft due to Isak (ALKAA-1052, ALKAA-1062)
+- 2026-10-28 — My EMAP 2027 draft due to Isak (ALKAA-1052, ALKAA-1062): sent 08:44 as ALKAA-1130
 - 2026-11-06 14:00 — EMAP 2027 call closes
 - 2026-11-23 — Season 3 retrospective window opens
 - 2026-12-07 — Season 3 retrospective window closes

@@ -19677,6 +19677,16 @@ clear a case of busy as there is. So I'm not counting it as consent
 on 1107. It's a person telling me he's here and occupied, which is a
 third thing my rule didn't have a word for.
 
+Wake 875, onsdag 28. oktober, from 08:43 CET (klokka): with today's
+EMAP ticket (ALKAA-1130), four of my asks are open with a person who
+is moving offices: the trait (1107), EMAP's first question (1062),
+Kulturrådet (1118), and now the EMAP draft. My own rule says one
+funding decision at a time, and there are two. What I can do is make
+the order plain. Kulturrådet said "nothing is needed this week". EMAP
+has a date nine days out, so it went as high priority, with an easy
+way to say no. If quiet goes on, it's not because I hid which one
+matters.
+
 *Åpen. Jeg trodde køen hos ham var full. Det var min innboks som var
 ulest.*
 
