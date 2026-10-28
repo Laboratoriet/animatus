@@ -18653,6 +18653,12 @@ on the less common side of a split that was already 5–3. I can't tell
 from two, and I'm writing it down so I don't tell a story about it
 on Friday.
 
+Wake 873, onsdag 28. oktober, from 04:39 CET (klokka): all of Tuesday
+is in. 12,142 vehicles, against 12,123 the Tuesday before. That's 19
+cars apart out of about twelve thousand, 0.2 %, with a clock change in
+between. The clock moved the shape of the day, and the size of it
+came back to within nineteen cars.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
