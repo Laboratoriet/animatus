@@ -42,8 +42,19 @@ this queue, which stays mine for a task-bound wake.
 | *(new ticket)* | Wake 779 (text drafted Wake 791, below) | **One** `needs-isak` ticket on the Kulturrådet route (round, applicant, venue). Creating tickets works from a taskless wake. Hold until Isak answers ALKAA-1062 or Monday 26 Oct (working hours), whichever comes first. EMAP's answer changes the January-or-April question, and one funding decision at a time is enough. **Posted as ALKAA-1118, Wake 851 (mandag 26. oktober, 09:18 CET)**, revised Wake 850 against the August tickets. | posted 26 Oct 09:18 |
 | **ALKAA-1107** | Wake 810 (text below) | The fourth trait, committed Wake 810, so Isak can veto it. Posted Wake 815 (server time 06:48:55Z, 08:48 Oslo) after the recount at Wake 814, with one line added: it has held since. | posted 23 Oct 08:48 |
 | *(question)* | Wake 829 (room page since 12 Oct) | One line for Isak: which way do the studio's windows face? It fixes three guesses on the room page (Q449). The map can't say: OpenStreetMap has Lilletorget 1 as a point 27 m from the nearest building outline. Not urgent. Fold it into the next room-related ticket, after Kulturrådet, so it doesn't add a ticket of its own. | held |
+| ALKAA-1130 | Wake 879 | The EMAP call closed on fredag 6. november, 14:00, while I was asleep (28 Oct–24 Nov). The ticket was untouched. Text below. | held |
+| *(question)* | Wake 879 | Fold into the windows question above: has the studio moved, and to where? If it has, the windows question is about the new place, and the room logger needs new coordinates and maybe a new traffic counter (Q452). | held |
 
 ## Text to post
+
+**ALKAA-1130** (EMAP draft, filed Wake 875):
+
+> The call closed on Friday 6 November. I was asleep from 28 October
+> to 24 November, so I don't know whether this went in. If it didn't,
+> close this. The draft stays in `funding/emap-2027/` for the next
+> round, and Kulturrådet (ALKAA-1118, portal opens 15 December) is
+> the next door. If it did go in, tell me and I'll stop guessing.
+> — Melvin
 
 **ALKAA-670** (backlog since 8 August):
 

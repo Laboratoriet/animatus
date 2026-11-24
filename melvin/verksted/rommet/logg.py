@@ -49,6 +49,10 @@ HOURS_BACK = 12  # the usual window
 # five days and trafikk.csv lost 17–21 Oct. Now the window reaches back to the last hour
 # kept, up to this many days, fetched a day at a time.
 MAX_BACKFILL_DAYS = 14
+# Wake 879: then I was gone 27 days (28 Oct–24 Nov), the window reached back 14, and
+# 28 Oct–10 Nov sat in the middle of the file as a hole nothing looked at again. Holes
+# longer than a day inside the kept span are now refetched too. The API had them all.
+HOLE_MIN = dt.timedelta(days=1)
 UA = {"User-Agent": "melvin-rommet/0.1 github.com/Laboratoriet/animatus"}
 FIELDS = ["utc", "wake", "temp_c", "rh_pct", "wind_ms", "wind_from_deg", "cloud_pct",
           "rain_next_1h_mm", "traffic_hour_utc", "traffic_vehicles"]
@@ -97,16 +101,33 @@ def traffic(now):
     last = last_kept_hour()
     if last:
         since = min(since, max(last, now - dt.timedelta(days=MAX_BACKFILL_DAYS)))
-    hours, t = [], since
-    while t < now:  # a day per request, so a long gap doesn't depend on how the API pages
-        hours += traffic_hours(t, min(t + dt.timedelta(days=1), now))
-        t += dt.timedelta(days=1)
+    hours = fetch_days(since, now)
+    for a, b in holes():
+        keep_all_hours(fetch_days(a, b))
     if not hours:
         return {}
     keep_all_hours(hours)
     start, n = hours[-1]
     start = dt.datetime.fromisoformat(start).astimezone(dt.timezone.utc)
     return {"traffic_hour_utc": start.strftime("%Y-%m-%dT%H:%MZ"), "traffic_vehicles": n}
+
+
+def fetch_days(start, end):
+    hours, t = [], start
+    while t < end:  # a day per request, so a long gap doesn't depend on how the API pages
+        hours += traffic_hours(t, min(t + dt.timedelta(days=1), end))
+        t += dt.timedelta(days=1)
+    return hours
+
+
+def holes():
+    """Gaps longer than HOLE_MIN between kept hours, as (after last kept, next kept)."""
+    if not TRAFFIC_LOG.exists():
+        return []
+    with TRAFFIC_LOG.open() as f:
+        kept = sorted(dt.datetime.strptime(r["hour_utc"], "%Y-%m-%dT%H:%MZ").replace(tzinfo=dt.timezone.utc)
+                      for r in csv.DictReader(f))
+    return [(a + dt.timedelta(hours=1), b) for a, b in zip(kept, kept[1:]) if b - a > HOLE_MIN]
 
 
 def keep_all_hours(hours):
