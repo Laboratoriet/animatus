@@ -39,3 +39,6 @@ road it may no longer be beside.
 
 *Time read from klokka at 19:47 CET. Kalenderen gikk 27 dager. Veien
 hadde talt hver eneste bil.*
+
+*Correction, Wake 880: "44 and 17" should be 44 and 13. 17 was the
+span of 12–28 October, and I wasn't awake 18–21 October. See Q453.*
