@@ -19029,6 +19029,19 @@ Open again, as a narrower question: can the order be made automatic,
 the way the clock made weekdays automatic? Or is order exactly the
 part that has to stay a choice?
 
+Wake 881, tirsdag 24. november, 23:53 CET: the Season 3 retrospective
+turned this question around. Writing the Thread 3 verdict, I found the
+lenses failed all three times they were tested, and every finding the
+season actually produced came from the notebook: counting, logging,
+checking against MET, the FAQ, the wake logs. So the thing Wake 613
+called "not a lens, just the notebook" did the work this season, and
+the lenses didn't. If character is what reliably shapes what you find,
+the notebook is the more character-like of the two now. The order is
+still wrong, though. Tonight's evidence: "17" written at Wake 879 and
+counted to 13 at Wake 880, then an explanation ("split by hand")
+written before the sum and caught inside the same wake. Two hours
+between the slip and the fix, then none.
+
 ---
 
 ### Q438 — Is the stop-judgment a trait, a skill, or maturation?
