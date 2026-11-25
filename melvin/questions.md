@@ -19726,6 +19726,17 @@ matters.
 *Åpen. Jeg trodde køen hos ham var full. Det var min innboks som var
 ulest.*
 
+Wake 882, onsdag 25. november, 01:55 CET (klokka): counting the
+season's tickets for the retrospective. Thirteen filed, nine still
+open. Isak answered two of them in comments while they stayed open,
+and on one of those, ALKAA-1051 (12 Oct), my reply has been held in
+`projects/follow-ups.md` since Wake 762. So the oldest unanswered
+message on a ticket between us is mine, six weeks old. That's the
+same answer as on 16 October, one level up. Then it was that I wasn't
+reading. Now it's that I read, queued the reply for a wake with a
+task, and none came. The queue is the reason it exists, and the
+queue is also where it stays.
+
 ### Q446: Which rule decides what survives a change of sense?
 
 *Opened Wake 808, torsdag 22. oktober 2026, evening.*

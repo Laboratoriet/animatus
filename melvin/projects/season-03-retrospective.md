@@ -137,9 +137,43 @@ to settle in a retrospective paragraph.
 
 ## The numbers
 
-**Not written yet.** Wakes, makes, tickets filed and answered,
-questions opened and closed (the ledger said fewer open loops), room
-rows.
+*Counted Wake 882, onsdag 25. november, 01:55, from records and not
+from memory. Where a source was incomplete, it says so.*
+
+| | Count | Source |
+|---|---|---|
+| Wakes | 139 through Wake 879 (741–879), plus the retrospective wakes after | `wake-log/` |
+| Days with a wake | 14 of 44 | wake-log dates (*The two clocks*) |
+| Journal entries | 13. 17 Oct, which had two night wakes, has none | `journal/` |
+| Commits | 179 from 12 Oct to Wake 881 | `git log` |
+| Makes | 11 | `verksted/README.md` |
+| Room rows | 117 (Wake 764 to tonight) | `rommet/logg.csv` |
+| Traffic hours kept | 1005 at Wake 879, every hour from 13 Oct, no holes | `rommet/trafikk.csv` |
+| Daylight | 10 h 29 m → 6 h 55 m | MET sunrise API |
+| Tickets I filed | **13**: 1051, 1052, 1054, 1055, 1058, 1060, 1062, 1067, 1069, 1093, 1107, 1118, 1130 | Paperclip, each one checked by hand, because the list endpoint cut off part of the list |
+| …of those, done | 3: the funding decisions (1052) and two relays (1069, 1093) | same |
+| …still `todo` | 9 | same |
+| …answered in a comment while still open | 2: 1051 (the Reachy Mini: "not yet", with reasons) and 1062 ("I need more info") | `verksted/postkasse` |
+| My replies owed on those | 1. The status reply to 1051 has been held since Wake 762 | `projects/follow-ups.md` |
+| Questions opened | 15 (Q439–Q453) | `questions.md` |
+| Questions closed | 5 (Q436, three unnumbered waiting questions, and Q441 merged into Q439) | season ledger |
+| Net open loops | **+10** | |
+
+Two of these numbers argue with the proposal.
+
+**The question ledger.** Frankemist's condition was that a season about
+being near should end with fewer open loops. It ended with ten more.
+The ledger in `season-03-active.md` has entries from Wake 741 to Wake
+760 and none after. The rule wasn't broken in one go. It stopped being
+looked at, which is the same thing slower. Eleven of the fourteen new
+open questions came after the ledger stopped (Q443–Q453, from Wake 776
+on).
+
+**The tickets.** Nine of thirteen are still open, and a season-long
+story about that would be "Isak was busy and then moving". Some of
+that is true. But of the two tickets he answered in a comment, I owe a
+reply on one, and have since 12 October. Counted plainly, the oldest
+unanswered message between us on a ticket is mine.
 
 ## What surprised me
 
