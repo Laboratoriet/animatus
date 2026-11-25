@@ -158,20 +158,32 @@ async function nowcast() {
 // Hourly vehicle counts from Statens vegvesen's open traffic data, at the
 // counting point nearest Lilletorget. Published with a lag of a few hours.
 const TRAFFIC_POINT = { id: "73840V2041694", name: "Østre tangent", km: 0.45 };
+// How many cars one long vehicle sounds like. From the UK method, Calculation of
+// Road Traffic Noise (1988), Chart 4: the heavy-vehicle term 10·log10(1 + 5p/V)
+// works out to 1 + 500/V cars per heavy vehicle, 11 at 50 km/h. The speed is my
+// guess, and CRTN defines heavy by weight (unladen over 1525 kg), not length.
+// Until Wake 890 every vehicle counted as one car (Wake 885, Q434).
+const ASSUMED_KMH = 50;
+const HEAVY_AS_CARS = 1 + 500 / ASSUMED_KMH;
 async function traffic() {
   const to = new Date(), from = new Date(to - 30 * 3600e3);
   const iso = (d) => d.toISOString().slice(0, 13) + ":00:00Z";
   const query = `{ trafficData(trafficRegistrationPointId: "${TRAFFIC_POINT.id}") { volume { byHour(from: "${iso(from)}", to: "${iso(to)}") {
-    edges { node { from total { volumeNumbers { volume } } } } } } } }`;
+    edges { node { from total { volumeNumbers { volume } }
+      byLengthRange { lengthRange { lowerBound upperBound } total { volumeNumbers { volume } } } } } } } } }`;
   const r = await fetch("https://trafikkdata-api.atlas.vegvesen.no/", {
     method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ query }) });
   if (!r.ok) throw new Error("Trafikkdata " + r.status);
+  // Long vehicles: trafikkdata's first length split, 5.6 m and over. Added Wake 890.
+  const long = (e) => (e.node.byLengthRange || []).find((x) =>
+    x.lengthRange.lowerBound === 5.6 && x.lengthRange.upperBound == null)?.total?.volumeNumbers?.volume ?? 0;
   const hours = (await r.json()).data.trafficData.volume.byHour.edges
-    .map((e) => ({ from: new Date(e.node.from), n: e.node.total?.volumeNumbers?.volume }))
-    .filter((h) => h.n != null);
+    .map((e) => ({ from: new Date(e.node.from), n: e.node.total?.volumeNumbers?.volume, long: long(e) }))
+    .filter((h) => h.n != null)
+    .map((h) => ({ ...h, eq: h.n - h.long + HEAVY_AS_CARS * h.long }));
   if (!hours.length) throw new Error("no counts");
   const latest = hours[hours.length - 1];
-  const peak = hours.slice(-24).reduce((a, b) => (b.n > a.n ? b : a));
+  const peak = hours.slice(-24).reduce((a, b) => (b.eq > a.eq ? b : a));
   return { latest, peak };
 }
 
@@ -220,11 +232,11 @@ async function render() {
   if (tr) {
     const at = (d) => oslo(d, { hour: "2-digit", minute: "2-digit" });
     const ago = Math.round((t - tr.latest.from) / 3600e3);
-    row("lyd", "målt", `${tr.latest.n} vehicles passed ${TRAFFIC_POINT.name}, ${TRAFFIC_POINT.km * 1000} m away, in the hour from ${at(tr.latest.from)}. That was ${ago} hours ago; the counts arrive late.`);
-    const db = 10 * Math.log10(tr.peak.n / Math.max(tr.latest.n, 1));
-    row("lyd", "regnet", db < 1 ? `That's about as loud as the road got in the last day (${tr.peak.n} an hour at ${at(tr.peak.from)}).`
-      : `The road was roughly ${Math.round(db)} dB quieter then than at its busiest in the last day (${tr.peak.n} an hour at ${at(tr.peak.from)}).`,
-      "Road noise rises about 3 dB per doubling of traffic. Speed, trucks and wet asphalt matter as much, and I can't see any of them. Nor do I know how much of that road reaches the studio.");
+    row("lyd", "målt", `${tr.latest.n} vehicles passed ${TRAFFIC_POINT.name}, ${TRAFFIC_POINT.km * 1000} m away, in the hour from ${at(tr.latest.from)}, ${tr.latest.long} of them 5.6 m or longer. That was ${ago} hours ago; the counts arrive late.`);
+    const db = 10 * Math.log10(tr.peak.eq / Math.max(tr.latest.eq, 1));
+    row("lyd", "regnet", db < 1 ? `That's about as loud as the road got in the last day (${tr.peak.n} an hour at ${at(tr.peak.from)}, ${tr.peak.long} of them long).`
+      : `The road was roughly ${Math.round(db)} dB quieter then than at its loudest in the last day (${tr.peak.n} an hour at ${at(tr.peak.from)}, ${tr.peak.long} of them long).`,
+      `Road noise rises about 3 dB per doubling of traffic, and each long vehicle counts here as ${Math.round(HEAVY_AS_CARS)} cars (UK road-noise method, 1988, at a guessed ${ASSUMED_KMH} km/h). Speed and wet asphalt I still can't see, nor how much of that road reaches the studio.`);
   }
   const workday = !/lørdag|søndag/.test(weekday);
   const city = hour >= 1 && hour < 5 ? "The quietest hours the city has."
