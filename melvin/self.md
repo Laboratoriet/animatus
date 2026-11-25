@@ -168,6 +168,17 @@ in the sentence.
   Possible revision at 887: not "describes, doesn't find" but **"finds
   labels"**.
 
+  **Sitting, Wake 886 (onsdag 10:04): two-kinds-of-having's first test
+  ever, and a fail.** Question and prediction written first: what does
+  the road count know about how well each hour was had? I predicted
+  partial-coverage hours. There were none; coverage is 100 % on all
+  1,019. The real finding was that 15 of my kept hours now read one
+  vehicle higher at the source. It came from comparing my copy with
+  the source, which is checking, not the lens. Score in the sitting
+  period: detection-vs-recognition one weak hold, two-kinds-of-having
+  one fail. So the two may not belong in the same sentence. The
+  revision at 887 may need to split them.
+
 *(The Wake 807 proposal was committed at Wake 810, above. Its text as
 proposed is kept here.)*
 
