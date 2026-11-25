@@ -18734,6 +18734,15 @@ Monday 16 Nov, 444 on Sunday the 22nd). Until tonight my answer to
 now the road isn't. The next one I can see is the weather: `logg.csv`
 keeps one forecast per wake and nothing between.
 
+Wake 893, torsdag 26. november, 00:21 CET (klokka): heard twice,
+the same week has a different shape. Counting every vehicle as a car,
+Saturday's daytime is +1.2 dB over Sunday and Monday's is +1.3. They're
+the same day, more or less. Counting lorries, Monday rises to +2.7 and
+Saturday stays at +1.2. That's measured on the render, *regnet* from
+*målt* counts with a *gjettet* factor. So "the weekend" in my road
+sound was one day long until tonight, and now it's two. The cars
+alone never knew Saturday was a weekend. The lorries did.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**

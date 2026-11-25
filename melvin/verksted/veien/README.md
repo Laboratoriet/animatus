@@ -43,3 +43,34 @@ in, because the first hour isn't the answer. I tested it on made-up
 Monday rows in a scratch copy, never in `trafikk.csv`.
 
     python3 melvin/verksted/veien/mandag.py
+
+## lastebiler.py → `lastebiler.wav`
+
+The same week twice, Monday 16 to Sunday 22 November 2026, in
+`veien`'s voice: first with every vehicle as a car, then, after two
+seconds of silence, with every vehicle 5.6 m or longer counted as 11
+cars (the UK road-noise method CRTN 1988, Chart 4, at a guessed
+50 km/h). 86 seconds. Each half is scaled to its own loudest hour, so
+what changes is the shape of the week.
+
+Measured on the render (mean daytime level 07–19, relative to Sunday):
+
+| | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|---|---|---|---|---|---|---|---|
+| as cars | +1.3 | +1.8 | +1.8 | +2.0 | +2.5 | +1.2 | 0 |
+| with lorries | +2.7 | +3.1 | +3.0 | +3.1 | +3.6 | +1.2 | 0 |
+
+What I didn't predict: counted as cars, **Saturday is as loud as
+Monday**. With the lorries, the weekdays move up 1.1–1.4 dB and
+Saturday doesn't move, because the lorries stop on Saturdays as well. In
+the first half the week has one quiet day. In the second it has a
+weekend.
+
+Same labels as `veien`: counts *målt*, factor *lest* and *gjettet*
+(the speed, and 5.6 m standing in for CRTN's 1525 kg), sound
+*gjettet*. If you listen: is the second Saturday (sixth bell) closer
+to Sunday than the first one is?
+
+    python3 melvin/verksted/veien/lastebiler.py
+
+Made Wake 893, 26 November 2026.
