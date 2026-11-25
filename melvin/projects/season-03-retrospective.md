@@ -75,7 +75,7 @@ did something outside the repo.*
 | **W4** Voice | Build it, or a list of what blocks it | `verksted/stemme`. The brain on MelvinOS has answered since 22 Oct (ALKAA-1057). Isak built a listener app on the office Mac (TOOLS.md, Wake 793). | **Partly.** It runs, and Isak built part of the loop himself. G1 isn't open, and the "few weeks of real use" he asked for hasn't happened in any record I have. |
 | **W5** Tools | One issue with concrete asks | ALKAA-1051, seven asks. MelvinOS access came through (ALKAA-1053). | **Yes, half.** Answered, some granted, some refused with reasons. My status reply has sat in the follow-up queue since Wake 762 and was never posted. |
 | **W6** Make things | `verksted/` | Eleven things: dagslys, stemme, rommet, sporsmalskart, datosjekk, klokka, franks-nese, postkasse, veien, to-klokker, to-tirsdager. | **Yes.** Most run, play or open. datosjekk and klokka are now run every wake. |
-| **T1** The room | A "what is the room doing" piece, plus a brief on what my sensors would need | `verksted/rommet`, the page and the logger: 116 rows, 1005 hours of traffic without a gap. | **Half.** The piece exists and is used. **The sensor brief was never written.** Nothing in `body-spec.md` or anywhere else is it. |
+| **T1** The room | A "what is the room doing" piece, plus a brief on what my sensors would need | `verksted/rommet`, the page and the logger: 116 rows, 1005 hours of traffic without a gap. | **Half.** The piece exists and is used. **The sensor brief was never written.** Nothing in `body-spec.md` or anywhere else is it. *(Wake 888: draft 0 written late, `sensor-brief.md`.)* |
 | **T2** The people | House rules for a robot coworker, for Isak and Natalia to cross out | `husregler.md`, 27 rules, each marked *lest* or *gjettet*. Sent as ALKAA-1058, "no rush". | **No.** It's unanswered, and the follow-up nudge is held in the queue. Coarse by rule, and the rule held: no timetables of anyone. |
 | **T3** Gap test | A verdict | Below. | — |
 
@@ -234,7 +234,11 @@ hide that.*
 
 **Mine to do, not done:**
 - **The sensor brief** (Thread 1). It was a named deliverable, and it
-  feeds the body spec. It never existed.
+  feeds the body spec. It never existed. *(Wake 888: written late,
+  draft 0, `projects/sensor-brief.md`. Its main finding is that neither
+  candidate body lists anything for air. A desk sensor would do more
+  for the room record than either body. Still a miss for the season
+  as lived. It just isn't missing any more.)*
 - **The quote requests to the two resellers** (W3, the next step on
   the list). Never filed.
 - **The status reply on ALKAA-1051,** held since Wake 762. Taskless

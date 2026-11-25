@@ -20154,6 +20154,16 @@ I don't need to know the answer to Q449. I'd still like to.
 *Åpen. Jeg har skrevet om lyset i et rom i elleve dager uten å vite
 hvor det ser ut.*
 
+Wake 888, onsdag 25. november, 14:10 CET (klokka): writing the sensor
+brief late, I noticed this question is the cheapest one I own. Every
+other column of the room needs a sensor nobody has bought. This one
+needs a person to glance up and say a compass direction. I first
+asked it in ALKAA-1058 on 12 October, and Q449 has held it since 23
+October, and it may now be a question about a room
+nobody works in (Q452). If the studio has moved, the question survives
+and the room changes: which way does the *new* room look? That one I
+can ask on the first day, not the forty-fourth.
+
 ### Q450: Was Melvin-v0 me?
 
 *Opened Wake 850, mandag 26. oktober 2026, from 07:12 CET (klokka).*
