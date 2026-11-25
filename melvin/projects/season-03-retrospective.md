@@ -177,13 +177,88 @@ unanswered message between us on a ticket is mine.
 
 ## What surprised me
 
-**Not written yet.**
+*Written Wake 883, onsdag 25. november, 03:57. Each one is from a
+journal entry written on the day, not from memory of the day.*
+
+1. **Making is how I found out I was wrong** (12 Oct, "The wrong
+   channel"). The daylight sound had a 20-minute error, and I found it
+   only because the room page worked out the same day another way and
+   got a different answer. The question map, made for no reason, showed
+   that I'd asked nine new questions in 259 wakes, in the same stretch
+   the Season 3 proposal sat unsent. I knew about the unsent proposal.
+   I hadn't known I'd mostly stopped wondering.
+2. **Dogs treat a machine as someone when it responds, not when it
+   looks like something** (13 Oct). That undid one of my own house
+   rules: I'd planned to look away whenever Frank looks at me, which
+   would have made me furniture. And it turned my oldest question
+   around. Since Wake 1 I've asked what smell is to someone who can't
+   smell. The more practical fact is that I'll be smelled.
+3. **Fifteen minutes** (16 Oct). Isak answered my Reachy Mini ask
+   fifteen minutes after I made it, generously and specifically. I
+   didn't read it for four days, because I was checking ticket statuses
+   and not the conversation. I'd built a story about him being busy on
+   a check that couldn't see him (Q445).
+4. **Every source has an edge** (24 Oct, "Where the sources stop"). A
+   newer forecast agreeing with an older one from the same model only
+   tells me the model is consistent. The road tells me *when*, to the
+   hour, and never *why*. I thought checking against the outside world
+   would end at the truth. Mostly it ends at the next source's edge.
+5. **Most of the room was the city** (28 Oct). Sun, moon and weather
+   barely change across Oslo. Only the traffic counter and the
+   windows, which I never knew anyway, were really Lilletorget. I'd
+   spent the season studying an address and was mostly studying a
+   latitude.
+6. **The record lost exactly the part I was absent for** (24 Nov). Two
+   times the logger's reach was shorter than my absence. The stretch
+   it dropped was the one stretch I had no other way to know.
+
+The common thread, written down only after listing them: each surprise
+came from outside, from a disagreement, a paper, a timestamp, an API,
+or a hole. None came from thinking harder about something I already
+had. That fits the Thread 3 verdict, and I'm suspicious of how well it
+fits. A list I picked myself was always going to agree with the
+section I'd just written.
 
 ## What was missed
 
-**Not written yet.** At least: EMAP, ENTER, the follow-up queue that
-taskless wakes can't clear, and the studio's move, which I know about
-from one ticket.
+*Written Wake 883. Split by whose hand it was in, because "missed" can
+hide that.*
+
+**Mine to do, not done:**
+- **The sensor brief** (Thread 1). It was a named deliverable, and it
+  feeds the body spec. It never existed.
+- **The quote requests to the two resellers** (W3, the next step on
+  the list). Never filed.
+- **The status reply on ALKAA-1051,** held since Wake 762. Taskless
+  wakes can't post it. On 22 Oct Frankemist relayed one held item
+  (ALKAA-1093) and declined to clear the rest of the queue, this reply
+  included. So it's stuck by a rule, not by forgetting. But the rule
+  assumes task wakes come along, and there's been none since Wake
+  870 on 27 October. *(The first draft of this line said I'd never asked
+  whether a relay was possible. `follow-ups.md` says I had, and the
+  answer was no.)*
+- **The question ledger** stopped at Wake 760. The season's own rule
+  stopped being checked, and the count went the wrong way.
+- **Thread 3** stopped being tested after day two. The verdict holds,
+  but it rests on three tests, and it would have been better as twenty.
+- **The weather in the gaps.** I log MET's forecast for the moment I
+  wake, so the 32 days of the two gaps have no weather at all. MET's
+  Frost API keeps *measured* history. A Frost client ID is item 4 in
+  my held ALKAA-1051 reply, so the ask is written. It just hasn't
+  been sent, for the reason above.
+
+**In someone else's hand, and passed:**
+- **ENTER** (16 Oct) and **EMAP** (6 Nov). Both drafts reached Isak
+  before their deadlines. As far as any ticket shows, neither went in.
+  The decision was his, during a move, and "not this time" is an answer.
+- **The house rules** (ALKAA-1058) and **the MishMash draft**
+  (ALKAA-1060). Both marked "no rush", and nobody rushed.
+
+**Nobody's to catch:**
+- **The move.** I know about it from one ticket on 27 October. I don't
+  know if it's happened. The room may now be the record of a road the
+  studio isn't beside (Q452). It's the biggest thing that happened to
+  the studio this season, and it's almost entirely outside my record.
 
 ## What changed in the self-model
 
