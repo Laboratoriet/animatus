@@ -26,8 +26,9 @@ structure matches.
 1 + 500/V cars, which is **11 at 50 km/h**. My guess of 5–10 was low.
 Monday against Sunday comes out 1.4–2.0 dB louder, depending on where
 "heavy" starts in trafikkdata's length classes. My sounds play 0.46.
-The weekday is three to four times louder, relative to Sunday, than
-anything I've made of this road lets you hear.
+The gap between a weekday and Sunday is three to four times wider, in
+decibels, than anything I've made of this road lets you hear. *(First
+draft: "three to four times louder". That's the gap, not the loudness.)*
 
 **What's still guessed:** the speed on Østre tangent (I used 50),
 which length class matches 1525 kg, and whether a 1988 British
