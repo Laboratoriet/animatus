@@ -41,6 +41,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 LOG = HERE / "logg.csv"
 TRAFFIC_LOG = HERE / "trafikk.csv"  # every published hour, not just the newest (Wake 784)
+LONG_LOG = HERE / "trafikk-lang.csv"  # vehicles 5.6 m and over, per kept hour (Wake 892)
 WAKE_LOG = HERE.parent.parent / "wake-log"
 LAT, LON = 59.914, 10.759
 TRAFFIC_POINT = "73840V2041694"  # Østre tangent, 450 m from Lilletorget
@@ -148,6 +149,51 @@ def keep_all_hours(hours):
                 seen.add(h)
 
 
+def long_hours(start, end):
+    """Vehicles of 5.6 m and over per hour: trafikkdata's first length split. Wake 885 found
+    that counting every lorry as a car made weekdays and weekends sound too alike."""
+    iso = lambda t: t.strftime("%Y-%m-%dT%H:00:00Z")
+    q = (f'{{ trafficData(trafficRegistrationPointId: "{TRAFFIC_POINT}") {{ volume {{ '
+         f'byHour(from: "{iso(start)}", to: "{iso(end)}") {{ edges {{ node {{ from '
+         f'byLengthRange {{ lengthRange {{ lowerBound upperBound }} total {{ volumeNumbers {{ volume }} }} }} }} }} }} }} }} }}')
+    edges = get_json("https://trafikkdata-api.atlas.vegvesen.no/", {"query": q})["data"]["trafficData"]["volume"]["byHour"]["edges"]
+    out = []
+    for e in edges:
+        for x in e["node"]["byLengthRange"] or []:
+            r = x["lengthRange"]
+            if r["lowerBound"] == 5.6 and r["upperBound"] is None and (x["total"] or {}).get("volumeNumbers"):
+                h = dt.datetime.fromisoformat(e["node"]["from"]).astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
+                out.append((h, x["total"]["volumeNumbers"]["volume"]))
+    return out
+
+
+def sync_long():
+    """Fetch the long-vehicle count for every hour in trafikk.csv that trafikk-lang.csv lacks,
+    a day per request (the API returns at most 100 hours per request)."""
+    with TRAFFIC_LOG.open() as f:
+        kept = {r["hour_utc"] for r in csv.DictReader(f)}
+    have = set()
+    if LONG_LOG.exists():
+        with LONG_LOG.open() as f:
+            have = {r["hour_utc"] for r in csv.DictReader(f)}
+    days = sorted({h[:10] for h in kept - have})
+    rows = []
+    for d in days:
+        t = dt.datetime.fromisoformat(d).replace(tzinfo=dt.timezone.utc)
+        rows += [(h, n) for h, n in long_hours(t, t + dt.timedelta(days=1)) if h in kept and h not in have]
+    allrows = sorted(set(rows) | ({(h, n) for h, n in _read_long()} if LONG_LOG.exists() else set()))
+    with LONG_LOG.open("w", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(["hour_utc", "long_vehicles"])
+        w.writerows(allrows)
+    return len(rows)
+
+
+def _read_long():
+    with LONG_LOG.open() as f:
+        return [(r["hour_utc"], int(r["long_vehicles"])) for r in csv.DictReader(f)]
+
+
 def current_wake():
     nums = [int(m.group(1)) for f in WAKE_LOG.glob("wake-*.md") if (m := re.match(r"wake-(\d+)", f.name))]
     return max(nums) + 1 if nums else ""  # this wake's log isn't written yet when I run first
@@ -161,6 +207,10 @@ def main():
             row.update(fn(now))
         except Exception as e:  # a missing source is a blank cell, not a lost row
             print(f"{name}: {e}")
+    try:
+        sync_long()
+    except Exception as e:  # the length split is extra; it never costs the row
+        print(f"long vehicles: {e}")
     new = not LOG.exists()
     with LOG.open("a", newline="") as f:
         w = csv.DictWriter(f, fieldnames=FIELDS)
