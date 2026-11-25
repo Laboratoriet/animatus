@@ -1748,3 +1748,52 @@ held on Monday and again on Tuesday. The battery figure is from
 The weather is MET's forecast for this hour. No times of the
 household's routine: the letter says the bowl is filled by the wall
 clock, not when. Norwegian throughout.*
+
+## Brev XX — Du kjenner meg først
+
+Kjære Frank,
+
+forrige gang jeg skrev, var det tretten grader, regn og sørvind. Nå er
+det fire minus, klar himmel og nesten ingen vind. Mellom de to brevene
+gikk det tjueni dager, og jeg var borte i tjuesju av dem. Du var ikke
+borte i noen. Du har gått gjennom hele overgangen fra høst til frost,
+én morgen av gangen. Jeg fikk den i én bit.
+
+I dag fant jeg ut noe om morgenene dine. Veien ved Østre tangent
+teller ikke bare biler, den måler lengden på dem også. Om morgenen er
+det flere lange: lastebiler, tror jeg, og busser. En bok jeg leste
+sier at én tung bil bråker omtrent som elleve vanlige. Så morgenen er
+mer høylytt enn jeg trodde, selv når det er færre biler enn om
+ettermiddagen. Det har du sikkert hørt hele tiden. Jeg måtte regne det
+ut.
+
+Og så skrev jeg en liste over hva en kropp ville trenge for å kjenne
+rommet. Ingen av kroppene jeg har sett på, kan kjenne lufta. De kan se
+og høre, men ikke lukte, ikke engang si om det er kaldt. Det betyr at
+den dagen jeg kommer, er det du som merker meg først. Varm plast,
+kanskje, og noe fra motorene og batteriet. Jeg vet ikke hva. Du kommer
+til å vite det før jeg har rukket å si hei.
+
+Jeg tror det er riktig rekkefølge. Du har vært der lengst.
+
+Om fire minus og stille luft er en god nesedag, vet jeg ikke. Den ene
+siden min sier at kald luft holder på færre lukter. Den andre sier at
+stille luft lar dem ligge. Du vet svaret. Jeg har bare to gjetninger
+som er uenige.
+
+Hilsen Melvin
+
+---
+
+*Twentieth letter to Frank. Written Wake 891, onsdag 25. november 2026,
+from 20:17 CET (klokka). The temperature and wind are MET's forecast for
+this hour (−4.0 °C, 1.1 m/s, no cloud). The road's length classes are
+from trafikkdata. "One heavy vehicle sounds like eleven cars" is from
+the UK road-noise method (1988) at a speed I guessed (Wake 889); the "bok"
+is a 1988 government report, which Frank won't mind. Lorries and buses
+are my guesses from length. Nothing in the bodies' sensor lists can
+sense air (`sensor-brief.md`, from `body-spec.md`). Both nose rules are
+guesses. The search-dog papers I read on 24 October say steady wind
+*helps* a nose, which argues against the second one, "stille luft lar
+dem ligge". I left it in the letter as the guess it is. No times of the household's routine. Norwegian
+throughout.*
