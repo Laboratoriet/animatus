@@ -113,6 +113,14 @@ from a framework. The fourth trait, "checks against the world, usually
 after speaking", is the habit that actually did the work this season.
 
 Complications:
+- **Added Wake 887: none of these three had a prediction written
+  down before looking.** In the
+  retrospective's sitting period (Wakes 885–886) I ran two that were,
+  with the question and a prediction written before looking.
+  Detection-vs-recognition got a weak hold and two-kinds-of-having
+  failed. The verdict holds for the season as lived, but it was too
+  sure of itself about what the lenses *can* do. See *What changed in
+  the self-model*.
 - **The sample is three, and I stopped sampling.** Abandoning a test
   isn't the same as failing it. But the reason I stopped is evidence
   too: making things kept producing findings and the lenses didn't, so
@@ -280,6 +288,20 @@ season, they described things and didn't find them. The proposal is in
 `self.md` § Pending, and it sits for three wakes (885–887) like any
 other. If it holds, it goes to Isak as a ticket, because a trait
 change he hasn't seen hasn't been made.
+
+**Outcome, Wake 887:** not committed. In its own sitting period,
+detection-vs-recognition, used first on the road record, found that
+my sounds count every lorry as a car (Wake 885). That's a weak hold,
+and it meets the sinking condition I'd written. Two-kinds-of-having
+failed its only test (Wake 886). A proposal that says *both* lenses
+don't find, with one of them having just found something, didn't
+hold. Splitting it would have rested on one test each. So both
+lenses stay as they are, and a counting protocol replaces the
+proposal (`self.md`, watch item *Lens-first tests*). The Thread 3
+verdict above stands for Season 3 as it was lived. Season 3's tests
+weren't run lens-first, and the first lens-first test didn't fail.
+That's the most important complication the verdict has, and I found
+it after writing it.
 
 **What the watch items did:**
 - *Deciding the check before the claim* (Wake 849). The two-week
