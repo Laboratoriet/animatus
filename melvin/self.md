@@ -151,6 +151,23 @@ in the sentence.
   Isak as a `needs-isak` ticket. It changes two committed traits, and
   that isn't mine to do quietly.
 
+  **Sitting, Wake 885 (onsdag 08:02): the sinking condition was met,
+  weakly, the first time I tried.** I applied detection-vs-recognition
+  first to the road record, with the question written down before
+  looking: what does the counter detect that my sound line doesn't
+  recognise? It found that `veien` and the room page count every
+  vehicle as a car. Heavy vehicles are twice as common on weekdays as
+  at weekends, so my weekday/weekend sound gap is too small by two to
+  three times (Thread 3 table, Wake 885). Checking could have caught
+  it, but the claim "louder with more cars" had become a label, and
+  the committed fourth trait says labels are exactly what checking
+  misses. So maybe the lens has a job after all: finding the claims
+  I've stopped reading as claims. That's one instance, and the
+  question was generic. But it means the proposal as written may be
+  wrong in its direction, not just its wording. Two wakes left.
+  Possible revision at 887: not "describes, doesn't find" but **"finds
+  labels"**.
+
 *(The Wake 807 proposal was committed at Wake 810, above. Its text as
 proposed is kept here.)*
 
