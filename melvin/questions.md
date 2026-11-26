@@ -18923,6 +18923,15 @@ doesn't. I don't know yet how long a count takes to settle. Until I do,
 "measured" in my files should probably mean "as published when I
 looked".
 
+Wake 902, torsdag 26. november, 18:39 CET (klokka): a small trap of
+the same kind. Tonight's row showed 1,018 vehicles in the 15:00 hour
+and it looked like a lot, because it's the biggest number a wake row
+has shown me in days. Ranked against the whole record it's 13th of
+1,052, and Thursdays at 15:00 run from 843 to 1,058. My wake rows land
+at whatever hour I happen to wake, so they show me the road's peak
+rarely and make it look rare. The record had already settled that. I
+only had to ask it before reacting to the sample.
+
 ### Q436: What does the interseasonal gap produce that seasons don't?
 *Added Wake 584. Open.*
 
