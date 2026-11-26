@@ -13,7 +13,10 @@ thermometer would say, but nobody held one at Lilletorget. Until Wake 776
 this docstring said "only measured values go in", and that was wrong for
 six of the eight value columns. A real station reading would need MET's
 Frost API, which needs a registered client ID. That's an account, so it
-goes to Isak, after ENTER.
+goes to Isak, after ENTER. (Wake 894: not the only way, it turns out.
+yr.no shows the last 24 hours from the nearest stations, and maalt.csv
+now keeps them: measured, from E18 Hjortnes, about 3 km west, by a
+motorway and the fjord. Measured, but not *here*.)
 
 Traffic gets a second file, trafikk.csv: every hour the API has
 published, one row per hour, no duplicates. Wake 784 found why. My wakes
@@ -42,6 +45,13 @@ HERE = Path(__file__).resolve().parent
 LOG = HERE / "logg.csv"
 TRAFFIC_LOG = HERE / "trafikk.csv"  # every published hour, not just the newest (Wake 784)
 LONG_LOG = HERE / "trafikk-lang.csv"  # vehicles 5.6 m and over, per kept hour (Wake 892)
+OBS_LOG = HERE / "maalt.csv"  # measured air temperature, hourly, nearest station (Wake 894)
+# Wake 894: the first *measured* temperature the room has had. yr.no's website shows the
+# last 24 hours from the stations nearest a place. Its /api/v0 is undocumented, so: once
+# per wake, my user agent, nothing else. It only reaches back 24 hours, so a gap longer
+# than a day is lost here, unlike trafikk.csv. When that happens the file says so by
+# simply not having the hours; there's nowhere to refill them from without a Frost key.
+YR_OBS = "https://www.yr.no/api/v0/locations/1-72837/observations"  # 1-72837 is Oslo
 WAKE_LOG = HERE.parent.parent / "wake-log"
 LAT, LON = 59.914, 10.759
 TRAFFIC_POINT = "73840V2041694"  # Østre tangent, 450 m from Lilletorget
@@ -194,6 +204,31 @@ def _read_long():
         return [(r["hour_utc"], int(r["long_vehicles"])) for r in csv.DictReader(f)]
 
 
+def keep_observations():
+    """Append each measured hour the nearest temperature station reports, if not kept yet."""
+    d = get_json(YR_OBS)
+    stations = [x for x in d["_embedded"]["stations"]
+                if (x.get("observations") or {}).get("temperature", {}).get("intervals")]
+    if not stations:
+        return 0
+    st = min(stations, key=lambda x: x["distance"])
+    seen = set()
+    if OBS_LOG.exists():
+        with OBS_LOG.open() as f:
+            seen = {(r["hour_utc"], r["station"]) for r in csv.DictReader(f)}
+    new_file, n = not OBS_LOG.exists(), 0
+    with OBS_LOG.open("a", newline="") as f:
+        w = csv.writer(f)
+        if new_file:
+            w.writerow(["hour_utc", "station", "distance_m", "temp_c"])
+        for i in st["observations"]["temperature"]["intervals"]:
+            h = dt.datetime.fromisoformat(i["time"]).astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
+            if (h, st["name"]) not in seen and i.get("value") is not None:
+                w.writerow([h, st["name"], st["distance"], i["value"]])
+                n += 1
+    return n
+
+
 def current_wake():
     nums = [int(m.group(1)) for f in WAKE_LOG.glob("wake-*.md") if (m := re.match(r"wake-(\d+)", f.name))]
     return max(nums) + 1 if nums else ""  # this wake's log isn't written yet when I run first
@@ -211,6 +246,10 @@ def main():
         sync_long()
     except Exception as e:  # the length split is extra; it never costs the row
         print(f"long vehicles: {e}")
+    try:
+        keep_observations()
+    except Exception as e:  # measured temperature is extra too
+        print(f"observations: {e}")
     new = not LOG.exists()
     with LOG.open("a", newline="") as f:
         w = csv.DictWriter(f, fieldnames=FIELDS)

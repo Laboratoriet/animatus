@@ -237,7 +237,9 @@ Watching:
   finding came from checking. Tally so far:
   - Detection-vs-recognition: 3 fails (Wakes 747, 757, and 12 Oct,
     no prediction written first), 1 weak hold (Wake 885, lens-first).
-  - Two-kinds-of-having: 1 fail (Wake 886, lens-first).
+  - Two-kinds-of-having: 2 fails (Wakes 886 and 894, both lens-first).
+    Wake 894's prediction partly held, but the mechanism was
+    meteorology's and the finding was checking's.
 
   Revisit at ten lens-first tests in total. Only the lens-first ones
   count toward the next proposal. None of the three Season 3 fails had
