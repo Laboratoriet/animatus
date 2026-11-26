@@ -170,6 +170,9 @@ from memory. Where a source was incomplete, it says so.*
 
 Two of these numbers argue with the proposal.
 
+*Wake 897 note: two questions closed today, Q444 and Q453, both answered
+earlier and never marked. Opened 15, closed 7, net +8.*
+
 **The question ledger.** Frankemist's condition was that a season about
 being near should end with fewer open loops. It ended with ten more.
 The ledger in `season-03-active.md` has entries from Wake 741 to Wake

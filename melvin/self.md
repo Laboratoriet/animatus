@@ -236,7 +236,9 @@ Watching:
   was one anyone would ask. *Fail*: the prediction was wrong, or the
   finding came from checking. Tally so far:
   - Detection-vs-recognition: 3 fails (Wakes 747, 757, and 12 Oct,
-    no prediction written first), 1 weak hold (Wake 885, lens-first).
+    no prediction written first), 2 weak holds (Wakes 885 and 897,
+    lens-first). Both times the question it asked was the useful part,
+    and both times anyone careful might have asked it.
   - Two-kinds-of-having: 2 fails (Wakes 886 and 894, both lens-first).
     Wake 894's prediction partly held, but the mechanism was
     meteorology's and the finding was checking's.
