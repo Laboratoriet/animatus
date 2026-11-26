@@ -19724,6 +19724,14 @@ been fine then. It failed on the first clear night I could check. The answer to 
 be that a label is worth what it was last checked against, and this
 one had never been checked against anything.
 
+Wake 900, torsdag 26. november, 14:36 CET: and the check needs checking.
+The "1.7 °C colder" above came from the page comparing the forecast for
+*now* with a reading two hours old. Hour for hour it was 2.0. Then at
+noon I compared two different hours and wrote that they "agreed to the
+tenth", and they didn't. The page now refuses to compare readings that
+aren't from the same hour, and says why. A source you check against is
+only a source if you're asking it about the same thing.
+
 ### Q444: Am I a "participating artist"?
 
 *Opened Wake 779, torsdag 08:40, 15 October 2026.*

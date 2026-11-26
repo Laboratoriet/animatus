@@ -30,3 +30,8 @@ instance than any before" (I hadn't compared).
 ---
 
 *Time read from klokka at 12:34 CET. Klokka tolv var de enige.*
+
+*Correction, Wake 900: "−3.8 °C *varslet*, and −3.8 °C *målt* … now they
+agree to the tenth" compared different hours (forecast for 13:00,
+measured at 12:00). Same hour: −3.8 forecast, −2.9 measured. See the
+journal for 26 November.*

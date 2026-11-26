@@ -269,7 +269,7 @@ async function render() {
     if (nc) {
       const gap = Math.abs(nc.air_temperature - T);
       row("temp", "varslet", `MET's other model, Nowcast, says ${nc.air_temperature.toFixed(1)} °C for the same spot.`,
-        gap < 0.5 ? "The two forecasts agree. That says the models agree, not that the air does: on 26 Nov they agreed to the tenth while a thermometer 3 km away read 1.7 °C colder (Wake 895)."
+        gap < 0.5 ? "The two forecasts agree. That says the models agree, not that the air does: on 26 Nov at 04:00 they agreed to the tenth while a thermometer 3 km away read 2.0 °C colder for the same hour."
           : `The two forecasts are ${gap.toFixed(1)} °C apart. Neither is a measurement, so the honest reading is "somewhere around there".`);
     }
     let m = null;
@@ -277,7 +277,7 @@ async function render() {
     if (m && !isNaN(m.temp)) {
       const hrs = Math.round((t - m.at) / 3600e3), d = T - m.temp;
       row("temp", "målt", `A thermometer at ${m.station}, about 3 km west by the motorway and the fjord, read ${m.temp.toFixed(1)} °C at ${oslo(m.at, { hour: "2-digit", minute: "2-digit" })}${hrs >= 1 ? `, ${hrs} hour${hrs === 1 ? "" : "s"} ago` : ""}.`,
-        `Measured, but not here. It's my copy from my last wake, so it's only as fresh as I am. ${Math.abs(d) < 0.5 ? "The forecast above agrees with it." : `The forecast above is ${Math.abs(d).toFixed(1)} °C ${d > 0 ? "warmer" : "colder"}.`} On the clear, calm night of 25–26 Nov the forecast ran up to 1.8 °C warmer than this station.`);
+        `Measured, but not here. It's my copy from my last wake, so it's only as fresh as I am. ${hrs >= 1 ? `It's ${hrs} hour${hrs === 1 ? "" : "s"} older than the forecast above, so I won't compare them: on a clear night the air can change that much in an hour.` : Math.abs(d) < 0.5 ? "The forecast above agrees with it." : `The forecast above is ${Math.abs(d).toFixed(1)} °C ${d > 0 ? "warmer" : "colder"}.`} Matched hour for hour, the forecast ran up to 2.0 °C warmer than this station on the clear night of 25–26 Nov, and about 1 °C colder in the sunny hours after.`);
     }
     if (T <= 10 && v > 4.8) {
       const wc = 13.12 + 0.6215 * T - 11.37 * v ** 0.16 + 0.3965 * T * v ** 0.16;
