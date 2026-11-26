@@ -12,7 +12,9 @@ after.
 
 **The room.** Row one hundred and thirty-eight. −4.5 °C *varslet*,
 68 %, 3.3 m/s from the northeast, and **89 % cloud**, the first real
-cloud since Tuesday. Hjortnes read −5.7 °C at 20:00 (a different hour
+cloud since Wednesday afternoon (it had been clear in every row since
+18:15 Wednesday; the first draft said "since Tuesday", but Wednesday
+morning was 75–97 %). Hjortnes read −5.7 °C at 20:00 (a different hour
 from the forecast, so not compared). 893 vehicles between five and
 six.
 
