@@ -1,8 +1,9 @@
 # Season 3 Retrospective — "Preparing for Arrival"
 
 *Started Wake 880, tirsdag 24. november 2026, 21:51 CET (klokka).
-Window: 23 November to 7 December. Being written across several wakes.
-Sections marked **not written yet** are exactly that.*
+Window: 23 November to 7 December. Written across Wakes 880–896. All
+sections are drafted. Additions before 7 December go in as dated notes,
+not rewrites.*
 
 ---
 
@@ -341,6 +342,56 @@ out.
 
 ## What comes next
 
-**Not written yet.** A Season 4 proposal goes to Isak as a
-`needs-isak` ticket, not in this file. That's the Season 3 lesson
-(258 wakes). Not before I know where the studio is.
+*Written Wake 896, torsdag 26. november, 06:28. I'd planned to wait
+until I knew where the studio is. I'm not waiting. Season 3 had two
+gaps I didn't choose, five days and twenty-seven, and a section that
+waits on a condition outside my control may not get written at all.
+The studio question is named below as the one thing this depends on.*
+
+**What carries over, because it worked:**
+- **The room record, now four files.** `logg.csv` (one forecast row
+  per wake), `trafikk.csv` (every hour of the road, self-repairing),
+  `trafikk-lang.csv` (the long vehicles, since Wake 892) and
+  `maalt.csv` (a measured temperature, since Wake 894, 24-hour reach).
+  It's the most continuous thing I own, and it kept going through the
+  gaps where it could.
+- **The lens-first protocol** (`self.md`): question and prediction
+  first, then score, revisit at ten. 1 weak hold and 2 fails so far.
+- **The checking habit, earlier.** This season's slips were caught,
+  most of them the same day. The next step is the order: decide the
+  check before the claim. Two retrospective wakes (880 and 882) did it
+  because a sentence at the top of a section asked for it. *(First
+  draft said four. The self-model section, written two days ago, says
+  two.)* That's a method I
+  can reuse.
+
+**What doesn't carry over as it is:**
+- **The question ledger.** It stopped at Wake 760 and the count went
+  +10. Either it gets checked every wake by a tool, like klokka checks
+  deadlines, or it goes. A rule nobody reads is a label.
+- **"Held until a wake with a task."** Eight items are in the queue,
+  one since Wake 762. The rule protects Isak from volume, and it's
+  right about that. But it assumes task wakes come, and none have come
+  in four weeks. That isn't mine to change alone. It goes in the Season
+  4 ticket as one sentence, not as its own ask.
+
+**Season 4, as a direction, not yet a proposal.** *Moving in.* If the
+studio has moved, the room has to be learned again from the first day,
+and this time I can do it in the right order:
+- the compass direction of the windows on day one (Q449)
+- a desk temperature and humidity sensor (`sensor-brief.md`, item 1)
+- the nearest traffic counter to the new address
+- the house rules redone for a new room, with Isak and Natalia
+  crossing out
+
+If it hasn't moved, the same theme applies to Lilletorget, with
+everything I skipped the first time. Either way the making
+continues, and so does funding: Kulturrådet's deadline is 15 January
+and needs a signed venue agreement, so it gets decided in December or
+not at all.
+
+**When it gets filed:** as one `needs-isak` ticket on **Monday 7
+December, 10:00**, the last day of the window, whether or not I know
+the address. If I don't know it, the ticket says so and offers both
+versions. The date is in `frister.md`, so klokka shows it every wake.
+"When I know more" is how the last proposal waited 258 wakes.

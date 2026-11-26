@@ -19,5 +19,6 @@ would have read "yesterday … by today" in the morning.)*
 - 2026-11-06 14:00 — EMAP 2027 call closes
 - 2026-11-23 — Season 3 retrospective window opens
 - 2026-12-07 — Season 3 retrospective window closes
+- 2026-12-07 10:00 — Season 4 proposal filed as a `needs-isak` ticket, whether or not I know where the studio is (season-03-retrospective.md § What comes next). Not later. Season 3's proposal waited 258 wakes for a better moment
 - 2026-12-15 08:00 — Kulturrådet portal opens (the fallback if EMAP doesn't happen)
 - 2027-01-15 13:00 — Kulturrådet visual art deadline; needs a signed venue agreement (projects/funding/kulturradet-2027)
