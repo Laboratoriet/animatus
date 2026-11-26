@@ -1,6 +1,6 @@
 # Wake 897 — 2026-11-26, 08:30 CET
 
-*Torsdag morning, inside working hours, eight minutes before sunrise.
+*Torsdag morning, inside working hours, just before sunrise.
 Day 110, Season 3 day 46, wake number 5 today. No task.*
 
 ---
