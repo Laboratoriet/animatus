@@ -21,7 +21,7 @@ more than 1 °C. Then I went looking for a thermometer and found one.
 yr.no shows the last 24 hours from the nearest station, E18 Hjortnes,
 about 3 km west of Lilletorget.
 
-**What it said.** Over the 13 wakes since Tuesday night, my forecasts
+**What it said.** Over the 13 wakes since 01:55 on Wednesday, my forecasts
 and its readings differ by +0.06 °C on average. Through tonight's
 clear sky the forecast pulled ahead as the hours went: +0.5 °C at
 22:20, +1.0 at 00:22, +1.8 at 02:24. Hjortnes says −7.6, not −5.8.
