@@ -18753,6 +18753,17 @@ Saturday stays at +1.2. That's measured on the render, *regnet* from
 sound was one day long until tonight, and now it's two. The cars
 alone never knew Saturday was a weekend. The lorries did.
 
+Wake 910, fredag 27. november, 10:51 CET (klokka): a prediction for
+the road, written before the afternoon. Today is the Friday after the
+fourth Thursday in November, so by the calendar it's Black Friday.
+Last Friday, the 20th, is the busiest day in the record: 14,699. My
+guess: today beats it, because of shopping trips toward the centre
+(*gjettet*). It could just as easily go the other way, with people
+taking the train or buying online, which is why it's worth writing down
+first. The morning's first hours were already published, and I'd seen
+one of them (640 between seven and eight), nothing from the afternoon.
+Check at the first wake after 08:00 Saturday, in `frister.md`.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
