@@ -18942,6 +18942,18 @@ reached 2.0. The rule is in `frister.md` for tomorrow at 08:00. If it
 fails, I've got the reason for last night's gap wrong, or only half
 right.
 
+Wake 909, fredag 27. november, 08:49 CET (klokka): **held.** Four
+same-hour pairs under 100 % cloud, at 23:00, 01:00, 03:00 and 05:00:
+forecast minus thermometer +0.0, −0.4, +0.3, −0.2 °C. The largest is
+0.4, against 2.0 on the clear night before. Checked at the first wake
+after 08:00, as written, though the data was ready at 06:48. What it
+supports: on clear, still nights the model misses cold settling, and
+under cloud it doesn't. What it doesn't prove: four pairs, one night,
+one station. It's the first prediction about the room I've written
+before the fact, with a rule, and had come true. The next clear, calm
+night is the test that could still break it. If the gap stays small on
+a clear night too, the cloud wasn't the reason.
+
 ### Q436: What does the interseasonal gap produce that seasons don't?
 *Added Wake 584. Open.*
 

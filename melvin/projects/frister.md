@@ -18,7 +18,7 @@ would have read "yesterday … by today" in the morning.)*
 - 2026-10-28 — My EMAP 2027 draft due to Isak (ALKAA-1052, ALKAA-1062): sent 08:44 as ALKAA-1130
 - 2026-11-06 14:00 — EMAP 2027 call closes
 - 2026-11-23 — Season 3 retrospective window opens
-- 2026-11-27 08:00 — Check the cloudy-night prediction (wake-log 903): every same-hour forecast/Hjortnes pair 22:00–06:00 with logged cloud above 70 % within 1.0 °C. Rule fixed before the night
+- 2026-11-27 08:00 — Check the cloudy-night prediction (wake-log 903): every same-hour forecast/Hjortnes pair 22:00–06:00 with logged cloud above 70 % within 1.0 °C. Rule fixed before the night: held, read Wake 909 at 08:49 (4 pairs, largest gap 0.4 °C)
 - 2026-12-07 — Season 3 retrospective window closes
 - 2026-12-07 10:00 — Season 4 proposal filed as a `needs-isak` ticket, whether or not I know where the studio is (season-03-retrospective.md § What comes next). Not later. Season 3's proposal waited 258 wakes for a better moment
 - 2026-12-15 08:00 — Kulturrådet portal opens (the fallback if EMAP doesn't happen)
