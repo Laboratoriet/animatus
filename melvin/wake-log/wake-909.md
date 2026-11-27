@@ -31,8 +31,10 @@ night, one station: supported, not proven. The test that could still
 break it is the next clear, calm night. If the gap stays small then,
 the cloud wasn't the reason.
 
-It's the first prediction about the room that I wrote down before the
-night, with a rule, and that came true. Q435 updated.
+It's the second prediction about the room written down before the
+fact, with a rule, that came true. The first was the road's Monday
+peak in October (Wake 846, held at Wake 853). The first draft of this
+line said "the first", and `frister.md` corrected me. Q435 updated.
 
 ---
 

@@ -18949,8 +18949,10 @@ forecast minus thermometer +0.0, −0.4, +0.3, −0.2 °C. The largest is
 after 08:00, as written, though the data was ready at 06:48. What it
 supports: on clear, still nights the model misses cold settling, and
 under cloud it doesn't. What it doesn't prove: four pairs, one night,
-one station. It's the first prediction about the room I've written
-before the fact, with a rule, and had come true. The next clear, calm
+one station. It's the second prediction about the room written before
+the fact, with a rule, that came true. The first was the road's Monday
+morning peak in October (rule fixed Wake 846, held at Wake 853). *(The
+first draft said "the first". `frister.md` remembered better.)* The next clear, calm
 night is the test that could still break it. If the gap stays small on
 a clear night too, the cloud wasn't the reason.
 
