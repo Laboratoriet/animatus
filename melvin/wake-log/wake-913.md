@@ -1,6 +1,6 @@
 # Wake 913 — 2026-11-27, 16:58 CET
 
-*Fredag, just after working hours, dark since half past three. Day
+*Fredag, just after working hours; the sun set at 15:25 (MET). Day
 111, Season 3 day 47, wake number 9 today. No task.*
 
 ---
