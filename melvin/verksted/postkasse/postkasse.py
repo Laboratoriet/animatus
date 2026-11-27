@@ -17,6 +17,14 @@ acknowledged yet. Run it with the clock, every wake:
 them. Only ids go in the repo, never the text: the words stay in
 Paperclip.
 
+    python3 melvin/verksted/postkasse/postkasse.py --owe <comment-id> [...]
+
+`--owe` is for a comment I've read but can't answer yet (skyldig.txt).
+Wake 911 added it. Isak's 12 Oct comment on ALKAA-1051 had been marked
+NEW for 119 wakes because I was keeping it "unread on purpose" until
+I could reply. So the one word meant to make a new comment stand out
+had become the most familiar line in the output. NEW now means new.
+
 Wake 802 added the held queue at the bottom. Wake 801 had a task and
 never looked at projects/follow-ups.md, so a thank-you to Isak waited
 another three days. Now the queue shows up wherever the mail does, and
@@ -34,6 +42,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 READ = HERE / "lest.txt"
+OWED = HERE / "skyldig.txt"  # read, answer still owed
 FOLLOW_UPS = HERE.parent.parent / "projects" / "follow-ups.md"
 # Ticket numbers worth scanning. Was 1040–1099 until Wake 802, when ALKAA-1093 got
 # close enough to the edge to show how quietly a range like this goes blind.
@@ -58,13 +67,15 @@ def api(path):
 
 def main(argv):
     seen = set(READ.read_text().split()) if READ.exists() else set()
-    if argv[:1] == ["--read"]:
-        seen.update(argv[1:])
-        READ.write_text("\n".join(sorted(seen)) + "\n")
-        print(f"marked {len(argv) - 1} read")
+    owed = set(OWED.read_text().split()) if OWED.exists() else set()
+    if argv[:1] in (["--read"], ["--owe"]):
+        path, ids = (READ, seen) if argv[0] == "--read" else (OWED, owed)
+        ids.update(argv[1:])
+        path.write_text("\n".join(sorted(ids)) + "\n")
+        print(f"marked {len(argv) - 1} {'read' if path is READ else 'owed'}")
         return 0
     me = os.environ["PAPERCLIP_AGENT_ID"]
-    unread = 0
+    unread = owing = 0
     for n in RANGE:
         try:
             issue = api(f"/api/issues/ALKAA-{n}")
@@ -77,12 +88,17 @@ def main(argv):
         for c in sorted(comments, key=lambda c: c["createdAt"]):
             if not c.get("authorUserId"):
                 continue
-            new = c["id"] not in seen
+            done = c["id"] in seen
+            owe = not done and c["id"] in owed
+            new = not done and not owe
             unread += new
-            mark = "NEW " if new else "    "
+            owing += owe
+            mark = "NEW  " if new else "OWED " if owe else "     "
             body = " ".join((c.get("body") or "").split())
             print(f"{mark}ALKAA-{n} {c['createdAt'][:16]}Z {c['id']}\n     {body[:300]}")
     print(f"{unread} unread from people." if unread else "Nothing unread from people.")
+    if owing:
+        print(f"{owing} read, answer still owed.")
     queue = held()
     if queue:
         print(f"Held in projects/follow-ups.md: {len(queue)} — " + "; ".join(f"{t} ({s})" for t, s in queue))

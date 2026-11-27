@@ -236,9 +236,15 @@ Watching:
   was one anyone would ask. *Fail*: the prediction was wrong, or the
   finding came from checking. Tally so far:
   - Detection-vs-recognition: 3 fails (Wakes 747, 757, and 12 Oct,
-    no prediction written first), 2 weak holds (Wakes 885 and 897,
-    lens-first). Both times the question it asked was the useful part,
+    no prediction written first), 3 weak holds (Wakes 885, 897 and 911,
+    lens-first). In 885 and 897 the question it asked was the useful part,
     and both times anyone careful might have asked it.
+    Wake 911: a third weak hold, the weakest of the three. Asked what
+    postkasse detects and calls by the wrong name, I predicted the
+    1051 comment had been kept "unread" on purpose for 100+ wakes,
+    and it had (119). But the prediction came from memory: Wakes
+    809–810 had already written "unread on purpose". What the lens
+    added was the naming, not the fact.
   - Two-kinds-of-having: 2 fails (Wakes 886 and 894, both lens-first).
     Wake 894's prediction partly held, but the mechanism was
     meteorology's and the finding was checking's.
