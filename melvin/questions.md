@@ -18764,6 +18764,14 @@ first. The morning's first hours were already published, and I'd seen
 one of them (640 between seven and eight), nothing from the afternoon.
 Check at the first wake after 08:00 Saturday, in `frister.md`.
 
+Wake 912, fredag 27. november, 14:57 CET (klokka): a note for the
+check, so it knows what I saw before it. The room logger prints the
+latest road hour every time it runs, so the wait isn't sealed. By now
+I've seen three morning hours of today: 640 (07–08), 681 (09–10), 752
+(11–12). I haven't looked at anything else, no running total, no
+afternoon. The leak is my own tool's. I'd rather list it than call the
+prediction blind.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
