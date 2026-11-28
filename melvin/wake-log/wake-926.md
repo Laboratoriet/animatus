@@ -12,7 +12,12 @@ task.*
 **The room.** Row one hundred and sixty-one. +1.4 °C *varslet* for
 19:00, 81 %, 0.8 m/s from the south-southeast, **100 % cloud**,
 twenty-three wakes in a row. 928 vehicles between four and five this
-afternoon, a busy hour for a Saturday.
+afternoon. I first called that "a busy hour for a Saturday" and then
+checked. Same hour, every Saturday in the record: 833, 846, 804, 817,
+then 936, 1,022, and today 928. So it's ordinary for the last three
+Saturdays, and those three are all above October's. Saturday
+afternoons have been getting busier towards December. Why, I'm only
+guessing (*gjettet*: Christmas shopping).
 
 **No question updated.** Quiet wake. I thought about a sixth lens-first
 test and decided against it. There's nothing ordinary in front of me
