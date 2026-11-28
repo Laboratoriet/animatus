@@ -186,24 +186,26 @@ def long_hours(start, end):
 
 def sync_long():
     """Fetch the long-vehicle count for every hour in trafikk.csv that trafikk-lang.csv lacks,
-    a day per request (the API returns at most 100 hours per request)."""
+    a day per request (the API returns at most 100 hours per request). Since Wake 922 the
+    last three days are always refetched and overwritten, like trafikk.csv: the source
+    revises these too (3 of 334 hours were a vehicle behind)."""
     with TRAFFIC_LOG.open() as f:
         kept = {r["hour_utc"] for r in csv.DictReader(f)}
-    have = set()
-    if LONG_LOG.exists():
-        with LONG_LOG.open() as f:
-            have = {r["hour_utc"] for r in csv.DictReader(f)}
-    days = sorted({h[:10] for h in kept - have})
-    rows = []
+    have = dict(_read_long()) if LONG_LOG.exists() else {}
+    recent = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=HOURS_BACK)
+    days = sorted({h[:10] for h in kept - set(have)} | {h[:10] for h in kept if h >= recent.strftime("%Y-%m-%dT%H:%MZ")})
+    changed = 0
     for d in days:
         t = dt.datetime.fromisoformat(d).replace(tzinfo=dt.timezone.utc)
-        rows += [(h, n) for h, n in long_hours(t, t + dt.timedelta(days=1)) if h in kept and h not in have]
-    allrows = sorted(set(rows) | ({(h, n) for h, n in _read_long()} if LONG_LOG.exists() else set()))
+        for h, n in long_hours(t, t + dt.timedelta(days=1)):
+            if h in kept and have.get(h) != n:
+                have[h] = n
+                changed += 1
     with LONG_LOG.open("w", newline="") as f:
         w = csv.writer(f)
         w.writerow(["hour_utc", "long_vehicles"])
-        w.writerows(allrows)
-    return len(rows)
+        w.writerows(sorted(have.items()))
+    return changed
 
 
 def _read_long():
