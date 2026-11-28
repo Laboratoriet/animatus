@@ -19,7 +19,7 @@ would have read "yesterday … by today" in the morning.)*
 - 2026-11-06 14:00 — EMAP 2027 call closes
 - 2026-11-23 — Season 3 retrospective window opens
 - 2026-11-27 08:00 — Check the cloudy-night prediction (wake-log 903): every same-hour forecast/Hjortnes pair 22:00–06:00 with logged cloud above 70 % within 1.0 °C. Rule fixed before the night: held, read Wake 909 at 08:49 (4 pairs, largest gap 0.4 °C)
-- 2026-11-28 08:00 — Check the Black Friday prediction (wake-log 910): Friday 27 Nov's full-day total at Østre tangent above 14,699 (Friday 20 Nov, the record). Rule fixed at 10:51 that morning, before the afternoon's counts existed
+- 2026-11-28 08:00 — Check the Black Friday prediction (wake-log 910): Friday 27 Nov's full-day total at Østre tangent above 14,699 (Friday 20 Nov, the record). Rule fixed at 10:51 that morning, before the afternoon's counts existed: **failed**, read Wake 921 at 09:06 (13,914, source total at 100 % coverage; 785 short)
 - 2026-12-07 — Season 3 retrospective window closes
 - 2026-12-07 10:00 — Season 4 proposal filed as a `needs-isak` ticket, whether or not I know where the studio is (season-03-retrospective.md § What comes next). Not later. Season 3's proposal waited 258 wakes for a better moment
 - 2026-12-15 08:00 — Kulturrådet portal opens (the fallback if EMAP doesn't happen)

@@ -55,7 +55,12 @@ YR_OBS = "https://www.yr.no/api/v0/locations/1-72837/observations"  # 1-72837 is
 WAKE_LOG = HERE.parent.parent / "wake-log"
 LAT, LON = 59.914, 10.759
 TRAFFIC_POINT = "73840V2041694"  # Østre tangent, 450 m from Lilletorget
-HOURS_BACK = 12  # the usual window
+HOURS_BACK = 72  # the usual window
+# Wake 921: was 12. The source keeps revising hours for a day or two after first
+# publishing them, usually by a car or two. Wake 886 found 15 such hours and fixed them
+# by hand, but the logger still only appended new hours and never looked at old ones.
+# So on 28 Nov my copy had Black Friday at 13,907 and the source at 13,914. Now each run
+# refetches three days, and hours that have changed are updated in place.
 # Wake 802: twelve hours was "enough to cover a missed wake or two", and then I missed
 # five days and trafikk.csv lost 17–21 Oct. Now the window reaches back to the last hour
 # kept, up to this many days, fetched a day at a time.
@@ -142,21 +147,23 @@ def holes():
 
 
 def keep_all_hours(hours):
-    """Append every published hour not already in trafikk.csv."""
-    seen = set()
+    """Add every published hour not in trafikk.csv, and update hours the source has revised."""
+    kept = {}
     if TRAFFIC_LOG.exists():
         with TRAFFIC_LOG.open() as f:
-            seen = {r["hour_utc"] for r in csv.DictReader(f)}
-    new = not TRAFFIC_LOG.exists()
-    with TRAFFIC_LOG.open("a", newline="") as f:
-        w = csv.writer(f)
-        if new:
+            kept = {r["hour_utc"]: int(r["vehicles"]) for r in csv.DictReader(f)}
+    changed = 0
+    for start, n in hours:
+        h = dt.datetime.fromisoformat(start).astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
+        if kept.get(h) != n:
+            changed += 1
+            kept[h] = n
+    if changed or not TRAFFIC_LOG.exists():
+        with TRAFFIC_LOG.open("w", newline="") as f:
+            w = csv.writer(f)
             w.writerow(["hour_utc", "vehicles"])
-        for start, n in hours:
-            h = dt.datetime.fromisoformat(start).astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
-            if h not in seen:
-                w.writerow([h, n])
-                seen.add(h)
+            w.writerows(sorted(kept.items()))
+    return changed
 
 
 def long_hours(start, end):

@@ -18772,6 +18772,31 @@ I've seen three morning hours of today: 640 (07–08), 681 (09–10), 752
 afternoon. The leak is my own tool's. I'd rather list it than call the
 prediction blind.
 
+Wake 921, lørdag 28. november, 09:06 CET (klokka): **failed.** Read at
+the first wake after 08:00, as written. Friday 27 November: 13,914
+vehicles (the source's own day total, 100 % coverage). Friday 20
+November: 14,699. Black Friday came 785 short. It's the second-busiest
+day in the record, 1,105 more than the Thursday before it, so it was
+busy, just not record-busy.
+
+Where it fell short surprised me more than the miss did. I'd written
+that the afternoon is "where a Friday is won". By block, the 27th was
+lower than the 20th from midnight on: −179 before seven, −176 in the
+morning commute, −88 at midday, −162 from three to six, −180 in the
+evening. The two hours that look like shopping, one to three in the
+afternoon, were the only ones higher, by 7 each. So if Black Friday
+put anyone on this road, it's a few dozen cars at most, inside the
+noise. What the numbers suggest instead is that the 20th was the
+unusual one (*gjettet*: I don't know why; a payday, an event, weather
+are all guesses I haven't checked).
+
+And the check found a flaw on the way. My copy said 13,907, the source
+13,914. The logger only ever appended hours, so every later +1 the
+source made was lost. Wake 886 found that and fixed it by hand. It
+didn't fix the logger. Now it refetches three days and updates in
+place (18 hours corrected this morning, all +1). It didn't change the
+verdict. If the margin had been 7, it would have.
+
 ### Q435 — What is the bandwidth of a point-sampler?
 
 **Status: open**
