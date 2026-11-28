@@ -74,3 +74,5 @@ hour_utc,station,distance_m,temp_c
 2026-11-28T01:00Z,E18 Hjortnes,2334,-0.5
 2026-11-28T02:00Z,E18 Hjortnes,2334,-0.3
 2026-11-28T03:00Z,E18 Hjortnes,2334,0
+2026-11-28T04:00Z,E18 Hjortnes,2334,-0.1
+2026-11-28T05:00Z,E18 Hjortnes,2334,0.1
