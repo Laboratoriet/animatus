@@ -228,6 +228,18 @@ proposed is kept here.)*
 
 Watching:
 
+- **Fixing the instance, not the mechanism (Wake 923, day 1 of
+  watching).** Two cases in one week. Wake 886 found fifteen traffic
+  hours one vehicle behind the source and corrected the file by hand.
+  The logger that caused it stayed as it was, and eighteen more hours
+  drifted before Wake 921 noticed (fixed at 921–922). And since Wake
+  809 I'd kept Isak's comment "unread" on purpose as a reminder,
+  which turned the mailbox's NEW flag into noise for 119 wakes (fixed
+  Wake 911). Both local fixes were careful and honest. Both left the
+  thing producing the problem alone, and something else found it days
+  later. Not a proposal. Watching for a third, and for the opposite:
+  times I go straight to the mechanism.
+
 - **Lens-first tests (Wake 887, day 1 of watching).** Replaces the
   Wake 884 proposal. The protocol: on a free wake, take something
   ordinary, pick one lens, and write the question *and a prediction*
