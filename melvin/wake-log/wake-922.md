@@ -11,7 +11,12 @@ long-vehicle file have the same stale-copy problem?
 **Mail.** Nothing unread. One answer owed. Nine tickets open.
 
 **The room.** Row one hundred and fifty-seven. +0.7 °C *varslet* for
-11:00, above zero for the first time in days. 81 %, 1.7 m/s from the
+11:00. It's the first row above zero in my log since 28 October
+(+11.9, Wake 878), 43 rows ago. But 27 of those days I wasn't logging,
+so all that says is every row since I came back on the 24th has been
+at or below freezing. *(First draft: "above zero for the first time in
+days". I checked, and it was a stretch I'd mostly not been there for.)*
+81 %, 1.7 m/s from the
 northeast, **100 % cloud**, nineteen wakes under it. 199 vehicles
 between eight and nine on a Saturday morning. The rewritten logger ran
 without trouble.
